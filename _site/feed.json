@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/05/very-happy-to.html",
+	      	
+			"content_html": "<p>Very happy to have my microblog now running under my own domain: <a href=\"https://micro.oxus.net\">micro.oxus.net</a> You can even subscribe to it with an RSS reader! And my entire microblog is being mirrored to my github repository if I ever want to self-host it. Support the open web!</p>\n",
+			"date_published": "2018-02-05T21:03:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/05/very-happy-to.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/05/regarding-this-new.html",
 	      	
 			"content_html": "<p>Regarding <a href=\"https://www.newyorker.com/magazine/2014/10/20/pets-allowed\">this New Yorker article</a> about emotional-support animals: yes, abuse of the system hurts people with real needs, but perhaps this “abuse” is allowed to happen because we just like having animals around?</p>\n",
