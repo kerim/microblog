@@ -1,0 +1,55 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# - markdown: kramdown
+
+# Navigation
+nav:
+  - # - name:           "About"
+    href:           "/about/"
+  - # - name:           "RSS"
+    href:           "/feed.xml"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+title: "Kerim Friedman"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/kerim\">@kerim on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/kerim\">@kerim on Micro.blog</a>."
+baseurl: ""
+url: "https://micro.oxus.net"
+markdown: "kramdown"
+username: "kerim"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Kerim Friedman"
+name: "Kerim Friedman"
+gravatar_hash: "3f733bd06413af380fcd122e4be08dc4"
+avatar: "https://micro.blog/kerim/avatar.jpg"
+full_name: "Kerim Friedman"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "Asia/Kolkata"
+site_id: "2872"
