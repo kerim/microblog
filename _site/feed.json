@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/06/the-bitter-truth.html",
+	      	
+			"content_html": "<p><a href=\"https://international.thenewslens.com/article/88742\">The Bitter Truth: Why Asia’s Tigers Suffer while the Nordics Thrive (Part 1)</a> (It’s the unions…) </p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e689c4d560.jpg\" width=\"235\" height=\"234\" /></p>\n",
+			"date_published": "2018-02-06T19:12:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/06/the-bitter-truth.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/06/what-is-a.html",
 	      	
 			"title": "What is a microblog, and why do you need one?",
@@ -77,14 +85,6 @@
 			"content_html": "<p>The problem with micro.blog and mastodon is that they are trying to do away with algorithmic timelines altogether; but the thing is that people actually <em>like</em> algorithmic timelines! What we need is a network with open source, transparent, user-configurable, algorithms!</p>\n",
 			"date_published": "2018-02-05T12:25:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/05/the-problem-with.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/05/this-story-highskilled.html",
-	      	
-			"content_html": "<p>This story, “<a href=\"https://www.washingtonpost.com/local/dc-politics/high-skilled-indian-workers-rally-for-trumps-merit-based-immigration-plan/2018/02/03/702e617e-08fd-11e8-8777-2a059f168dd2_story.html\">High-skilled Indian workers rally for Trump’s merit-based immigration plan</a>,” reminded me of the film <a href=\"https://en.wikipedia.org/wiki/Gentleman's_Agreement\">Gentleman’s Agreement</a> where Gregory Peck’s Jewish secretary is worried that ending workplace descrimination at his newspaper will lead to “the ‘wrong Jews’ [being] hired and will ruin things for the few Jews working there now.” </p>\n",
-			"date_published": "2018-02-05T10:47:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/05/this-story-highskilled.html"
 		}
 		
 	]
