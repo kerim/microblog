@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/06/someone-wrote-up.html",
+	      	
+			"content_html": "<p>Someone wrote up the conference I attended last year at the University of Nottingham in Ningbo: <a href=\"http://www.languageonthemove.com/debating-language-standardization/\">Language Standardization and Linguistic Variation in Asia from Sociolinguistic Perspectives</a></p>\n",
+			"date_published": "2018-02-06T09:53:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/06/someone-wrote-up.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/06/making-fun-of.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theatlantic.com/entertainment/archive/2018/02/trump-modi-india-south-asia-accent-apu/551696/\">Making Fun of How South Asians Talk: A History</a></p>\n",
