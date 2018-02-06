@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/06/the-arctic-is.html",
+	      	
+			"content_html": "<p><a href=\"http://www.washingtonpost.com/news/energy-environment/wp/2018/02/05/the-arctic-is-full-of-toxic-mercury-and-climate-change-is-going-to-release-it/\">The Arctic is full of toxic mercury, and climate change is going to release it</a> (We are doomed …)</p>\n",
+			"date_published": "2018-02-06T20:55:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/06/the-arctic-is.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/06/sonia-das-on.html",
 	      	
 			"content_html": "<p><a href=\"https://campanthropology.org/2018/02/05/sonia-das-linguistic-rivalries/\">Sonia Das on her new book, Linguistic Rivalries</a></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<blockquote>\n  <p>President Donald Trump…<a href=\"http://www.newsweek.com/trump-fire-and-fury-smart-genius-obama-774169\">communicates at the lowest grade level of the last 15 presidents</a>, according to a new analysis of the speech patterns of presidents going back to Herbert Hoover.</p>\n</blockquote>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/91496c9d00.jpg\" width=\"410\" height=\"409\" /></p>\n",
 			"date_published": "2018-02-06T07:20:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/06/president-donald-trumpcommunicates.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/05/very-happy-to.html",
-	      	
-			"content_html": "<p>Very happy to have my microblog now running under my own domain: <a href=\"https://micro.oxus.net\">micro.oxus.net</a> You can even subscribe to it with an RSS reader! And my entire microblog is being mirrored to my github repository if I ever want to self-host it. Support the open web!</p>\n",
-			"date_published": "2018-02-05T21:03:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/05/very-happy-to.html"
 		}
 		
 	]
