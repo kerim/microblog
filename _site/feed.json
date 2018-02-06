@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/06/why-asias-tigers.html",
+	      	
+			"content_html": "<p><a href=\"https://international.thenewslens.com/article/89122\">Why Asia’s Tigers Suffer while the Nordics Thrive (Part 2)</a> “Taiwan’s relative poverty rate is also low at 6.6 percent but this could be due to stagnant wages, which depress the median wage”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/2b590cda20.jpg\" width=\"235\" height=\"234\" /></p>\n",
+			"date_published": "2018-02-06T19:17:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/06/why-asias-tigers.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/06/the-bitter-truth.html",
 	      	
 			"content_html": "<p><a href=\"https://international.thenewslens.com/article/88742\">The Bitter Truth: Why Asia’s Tigers Suffer while the Nordics Thrive (Part 1)</a> (It’s the unions…) </p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e689c4d560.jpg\" width=\"235\" height=\"234\" /></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Regarding <a href=\"https://www.newyorker.com/magazine/2014/10/20/pets-allowed\">this New Yorker article</a> about emotional-support animals: yes, abuse of the system hurts people with real needs, but perhaps this “abuse” is allowed to happen because we just like having animals around?</p>\n",
 			"date_published": "2018-02-05T18:25:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/05/regarding-this-new.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/05/the-problem-with.html",
-	      	
-			"content_html": "<p>The problem with micro.blog and mastodon is that they are trying to do away with algorithmic timelines altogether; but the thing is that people actually <em>like</em> algorithmic timelines! What we need is a network with open source, transparent, user-configurable, algorithms!</p>\n",
-			"date_published": "2018-02-05T12:25:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/05/the-problem-with.html"
 		}
 		
 	]
