@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/07/we-are-safe.html",
+	      	
+			"content_html": "<p>We are safe in India, as are our friends (and dog) back home. But everyone is rattled because the constant aftershocks won’t let up. “<a href=\"https://www.taiwannews.com.tw/en/news/3358340\">2 dead, 173 missing after magnitude 6.0 quake strikes eastern Taiwan</a>”</p>\n",
+			"date_published": "2018-02-07T08:37:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/07/we-are-safe.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/06/the-arctic-is.html",
 	      	
 			"content_html": "<p><a href=\"http://www.washingtonpost.com/news/energy-environment/wp/2018/02/05/the-arctic-is-full-of-toxic-mercury-and-climate-change-is-going-to-release-it/\">The Arctic is full of toxic mercury, and climate change is going to release it</a> (We are doomed …)</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"https://www.theatlantic.com/entertainment/archive/2018/02/trump-modi-india-south-asia-accent-apu/551696/\">Making Fun of How South Asians Talk: A History</a></p>\n",
 			"date_published": "2018-02-06T09:24:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/06/making-fun-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/06/president-donald-trumpcommunicates.html",
-	      	
-			"content_html": "<blockquote>\n  <p>President Donald Trump…<a href=\"http://www.newsweek.com/trump-fire-and-fury-smart-genius-obama-774169\">communicates at the lowest grade level of the last 15 presidents</a>, according to a new analysis of the speech patterns of presidents going back to Herbert Hoover.</p>\n</blockquote>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/91496c9d00.jpg\" width=\"410\" height=\"409\" /></p>\n",
-			"date_published": "2018-02-06T07:20:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/06/president-donald-trumpcommunicates.html"
 		}
 		
 	]
