@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/07/the-contemporary-uninitiated.html",
+	      	
+			"title": "The contemporary, uninitiated reader perusing the main text of Leviathan is in for quite a surprise",
+			
+			"content_html": "<blockquote>\n  <p>this classic of political philosophy does not begin with a discussion of sovereignty, political laws, the concept of society or other issues contemporary political philosophers get excited about. Quite the contrary, Hobbes commences his work with the genesis and function of sense perception, a topic that contemporary philosophers of whatever denomination would not even dare to touch upon anymore, leaving it safely in the hands of the scientists.</p>\n</blockquote>\n\n<p>Leijenhorst, C. 2007. “Sense and Nonsense about Sense: Hobbes and the Aristotelians on Sense Perception and Imagination.” </p>\n",
+			"date_published": "2018-02-07T13:21:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/07/the-contemporary-uninitiated.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/07/after-hours-of.html",
 	      	
 			"content_html": "<p>After 14 hours of rescue efforts, 223 people have been rescued. 85 are still missing. 經過14小時搜救及連繫，救出223人，目前失聯人數只剩下85人. <a href=\"https://udn.com/news/story/11807/2972499\">Check here</a> for the latest news (in Chinese). </p>\n",
@@ -77,14 +87,6 @@
 			"content_html": "<p><a href=\"https://www.taiwannews.com.tw/en/news/3357470\">Hualien quakes sign that Taiwan has entered 100-year earthquake cycle</a></p>\n\n<blockquote>\n  <p>On Feb. 4, there were 28 earthquakes… 12 occurring in a single hour, the largest of which was a magnitude 5.8… with ten more earthquakes on Monday</p>\n</blockquote>\n",
 			"date_published": "2018-02-06T13:14:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/06/hualien-quakes-sign.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/06/conan-obrien-wasnt.html",
-	      	
-			"content_html": "<p><a href=\"http://afropunk.com/2018/02/conan-obrian-wasnt-ready-haitian-little-girls-anti-colonialism/\">Conan O’Brien wasn’t ready for this Haitian little girl’s anti-colonialism</a> (click through to watch the video)</p>\n\n",
-			"date_published": "2018-02-06T10:01:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/06/conan-obrien-wasnt.html"
 		}
 		
 	]
