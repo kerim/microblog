@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/07/after-hours-of.html",
+	      	
+			"content_html": "<p>After 14 hours of rescue efforts, 223 people have been rescued. 85 are still missing. 經過14小時搜救及連繫，救出223人，目前失聯人數只剩下85人. <a href=\"https://udn.com/news/story/11807/2972499\">Check here</a> for the latest news (in Chinese). </p>\n",
+			"date_published": "2018-02-07T11:58:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/07/after-hours-of.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/07/for-over-a.html",
 	      	
 			"content_html": "<p>For over a decade, I’ve been able to keep my T-mobile pre-paid number in the US active by topping up the card with cash each year at this time; but it <a href=\"https://www.prepaidphonenews.com/2014/08/good-news-bad-news-changes-coming-to-t.html\">seems that they started phasing out that program a few years ago</a>. As of today the system no longer recognizes my number! 🤬🤬🤬</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"http://afropunk.com/2018/02/conan-obrian-wasnt-ready-haitian-little-girls-anti-colonialism/\">Conan O’Brien wasn’t ready for this Haitian little girl’s anti-colonialism</a> (click through to watch the video)</p>\n\n",
 			"date_published": "2018-02-06T10:01:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/06/conan-obrien-wasnt.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/06/someone-wrote-up.html",
-	      	
-			"content_html": "<p>Someone wrote up the conference I attended last year at the University of Nottingham in Ningbo: <a href=\"http://www.languageonthemove.com/debating-language-standardization/\">Language Standardization and Linguistic Variation in Asia from Sociolinguistic Perspectives</a></p>\n",
-			"date_published": "2018-02-06T09:53:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/06/someone-wrote-up.html"
 		}
 		
 	]
