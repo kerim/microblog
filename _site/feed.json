@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/08/israeli-police-to.html",
+	      	
+			"content_html": "<p><a href=\"http://www.newsweek.com/israel-benjamin-netanyahu-indicted-media-reports-801069\">Israeli Police To Recommend Corruption Indictment Of Prime Minister Benjamin Netanyahu</a></p>\n",
+			"date_published": "2018-02-08T12:12:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/08/israeli-police-to.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/08/taiwan-earthquake-toll.html",
 	      	
 			"content_html": "<p><a href=\"https://mobile.nytimes.com/2018/02/07/world/asia/taiwan-earthquake-search-survivors.html\">Taiwan Earthquake Toll Rises to 9 Dead, With Dozens Missing</a></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>For over a decade, I’ve been able to keep my T-mobile pre-paid number in the US active by topping up the card with cash each year at this time; but it <a href=\"https://www.prepaidphonenews.com/2014/08/good-news-bad-news-changes-coming-to-t.html\">seems that they started phasing out that program a few years ago</a>. As of today the system no longer recognizes my number! 🤬🤬🤬</p>\n",
 			"date_published": "2018-02-07T11:26:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/07/for-over-a.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/07/we-are-safe.html",
-	      	
-			"content_html": "<p>We are safe in India, as are our friends (and dog) back home. But everyone is rattled because the constant aftershocks won’t let up. “<a href=\"https://www.taiwannews.com.tw/en/news/3358340\">2 dead, 173 missing after magnitude 6.0 quake strikes eastern Taiwan</a>”</p>\n",
-			"date_published": "2018-02-07T08:37:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/07/we-are-safe.html"
 		}
 		
 	]
