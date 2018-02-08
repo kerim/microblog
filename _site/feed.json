@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/08/taiwan-earthquake-toll.html",
+	      	
+			"content_html": "<p><a href=\"https://mobile.nytimes.com/2018/02/07/world/asia/taiwan-earthquake-search-survivors.html\">Taiwan Earthquake Toll Rises to 9 Dead, With Dozens Missing</a></p>\n",
+			"date_published": "2018-02-08T11:38:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/08/taiwan-earthquake-toll.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/07/why-it-might.html",
 	      	
 			"content_html": "<p><a href=\"http://theconversation.com/why-it-might-be-time-to-eradicate-sex-segregation-in-sports-89305\">Why it might be time to eradicate sex segregation in sports</a></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>We are safe in India, as are our friends (and dog) back home. But everyone is rattled because the constant aftershocks won’t let up. “<a href=\"https://www.taiwannews.com.tw/en/news/3358340\">2 dead, 173 missing after magnitude 6.0 quake strikes eastern Taiwan</a>”</p>\n",
 			"date_published": "2018-02-07T08:37:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/07/we-are-safe.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/06/the-arctic-is.html",
-	      	
-			"content_html": "<p><a href=\"http://www.washingtonpost.com/news/energy-environment/wp/2018/02/05/the-arctic-is-full-of-toxic-mercury-and-climate-change-is-going-to-release-it/\">The Arctic is full of toxic mercury, and climate change is going to release it</a> (We are doomed …)</p>\n",
-			"date_published": "2018-02-06T20:55:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/06/the-arctic-is.html"
 		}
 		
 	]
