@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/09/chinese-police-are.html",
+	      	
+			"content_html": "<p><a href=\"https://www.businessinsider.in/Chinese-police-are-using-facial-recognition-glasses-to-scan-travelers/articleshow/62829328.cms\">Chinese police are using facial-recognition glasses to scan travelers</a> ”China is also currently building a system that will recognize any of its 1.3 billion citizens in three seconds.”</p>\n",
+			"date_published": "2018-02-09T14:20:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/09/chinese-police-are.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/09/httpswwwcwcomtwarticlearticleactionid.html",
 	      	
 			"content_html": "<p>“<a href=\"https://www.cw.com.tw/article/article.action?id=5088150\">花蓮不但建築物普遍老舊，營建署在2014年所做的建築物公共安全檢查業務考核評比，花蓮縣也是居於22縣市最末位</a>”</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://mobile.nytimes.com/2018/02/07/world/asia/taiwan-earthquake-search-survivors.html\">Taiwan Earthquake Toll Rises to 9 Dead, With Dozens Missing</a></p>\n",
 			"date_published": "2018-02-08T11:38:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/08/taiwan-earthquake-toll.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/07/why-it-might.html",
-	      	
-			"content_html": "<p><a href=\"http://theconversation.com/why-it-might-be-time-to-eradicate-sex-segregation-in-sports-89305\">Why it might be time to eradicate sex segregation in sports</a></p>\n",
-			"date_published": "2018-02-07T22:18:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/07/why-it-might.html"
 		}
 		
 	]
