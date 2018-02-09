@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/09/why-do-poor.html",
+	      	
+			"content_html": "<p><a href=\"http://www.latimes.com/opinion/op-ed/la-oe-singh-food-deserts-nutritional-disparities-20180207-story.html\">Why do poor Americans eat so unhealthfully? Because junk food is the only indulgence they can afford</a> (Study looks at how poverty affects parenting.)</p>\n",
+			"date_published": "2018-02-09T11:14:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/09/why-do-poor.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/09/excellent-indepth-reporting.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit\">Excellent in-depth reporting on the historyof Sci-Hub and open access</a> #dendum</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://www.vox.com/policy-and-politics/2018/2/7/16851134/rabies-treament-expensive-emergency-room\">Why a simple, lifesaving rabies shot can cost $10,000 in America</a></p>\n",
 			"date_published": "2018-02-07T21:51:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/07/why-a-simple.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/07/despite-cuomo-action.html",
-	      	
-			"content_html": "<p><a href=\"http://www.villagevoice.com/2018/02/07/despite-cuomo-action-thousands-of-prisoners-still-denied-access-to-books/\">Despite Cuomo Action, Thousands of Prisoners Still Denied Access to Books</a></p>\n",
-			"date_published": "2018-02-07T21:42:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/07/despite-cuomo-action.html"
 		}
 		
 	]
