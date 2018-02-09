@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/09/excellent-indepth-reporting.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit\">Excellent in-depth reporting on the historyof Sci-Hub and open access</a> #dendum</p>\n",
+			"date_published": "2018-02-09T10:48:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/09/excellent-indepth-reporting.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/09/we-the-undersigned.html",
 	      	
 			"content_html": "<p><a href=\"http://www.scmp.com/comment/letters/article/2132576/clemency-china-would-send-out-right-message-advancing-tibetan\">We, the undersigned, academic specialists in the field of Tibetan Studies, call upon the concerned legal and political authorities in China to drop all charges against Tashi Wangchuk</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://www.villagevoice.com/2018/02/07/despite-cuomo-action-thousands-of-prisoners-still-denied-access-to-books/\">Despite Cuomo Action, Thousands of Prisoners Still Denied Access to Books</a></p>\n",
 			"date_published": "2018-02-07T21:42:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/07/despite-cuomo-action.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/07/taiwans-businesses-are.html",
-	      	
-			"content_html": "<p>Taiwan’s “<a href=\"https://international.thenewslens.com/amparticle/89127\">businesses are resistant to raising wages</a> for fear of losing profits… [but] because they do not want to increase wages… workers are not able to consume as much and thereby profits cannot be increased.”</p>\n",
-			"date_published": "2018-02-07T18:32:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/07/taiwans-businesses-are.html"
 		}
 		
 	]
