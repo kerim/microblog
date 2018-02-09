@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/09/we-the-undersigned.html",
+	      	
+			"content_html": "<p><a href=\"http://www.scmp.com/comment/letters/article/2132576/clemency-china-would-send-out-right-message-advancing-tibetan\">We, the undersigned, academic specialists in the field of Tibetan Studies, call upon the concerned legal and political authorities in China to drop all charges against Tashi Wangchuk</a></p>\n",
+			"date_published": "2018-02-09T10:04:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/09/we-the-undersigned.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/09/failing-health-of.html",
 	      	
 			"content_html": "<p><a href=\"http://www.bmj.com/content/360/bmj.k496\">Failing health of the United States</a> “the opioid epidemic is the tip of an iceberg, part of an even larger public health crisis in the US: death rates from alcohol abuse and suicides have also been rising.”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/ad325f0007.jpg\" width=\"600\" height=\"398\" /></p>\n",
@@ -75,16 +83,6 @@
 			"content_html": "<p>Taiwan’s “<a href=\"https://international.thenewslens.com/amparticle/89127\">businesses are resistant to raising wages</a> for fear of losing profits… [but] because they do not want to increase wages… workers are not able to consume as much and thereby profits cannot be increased.”</p>\n",
 			"date_published": "2018-02-07T18:32:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/07/taiwans-businesses-are.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/07/the-contemporary-uninitiated.html",
-	      	
-			"title": "The contemporary, uninitiated reader perusing the main text of Leviathan is in for quite a surprise",
-			
-			"content_html": "<blockquote>\n  <p>this classic of political philosophy does not begin with a discussion of sovereignty, political laws, the concept of society or other issues contemporary political philosophers get excited about. Quite the contrary, Hobbes commences his work with the genesis and function of sense perception, a topic that contemporary philosophers of whatever denomination would not even dare to touch upon anymore, leaving it safely in the hands of the scientists.</p>\n</blockquote>\n\n<p>Leijenhorst, C. 2007. “Sense and Nonsense about Sense: Hobbes and the Aristotelians on Sense Perception and Imagination.” </p>\n",
-			"date_published": "2018-02-07T13:21:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/07/the-contemporary-uninitiated.html"
 		}
 		
 	]
