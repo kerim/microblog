@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/09/why-iranians-are.html",
+	      	
+			"content_html": "<p><a href=\"https://www.juancole.com/2018/02/iranians-protesting-compulsory.html\">Why Iranians are Really protesting Compulsory Veiling Laws</a></p>\n",
+			"date_published": "2018-02-10T00:09:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/10/why-iranians-are.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/09/singapores-socioeconomic-structure.html",
 	      	
 			"content_html": "<p>“Singapore’s socio-economic structure embodies many of the fundamentalist views on eugenics expressed by Singapore’s first prime minister Lee Kuan Yew” <a href=\"https://international.thenewslens.com/article/89516\">The Bitter Truth: Why Asia’s Tigers Suffer while the Nordics Thrive (Part 5)</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://www.bmj.com/content/360/bmj.k496\">Failing health of the United States</a> “the opioid epidemic is the tip of an iceberg, part of an even larger public health crisis in the US: death rates from alcohol abuse and suicides have also been rising.”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/ad325f0007.jpg\" width=\"600\" height=\"398\" /></p>\n",
 			"date_published": "2018-02-09T08:49:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/09/failing-health-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/09/pure-evil-trumps.html",
-	      	
-			"content_html": "<p>(Pure evil) <a href=\"https://www.vox.com/2018/2/8/16993172/trump-regulation-immigrants-benefits-public-charge\">Trump’s draft plan to punish legal immigrants for sending US-born kids to Head Start</a></p>\n",
-			"date_published": "2018-02-09T08:46:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/09/pure-evil-trumps.html"
 		}
 		
 	]
