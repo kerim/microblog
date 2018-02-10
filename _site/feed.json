@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/10/bookseller-gui-minhai.html",
+	      	
+			"content_html": "<p><a href=\"http://www.theguardian.com/world/2018/feb/10/bookseller-gui-minhai-surfaces-in-chinese-custody-to-deliver-staged-confession\">Bookseller Gui Minhai surfaces in Chinese custody to deliver staged confession</a> (Gui is a Swedish citizen. Imagine how the world would be reacting if he was blond with blue eyes?)</p>\n",
+			"date_published": "2018-02-10T11:25:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/10/bookseller-gui-minhai.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/10/facial-recognition-is.html",
 	      	
 			"content_html": "<p><a href=\"http://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html\">Facial Recognition Is Accurate, if You’re a White Guy</a> ”Part of the challenge, scientists say, is that there is so little diversity within the A.I. community.” #dendum</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit\">Excellent in-depth reporting on the historyof Sci-Hub and open access</a> #dendum</p>\n",
 			"date_published": "2018-02-09T10:48:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/09/excellent-indepth-reporting.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/09/we-the-undersigned.html",
-	      	
-			"content_html": "<p><a href=\"http://www.scmp.com/comment/letters/article/2132576/clemency-china-would-send-out-right-message-advancing-tibetan\">We, the undersigned, academic specialists in the field of Tibetan Studies, call upon the concerned legal and political authorities in China to drop all charges against Tashi Wangchuk</a></p>\n",
-			"date_published": "2018-02-09T10:04:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/09/we-the-undersigned.html"
 		}
 		
 	]
