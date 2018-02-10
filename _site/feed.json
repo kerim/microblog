@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/10/facial-recognition-is.html",
+	      	
+			"content_html": "<p><a href=\"http://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html\">Facial Recognition Is Accurate, if You’re a White Guy</a> ”Part of the challenge, scientists say, is that there is so little diversity within the A.I. community.” #dendum</p>\n",
+			"date_published": "2018-02-10T11:12:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/10/facial-recognition-is.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/09/why-iranians-are.html",
 	      	
 			"content_html": "<p><a href=\"https://www.juancole.com/2018/02/iranians-protesting-compulsory.html\">Why Iranians are Really protesting Compulsory Veiling Laws</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://www.scmp.com/comment/letters/article/2132576/clemency-china-would-send-out-right-message-advancing-tibetan\">We, the undersigned, academic specialists in the field of Tibetan Studies, call upon the concerned legal and political authorities in China to drop all charges against Tashi Wangchuk</a></p>\n",
 			"date_published": "2018-02-09T10:04:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/09/we-the-undersigned.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/09/failing-health-of.html",
-	      	
-			"content_html": "<p><a href=\"http://www.bmj.com/content/360/bmj.k496\">Failing health of the United States</a> “the opioid epidemic is the tip of an iceberg, part of an even larger public health crisis in the US: death rates from alcohol abuse and suicides have also been rising.”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/ad325f0007.jpg\" width=\"600\" height=\"398\" /></p>\n",
-			"date_published": "2018-02-09T08:49:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/09/failing-health-of.html"
 		}
 		
 	]
