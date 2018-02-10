@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/10/the-return-of.html",
+	      	
+			"content_html": "<p><a href=\"http://apjjf.org/2017/13/Fiskesjo.html\">The Return of the Show Trial: China’s Televised “Confessions”</a> “This article investigates the recent wave of staged confessions in China in historical perspective.”</p>\n",
+			"date_published": "2018-02-10T17:40:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/10/the-return-of.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/10/indigenous-land-acknowledgement.html",
 	      	
 			"content_html": "<p><a href=\"https://www.teenvogue.com/story/indigenous-land-acknowledgement-explained\">Indigenous Land Acknowledgement, Explained</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Doug Henwood: <a href=\"https://lbo-news.com/2018/02/08/about-that-stock-panic/\">About that stock panic</a> (Convincing argument that stocks are still highly overvalued.)</p>\n",
 			"date_published": "2018-02-09T11:28:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/09/doug-henwood-about.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/09/why-do-poor.html",
-	      	
-			"content_html": "<p><a href=\"http://www.latimes.com/opinion/op-ed/la-oe-singh-food-deserts-nutritional-disparities-20180207-story.html\">Why do poor Americans eat so unhealthfully? Because junk food is the only indulgence they can afford</a> (Study looks at how poverty affects parenting.)</p>\n",
-			"date_published": "2018-02-09T11:14:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/09/why-do-poor.html"
 		}
 		
 	]
