@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/10/indigenous-land-acknowledgement.html",
+	      	
+			"content_html": "<p><a href=\"https://www.teenvogue.com/story/indigenous-land-acknowledgement-explained\">Indigenous Land Acknowledgement, Explained</a></p>\n",
+			"date_published": "2018-02-10T12:11:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/10/indigenous-land-acknowledgement.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/10/bookseller-gui-minhai.html",
 	      	
 			"content_html": "<p><a href=\"http://www.theguardian.com/world/2018/feb/10/bookseller-gui-minhai-surfaces-in-chinese-custody-to-deliver-staged-confession\">Bookseller Gui Minhai surfaces in Chinese custody to deliver staged confession</a> (Gui is a Swedish citizen. Imagine how the world would be reacting if he was blonde with blue eyes?)</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://www.latimes.com/opinion/op-ed/la-oe-singh-food-deserts-nutritional-disparities-20180207-story.html\">Why do poor Americans eat so unhealthfully? Because junk food is the only indulgence they can afford</a> (Study looks at how poverty affects parenting.)</p>\n",
 			"date_published": "2018-02-09T11:14:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/09/why-do-poor.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/09/excellent-indepth-reporting.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit\">Excellent in-depth reporting on the historyof Sci-Hub and open access</a> #dendum</p>\n",
-			"date_published": "2018-02-09T10:48:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/09/excellent-indepth-reporting.html"
 		}
 		
 	]
