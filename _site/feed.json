@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/11/swedish-bookseller-gui.html",
+	      	
+			"content_html": "<p><a href=\"https://edition.cnn.com/2018/01/25/opinions/gui-minhai-china-caster-intl/index.html\">Swedish bookseller Gui Minhai’s disappearance in China is just the tip of the iceberg</a></p>\n",
+			"date_published": "2018-02-11T21:08:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/11/swedish-bookseller-gui.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/11/our-reluctance-to.html",
 	      	
 			"content_html": "<p><a href=\"https://www.rollingstone.com/politics/features/why-aerosols-are-a-deadly-climate-change-threat-w516504\">Our reluctance to reduce carbon emissions fast enough makes the two goals of eliminating air pollution and limiting global warming mutually exclusive. </a> (Wait, what? Is this true? 😱😱😱)</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://www.juancole.com/2018/02/iranians-protesting-compulsory.html\">Why Iranians are Really protesting Compulsory Veiling Laws</a></p>\n",
 			"date_published": "2018-02-10T00:09:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/10/why-iranians-are.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/09/singapores-socioeconomic-structure.html",
-	      	
-			"content_html": "<p>“Singapore’s socio-economic structure embodies many of the fundamentalist views on eugenics expressed by Singapore’s first prime minister Lee Kuan Yew” <a href=\"https://international.thenewslens.com/article/89516\">The Bitter Truth: Why Asia’s Tigers Suffer while the Nordics Thrive (Part 5)</a></p>\n",
-			"date_published": "2018-02-09T20:34:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/09/singapores-socioeconomic-structure.html"
 		}
 		
 	]
