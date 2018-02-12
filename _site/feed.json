@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/12/a-black-man.html",
+	      	
+			"content_html": "<p><a href=\"https://www.thenation.com/article/a-black-man-brought-3-forms-of-id-to-the-polls-in-wisconsin-he-still-couldnt-vote/\">A Black Man Brought 3 Forms of ID to the Polls in Wisconsin. He Still Couldn’t Vote.</a> 😡😡😡</p>\n",
+			"date_published": "2018-02-12T20:42:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/12/a-black-man.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/12/httpswwwbannedbookorgforumtopichtml-steven-lee.html",
 	      	
 			"content_html": "<p><a href=\"https://www.bannedbook.org/forum2/topic6186.html\">《失踪人民共和国》 来自中国强迫失踪体系的故事</a> “这些叙述代表了成百上千名被剥夺了中国宪法表面上赋予他们的法定权利者的经历” “讲述者谈到了身心遭受的虐待、殴打、剥夺睡眠、羞辱、隔离和对亲人的威胁” -Steven Lee Meyer, 纽约时报书评 </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://www.theguardian.com/world/2018/feb/10/bookseller-gui-minhai-surfaces-in-chinese-custody-to-deliver-staged-confession\">Bookseller Gui Minhai surfaces in Chinese custody to deliver staged confession</a> (Gui is a Swedish citizen. Imagine how the world would be reacting if he was blonde with blue eyes?)</p>\n",
 			"date_published": "2018-02-10T11:25:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/10/bookseller-gui-minhai.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/10/facial-recognition-is.html",
-	      	
-			"content_html": "<p><a href=\"http://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html\">Facial Recognition Is Accurate, if You’re a White Guy</a> ”Part of the challenge, scientists say, is that there is so little diversity within the A.I. community.” #dendum</p>\n",
-			"date_published": "2018-02-10T11:12:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/10/facial-recognition-is.html"
 		}
 		
 	]
