@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/13/china-uses-race.html",
+	      	
+			"content_html": "<p><a href=\"http://smh.com.au/world/china-uses-race-to-unite-and-divide-20180212-p4z00c.html\">China uses race to unite and divide</a></p>\n",
+			"date_published": "2018-02-13T19:10:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/13/china-uses-race.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/12/a-black-man.html",
 	      	
 			"content_html": "<p><a href=\"https://www.thenation.com/article/a-black-man-brought-3-forms-of-id-to-the-polls-in-wisconsin-he-still-couldnt-vote/\">A Black Man Brought 3 Forms of ID to the Polls in Wisconsin. He Still Couldn’t Vote.</a> 😡😡😡</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://www.teenvogue.com/story/indigenous-land-acknowledgement-explained\">Indigenous Land Acknowledgement, Explained</a></p>\n",
 			"date_published": "2018-02-10T12:11:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/10/indigenous-land-acknowledgement.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/10/bookseller-gui-minhai.html",
-	      	
-			"content_html": "<p><a href=\"http://www.theguardian.com/world/2018/feb/10/bookseller-gui-minhai-surfaces-in-chinese-custody-to-deliver-staged-confession\">Bookseller Gui Minhai surfaces in Chinese custody to deliver staged confession</a> (Gui is a Swedish citizen. Imagine how the world would be reacting if he was blonde with blue eyes?)</p>\n",
-			"date_published": "2018-02-10T11:25:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/10/bookseller-gui-minhai.html"
 		}
 		
 	]
