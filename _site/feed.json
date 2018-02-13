@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/13/the-stock-market.html",
+	      	
+			"content_html": "<p><a href=\"https://theintercept.com/2018/02/08/stock-market-crash-jobs-report-wages/\">The Stock Market Swings Tell You Everything You Need to Know About Our Rigged Economy</a></p>\n",
+			"date_published": "2018-02-13T19:16:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/13/the-stock-market.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/13/china-uses-race.html",
 	      	
 			"content_html": "<p><a href=\"http://smh.com.au/world/china-uses-race-to-unite-and-divide-20180212-p4z00c.html\">China uses race to unite and divide</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://apjjf.org/2017/13/Fiskesjo.html\">The Return of the Show Trial: China’s Televised “Confessions”</a> “This article investigates the recent wave of staged confessions in China in historical perspective.”</p>\n",
 			"date_published": "2018-02-10T17:40:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/10/the-return-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/10/indigenous-land-acknowledgement.html",
-	      	
-			"content_html": "<p><a href=\"https://www.teenvogue.com/story/indigenous-land-acknowledgement-explained\">Indigenous Land Acknowledgement, Explained</a></p>\n",
-			"date_published": "2018-02-10T12:11:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/10/indigenous-land-acknowledgement.html"
 		}
 		
 	]
