@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/15/initially-british-tastes.html",
+	      	
+			"content_html": "<p><a href=\"http://aldai.ly/2F191Ts\">initially, British tastes found Indian tea too bitter and strong. Tea manufacturers, therefore, blended tea from India…with the familiar Chinese leaf &amp; advertisers denigrated Chinese tea as unhealthy, while promoting ‘Empire tea’ as purer, cleaner and more patriotic to boot</a></p>\n",
+			"date_published": "2018-02-15T08:43:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/15/initially-british-tastes.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/15/the-story-behind.html",
 	      	
 			"content_html": "<p><a href=\"https://arstechnica.com/?p=1259541\">The story behind the satellite that Trump wants dead</a> (Hint: it has to do with climate science.)</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://medium.com/@Boringstein/a-style-guide-for-writing-about-the-rich-11d3c6c9ca19\">A style guide for writing about the rich</a></p>\n",
 			"date_published": "2018-02-11T17:35:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/11/a-style-guide.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/11/i-am-the.html",
-	      	
-			"content_html": "<p>“<a href=\"https://slate.com/culture/2018/02/i-am-the-very-model-of-a-new-york-times-contrarian.html\">I am the very model of a New York Times contrarian.</a>\nMy intellect is polished but my soul’s authoritarian…”</p>\n",
-			"date_published": "2018-02-11T10:18:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/11/i-am-the.html"
 		}
 		
 	]
