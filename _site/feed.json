@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/17/so-a-reasonable.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.lawfareblog.com/russian-influence-campaign-whats-latest-mueller-indictment\">So a reasonable person might wonder, reading the indictment, whether the beginning of the operation was a retaliation for perceived U.S. meddling in Ukraine.</a>”</p>\n",
+			"date_published": "2018-02-18T00:44:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/18/so-a-reasonable.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/17/180629.html",
 	      	
 			"content_html": "<p><a href=\"https://m.youtube.com/watch?v=1oMv4uIVNIs\">L’amorosa Menzogna</a> 1949 Antonioni film about photo novellas</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://theintercept.com/2018/02/08/stock-market-crash-jobs-report-wages/\">The Stock Market Swings Tell You Everything You Need to Know About Our Rigged Economy</a></p>\n",
 			"date_published": "2018-02-13T19:16:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/13/the-stock-market.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/13/china-uses-race.html",
-	      	
-			"content_html": "<p><a href=\"http://smh.com.au/world/china-uses-race-to-unite-and-divide-20180212-p4z00c.html\">China uses race to unite and divide</a></p>\n",
-			"date_published": "2018-02-13T19:10:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/13/china-uses-race.html"
 		}
 		
 	]
