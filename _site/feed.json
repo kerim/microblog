@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/18/ishi-hiroyuki-examines.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nippon.com/en/features/c03910/\">Ishi Hiroyuki examines Japanese attitudes towards animals and the historical origins of those attitudes.</a> </p>\n",
+			"date_published": "2018-02-18T20:32:00+01:00",
+			"url": "https://micro.oxus.net/2018/02/18/ishi-hiroyuki-examines.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/18/response-to-mary.html",
 	      	
 			"content_html": "<p><a href=\"https://medium.com/@zen.catgirl/response-to-mary-beard-91a6cf2f53b6\">Response to Mary Beard – Priyamvada Gopal</a> “genteel and patrician casual racism passing as frank and well-meaning observations”</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://www.focaalblog.com/2018/02/16/david-graeber-manufactured-ignorance/\">David Graeber: Manufactured ignorance: The strange case of Juan Cole and the Kurdish Freedom Movement, and the International Liberal Intelligentsia</a></p>\n",
 			"date_published": "2018-02-17T08:18:00+01:00",
 			"url": "https://micro.oxus.net/2018/02/17/david-graeber-manufactured.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/17/marriage-equality-in.html",
-	      	
-			"content_html": "<p><a href=\"http://www.ketagalanmedia.com/2018/02/15/marriage-equality-taiwan-time-re-engage-public/?utm_content=buffere2b60&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer\">Marriage Equality in Taiwan: Time to Re-engage the Public</a> (I’m worried that this is just a test case for many more battles to come, and that Taiwanese progressives are unprepared to take on tea party style right wing political movements…)</p>\n",
-			"date_published": "2018-02-17T08:07:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/17/marriage-equality-in.html"
 		}
 		
 	]
