@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/18/response-to-mary.html",
+	      	
+			"content_html": "<p><a href=\"[medium.com](https://medium.com/)[@zen](https://micro.blog/zen).catgirl/response-to-mary-beard-91a6cf2f53b6\">Response to Mary Beard – Priyamvada Gopal</a> “genteel and patrician casual racism passing as frank and well-meaning observations”</p>\n",
+			"date_published": "2018-02-18T16:37:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/18/response-to-mary.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/18/what-happened-when.html",
 	      	
 			"content_html": "<p><a href=\"https://www.haaretz.com/amp/opinion/.premium-what-happened-when-a-jewish-settler-slapped-an-israeli-soldier-1.5630408?__twitter_impression=true\">What happened when a Jewish settler slapped an Israeli soldier - Haaretz.com</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://www.ketagalanmedia.com/2018/02/15/marriage-equality-taiwan-time-re-engage-public/?utm_content=buffere2b60&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer\">Marriage Equality in Taiwan: Time to Re-engage the Public</a> (I’m worried that this is just a test case for many more battles to come, and that Taiwanese progressives are unprepared to take on tea party style right wing political movements…)</p>\n",
 			"date_published": "2018-02-17T12:37:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/17/marriage-equality-in.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/15/the-cost-of.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/02/06/magazine/the-cost-of-being-savage-in-a-supposedly-civilized-world.html\">The Cost of Being ‘Savage’ in a Supposedly Civilized World</a> #dendum</p>\n",
-			"date_published": "2018-02-15T14:34:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/15/the-cost-of.html"
 		}
 		
 	]
