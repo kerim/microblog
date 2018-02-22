@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/22/103726.html",
+	      	
+			"content_html": "<p><a href=\"https://anthrodendum.org/2018/02/22/lazy-powerpoint-working-with-text-4/\">Lazy PowerPoint</a> In which ”I show you the quickest, laziest, way to turn a text file into a presentation”! (The latest blog post in my ongoing series on working with text files.)</p>\n",
+			"date_published": "2018-02-22T11:37:00+01:00",
+			"url": "https://micro.oxus.net/2018/02/22/103726.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/21/draft-report-on.html",
 	      	
 			"content_html": "<p><a href=\"https://dx.doi.org/10.17605/OSF.IO/SJNBK\">Draft Report on Tibet’s Linguistic Minorities</a> by Gerald Roche “The survey aimed to assess the vitality of approximately 30 languages spoken by Tibetans in China.”</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://edition.cnn.com/2018/01/25/opinions/gui-minhai-china-caster-intl/index.html\">Swedish bookseller Gui Minhai’s disappearance in China is just the tip of the iceberg</a></p>\n",
 			"date_published": "2018-02-11T16:38:00+01:00",
 			"url": "https://micro.oxus.net/2018/02/11/swedish-bookseller-gui.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/11/our-reluctance-to.html",
-	      	
-			"content_html": "<p><a href=\"https://www.rollingstone.com/politics/features/why-aerosols-are-a-deadly-climate-change-threat-w516504\">Our reluctance to reduce carbon emissions fast enough makes the two goals of eliminating air pollution and limiting global warming mutually exclusive. </a> (Wait, what? Is this true? 😱😱😱)</p>\n",
-			"date_published": "2018-02-11T13:10:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/11/our-reluctance-to.html"
 		}
 		
 	]
