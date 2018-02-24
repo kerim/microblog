@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/24/bill-gates-partners.html",
+	      	
+			"content_html": "<p>Bill Gates partners with the China National Nuclear Corporation to build a <a href=\"http://www.smh.com.au/business/energy/bill-gates-and-china-partner-on-worldfirst-nuclear-technology-20171106-gzfrf0.html\">Travelling Wave Reactor</a>. Can use depleted uranium as fuel and creates less waste than traditional reactor designs. </p>\n",
+			"date_published": "2018-02-24T15:06:00+01:00",
+			"url": "https://micro.oxus.net/2018/02/24/bill-gates-partners.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/24/facebook-is-automatically.html",
 	      	
 			"content_html": "<p>Facebook is automatically marking all my micro.blog posts as SPAM. This happening to anyone else?</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://aldai.ly/2F191Ts\">initially, British tastes found Indian tea too bitter and strong. Tea manufacturers, therefore, blended tea from India…with the familiar Chinese leaf &amp; advertisers denigrated Chinese tea as unhealthy, while promoting ‘Empire tea’ as purer, cleaner and more patriotic to boot</a></p>\n",
 			"date_published": "2018-02-15T04:13:00+01:00",
 			"url": "https://micro.oxus.net/2018/02/15/initially-british-tastes.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/15/the-story-behind.html",
-	      	
-			"content_html": "<p><a href=\"https://arstechnica.com/?p=1259541\">The story behind the satellite that Trump wants dead</a> (Hint: it has to do with climate science.)</p>\n",
-			"date_published": "2018-02-15T04:08:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/15/the-story-behind.html"
 		}
 		
 	]
