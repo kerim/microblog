@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/24/how-trump-conquered.html",
+	      	
+			"content_html": "<p><a href=\"https://www.wired.com/story/how-trump-conquered-facebookwithout-russian-ads/\">How Trump Conquered Facebook Without Russian Ads</a> “The only surprise is how surprising it can still seem to many.” </p>\n",
+			"date_published": "2018-02-24T13:39:00+01:00",
+			"url": "https://micro.oxus.net/2018/02/24/how-trump-conquered.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/24/if-no-action.html",
 	      	
 			"content_html": "<p>“<a href=\"https://heconvention2.wordpress.com/2018/02/08/made-in-westminster/\">if no action were taken, USS would be able to pay its pensioners well into the future without even touching its assets.</a>” (Fake crisis…) #dendum</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.haaretz.com/israel-news/justice-minister-israel-s-jewish-majority-trumps-than-human-rights-1.5811106\">Justice minister: Israel must keep Jewish majority even at the expense of human rights - Haaretz</a></p>\n",
 			"date_published": "2018-02-13T16:00:00+01:00",
 			"url": "https://micro.oxus.net/2018/02/13/justice-minister-israel.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/13/the-stock-market.html",
-	      	
-			"content_html": "<p><a href=\"https://theintercept.com/2018/02/08/stock-market-crash-jobs-report-wages/\">The Stock Market Swings Tell You Everything You Need to Know About Our Rigged Economy</a></p>\n",
-			"date_published": "2018-02-13T14:46:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/13/the-stock-market.html"
 		}
 		
 	]
