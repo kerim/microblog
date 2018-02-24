@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/24/i-really-have.html",
+	      	
+			"content_html": "<p>I really have to see Black Panther soon, my “spoilers” tag in Pocket (of stuff I can’t read until I’ve seen the movie or TV show) is getting a bit too long… </p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/c15b699fd4.jpg\" width=\"600\" height=\"418\" /></p>\n",
+			"date_published": "2018-02-24T20:04:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/24/i-really-have.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/24/bill-gates-partners.html",
 	      	
 			"content_html": "<p>Bill Gates partners with the China National Nuclear Corporation to build a <a href=\"http://www.smh.com.au/business/energy/bill-gates-and-china-partner-on-worldfirst-nuclear-technology-20171106-gzfrf0.html\">Travelling Wave Reactor</a>. Can use depleted uranium as fuel and creates less waste than traditional reactor designs. </p>\n",
-			"date_published": "2018-02-24T15:06:00+01:00",
+			"date_published": "2018-02-24T19:36:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/24/bill-gates-partners.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://kerim.micro.blog/2018/02/24/facebook-is-automatically.html",
 	      	
 			"content_html": "<p>Facebook is automatically marking all my micro.blog posts as SPAM. This happening to anyone else?</p>\n",
-			"date_published": "2018-02-24T13:44:00+01:00",
+			"date_published": "2018-02-24T18:14:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/24/facebook-is-automatically.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://kerim.micro.blog/2018/02/24/how-trump-conquered.html",
 	      	
 			"content_html": "<p><a href=\"https://www.wired.com/story/how-trump-conquered-facebookwithout-russian-ads/\">How Trump Conquered Facebook Without Russian Ads</a> “The only surprise is how surprising it can still seem to many.” </p>\n",
-			"date_published": "2018-02-24T13:39:00+01:00",
+			"date_published": "2018-02-24T18:09:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/24/how-trump-conquered.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://kerim.micro.blog/2018/02/24/if-no-action.html",
 	      	
 			"content_html": "<p>“<a href=\"https://heconvention2.wordpress.com/2018/02/08/made-in-westminster/\">if no action were taken, USS would be able to pay its pensioners well into the future without even touching its assets.</a>” (Fake crisis…) #dendum</p>\n",
-			"date_published": "2018-02-24T13:31:00+01:00",
+			"date_published": "2018-02-24T18:01:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/24/if-no-action.html"
 		},
 		
@@ -41,7 +49,7 @@
 			"id": "http://kerim.micro.blog/2018/02/24/stuck-in-an.html",
 	      	
 			"content_html": "<p>Stuck in an airport hotel, feeling jet lagged, so I watched episode one of The Orville. Typical bland, unfunny, American sitcom. Also derivative of the much cleverer <a href=\"https://shareotherspace.tumblr.com/\">Other Space</a> (except it’s his sister, not his ex wife, who is first officer).</p>\n",
-			"date_published": "2018-02-24T10:14:00+01:00",
+			"date_published": "2018-02-24T14:44:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/24/stuck-in-an.html"
 		},
 		
@@ -49,7 +57,7 @@
 			"id": "http://kerim.micro.blog/2018/02/24/the-enlightenment-of.html",
 	      	
 			"content_html": "<p><a href=\"http://www.abc.net.au/religion/articles/2018/02/20/4806696.htm\">The Enlightenment of Steven Pinker</a> On “reason”: “Kant, whom Pinker rightly regards as emblematic of the Enlightenment, is the <em>Critique of Pure Reason</em>. The clue is in the title.” #dendum</p>\n",
-			"date_published": "2018-02-24T07:55:00+01:00",
+			"date_published": "2018-02-24T12:25:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/24/the-enlightenment-of.html"
 		},
 		
@@ -57,15 +65,15 @@
 			"id": "http://kerim.micro.blog/2018/02/22/aaa-pushes-for.html",
 	      	
 			"content_html": "<p><a href=\"http://www.americananthro.org/ParticipateAndAdvocate/AdvocacyDetail.aspx?ItemNumber=22467\">AAA Pushes for Comprehensive Evidence-Based Approach to Prevent Gun Violence</a> “To truly understand gun violence in America, we need to lift restrictions that prevent the CDC from studying the topic” #dendum </p>\n",
-			"date_published": "2018-02-22T21:39:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/22/aaa-pushes-for.html"
+			"date_published": "2018-02-23T02:09:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/23/aaa-pushes-for.html"
 		},
 		
 		{
 			"id": "http://kerim.micro.blog/2018/02/22/103726.html",
 	      	
 			"content_html": "<p><a href=\"https://anthrodendum.org/2018/02/22/lazy-powerpoint-working-with-text-4/\">Lazy PowerPoint</a> In which ”I show you the quickest, laziest, way to turn a text file into a presentation”! (The latest blog post in my ongoing series on working with text files.)</p>\n",
-			"date_published": "2018-02-22T11:37:00+01:00",
+			"date_published": "2018-02-22T16:07:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/22/103726.html"
 		},
 		
@@ -73,7 +81,7 @@
 			"id": "http://kerim.micro.blog/2018/02/21/draft-report-on.html",
 	      	
 			"content_html": "<p><a href=\"https://dx.doi.org/10.17605/OSF.IO/SJNBK\">Draft Report on Tibet’s Linguistic Minorities</a> by Gerald Roche “The survey aimed to assess the vitality of approximately 30 languages spoken by Tibetans in China.”</p>\n",
-			"date_published": "2018-02-21T15:04:00+01:00",
+			"date_published": "2018-02-21T19:34:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/21/draft-report-on.html"
 		},
 		
@@ -81,23 +89,23 @@
 			"id": "http://kerim.micro.blog/2018/02/20/fifty-shades-and.html",
 	      	
 			"content_html": "<p><a href=\"http://theweek.com/articles/754626/fifty-shades-secret-compromises-women\">Fifty Shades and the secret compromises of women</a></p>\n",
-			"date_published": "2018-02-20T19:58:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/20/fifty-shades-and.html"
+			"date_published": "2018-02-21T00:28:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/21/fifty-shades-and.html"
 		},
 		
 		{
 			"id": "http://kerim.micro.blog/2018/02/19/191144.html",
 	      	
 			"content_html": "<p><a href=\"https://news.nationalgeographic.com/2018/02/sheep-human-hybrids-chimeras-crispr-organ-transplant-health-science/\">Wake up 0.01% sheeple!!!</a></p>\n",
-			"date_published": "2018-02-19T20:11:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/19/191144.html"
+			"date_published": "2018-02-20T00:41:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/20/191144.html"
 		},
 		
 		{
 			"id": "http://kerim.micro.blog/2018/02/19/metoo-in-china.html",
 	      	
 			"content_html": "<p><a href=\"http://elephant-room.com/2018/02/13/metoo/\">#MeToo in China: the Story Beyond Censorship</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/9f60b32ede.jpg\" width=\"600\" height=\"333\" /></p>\n",
-			"date_published": "2018-02-19T09:59:00+01:00",
+			"date_published": "2018-02-19T14:29:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/19/metoo-in-china.html"
 		},
 		
@@ -105,15 +113,15 @@
 			"id": "http://kerim.micro.blog/2018/02/18/ishi-hiroyuki-examines.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nippon.com/en/features/c03910/\">Ishi Hiroyuki examines Japanese attitudes towards animals and the historical origins of those attitudes.</a> </p>\n",
-			"date_published": "2018-02-18T20:32:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/18/ishi-hiroyuki-examines.html"
+			"date_published": "2018-02-19T01:02:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/19/ishi-hiroyuki-examines.html"
 		},
 		
 		{
 			"id": "http://kerim.micro.blog/2018/02/18/response-to-mary.html",
 	      	
 			"content_html": "<p><a href=\"https://medium.com/@zen.catgirl/response-to-mary-beard-91a6cf2f53b6\">Response to Mary Beard – Priyamvada Gopal</a> “genteel and patrician casual racism passing as frank and well-meaning observations”</p>\n",
-			"date_published": "2018-02-18T12:07:00+01:00",
+			"date_published": "2018-02-18T16:37:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/18/response-to-mary.html"
 		},
 		
@@ -121,7 +129,7 @@
 			"id": "http://kerim.micro.blog/2018/02/18/what-happened-when.html",
 	      	
 			"content_html": "<p><a href=\"https://www.haaretz.com/amp/opinion/.premium-what-happened-when-a-jewish-settler-slapped-an-israeli-soldier-1.5630408?__twitter_impression=true\">What happened when a Jewish settler slapped an Israeli soldier - Haaretz.com</a></p>\n",
-			"date_published": "2018-02-18T06:29:00+01:00",
+			"date_published": "2018-02-18T10:59:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/18/what-happened-when.html"
 		},
 		
@@ -129,7 +137,7 @@
 			"id": "http://kerim.micro.blog/2018/02/18/the-nra-is.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theguardian.com/us-news/2017/nov/17/nra-gun-lobby-gun-control-congress\">The NRA is smaller than you’d think – so why does it wield such influence?</a> (Motivated voters, not money.)</p>\n",
-			"date_published": "2018-02-18T06:27:00+01:00",
+			"date_published": "2018-02-18T10:57:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/18/the-nra-is.html"
 		},
 		
@@ -137,7 +145,7 @@
 			"id": "http://kerim.micro.blog/2018/02/18/for-every-chapter.html",
 	      	
 			"content_html": "<p><a href=\"https://99percentinvisible.org/episode/nut-behind-wheel/\">For every chapter in the history of auto safety there is an opposing chapter in the history of gun safety, generally written with the help of the NRA</a></p>\n",
-			"date_published": "2018-02-18T06:24:00+01:00",
+			"date_published": "2018-02-18T10:54:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/18/for-every-chapter.html"
 		},
 		
@@ -145,23 +153,23 @@
 			"id": "http://kerim.micro.blog/2018/02/17/the-second-amendment.html",
 	      	
 			"content_html": "<p><a href=\"http://www.truth-out.org/news/item/13890-the-second-amendment-was-ratified-to-preserve-slavery\">The Second Amendment Was Ratified to Preserve Slavery</a></p>\n",
-			"date_published": "2018-02-17T21:37:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/17/the-second-amendment.html"
+			"date_published": "2018-02-18T02:07:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/18/the-second-amendment.html"
 		},
 		
 		{
 			"id": "http://kerim.micro.blog/2018/02/17/so-a-reasonable.html",
 	      	
 			"content_html": "<p>“<a href=\"https://www.lawfareblog.com/russian-influence-campaign-whats-latest-mueller-indictment\">So a reasonable person might wonder, reading the indictment, whether the beginning of the operation was a retaliation for perceived U.S. meddling in Ukraine.</a>”</p>\n",
-			"date_published": "2018-02-17T20:14:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/17/so-a-reasonable.html"
+			"date_published": "2018-02-18T00:44:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/18/so-a-reasonable.html"
 		},
 		
 		{
 			"id": "http://kerim.micro.blog/2018/02/17/180629.html",
 	      	
 			"content_html": "<p><a href=\"https://m.youtube.com/watch?v=1oMv4uIVNIs\">L’amorosa Menzogna</a> 1949 Antonioni film about photo novellas</p>\n",
-			"date_published": "2018-02-17T19:06:00+01:00",
+			"date_published": "2018-02-17T23:36:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/17/180629.html"
 		},
 		
@@ -169,7 +177,7 @@
 			"id": "http://kerim.micro.blog/2018/02/17/how-the-nra.html",
 	      	
 			"content_html": "<p><a href=\"https://www.politico.com/magazine/story/2014/05/nra-guns-second-amendment-106856\">How the NRA Rewrote the Second Amendment</a></p>\n",
-			"date_published": "2018-02-17T17:50:00+01:00",
+			"date_published": "2018-02-17T22:20:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/17/how-the-nra.html"
 		},
 		
@@ -177,7 +185,7 @@
 			"id": "http://kerim.micro.blog/2018/02/17/david-graeber-manufactured.html",
 	      	
 			"content_html": "<p><a href=\"http://www.focaalblog.com/2018/02/16/david-graeber-manufactured-ignorance/\">David Graeber: Manufactured ignorance: The strange case of Juan Cole and the Kurdish Freedom Movement, and the International Liberal Intelligentsia</a></p>\n",
-			"date_published": "2018-02-17T08:18:00+01:00",
+			"date_published": "2018-02-17T12:48:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/17/david-graeber-manufactured.html"
 		},
 		
@@ -185,7 +193,7 @@
 			"id": "http://kerim.micro.blog/2018/02/17/marriage-equality-in.html",
 	      	
 			"content_html": "<p><a href=\"http://www.ketagalanmedia.com/2018/02/15/marriage-equality-taiwan-time-re-engage-public/?utm_content=buffere2b60&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer\">Marriage Equality in Taiwan: Time to Re-engage the Public</a> (I’m worried that this is just a test case for many more battles to come, and that Taiwanese progressives are unprepared to take on tea party style right wing political movements…)</p>\n",
-			"date_published": "2018-02-17T08:07:00+01:00",
+			"date_published": "2018-02-17T12:37:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/17/marriage-equality-in.html"
 		},
 		
@@ -193,16 +201,8 @@
 			"id": "http://kerim.micro.blog/2018/02/15/the-cost-of.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/02/06/magazine/the-cost-of-being-savage-in-a-supposedly-civilized-world.html\">The Cost of Being ‘Savage’ in a Supposedly Civilized World</a> #dendum</p>\n",
-			"date_published": "2018-02-15T10:04:00+01:00",
+			"date_published": "2018-02-15T14:34:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/15/the-cost-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/15/initially-british-tastes.html",
-	      	
-			"content_html": "<p><a href=\"http://aldai.ly/2F191Ts\">initially, British tastes found Indian tea too bitter and strong. Tea manufacturers, therefore, blended tea from India…with the familiar Chinese leaf &amp; advertisers denigrated Chinese tea as unhealthy, while promoting ‘Empire tea’ as purer, cleaner and more patriotic to boot</a></p>\n",
-			"date_published": "2018-02-15T04:13:00+01:00",
-			"url": "https://micro.oxus.net/2018/02/15/initially-british-tastes.html"
 		}
 		
 	]
