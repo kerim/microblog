@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/25/the-cuttingedge-of.html",
+	      	
+			"content_html": "<p><a href=\"https://asia.nikkei.com/Life-Arts/Life/The-cutting-edge-of-cutting-How-Japanese-scissors-have-evolved\">The cutting-edge of cutting: How Japanese scissors have evolved</a></p>\n",
+			"date_published": "2018-02-25T09:18:00+05:30",
+			"url": "https://micro.oxus.net/2018/02/25/the-cuttingedge-of.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/25/report-israel-carried.html",
 	      	
 			"content_html": "<p><a href=\"https://www.middleeastmonitor.com/20180222-report-israel-carried-out-extrajudicial-executions-tortured-children/\">Report: Israel carried out extrajudicial executions, tortured children</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://m.youtube.com/watch?v=1oMv4uIVNIs\">L’amorosa Menzogna</a> 1949 Antonioni film about photo novellas</p>\n",
 			"date_published": "2018-02-17T23:36:00+05:30",
 			"url": "https://micro.oxus.net/2018/02/17/180629.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/17/how-the-nra.html",
-	      	
-			"content_html": "<p><a href=\"https://www.politico.com/magazine/story/2014/05/nra-guns-second-amendment-106856\">How the NRA Rewrote the Second Amendment</a></p>\n",
-			"date_published": "2018-02-17T22:20:00+05:30",
-			"url": "https://micro.oxus.net/2018/02/17/how-the-nra.html"
 		}
 		
 	]
