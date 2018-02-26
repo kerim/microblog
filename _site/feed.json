@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/02/26/mori-can-choose.html",
+	      	
+			"content_html": "<p>Māori can choose whether to be registered in Māori or General electorate voter rolls, but indigenous Taiwanese cannot. Some want to change that. (In Chinese) — <a href=\"https://www.mirrormedia.mg/story/20180223inv005/\">歧視原住民　一般選區竟不准原民登記</a></p>\n",
+			"date_published": "2018-02-26T21:30:00+08:00",
+			"url": "https://micro.oxus.net/2018/02/26/mori-can-choose.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/02/26/worlds-first-indigenous.html",
 	      	
 			"content_html": "<p><a href=\"http://www.uvic.ca/news/topics/2018+jid-indigenous-law+media-release\">World’s first Indigenous law degree to be offered at UVic a</a></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://www.theguardian.com/us-news/2017/nov/17/nra-gun-lobby-gun-control-congress\">The NRA is smaller than you’d think – so why does it wield such influence?</a> (Motivated voters, not money.)</p>\n",
 			"date_published": "2018-02-18T13:27:00+08:00",
 			"url": "https://micro.oxus.net/2018/02/18/the-nra-is.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/18/for-every-chapter.html",
-	      	
-			"content_html": "<p><a href=\"https://99percentinvisible.org/episode/nut-behind-wheel/\">For every chapter in the history of auto safety there is an opposing chapter in the history of gun safety, generally written with the help of the NRA</a></p>\n",
-			"date_published": "2018-02-18T13:24:00+08:00",
-			"url": "https://micro.oxus.net/2018/02/18/for-every-chapter.html"
 		}
 		
 	]
