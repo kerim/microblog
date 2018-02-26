@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-06 07:20 +0530
+date: 2018-02-06 09:50 +0800
 guid: http://kerim.micro.blog/2018/02/06/president-donald-trumpcommunicates.html
 ---
 > President Donald Trump…[communicates at the lowest grade level of the last 15 presidents](http://www.newsweek.com/trump-fire-and-fury-smart-genius-obama-774169), according to a new analysis of the speech patterns of presidents going back to Herbert Hoover.
