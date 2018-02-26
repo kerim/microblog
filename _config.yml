@@ -44,5 +44,5 @@ github_username: ""
 instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "Asia/Kolkata"
+timezone: "Singapore"
 site_id: "2872"
