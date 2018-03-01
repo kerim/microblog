@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/01/the-late-mediaeval.html",
+	      	
+			"content_html": "<p>The late mediaeval <a href=\"https://www.historyofphilosophy.net/jean-gerson\">debate over the Romance of the Rose</a> has a lot of elements that sound like the kind of things you would read in think pieces about the latest Hollywood film or TV show today.</p>\n",
+			"date_published": "2018-03-01T16:55:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/01/the-late-mediaeval.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/01/supreme-court-ruling.html",
 	      	
 			"content_html": "<p><a href=\"https://www.npr.org/2018/02/27/589096901/supreme-court-ruling-means-immigrants-can-continue-to-be-detained-indefinitely\">Supreme Court Ruling Means Immigrants Could Continue To Be Detained Indefinitely\n</a> — While Trump is continuing the case it was the Obama administration that first made the appeal!</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://news.nationalgeographic.com/2018/02/sheep-human-hybrids-chimeras-crispr-organ-transplant-health-science/\">Wake up 0.01% sheeple!!!</a></p>\n",
 			"date_published": "2018-02-20T03:11:00+08:00",
 			"url": "https://micro.oxus.net/2018/02/20/191144.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/19/metoo-in-china.html",
-	      	
-			"content_html": "<p><a href=\"http://elephant-room.com/2018/02/13/metoo/\">#MeToo in China: the Story Beyond Censorship</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/9f60b32ede.jpg\" width=\"600\" height=\"333\" /></p>\n",
-			"date_published": "2018-02-19T16:59:00+08:00",
-			"url": "https://micro.oxus.net/2018/02/19/metoo-in-china.html"
 		}
 		
 	]
