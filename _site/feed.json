@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/03/black-panthers-dialect.html",
+	      	
+			"content_html": "<p><a href=\"https://io9.gizmodo.com/black-panthers-dialect-coach-brilliantly-explains-why-w-1823243739\">Black Panther’s Dialect Coach Brilliantly Explains Why Wakanda’s Accents Sound So Different</a></p>\n",
+			"date_published": "2018-03-03T21:56:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/03/black-panthers-dialect.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/03/03/sun-ra-black.html",
+	      	
+			"content_html": "<p><a href=\"https://anthrodendum.org/2018/02/27/sun-ra-black-panther/\">Sun Ra &gt; Black Panther</a></p>\n",
+			"date_published": "2018-03-03T21:53:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/03/sun-ra-black.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/03/wakanda-is-a.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/02/16/us/wakanda-black-panther.html\">Wakanda Is a Fake Country, but the African Language in ‘Black Panther’ Is Real</a></p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><a href=\"http://www.americananthro.org/ParticipateAndAdvocate/AdvocacyDetail.aspx?ItemNumber=22467\">AAA Pushes for Comprehensive Evidence-Based Approach to Prevent Gun Violence</a> “To truly understand gun violence in America, we need to lift restrictions that prevent the CDC from studying the topic” #dendum </p>\n",
 			"date_published": "2018-02-23T04:39:00+08:00",
 			"url": "https://micro.oxus.net/2018/02/23/aaa-pushes-for.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/22/103726.html",
-	      	
-			"content_html": "<p><a href=\"https://anthrodendum.org/2018/02/22/lazy-powerpoint-working-with-text-4/\">Lazy PowerPoint</a> In which ”I show you the quickest, laziest, way to turn a text file into a presentation”! (The latest blog post in my ongoing series on working with text files.)</p>\n",
-			"date_published": "2018-02-22T18:37:00+08:00",
-			"url": "https://micro.oxus.net/2018/02/22/103726.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/21/draft-report-on.html",
-	      	
-			"content_html": "<p><a href=\"https://dx.doi.org/10.17605/OSF.IO/SJNBK\">Draft Report on Tibet’s Linguistic Minorities</a> by Gerald Roche “The survey aimed to assess the vitality of approximately 30 languages spoken by Tibetans in China.”</p>\n",
-			"date_published": "2018-02-21T22:04:00+08:00",
-			"url": "https://micro.oxus.net/2018/02/21/draft-report-on.html"
 		}
 		
 	]
