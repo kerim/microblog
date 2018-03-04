@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/04/012507.html",
+	      	
+			"content_html": "<p><img src=\"http://micro.oxus.net/uploads/2018/9c663d2d6c.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-03-04T09:25:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/04/012507.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/04/the-story-we.html",
 	      	
 			"content_html": "<p><a href=\"https://www.eurozine.com/change-course-human-history/\">The story we have been telling ourselves about our origins is wrong</a>, and perpetuates the idea of inevitable social inequality. David Graeber and David Wengrow ask why the myth of ‘agricultural revolution’ remains so persistent…</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I really have to see Black Panther soon, my “spoilers” tag in Pocket (of stuff I can’t read until I’ve seen the movie or TV show) is getting a bit too long… </p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/c15b699fd4.jpg\" width=\"600\" height=\"418\" /></p>\n",
 			"date_published": "2018-02-24T22:34:00+08:00",
 			"url": "https://micro.oxus.net/2018/02/24/i-really-have.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/24/bill-gates-partners.html",
-	      	
-			"content_html": "<p>Bill Gates partners with the China National Nuclear Corporation to build a <a href=\"http://www.smh.com.au/business/energy/bill-gates-and-china-partner-on-worldfirst-nuclear-technology-20171106-gzfrf0.html\">Travelling Wave Reactor</a>. Can use depleted uranium as fuel and creates less waste than traditional reactor designs. </p>\n",
-			"date_published": "2018-02-24T22:06:00+08:00",
-			"url": "https://micro.oxus.net/2018/02/24/bill-gates-partners.html"
 		}
 		
 	]
