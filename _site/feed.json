@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/07/the-woman-who.html",
+	      	
+			"content_html": "<p><a href=\"https://broadly.vice.com/en_us/article/bj5nj5/oney-judge-escaped-enslavement-by-george-washington\">The Woman Who Escaped Enslavement By George Washington</a></p>\n",
+			"date_published": "2018-03-07T15:02:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/07/the-woman-who.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/03/07/the-israeli-army.html",
+	      	
+			"content_html": "<p><a href=\"https://www.haaretz.com/amp/opinion/.premium-the-idf-committed-4-war-crimes-in-recent-weeks-but-who-cares-1.5883568\">The Israeli army committed at least 4 war crimes in recent weeks. But who cares?</a></p>\n",
+			"date_published": "2018-03-07T14:58:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/07/the-israeli-army.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/06/open-letter-to.html",
 	      	
 			"content_html": "<p><a href=\"http://mlm.humanities.manchester.ac.uk/census-2021-an-opportunity-to-acknowledge-multilingualism/\">Open letter to the UK Statistics Authority RE:  Census 2021</a> — “The division into ‘main language’ versus English does not reflect the diversity and complexity of the current linguistic landscape in the UK.”</p>\n",
@@ -187,24 +203,6 @@
 			"content_html": "<p><a href=\"http://www.uvic.ca/news/topics/2018+jid-indigenous-law+media-release\">World’s first Indigenous law degree to be offered at UVic a</a></p>\n",
 			"date_published": "2018-02-26T09:31:00+08:00",
 			"url": "https://micro.oxus.net/2018/02/26/worlds-first-indigenous.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/25/racism-with-chinese.html",
-	      	
-			"content_html": "<p><a href=\"https://blackliveschina.com/2018/02/16/racism-with-chinese-characteristics-how-blackface-darkened-the-tone-of-chinas-spring-festival-celebrations/\">Racism – with Chinese characteristics: How Blackface darkened the tone of China’s Spring Festival celebrations</a></p>\n",
-			"date_published": "2018-02-26T00:21:00+08:00",
-			"url": "https://micro.oxus.net/2018/02/26/racism-with-chinese.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/25/foucault-on-alternative.html",
-	      	
-			"title": "Foucault on “alternative facts”",
-			
-			"content_html": "<blockquote>\n  <p>This discourse [of war] established a basic link between relations of force and relations of truth. This also means that the identification of truth with peace or neutrality … is being dissolved. In a discourse such as this, being on one side and not the other means that you are in a better position to speak the truth. It is the fact of being on one side—the decentered position—that makes it possible to interpret the truth, to denounce the illusions and errors that are being used—by your adversaries—to make you believe we are living in a world in which order and peace have been restored. “The more I decenter myself, the better I can see the truth; the more I accentuate the relationship of force, and the harder I fight, the more effectively I can deploy the truth ahead of me and use it to fight, survive, and win.” And conversely, if the relationship of force sets truth free, the truth in its turn will come into play—and will, ultimately, be sought—only insofar as it can indeed become a weapon within the relationship of force. Either the truth makes you stronger, or the truth shifts the balance, accentuates the dissymmetries, and finally gives the victory to one side rather than the other. Truth is an additional force, and it can be deployed only on the basis of a relationship of force. The fact that the truth is essentially part of a relationship of force, of dissymmetry, decentering, combat, and war, is inscribed in this type of discourse. Ever since Greek philosophy, philosophico-juridical discourse has always worked with the assump tion of a pacified universality, but it is now being seriously called into question or, quite simply, cynically ignored.</p>\n</blockquote>\n\n<p>Foucault, <em>Society Must Be Defended</em>, p 53</p>\n\n",
-			"date_published": "2018-02-25T14:19:00+08:00",
-			"url": "https://micro.oxus.net/2018/02/25/foucault-on-alternative.html"
 		}
 		
 	]
