@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/08/canadian-doctors-protest.html",
+	      	
+			"content_html": "<p><a href=\"https://www.cnbc.com/amp/2018/03/06/canadian-doctor-protest-their-own-pay-raises.html\">Canadian doctors protest their own pay raises</a> (They did so on behalf of health workers that are less well off. Imagine if tenured faculty in the US did the same for adjuncts?)</p>\n",
+			"date_published": "2018-03-08T10:50:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/08/canadian-doctors-protest.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/07/so-the-main.html",
 	      	
 			"content_html": "<p>So the main thing I learned from watching Icarus is that in Russia <em>1984</em> is basically a self-help book…</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://www.dissentmagazine.org/online_articles/west-virginia-teachers-walkout\">West Virginia Teachers Walk Out</a> — “Today’s action is the first statewide walkout of teachers in almost thirty years.”</p>\n",
 			"date_published": "2018-02-27T13:24:00+08:00",
 			"url": "https://micro.oxus.net/2018/02/27/west-virginia-teachers.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/26/nasa-video-older.html",
-	      	
-			"content_html": "<p>NASA Video: <a href=\"https://youtu.be/Vj1G9gqhkYA\">Older Arctic Sea Ice Disappearing</a></p>\n",
-			"date_published": "2018-02-26T23:20:00+08:00",
-			"url": "https://micro.oxus.net/2018/02/26/nasa-video-older.html"
 		}
 		
 	]
