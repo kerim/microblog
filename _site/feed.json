@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/08/why-americans-are.html",
+	      	
+			"content_html": "<p><a href=\"https://www.salon.com/2018/03/03/why-americans-are-such-easy-targets-for-trolls-and-bots/\">Why Americans are such easy targets for trolls and bots</a> (It’s because we’re stupid … 😭😭😭)</p>\n",
+			"date_published": "2018-03-08T12:39:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/08/why-americans-are.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/08/canadian-doctors-protest.html",
 	      	
 			"content_html": "<p><a href=\"https://www.cnbc.com/amp/2018/03/06/canadian-doctor-protest-their-own-pay-raises.html\">Canadian doctors protest their own pay raises</a> (They did so on behalf of health workers that are less well off. Imagine if tenured faculty in the US did the same for adjuncts?)</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Taiwan’s <a href=\"https://newbloommag.net/2018/02/27/toilet-paper-panic/\">Toilet Paper Panic Humorous, But Points To Low Wages And Dominance Of Market By Conglomerates</a></p>\n",
 			"date_published": "2018-02-27T22:02:00+08:00",
 			"url": "https://micro.oxus.net/2018/02/27/taiwans-toilet-paper.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/02/27/west-virginia-teachers.html",
-	      	
-			"content_html": "<p><a href=\"http://www.dissentmagazine.org/online_articles/west-virginia-teachers-walkout\">West Virginia Teachers Walk Out</a> — “Today’s action is the first statewide walkout of teachers in almost thirty years.”</p>\n",
-			"date_published": "2018-02-27T13:24:00+08:00",
-			"url": "https://micro.oxus.net/2018/02/27/west-virginia-teachers.html"
 		}
 		
 	]
