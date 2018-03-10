@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/10/taiwan-the-waterstarved.html",
+	      	
+			"content_html": "<p><a href=\"https://english.cw.com.tw/article/article.action?id=1876\">Taiwan: The Water-starved Island</a></p>\n",
+			"date_published": "2018-03-11T00:39:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/11/taiwan-the-waterstarved.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/08/interview-with-linguistic.html",
 	      	
 			"content_html": "<p><a href=\"http://newbooksnetwork.com/kathryn-woolard-singular-and-plural-ideologies-of-linguistic-authority-in-twenty-first-century-catalonia-oxford-up-2016/\">Interview with linguistic anthropologist Kathryn Woolard</a> about her book , “Singular and Plural : Ideologies of Linguistic Authority in Twenty-First Century Catalonia” #dendum </p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>The late mediaeval <a href=\"https://www.historyofphilosophy.net/jean-gerson\">debate over the Romance of the Rose</a> has a lot of elements that sound like the kind of things you would read in think pieces about the latest Hollywood film or TV show today.</p>\n",
 			"date_published": "2018-03-01T16:55:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/01/the-late-mediaeval.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/01/supreme-court-ruling.html",
-	      	
-			"content_html": "<p><a href=\"https://www.npr.org/2018/02/27/589096901/supreme-court-ruling-means-immigrants-can-continue-to-be-detained-indefinitely\">Supreme Court Ruling Means Immigrants Could Continue To Be Detained Indefinitely\n</a> — While Trump is continuing the case it was the Obama administration that first made the appeal!</p>\n",
-			"date_published": "2018-03-01T08:21:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/01/supreme-court-ruling.html"
 		}
 		
 	]
