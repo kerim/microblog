@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/11/the-us-can.html",
+	      	
+			"content_html": "<p><a href=\"https://mobile.nytimes.com/2018/01/24/opinion/poverty-united-states.html?referer=https://getpocket.com/\">The U.S. Can No Longer Hide From Its Deep Poverty Problem</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/296c029f97.jpg\" width=\"396\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-11T09:11:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/11/the-us-can.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/11/when-will-there.html",
 	      	
 			"content_html": "<p><a href=\"https://www.thestar.com/opinion/star-columnists/2018/03/09/when-will-there-be-a-film-on-winston-churchill-the-barbaric-monster-with-the-blood-of-millions-on-his-hands.html\">When will there be a film on Winston Churchill, the barbaric monster with the blood of millions on his hands?</a> </p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://io9.gizmodo.com/black-panthers-dialect-coach-brilliantly-explains-why-w-1823243739\">Black Panther’s Dialect Coach Brilliantly Explains Why Wakanda’s Accents Sound So Different</a></p>\n",
 			"date_published": "2018-03-03T21:56:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/03/black-panthers-dialect.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/03/sun-ra-black.html",
-	      	
-			"content_html": "<p><a href=\"https://anthrodendum.org/2018/02/27/sun-ra-black-panther/\">Sun Ra &gt; Black Panther</a></p>\n",
-			"date_published": "2018-03-03T21:53:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/03/sun-ra-black.html"
 		}
 		
 	]
