@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/12/the-subtle-racism.html",
+	      	
+			"content_html": "<p><a href=\"http://theweek.com/articles/759789/subtle-racism-centrist-democrats\">The subtle racism of centrist Democrats</a></p>\n",
+			"date_published": "2018-03-12T13:40:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/12/the-subtle-racism.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/12/artist-nan-goldin.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theguardian.com/us-news/2018/mar/10/opioids-nan-goldin-protest-metropolitan-museum-sackler-wing\">Artist Nan Goldin stages opioids protest in Metropolitan Museum Sackler Wing</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://bostonreview.net/race/christopher-lebron-black-panther\">‘Black Panther’ Is Not the Movie We Deserve</a></p>\n",
 			"date_published": "2018-03-03T22:25:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/03/black-panther-is.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/03/i-have-a.html",
-	      	
-			"content_html": "<p><a href=\"http://africasacountry.com/2018/02/i-have-a-problem-with-black-panther/\">I have a problem with Black Panther</a></p>\n",
-			"date_published": "2018-03-03T22:24:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/03/i-have-a.html"
 		}
 		
 	]
