@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/12/artist-nan-goldin.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theguardian.com/us-news/2018/mar/10/opioids-nan-goldin-protest-metropolitan-museum-sackler-wing\">Artist Nan Goldin stages opioids protest in Metropolitan Museum Sackler Wing</a></p>\n",
+			"date_published": "2018-03-12T09:30:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/12/artist-nan-goldin.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/03/12/did-you-know.html",
+	      	
+			"content_html": "<p>[Did you know the CIA <strong>__<em>?](http://nplusonemag.com/online-only/online-only/did-you-know-the-cia-</em></strong>__/)</p>\n",
+			"date_published": "2018-03-12T09:28:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/12/did-you-know.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/12/can-you-lose.html",
 	      	
 			"content_html": "<p><a href=\"http://www.npr.org/sections/codeswitch/2018/03/10/588306001/can-you-lose-a-language-you-never-knew\">Can You Lose A Language You Never Knew?</a> (Also see Derrida’s “The monolingualism of the other.”)</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"http://africasacountry.com/2018/02/i-have-a-problem-with-black-panther/\">I have a problem with Black Panther</a></p>\n",
 			"date_published": "2018-03-03T22:24:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/03/i-have-a.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/03/black-panther-choose.html",
-	      	
-			"content_html": "<p><a href=\"http://www.nybooks.com/daily/2018/02/22/black-panther-choose-your-weapons/\">‘Black Panther’: Choose Your Weapons</a></p>\n",
-			"date_published": "2018-03-03T22:17:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/03/black-panther-choose.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/03/black-panther-books.html",
-	      	
-			"content_html": "<p><a href=\"http://ew.com/books/black-panther-books\">‘Black Panther’ : 15 books you need to read after seeing the movie</a></p>\n",
-			"date_published": "2018-03-03T22:07:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/03/black-panther-books.html"
 		}
 		
 	]
