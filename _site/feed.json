@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/12/the-daybreak-project.html",
+	      	
+			"content_html": "<p><a href=\"https://daybreak.newbloommag.net/\">The Daybreak Project is an interactive encyclopedia and oral history archive of the 2014 Sunflower Movement.</a></p>\n",
+			"date_published": "2018-03-12T22:22:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/12/the-daybreak-project.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/12/the-subtle-racism.html",
 	      	
 			"content_html": "<p><a href=\"http://theweek.com/articles/759789/subtle-racism-centrist-democrats\">The subtle racism of centrist Democrats</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://www.theblackscholar.org/past-decades-seen-revolutions-long-decolonization-black-panther-rebecca-wanzo/\">And All Our Past Decades Have Seen Revolutions: The Long Decolonization of Black Panther By Rebecca Wanzo</a></p>\n",
 			"date_published": "2018-03-03T22:27:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/03/and-all-our.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/03/black-panther-is.html",
-	      	
-			"content_html": "<p><a href=\"http://bostonreview.net/race/christopher-lebron-black-panther\">‘Black Panther’ Is Not the Movie We Deserve</a></p>\n",
-			"date_published": "2018-03-03T22:25:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/03/black-panther-is.html"
 		}
 		
 	]
