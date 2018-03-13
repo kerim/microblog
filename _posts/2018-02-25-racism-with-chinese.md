@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-26 00:21 +0800
 guid: http://kerim.micro.blog/2018/02/25/racism-with-chinese.html
 ---
