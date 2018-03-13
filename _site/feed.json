@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/13/a-reporter-rolled.html",
+	      	
+			"content_html": "<p><a href=\"http://www.nytimes.com/2018/03/13/world/asia/china-eye-roll-liang-xiangyi.html\">A Reporter Rolled Her Eyes, and China’s Internet Broke</a> 😒😒😒</p>\n",
+			"date_published": "2018-03-13T23:52:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/13/a-reporter-rolled.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/13/bbc-video-indias.html",
 	      	
 			"content_html": "<p>BBC Video: <a href=\"http://www.bbc.com/news/av/world-asia-india-43346168/india-s-gay-prince-opens-his-palace-for-lgbt-community\">India’s gay prince opens his palace for LGBT community</a> (Great to see Roxy Gagdekar’s byline on this story!) </p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://frankschaefferblog.com/2018/02/billy-graham-lying-state-not-iran-not-theocracy/\">Billy Graham is lying in state. Why?</a> </p>\n",
 			"date_published": "2018-03-04T10:02:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/04/billy-graham-is.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/04/gun-injuries-go.html",
-	      	
-			"content_html": "<p>👞🔫 <a href=\"https://boingboing.net/2018/03/03/gun-injuries-go-down-by-20-du.html\">Gun injuries go down by 20% during NRA conventions</a></p>\n",
-			"date_published": "2018-03-04T09:54:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/04/gun-injuries-go.html"
 		}
 		
 	]
