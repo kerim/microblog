@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-03-06 10:31 +0800
 guid: http://kerim.micro.blog/2018/03/06/open-letter-to.html
 ---
