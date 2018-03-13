@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/13/bbc-video-indias.html",
+	      	
+			"content_html": "<p>BBC Video: <a href=\"http://www.bbc.com/news/av/world-asia-india-43346168/india-s-gay-prince-opens-his-palace-for-lgbt-community\">India’s gay prince opens his palace for LGBT community</a> (Great to see Roxy Gagdekar’s byline on this story!) </p>\n",
+			"date_published": "2018-03-13T18:34:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/13/bbc-video-indias.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/13/055538.html",
 	      	
 			"content_html": "<p>A <a href=\"http://llengua.gencat.cat/ca/serveis/informacio_i_difusio/campanyes/encomana/participa-hi_encomana\">video</a>  encouraging people to speak Catalan to new immigrants, and not switch to Castilian. (From Kathryn Woolard’s new book) </p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>👞🔫 <a href=\"https://boingboing.net/2018/03/03/gun-injuries-go-down-by-20-du.html\">Gun injuries go down by 20% during NRA conventions</a></p>\n",
 			"date_published": "2018-03-04T09:54:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/04/gun-injuries-go.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/04/012507.html",
-	      	
-			"content_html": "<p><img src=\"http://micro.oxus.net/uploads/2018/9c663d2d6c.jpg\" width=\"600\" height=\"337\" /></p>\n",
-			"date_published": "2018-03-04T09:25:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/04/012507.html"
 		}
 		
 	]
