@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-11 23:38 +0800
 guid: http://kerim.micro.blog/2018/02/11/swedish-bookseller-gui.html
 ---
