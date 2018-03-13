@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-24 17:14 +0800
 guid: http://kerim.micro.blog/2018/02/24/stuck-in-an.html
 ---
