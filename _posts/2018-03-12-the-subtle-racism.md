@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-03-12 13:40 +0800
 guid: http://kerim.micro.blog/2018/03/12/the-subtle-racism.html
 ---
