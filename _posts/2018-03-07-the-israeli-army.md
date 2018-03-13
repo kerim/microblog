@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-03-07 14:58 +0800
 guid: http://kerim.micro.blog/2018/03/07/the-israeli-army.html
 ---
