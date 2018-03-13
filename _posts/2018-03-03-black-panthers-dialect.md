@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-03-03 21:56 +0800
 guid: http://kerim.micro.blog/2018/03/03/black-panthers-dialect.html
 ---
