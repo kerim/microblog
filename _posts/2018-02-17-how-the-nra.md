@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-18 00:50 +0800
 guid: http://kerim.micro.blog/2018/02/17/how-the-nra.html
 ---
