@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-06 11:54 +0800
 guid: http://kerim.micro.blog/2018/02/06/making-fun-of.html
 ---
