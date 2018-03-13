@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-12 14:26 +0800
 guid: http://kerim.micro.blog/2018/02/12/httpswwwbannedbookorgforumtopichtml-steven-lee.html
 ---
