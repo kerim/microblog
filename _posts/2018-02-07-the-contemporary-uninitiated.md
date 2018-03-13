@@ -2,6 +2,7 @@
 layout: post
 title: "The contemporary, uninitiated reader perusing the main text of Leviathan is in for quite a surprise"
 microblog: false
+audio: 
 date: 2018-02-07 15:51 +0800
 guid: http://kerim.micro.blog/2018/02/07/the-contemporary-uninitiated.html
 ---
