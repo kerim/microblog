@@ -2,6 +2,7 @@
 layout: post
 title: "Foucault on “alternative facts”"
 microblog: false
+audio: 
 date: 2018-02-25 14:19 +0800
 guid: http://kerim.micro.blog/2018/02/25/foucault-on-alternative.html
 ---
