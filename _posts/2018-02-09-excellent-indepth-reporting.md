@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-09 13:18 +0800
 guid: http://kerim.micro.blog/2018/02/09/excellent-indepth-reporting.html
 ---
