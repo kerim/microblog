@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-03-12 09:30 +0800
 guid: http://kerim.micro.blog/2018/03/12/artist-nan-goldin.html
 ---
