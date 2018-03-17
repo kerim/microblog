@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/17/whose-land-is.html",
+	      	
+			"content_html": "<p><a href=\"http://fpse.ca/decolonization_manual_whose_land_is_it_anyway\">Whose Land Is It Anyway? A Manual for Decolonization</a> #dendum</p>\n",
+			"date_published": "2018-03-17T14:25:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/17/whose-land-is.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/17/japans-prisons-are.html",
 	      	
 			"content_html": "<p><a href=\"https://www.bloomberg.com/news/features/2018-03-16/japan-s-prisons-are-a-haven-for-elderly-women\">Japan’s Prisons Are a Haven for Elderly Women</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.theguardian.com/news/2018/mar/02/the-unwelcome-revival-of-race-science\">The unwelcome revival of ‘race science’</a> #dendum</p>\n",
 			"date_published": "2018-03-07T15:55:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/07/the-unwelcome-revival.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/07/the-woman-who.html",
-	      	
-			"content_html": "<p><a href=\"https://broadly.vice.com/en_us/article/bj5nj5/oney-judge-escaped-enslavement-by-george-washington\">The Woman Who Escaped Enslavement By George Washington</a></p>\n",
-			"date_published": "2018-03-07T15:02:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/07/the-woman-who.html"
 		}
 		
 	]
