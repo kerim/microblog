@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/18/leadership-reflections-from.html",
+	      	
+			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>[“Leadership”: Reflections from a striking LA (lady academic) in the NLU (neoliberal university)</td>\n      <td>Julie Cupples](https://juliecupples.wordpress.com/2018/03/17/leadership-reflections-from-a-striking-la-lady-academic-in-the-nlu-neoliberal-university/) #dendum</td>\n    </tr>\n  </tbody>\n</table>\n",
+			"date_published": "2018-03-18T22:32:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/18/leadership-reflections-from.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/17/whose-land-is.html",
 	      	
 			"content_html": "<p><a href=\"http://fpse.ca/decolonization_manual_whose_land_is_it_anyway\">Whose Land Is It Anyway? A Manual for Decolonization</a> #dendum</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>So the main thing I learned from watching Icarus is that in Russia <em>1984</em> is basically a self-help book…</p>\n",
 			"date_published": "2018-03-07T21:39:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/07/so-the-main.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/07/the-unwelcome-revival.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theguardian.com/news/2018/mar/02/the-unwelcome-revival-of-race-science\">The unwelcome revival of ‘race science’</a> #dendum</p>\n",
-			"date_published": "2018-03-07T15:55:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/07/the-unwelcome-revival.html"
 		}
 		
 	]
