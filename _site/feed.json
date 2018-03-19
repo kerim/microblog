@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/19/sons-of-rich.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html\">Sons of Rich Black Families Fare No Better Than Sons of Working-Class Whites</a> ‘The authors…tried to identify neighborhoods where poor black boys do well, and as well as whites. “The problem… is that there are essentially no such neighborhoods in America.”’</p>\n",
+			"date_published": "2018-03-19T19:40:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/19/sons-of-rich.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/18/leadership-reflections-from.html",
 	      	
 			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>[“Leadership”: Reflections from a striking LA (lady academic) in the NLU (neoliberal university)</td>\n      <td>Julie Cupples](https://juliecupples.wordpress.com/2018/03/17/leadership-reflections-from-a-striking-la-lady-academic-in-the-nlu-neoliberal-university/) #dendum</td>\n    </tr>\n  </tbody>\n</table>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.cnbc.com/amp/2018/03/06/canadian-doctor-protest-their-own-pay-raises.html\">Canadian doctors protest their own pay raises</a> (They did so on behalf of health workers that are less well off. Imagine if tenured faculty in the US did the same for adjuncts?)</p>\n",
 			"date_published": "2018-03-08T10:50:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/08/canadian-doctors-protest.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/07/so-the-main.html",
-	      	
-			"content_html": "<p>So the main thing I learned from watching Icarus is that in Russia <em>1984</em> is basically a self-help book…</p>\n",
-			"date_published": "2018-03-07T21:39:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/07/so-the-main.html"
 		}
 		
 	]
