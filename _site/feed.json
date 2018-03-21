@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/21/132730.html",
+	      	
+			"content_html": "<p><a href=\"http://news.ltn.com.tw/news/world/breakingnews/2372359\">馬克思200歲冥誕化身故鄉德國古城紅綠燈小人</a> (Marx’s birthplace celebrates his 200th with special traffic lights.)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/61d2b10c7e.jpg\" width=\"540\" height=\"303\" /></p>\n",
+			"date_published": "2018-03-21T21:27:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/21/132730.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/21/thinking-about-deletefacebook.html",
 	      	
 			"content_html": "<p>Thinking about #DeleteFacebook? Know that there are a number of excellent alternatives like <a href=\"https://medium.com/tootsuite/deletefacebook-fafdc4090307\">Mastodon</a> and <a href=\"https://micro.oxus.net/2018/02/06/what-is-a.html\">micro.blog</a>. Support open platforms by using them! (And maybe even donate some money to their development.)</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://english.cw.com.tw/article/article.action?id=1876\">Taiwan: The Water-starved Island</a></p>\n",
 			"date_published": "2018-03-11T00:39:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/11/taiwan-the-waterstarved.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/08/interview-with-linguistic.html",
-	      	
-			"content_html": "<p><a href=\"http://newbooksnetwork.com/kathryn-woolard-singular-and-plural-ideologies-of-linguistic-authority-in-twenty-first-century-catalonia-oxford-up-2016/\">Interview with linguistic anthropologist Kathryn Woolard</a> about her book , “Singular and Plural : Ideologies of Linguistic Authority in Twenty-First Century Catalonia” #dendum </p>\n",
-			"date_published": "2018-03-08T18:32:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/08/interview-with-linguistic.html"
 		}
 		
 	]
