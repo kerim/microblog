@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/22/this-rap-songhttpsmyoutubecomwatchvwkumqjvvok.html",
+	      	
+			"content_html": "<p><a href=\"https://m.youtube.com/watch?v=wkuMQJ2vvok\">This rap song</a> is basically an extended Yelp review of a pizza restaurant in Taipei. The singer, a self proclaimed “Ph.D. in NY style pizza,” says the restaurant has no right to call themselves “NY style pizza.” (Or charge so much.) 😂🍕 😂🍕</p>\n",
+			"date_published": "2018-03-23T07:28:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/23/this-rap-songhttpsmyoutubecomwatchvwkumqjvvok.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/22/my-blog-post.html",
 	      	
 			"content_html": "<p>My blog post on “<a href=\"https://anthrodendum.org/2018/03/22/hobbes-the-science-fiction-writer-part-i/\">Hobbes the Science Fiction Writer</a>” got so long I had to split it into two posts. Spoilers from Star Trek: Discovery and Black Panther will be in Part II—the first part only has spoilers for those who haven’t read Hobbes’s Leviathan yet…</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.thestar.com/opinion/star-columnists/2018/03/09/when-will-there-be-a-film-on-winston-churchill-the-barbaric-monster-with-the-blood-of-millions-on-his-hands.html\">When will there be a film on Winston Churchill, the barbaric monster with the blood of millions on his hands?</a> </p>\n",
 			"date_published": "2018-03-11T08:56:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/11/when-will-there.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/10/the-greatness-of.html",
-	      	
-			"content_html": "<p><a href=\"https://michaelturton.blogspot.tw/2018/03/the-greatness-of-twitter-conversation.html?m=1\">The greatness of Twitter: a conversation with digital minister Audrey Tang</a> (Thanks Michael…)</p>\n",
-			"date_published": "2018-03-11T07:01:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/11/the-greatness-of.html"
 		}
 		
 	]
