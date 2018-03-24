@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/23/liberals-trump-voters.html",
+	      	
+			"content_html": "<p>Liberals: Trump voters are all unrepentant racists. No point in even talking to them or trying to change how they vote. </p>\n\n<p>Also liberals: Cambridge Analytica and the Russians manipulated unsuspecting voters into supporting Trump. </p>\n",
+			"date_published": "2018-03-24T07:34:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/24/liberals-trump-voters.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/23/indigenous-cinema-at.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nfb.ca/indigenous-cinema/?&amp;film_lang=en&amp;sort=year:desc,title&amp;year=1917..2018\">Indigenous cinema at the NFB</a> “Discover over 50 years of Indigenous filmmaking, and centuries of history, with our latest online collection.” #dendum </p>\n\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://nplusonemag.com/online-only/online-only/did-you-know-the-cia-_____/\">Did you know the CIA xxxx ?</a></p>\n",
 			"date_published": "2018-03-12T09:28:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/12/did-you-know.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/12/can-you-lose.html",
-	      	
-			"content_html": "<p><a href=\"http://www.npr.org/sections/codeswitch/2018/03/10/588306001/can-you-lose-a-language-you-never-knew\">Can You Lose A Language You Never Knew?</a> (Also see Derrida’s “The monolingualism of the other.”)</p>\n",
-			"date_published": "2018-03-12T09:20:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/12/can-you-lose.html"
 		}
 		
 	]
