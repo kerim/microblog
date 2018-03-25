@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/25/minimal-media-coverage.html",
+	      	
+			"content_html": "<p><a href=\"https://africasacountry.com/2018/03/the-afghanistan-ization-of-africa\">Minimal media coverage by international media has left Americans, and much of the world, unaware that US troops are active in almost every African country</a></p>\n",
+			"date_published": "2018-03-25T10:21:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/25/minimal-media-coverage.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/03/25/attempts-to-evict.html",
+	      	
+			"content_html": "<p><a href=\"https://newbloommag.net/2018/03/23/ljavek-monument-eviction/\">Attempts To Evict Ljavek Community Add Insult To Injury</a> “founded by indigenous [Paiwan] migrant workers living in Kaohsiung in 1953… [the] Ljavek community has itself suffered from pollution from a neighboring Formosa Plastics plant for years”</p>\n",
+			"date_published": "2018-03-25T10:13:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/25/attempts-to-evict.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/03/25/the-powerful-silence.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theatlantic.com/entertainment/archive/2018/03/the-powerful-silence-of-the-march-for-our-lives/556469/\">The Powerful Silence of the March for Our Lives</a></p>\n",
+			"date_published": "2018-03-25T09:37:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/25/the-powerful-silence.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/03/25/march-for-our.html",
+	      	
+			"content_html": "<p><a href=\"https://www.usatoday.com/story/news/nation/2018/03/24/march-our-lives-could-become-biggest-single-day-protest-d-c-nations-history/455675002/\">March for Our Lives could be the biggest single-day protest in D.C.’s history</a></p>\n",
+			"date_published": "2018-03-25T09:08:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/25/march-for-our.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/23/liberals-trump-voters.html",
 	      	
 			"content_html": "<p>Liberals: Trump voters are all unrepentant racists. No point in even talking to them or trying to change how they vote. </p>\n\n<p>Also liberals: Cambridge Analytica and the Russians manipulated unsuspecting voters into supporting Trump. </p>\n",
@@ -171,38 +203,6 @@
 			"content_html": "<p>Fantastic news for my good friend Darryl Sterk whose translation of Wu Ming-Yi’s <em>The Stolen Bicycle</em> made <a href=\"http://themanbookerprize.com/news/man-booker-international-2018-longlist\">the long list</a> for the 2018 Man Booker International Prize! (Wu is a fellow professor at NDHU, but I don’t know him well.) </p>\n",
 			"date_published": "2018-03-13T10:25:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/13/fantastic-news-for.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/12/the-daybreak-project.html",
-	      	
-			"content_html": "<p><a href=\"https://daybreak.newbloommag.net/\">The Daybreak Project is an interactive encyclopedia and oral history archive of the 2014 Sunflower Movement.</a></p>\n",
-			"date_published": "2018-03-12T22:22:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/12/the-daybreak-project.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/12/the-subtle-racism.html",
-	      	
-			"content_html": "<p><a href=\"http://theweek.com/articles/759789/subtle-racism-centrist-democrats\">The subtle racism of centrist Democrats</a></p>\n",
-			"date_published": "2018-03-12T13:40:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/12/the-subtle-racism.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/12/artist-nan-goldin.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theguardian.com/us-news/2018/mar/10/opioids-nan-goldin-protest-metropolitan-museum-sackler-wing\">Artist Nan Goldin stages opioids protest in Metropolitan Museum Sackler Wing</a></p>\n",
-			"date_published": "2018-03-12T09:30:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/12/artist-nan-goldin.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/12/did-you-know.html",
-	      	
-			"content_html": "<p><a href=\"http://nplusonemag.com/online-only/online-only/did-you-know-the-cia-_____/\">Did you know the CIA xxxx ?</a></p>\n",
-			"date_published": "2018-03-12T09:28:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/12/did-you-know.html"
 		}
 		
 	]
