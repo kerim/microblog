@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/28/ice-uses-facebook.html",
+	      	
+			"content_html": "<p><a href=\"http://theintercept.com/2018/03/26/facebook-data-ice-immigration/\">ICE Uses Facebook Data to Find and Track Immigrants, Internal Emails Show</a></p>\n",
+			"date_published": "2018-03-28T16:09:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/28/ice-uses-facebook.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/27/one-of-my.html",
 	      	
 			"content_html": "<p>📚 One of my favorite books of the past year was <a href=\"https://www.theguardian.com/books/2012/sep/28/black-count-tom-reiss-review\">The Black Count: Glory, Revolution, Betrayal and the Real Count of Monte Cristo</a> by Tom Reiss. Highly recommended!</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.bloomberg.com/news/features/2018-03-16/japan-s-prisons-are-a-haven-for-elderly-women\">Japan’s Prisons Are a Haven for Elderly Women</a></p>\n",
 			"date_published": "2018-03-17T13:58:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/17/japans-prisons-are.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/15/the-women-of.html",
-	      	
-			"content_html": "<p><a href=\"http://www.thenation.com/article/wages-for-houseworks-radical-vision/\">The Women of Wages for Housework</a></p>\n",
-			"date_published": "2018-03-15T09:17:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/15/the-women-of.html"
 		}
 		
 	]
