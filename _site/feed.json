@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/29/the-lefts-embrace.html",
+	      	
+			"content_html": "<p><a href=\"https://www.thenation.com/article/the-lefts-embrace-of-empire/\">The Left’s Embrace of Empire</a> (Forever thinking that the next war will somehow be different …)</p>\n",
+			"date_published": "2018-03-29T22:51:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/29/the-lefts-embrace.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/29/a-detective-is.html",
 	      	
 			"content_html": "<p><a href=\"https://io9.gizmodo.com/a-detective-is-torn-between-two-worlds-in-the-new-trail-1824148522?utm_campaign=socialflow_io9_facebook&amp;utm_source=io9_facebook&amp;utm_medium=socialflow\">A Detective Is Torn Between Two Worlds in the New Trailer for the BBC’s The City and The City Adaptation</a> (I really hope they don’t screw this up…)</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html\">Sons of Rich Black Families Fare No Better Than Sons of Working-Class Whites</a> ‘The authors…tried to identify neighborhoods where poor black boys do well, and as well as whites. “The problem… is that there are essentially no such neighborhoods in America.”’</p>\n",
 			"date_published": "2018-03-19T19:40:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/19/sons-of-rich.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/18/leadership-reflections-from.html",
-	      	
-			"content_html": "<p><a href=\"https://juliecupples.wordpress.com/2018/03/17/leadership-reflections-from-a-striking-la-lady-academic-in-the-nlu-neoliberal-university/\">“Leadership”: Reflections from a striking LA (lady academic) in the NLU (neoliberal university) | Julie Cupples</a> #dendum</p>\n",
-			"date_published": "2018-03-18T22:32:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/18/leadership-reflections-from.html"
 		}
 		
 	]
