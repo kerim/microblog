@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/31/the-us-asking.html",
+	      	
+			"content_html": "<p>The US asking for <a href=\"https://www.cbsnews.com/news/visa-applicants-social-media-details-email-addresses-phone-numbers/\">social media details from visa applicants</a> is a terrible policy. Visa rules are usually reciprocal, which means US citizens will soon be expected to do the same when we apply for visas to travel abroad, possibly even putting US citizens in danger as a result!</p>\n",
+			"date_published": "2018-03-31T13:04:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/31/the-us-asking.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/31/how-not-to.html",
 	      	
 			"content_html": "<p><a href=\"https://www.buzzfeed.com/bfopinion/race-genetics-david-reich?utm_term=.emA8DBWVY#.yu2aQKklE\">How Not To Talk About Race And Genetics</a> (Shane on the @nytimes for not printing this important letter!) #dendum</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://chinadailyshow.com/which-chinese-dynasty-are-you/\">Which Chinese dynasty are you?</a> “After buying a fine courtyard residence, you build a large wall to prevent anybody else enjoying it, and stop your family getting out. Yet the local teens keep breaking in anyway. How do you respond?”</p>\n",
 			"date_published": "2018-03-22T10:53:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/22/which-chinese-dynasty.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/21/132730.html",
-	      	
-			"content_html": "<p><a href=\"http://news.ltn.com.tw/news/world/breakingnews/2372359\">馬克思200歲冥誕化身故鄉德國古城紅綠燈小人</a> (Marx’s birthplace celebrates his 200th with special traffic lights.)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/61d2b10c7e.jpg\" width=\"540\" height=\"303\" /></p>\n",
-			"date_published": "2018-03-21T21:27:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/21/132730.html"
 		}
 		
 	]
