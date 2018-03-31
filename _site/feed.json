@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/31/realism-the-belief.html",
+	      	
+			"content_html": "<p>“Realism”: The belief that policies which have failed the last hundred times the US intervened militarily will somehow work this one time… Also see “magic.”</p>\n",
+			"date_published": "2018-03-31T20:27:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/31/realism-the-belief.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/31/the-us-asking.html",
 	      	
 			"content_html": "<p>The US asking for <a href=\"https://www.cbsnews.com/news/visa-applicants-social-media-details-email-addresses-phone-numbers/\">social media details from visa applicants</a> is a terrible policy. Visa rules are usually reciprocal, which means US citizens will soon be expected to do the same when we apply for visas to travel abroad, possibly even putting US citizens in danger as a result!</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>My blog post on “<a href=\"https://anthrodendum.org/2018/03/22/hobbes-the-science-fiction-writer-part-i/\">Hobbes the Science Fiction Writer</a>” got so long I had to split it into two posts. Spoilers from Star Trek: Discovery and Black Panther will be in Part II—the first part only has spoilers for those who haven’t read Hobbes’s Leviathan yet…</p>\n",
 			"date_published": "2018-03-22T15:48:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/22/my-blog-post.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/22/which-chinese-dynasty.html",
-	      	
-			"content_html": "<p><a href=\"http://chinadailyshow.com/which-chinese-dynasty-are-you/\">Which Chinese dynasty are you?</a> “After buying a fine courtyard residence, you build a large wall to prevent anybody else enjoying it, and stop your family getting out. Yet the local teens keep breaking in anyway. How do you respond?”</p>\n",
-			"date_published": "2018-03-22T10:53:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/22/which-chinese-dynasty.html"
 		}
 		
 	]
