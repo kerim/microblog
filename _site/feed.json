@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/03/31/how-not-to.html",
+	      	
+			"content_html": "<p><a href=\"https://www.buzzfeed.com/bfopinion/race-genetics-david-reich?utm_term=.emA8DBWVY#.yu2aQKklE\">How Not To Talk About Race And Genetics</a> (Shane on the @nytimes for not printing this important letter!) #dendum</p>\n",
+			"date_published": "2018-03-31T08:03:00+08:00",
+			"url": "https://micro.oxus.net/2018/03/31/how-not-to.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/03/30/money-lost-each.html",
 	      	
 			"content_html": "<p><a href=\"https://reddit.com/r/dataisbeautiful/comments/88b0be/first_post_money_lost_each_year_to_theft_oc/\">Money lost each year to theft</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/98f1a476c9.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://news.ltn.com.tw/news/world/breakingnews/2372359\">馬克思200歲冥誕化身故鄉德國古城紅綠燈小人</a> (Marx’s birthplace celebrates his 200th with special traffic lights.)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/61d2b10c7e.jpg\" width=\"540\" height=\"303\" /></p>\n",
 			"date_published": "2018-03-21T21:27:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/21/132730.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/21/thinking-about-deletefacebook.html",
-	      	
-			"content_html": "<p>Thinking about #DeleteFacebook? Know that there are a number of excellent alternatives like <a href=\"https://medium.com/tootsuite/deletefacebook-fafdc4090307\">Mastodon</a> and <a href=\"https://micro.oxus.net/2018/02/06/what-is-a.html\">micro.blog</a>. Support open platforms by using them! (And maybe even donate some money to their development.)</p>\n",
-			"date_published": "2018-03-21T12:31:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/21/thinking-about-deletefacebook.html"
 		}
 		
 	]
