@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/02/the-bbcs-civilisations.html",
+	      	
+			"content_html": "<p><a href=\"https://threadreaderapp.com/thread/980467746495492098.html?refreshed=yes\">The BBC’s “Civilisations : The Triumph of Art,” hosted by Simon Schama, is cringeworthy. This is global comparative art history at its worst…</a></p>\n",
+			"date_published": "2018-04-02T12:02:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/02/the-bbcs-civilisations.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/01/anthrodendum-is-now.html",
 	      	
 			"content_html": "<p><a href=\"https://anthrodendum.org/2018/04/01/anthrodendum-is-now-anthroduodenum/\">anthro{dendum} is now anthro{duodenum}!</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.usatoday.com/story/news/nation/2018/03/24/march-our-lives-could-become-biggest-single-day-protest-d-c-nations-history/455675002/\">March for Our Lives could be the biggest single-day protest in D.C.’s history</a></p>\n",
 			"date_published": "2018-03-25T09:08:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/25/march-for-our.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/23/liberals-trump-voters.html",
-	      	
-			"content_html": "<p>Liberals: Trump voters are all unrepentant racists. No point in even talking to them or trying to change how they vote.</p>\n\n<p>Also liberals: Cambridge Analytica and the Russians manipulated unsuspecting voters into supporting Trump.</p>\n",
-			"date_published": "2018-03-24T07:34:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/24/liberals-trump-voters.html"
 		}
 		
 	]
