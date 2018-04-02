@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/02/why-latinx-is.html",
+	      	
+			"content_html": "<p><a href=\"http://time.com/5191804/latinx-definition-meaning-latino-hispanic-gender-neutral/\">Why ‘Latinx’ Is Succeeding While Other Gender-Neutral Terms Fail to Catch On</a></p>\n",
+			"date_published": "2018-04-03T05:41:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/03/why-latinx-is.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/02/anyone-else-notice.html",
 	      	
 			"content_html": "<p>Anyone else notice that the final scene in Black Mirror season 4’s “Metalhead” was an homage to the penultimate shot in Michelangelo Antonioni’s The Passenger? <a href=\"https://www.youtube.com/watch?v=ke2CFuLQ6t8\">www.youtube.com/watch</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://newbloommag.net/2018/03/23/ljavek-monument-eviction/\">Attempts To Evict Ljavek Community Add Insult To Injury</a> “founded by indigenous [Paiwan] migrant workers living in Kaohsiung in 1953… [the] Ljavek community has itself suffered from pollution from a neighboring Formosa Plastics plant for years”</p>\n",
 			"date_published": "2018-03-25T10:13:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/25/attempts-to-evict.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/25/the-powerful-silence.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theatlantic.com/entertainment/archive/2018/03/the-powerful-silence-of-the-march-for-our-lives/556469/\">The Powerful Silence of the March for Our Lives</a></p>\n",
-			"date_published": "2018-03-25T09:37:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/25/the-powerful-silence.html"
 		}
 		
 	]
