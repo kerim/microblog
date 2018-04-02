@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/02/anyone-else-notice.html",
+	      	
+			"content_html": "<p>Anyone else notice that the final scene in Black Mirror season 4’s “Metalhead” was an homage to the penultimate shot in Michelangelo Antonioni’s The Passenger? <a href=\"https://www.youtube.com/watch?v=ke2CFuLQ6t8\">www.youtube.com/watch</a></p>\n",
+			"date_published": "2018-04-02T12:34:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/02/anyone-else-notice.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/02/the-bbcs-civilisations.html",
 	      	
 			"content_html": "<p><a href=\"https://threadreaderapp.com/thread/980467746495492098.html?refreshed=yes\">The BBC’s “Civilisations : The Triumph of Art,” hosted by Simon Schama, is cringeworthy. This is global comparative art history at its worst…</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.theatlantic.com/entertainment/archive/2018/03/the-powerful-silence-of-the-march-for-our-lives/556469/\">The Powerful Silence of the March for Our Lives</a></p>\n",
 			"date_published": "2018-03-25T09:37:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/25/the-powerful-silence.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/25/march-for-our.html",
-	      	
-			"content_html": "<p><a href=\"https://www.usatoday.com/story/news/nation/2018/03/24/march-our-lives-could-become-biggest-single-day-protest-d-c-nations-history/455675002/\">March for Our Lives could be the biggest single-day protest in D.C.’s history</a></p>\n",
-			"date_published": "2018-03-25T09:08:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/25/march-for-our.html"
 		}
 		
 	]
