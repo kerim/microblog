@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/06/finished-the-last.html",
+	      	
+			"content_html": "<p>Finished the last planned @nthrodendum post in my five part series on “working with text files.” This one explores how to “<a href=\"https://anthrodendum.org/2018/04/05/roll-your-own-qda-working-with-text-5/\">Roll Your Own QDA</a>” using an outliner that supports hashtags.</p>\n",
+			"date_published": "2018-04-06T10:58:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/06/finished-the-last.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/05/studio-ghibli-cofounder.html",
 	      	
 			"content_html": "<p><a href=\"https://kotaku.com/grave-of-the-fireflies-director-isao-takahata-dies-at-8-1825028531\">Studio Ghibli Co-Founder Isao Takahata Dies At 82</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>“Because the Uyghur community is watched even outside of China, most Uyghurs are deeply concerned that what they do in public will result in the imprisonment of their family members.” <a href=\"https://anthrodendum.org/2018/03/14/another-scene-in-the-fight-against-islamophobia/\">Read more</a> on @anthrodendum</p>\n",
 			"date_published": "2018-03-26T21:45:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/26/because-the-uyghur.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/26/httpswwwyoutubecomwatchviazaawtzc.html",
-	      	
-			"content_html": "<p>《<a href=\"https://www.youtube.com/watch?v=Ia5ZaaWTZ1c\">我們為什麼不歌唱</a>》關曉榮 1995</p>\n",
-			"date_published": "2018-03-26T14:00:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/26/httpswwwyoutubecomwatchviazaawtzc.html"
 		}
 		
 	]
