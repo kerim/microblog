@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/06/link-to-the.html",
+	      	
+			"content_html": "<p>Link to the archive of my entire “<a href=\"https://anthrodendum.org/tag/working-with-text/?order=asc\">working with text</a>” series on @anthrodendum. Useful tips for text extraction, search, cleanup, power point slides, and data analysis. I focused on basic concepts, not specific tools, but I do mention some useful tools along the way… #dendum</p>\n",
+			"date_published": "2018-04-06T14:38:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/06/link-to-the.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/06/rip-cecil-taylor.html",
 	      	
 			"content_html": "<p>RIP Cecil Taylor <a href=\"https://www.youtube.com/watch?v=8zrYKFmvWc0\">Unit Structures (1966)</a> is still one of my favorite albums. I feel lucky we got to hear him play live.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>📚 One of my favorite books of the past year was <a href=\"https://www.theguardian.com/books/2012/sep/28/black-count-tom-reiss-review\">The Black Count: Glory, Revolution, Betrayal and the Real Count of Monte Cristo</a> by Tom Reiss. Highly recommended!</p>\n",
 			"date_published": "2018-03-27T17:53:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/27/one-of-my.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/26/first-gondi-dictionary.html",
-	      	
-			"content_html": "<p><a href=\"https://www.livemint.com/Politics/CedDmXJQTHYEFHWGUGRRFO/First-Gondi-dictionary-of-over-3000-words-to-help-bridge-ad.html?facet=amp&amp;utm_source=googleamp&amp;utm_medium=referral&amp;utm_campaign=googleamp&amp;__twitter_impression=true\">First Gondi dictionary of over 3,000 words to help bridge administrative gaps</a></p>\n",
-			"date_published": "2018-03-26T22:19:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/26/first-gondi-dictionary.html"
 		}
 		
 	]
