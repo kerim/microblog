@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/06/molly-ringwald-in.html",
+	      	
+			"content_html": "<p>Molly Ringwald, <a href=\"http://www.newyorker.com/culture/personal-history/what-about-the-breakfast-club-molly-ringwald-metoo-john-hughes-pretty-in-pink\">in the New Yorker</a>, asking “How are we meant to feel about art that we both love and oppose?”</p>\n",
+			"date_published": "2018-04-07T07:39:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/07/molly-ringwald-in.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/06/a-handy-tip.html",
 	      	
 			"content_html": "<p>A handy tip for all those trying to register for #AmAnth2018: If you are having trouble with the payment system, try using the Chrome browser on a desktop computer. (Reported by 3 of my panelists who encountered problems during checkout.) cc @AmericanAnthro #dendum</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://displacements.jhu.edu/\">DISPLACEMENTS</a> is a VIRTUAL conference co-organized by the Cultural &amp; Visual Anthropology Societies. April 19–21. Register for $10 to stream 25 hours of multimedia presentations &amp; 17 feature-length anthropological films! Organize a local node, or watch at home. #dendum</p>\n",
 			"date_published": "2018-03-29T10:39:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/29/displacementshttpsdisplacementsjhuedu-is-a.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/28/ice-uses-facebook.html",
-	      	
-			"content_html": "<p><a href=\"http://theintercept.com/2018/03/26/facebook-data-ice-immigration/\">ICE Uses Facebook Data to Find and Track Immigrants, Internal Emails Show</a></p>\n",
-			"date_published": "2018-03-28T16:09:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/28/ice-uses-facebook.html"
 		}
 		
 	]
