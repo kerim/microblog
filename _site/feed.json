@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/08/the-official-twitter.html",
+	      	
+			"content_html": "<p>The official twitter app makes it nearly impossible to use Twitter’s own “lists” function. If Twitter <a href=\"https://www.macstories.net/news/twitter-delays-transition-to-new-api-that-threatens-third-party-clients/\">breaks 3rd party apps</a>, they break my ability to use Twitter. Please continue to support developers! #BreakingMyTwitter</p>\n",
+			"date_published": "2018-04-08T08:40:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/08/the-official-twitter.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/04/08/fellow-dendrite-blogger.html",
+	      	
+			"content_html": "<p>Fellow dendrite (blogger at @anthrodendum) @CMcGranahan is interviewed in the latest <a href=\"[www.haujournal.org/haunet/on...](https://www.haujournal.org/haunet/onlinegods.php)\">Online Gods Podcast</a> (ep 7) about her ethnography of Trump’s Twitter lies #dendum</p>\n",
+			"date_published": "2018-04-08T08:20:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/08/fellow-dendrite-blogger.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/07/obamas-data-analytics.html",
 	      	
 			"content_html": "<p>“Obama’s data analytics researchers were heralded as <a href=\"https://www.forbes.com/sites/kalevleetaru/2018/03/19/why-are-we-only-now-talking-about-facebook-and-elections/#7404eff84838\">technology heroes</a> for the way they modernized how political campaigns wrangle data in the pursuit of votes.”</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.mcsweeneys.net/articles/the-kushner-family-passover-haggadah-2018-edition\">The Kushner Family Passover Haggadah</a> “THE FOUR QUESTIONS: We’ve already addressed these questions pretty extensively and are not going to comment any further than we already have.”</p>\n",
 			"date_published": "2018-03-30T21:54:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/30/the-kushner-family.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/29/the-lefts-embrace.html",
-	      	
-			"content_html": "<p><a href=\"https://www.thenation.com/article/the-lefts-embrace-of-empire/\">The Left’s Embrace of Empire</a> (Forever thinking that the next war will somehow be different …)</p>\n",
-			"date_published": "2018-03-29T22:51:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/29/the-lefts-embrace.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/29/a-detective-is.html",
-	      	
-			"content_html": "<p><a href=\"https://io9.gizmodo.com/a-detective-is-torn-between-two-worlds-in-the-new-trail-1824148522?utm_campaign=socialflow_io9_facebook&amp;utm_source=io9_facebook&amp;utm_medium=socialflow\">A Detective Is Torn Between Two Worlds in the New Trailer for the BBC’s The City and The City Adaptation</a> (I really hope they don’t screw this up…)</p>\n",
-			"date_published": "2018-03-29T18:07:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/29/a-detective-is.html"
 		}
 		
 	]
