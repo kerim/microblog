@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/08/no-innocent-people.html",
+	      	
+			"content_html": "<p><a href=\"http://www.middleeasteye.net/news/no-innocent-people-gaza-says-israeli-defence-minister-1155018849\">‘No innocent people in Gaza’ says Israeli defence minister</a> ~ Judith Butler: “An ungrievable life is one that cannot be mourned because it has never lived, that is, it has never counted as a life at all.”</p>\n",
+			"date_published": "2018-04-09T07:01:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/09/no-innocent-people.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/04/08/george-w-bush.html",
+	      	
+			"content_html": "<p>George W. Bush: “I don’t consider Bolton credible.” <a href=\"https://www.washingtonpost.com/news/global-opinions/wp/2018/03/26/the-world-has-changed-in-the-past-13-years-so-have-my-views-on-john-bolton/?utm_term=.afc1676c9420\">www.washingtonpost.com/news/glob…</a></p>\n",
+			"date_published": "2018-04-09T06:03:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/09/george-w-bush.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/08/indian-government-agency.html",
 	      	
 			"content_html": "<p>Indian government agency postponed seminar on religious pluralism because “there are some papers on tribal religious practices”! <a href=\"http://thewire.in/education/objecting-to-papers-on-adivasi-religion-government-body-cans-philosophy-meet\">thewire.in/education…</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Interesting bit of Taiwan history on film: <a href=\"https://www.youtube.com/watch?v=qm7-XpLZI-E\">Evacuation Of Tachens Ends (1955)</a> (Taiwan history because the evacuees all came to Taiwan, although many went on to the US.)</p>\n",
 			"date_published": "2018-03-31T22:30:00+08:00",
 			"url": "https://micro.oxus.net/2018/03/31/interesting-bit-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/31/realism-the-belief.html",
-	      	
-			"content_html": "<p>“Realism”: The belief that policies which have failed the last hundred times the US intervened militarily will somehow work this one time… Also see “magic.”</p>\n",
-			"date_published": "2018-03-31T20:27:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/31/realism-the-belief.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/03/31/the-us-asking.html",
-	      	
-			"content_html": "<p>The US asking for <a href=\"https://www.cbsnews.com/news/visa-applicants-social-media-details-email-addresses-phone-numbers/\">social media details from visa applicants</a> is a terrible policy. Visa rules are usually reciprocal, which means US citizens will soon be expected to do the same when we apply for visas to travel abroad, possibly even putting US citizens in danger as a result!</p>\n",
-			"date_published": "2018-03-31T13:04:00+08:00",
-			"url": "https://micro.oxus.net/2018/03/31/the-us-asking.html"
 		}
 		
 	]
