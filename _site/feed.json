@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/12/the-daily-mails.html",
+	      	
+			"content_html": "<p><a href=\"http://www.gal-dem.com/gal-dem-supports-priya-gopal/\">The Daily Mail’s attack on Priyamvada Gopal is a disgrace</a> (Sign the statement of support.)</p>\n",
+			"date_published": "2018-04-13T05:44:39+08:00",
+			"url": "https://micro.oxus.net/2018/04/13/the-daily-mails.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/12/china-is-forcing.html",
 	      	
 			"content_html": "<p><a href=\"https://www.buzzfeed.com/meghara/china-surveillance-app\">China Is Forcing People To Download An App That Tells Them To Delete “Dangerous” Photos</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Here’s an idea: why doesn’t the @AmericanAnthro hire some underemployed anthropologists to do an ethnography of the registration process for the annual meeting? #dendum</p>\n",
 			"date_published": "2018-04-03T11:23:07+08:00",
 			"url": "https://micro.oxus.net/2018/04/03/heres-an-idea.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/02/215232.html",
-	      	
-			"content_html": "<p><a href=\"http://africasacountry.com/2015/12/the-return-of-winnie-mandela\">The Return of Winnie Mandela</a> (From 2015, an interesting look at her legacy.)</p>\n",
-			"date_published": "2018-04-03T05:52:32+08:00",
-			"url": "https://micro.oxus.net/2018/04/03/215232.html"
 		}
 		
 	]
