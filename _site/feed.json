@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/12/the-stolen-bicycle.html",
+	      	
+			"content_html": "<p><a href=\"http://themanbookerprize.com/news/stolen-bicycle-interview\">The Stolen Bicycle interview</a></p>\n",
+			"date_published": "2018-04-12T15:19:03+08:00",
+			"url": "https://micro.oxus.net/2018/04/12/the-stolen-bicycle.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/11/jordan-peterson-and.html",
 	      	
 			"content_html": "<p><a href=\"https://supchina.com/2018/04/10/jordan-peterson-and-chinas-white-left/\">Jordan Peterson and China’s ‘white left’</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://time.com/5191804/latinx-definition-meaning-latino-hispanic-gender-neutral/\">Why ‘Latinx’ Is Succeeding While Other Gender-Neutral Terms Fail to Catch On</a></p>\n",
 			"date_published": "2018-04-03T05:41:58+08:00",
 			"url": "https://micro.oxus.net/2018/04/03/why-latinx-is.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/02/anyone-else-notice.html",
-	      	
-			"content_html": "<p>Anyone else notice that the final scene in Black Mirror season 4’s “Metalhead” was an homage to the penultimate shot in Michelangelo Antonioni’s The Passenger? <a href=\"https://www.youtube.com/watch?v=ke2CFuLQ6t8\">www.youtube.com/watch</a></p>\n",
-			"date_published": "2018-04-02T12:34:43+08:00",
-			"url": "https://micro.oxus.net/2018/04/02/anyone-else-notice.html"
 		}
 		
 	]
