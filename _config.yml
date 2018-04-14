@@ -31,6 +31,7 @@ baseurl: ""
 url: "https://micro.oxus.net"
 markdown: "kramdown"
 username: "kerim"
+microblog_user: "kerim"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Kerim Friedman"
