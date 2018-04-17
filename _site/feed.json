@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/17/so-consciousness-is.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/04/13/science/virosphere-evolution.html\">So consciousness is a virus?</a> Can we get inoculated?</p>\n",
+			"date_published": "2018-04-17T11:57:28+08:00",
+			"url": "https://micro.oxus.net/2018/04/17/so-consciousness-is.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/04/17/women-actually-earn.html",
+	      	
+			"content_html": "<p><a href=\"http://peoplespolicyproject.org/2018/04/16/women-actually-earn-around-40-percent-less-than-men/\">Women Actually Earn Around 40 Percent Less Than Men</a></p>\n",
+			"date_published": "2018-04-17T11:51:03+08:00",
+			"url": "https://micro.oxus.net/2018/04/17/women-actually-earn.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/17/from-starbucks-to.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theroot.com/from-starbucks-to-hashtags-we-need-to-talk-about-why-w-1825284087\">From Starbucks to Hashtags: We Need to Talk About Why White Americans Call the Police on Black People</a></p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>The official twitter app makes it nearly impossible to use Twitter’s own “lists” function. If Twitter <a href=\"https://www.macstories.net/news/twitter-delays-transition-to-new-api-that-threatens-third-party-clients/\">breaks 3rd party apps</a>, they break my ability to use Twitter. Please continue to support developers! #BreakingMyTwitter</p>\n",
 			"date_published": "2018-04-08T08:40:02+08:00",
 			"url": "https://micro.oxus.net/2018/04/08/the-official-twitter.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/08/fellow-dendrite-blogger.html",
-	      	
-			"content_html": "<p>Fellow dendrite (blogger at @anthrodendum) @CMcGranahan is interviewed in the latest <a href=\"http://www.fordigitaldignity.com/lies-and-comedy/\">Online Gods Podcast</a> (ep 7) about her ethnography of Trump’s Twitter lies #dendum</p>\n",
-			"date_published": "2018-04-08T08:20:37+08:00",
-			"url": "https://micro.oxus.net/2018/04/08/fellow-dendrite-blogger.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/07/obamas-data-analytics.html",
-	      	
-			"content_html": "<p>“Obama’s data analytics researchers were heralded as <a href=\"https://www.forbes.com/sites/kalevleetaru/2018/03/19/why-are-we-only-now-talking-about-facebook-and-elections/#7404eff84838\">technology heroes</a> for the way they modernized how political campaigns wrangle data in the pursuit of votes.”</p>\n",
-			"date_published": "2018-04-07T15:36:55+08:00",
-			"url": "https://micro.oxus.net/2018/04/07/obamas-data-analytics.html"
 		}
 		
 	]
