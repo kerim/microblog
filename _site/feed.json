@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/17/from-starbucks-to.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theroot.com/from-starbucks-to-hashtags-we-need-to-talk-about-why-w-1825284087\">From Starbucks to Hashtags: We Need to Talk About Why White Americans Call the Police on Black People</a></p>\n",
+			"date_published": "2018-04-17T11:20:54+08:00",
+			"url": "https://micro.oxus.net/2018/04/17/from-starbucks-to.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/04/17/a-beginners-guide.html",
+	      	
+			"content_html": "<p><a href=\"http://lukemuehlhauser.com/a-beginners-guide-to-modern-art-jazz/\">A beginner’s guide to “accessible” modern art jazz</a></p>\n",
+			"date_published": "2018-04-17T11:18:52+08:00",
+			"url": "https://micro.oxus.net/2018/04/17/a-beginners-guide.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/17/a-lesson-from.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theguardian.com/commentisfree/2017/nov/15/lesson-from-syria-chemical-weapons-conspiracy-theories-alt-right\">A lesson from Syria: it’s crucial not to fuel far-right conspiracy theories</a></p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>“Obama’s data analytics researchers were heralded as <a href=\"https://www.forbes.com/sites/kalevleetaru/2018/03/19/why-are-we-only-now-talking-about-facebook-and-elections/#7404eff84838\">technology heroes</a> for the way they modernized how political campaigns wrangle data in the pursuit of votes.”</p>\n",
 			"date_published": "2018-04-07T15:36:55+08:00",
 			"url": "https://micro.oxus.net/2018/04/07/obamas-data-analytics.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/06/molly-ringwald-in.html",
-	      	
-			"content_html": "<p>Molly Ringwald, <a href=\"http://www.newyorker.com/culture/personal-history/what-about-the-breakfast-club-molly-ringwald-metoo-john-hughes-pretty-in-pink\">in the New Yorker</a>, asking “How are we meant to feel about art that we both love and oppose?”</p>\n",
-			"date_published": "2018-04-07T07:39:38+08:00",
-			"url": "https://micro.oxus.net/2018/04/07/molly-ringwald-in.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/06/a-handy-tip.html",
-	      	
-			"content_html": "<p>A handy tip for all those trying to register for #AmAnth2018: If you are having trouble with the payment system, try using the Chrome browser on a desktop computer. (Reported by 3 of my panelists who encountered problems during checkout.) cc @AmericanAnthro #dendum</p>\n",
-			"date_published": "2018-04-06T14:52:18+08:00",
-			"url": "https://micro.oxus.net/2018/04/06/a-handy-tip.html"
 		}
 		
 	]
