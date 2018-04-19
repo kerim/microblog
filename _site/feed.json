@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/19/why-starbucks-shouldnt.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theguardian.com/commentisfree/2018/apr/18/starbucks-misguided-racism-workshops?CMP=share_btn_fb\">Why Starbucks shouldn’t be praised for its misguided racism workshops</a></p>\n",
+			"date_published": "2018-04-19T23:13:04+08:00",
+			"url": "https://micro.oxus.net/2018/04/19/why-starbucks-shouldnt.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/19/visual-anthropology-programs.html",
 	      	
 			"content_html": "<p><a href=\"https://keywords.oxus.net/archives/2018/04/19/visual-anthropology-programs-in-taiwan/\">Visual Anthropology Programs in Taiwan</a></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"http://themanbookerprize.com/news/stolen-bicycle-interview\">The Stolen Bicycle interview</a></p>\n",
 			"date_published": "2018-04-12T15:19:03+08:00",
 			"url": "https://micro.oxus.net/2018/04/12/the-stolen-bicycle.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/11/jordan-peterson-and.html",
-	      	
-			"content_html": "<p><a href=\"https://supchina.com/2018/04/10/jordan-peterson-and-chinas-white-left/\">Jordan Peterson and China’s ‘white left’</a></p>\n",
-			"date_published": "2018-04-12T07:22:12+08:00",
-			"url": "https://micro.oxus.net/2018/04/12/jordan-peterson-and.html"
 		}
 		
 	]
