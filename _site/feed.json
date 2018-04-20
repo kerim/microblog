@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/20/seeking-foreign-money.html",
+	      	
+			"content_html": "<p><a href=\"https://mobile.nytimes.com/2018/04/19/world/asia/elliott-broidy-trump-malaysia-china-guo.html\">Seeking Foreign Money, G.O.P. Donor Pushed for Trump to Golf With Malaysian Premier</a> (Those who think Taiwan should court the White House would do well to read this - especially the part about China - and see exactly what kind of people you are dealing with…)</p>\n",
+			"date_published": "2018-04-20T10:16:11+08:00",
+			"url": "https://micro.oxus.net/2018/04/20/seeking-foreign-money.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/19/why-starbucks-shouldnt.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theguardian.com/commentisfree/2018/apr/18/starbucks-misguided-racism-workshops?CMP=share_btn_fb\">Why Starbucks shouldn’t be praised for its misguided racism workshops</a></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://www.buzzfeed.com/meghara/china-surveillance-app\">China Is Forcing People To Download An App That Tells Them To Delete “Dangerous” Photos</a></p>\n",
 			"date_published": "2018-04-12T19:05:17+08:00",
 			"url": "https://micro.oxus.net/2018/04/12/china-is-forcing.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/12/the-stolen-bicycle.html",
-	      	
-			"content_html": "<p><a href=\"http://themanbookerprize.com/news/stolen-bicycle-interview\">The Stolen Bicycle interview</a></p>\n",
-			"date_published": "2018-04-12T15:19:03+08:00",
-			"url": "https://micro.oxus.net/2018/04/12/the-stolen-bicycle.html"
 		}
 		
 	]
