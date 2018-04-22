@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/22/this-video-goes.html",
+	      	
+			"content_html": "<p>This video goes out to all those who (a) think Trump is a living, breathing, Nazi, and (b) that the US should be pursuing more belligerent military policies right now… <a href=\"https://www.youtube.com/watch?v=hn1VxaMEjRU\">www.youtube.com/watch</a></p>\n",
+			"date_published": "2018-04-22T19:00:12+08:00",
+			"url": "https://micro.oxus.net/2018/04/22/this-video-goes.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/22/wall-street-is.html",
 	      	
 			"content_html": "<p><a href=\"http://www.coha.org/wall-street-embezzlement-puerto-rico/\">Wall Street Is Trying to Embezzle Puerto Rico’s Hurricane Relief Money</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.newstatesman.com/world/2018/04/futile-air-strikes-syria-won-t-defeat-assad-and-putin\">Futile air strikes on Syria won’t defeat Assad and Putin</a></p>\n",
 			"date_published": "2018-04-17T10:53:24+08:00",
 			"url": "https://micro.oxus.net/2018/04/17/futile-air-strikes.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/17/httpsnewtalktwnewsview.html",
-	      	
-			"content_html": "<p><a href=\"https://newtalk.tw/news/view/2017-04-13/84540\">17世紀的人怎麼說閩南語？ 中研院有重大發現</a></p>\n",
-			"date_published": "2018-04-17T10:19:36+08:00",
-			"url": "https://micro.oxus.net/2018/04/17/httpsnewtalktwnewsview.html"
 		}
 		
 	]
