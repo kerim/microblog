@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/23/can-a-womans.html",
+	      	
+			"content_html": "<p><a href=\"http://www.thecut.com/2016/07/female-voice-anxiety-c-v-r.html\">Can a Woman’s Voice Ever Be Right?</a></p>\n",
+			"date_published": "2018-04-23T11:19:32+08:00",
+			"url": "https://micro.oxus.net/2018/04/23/can-a-womans.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/04/23/young-taiwanese-on.html",
+	      	
+			"content_html": "<p><a href=\"http://focustaiwan.tw/news/aftr/201804190011.aspx\">Young Taiwanese on China’s lure, in their own words</a></p>\n",
+			"date_published": "2018-04-23T11:13:52+08:00",
+			"url": "https://micro.oxus.net/2018/04/23/young-taiwanese-on.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/22/snipers-ordered-to.html",
 	      	
 			"content_html": "<p><a href=\"https://electronicintifada.net/blogs/ali-abunimah/snipers-ordered-shoot-children-israeli-general-confirms\">Snipers ordered to shoot children, Israeli general confirms</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.theroot.com/from-starbucks-to-hashtags-we-need-to-talk-about-why-w-1825284087\">From Starbucks to Hashtags: We Need to Talk About Why White Americans Call the Police on Black People</a></p>\n",
 			"date_published": "2018-04-17T11:20:54+08:00",
 			"url": "https://micro.oxus.net/2018/04/17/from-starbucks-to.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/17/a-beginners-guide.html",
-	      	
-			"content_html": "<p><a href=\"http://lukemuehlhauser.com/a-beginners-guide-to-modern-art-jazz/\">A beginner’s guide to “accessible” modern art jazz</a></p>\n",
-			"date_published": "2018-04-17T11:18:52+08:00",
-			"url": "https://micro.oxus.net/2018/04/17/a-beginners-guide.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/17/a-lesson-from.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theguardian.com/commentisfree/2017/nov/15/lesson-from-syria-chemical-weapons-conspiracy-theories-alt-right\">A lesson from Syria: it’s crucial not to fuel far-right conspiracy theories</a></p>\n",
-			"date_published": "2018-04-17T11:03:36+08:00",
-			"url": "https://micro.oxus.net/2018/04/17/a-lesson-from.html"
 		}
 		
 	]
