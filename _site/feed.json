@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/24/httpswwwhrworgzhhansreport.html",
+	      	
+			"content_html": "<p><a href=\"https://www.hrw.org/zh-hans/report/2018/04/23/317205\">中国招聘广告性别歧视</a></p>\n",
+			"date_published": "2018-04-24T19:38:44+08:00",
+			"url": "https://micro.oxus.net/2018/04/24/httpswwwhrworgzhhansreport.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/24/video-chinese-tech.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/04/23/opinion/chinese-tech-sexism.html?action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=opinion-c-col-right-region&amp;region=opinion-c-col-right-region&amp;WT.nav=opinion-c-col-right-region\">Video - Chinese Tech Companies’ Dirty Secret</a> Job ads ‘promising applicants “beautiful girls” as co-workers, labeling them “late night benefits.”’</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>If you criticize one scholar you are a gadfly, criticize a hundred and you are a philosopher.</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/f60bfff7c9.jpg\" width=\"600\" height=\"198\" /></p>\n",
 			"date_published": "2018-04-18T13:33:53+08:00",
 			"url": "https://micro.oxus.net/2018/04/18/if-you-criticize.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/17/michael-cohens-uncle.html",
-	      	
-			"content_html": "<p><a href=\"http://talkingpointsmemo.com/edblog/good-grief-cohens-gets-mobbier-the-closer-i-look\">Michael Cohen’s uncle Morton Levin’s social club was the headquarters of Russian organized crime in the US</a></p>\n",
-			"date_published": "2018-04-18T06:45:15+08:00",
-			"url": "https://micro.oxus.net/2018/04/18/michael-cohens-uncle.html"
 		}
 		
 	]
