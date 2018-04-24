@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/24/dual-citizenship-in.html",
+	      	
+			"content_html": "<p><a href=\"http://features.japantimes.co.jp/dualcitizenship/#.Wt5qt9iWEBQ.facebook\">Dual citizenship in Japan</a></p>\n",
+			"date_published": "2018-04-24T08:16:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/24/dual-citizenship-in.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/04/24/uncanny-renderings-of.html",
+	      	
+			"content_html": "<p><a href=\"https://hyperallergic.com/438396/allan-rubin-canon-delaware-valley-arts-alliance/\">Uncanny Renderings of Art History’s Famous Self-Portraits</a> (Warning: puns)</p>\n",
+			"date_published": "2018-04-24T08:15:00+08:00",
+			"url": "https://micro.oxus.net/2018/04/24/uncanny-renderings-of.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/23/john-bolton-chaired.html",
 	      	
 			"content_html": "<p><a href=\"http://www.nbcnews.com/politics/white-house/john-bolton-chaired-anti-muslim-think-tank-n868171\">John Bolton chaired nonprofit that promoted fake anti-Muslim news</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.theguardian.com/uk-news/2018/apr/17/outrage-over-guide-for-british-residents-being-deported-to-jamaica?CMP=Share_AndroidApp_Facebook\">British residents deported to Jamaica told to ‘put on accent’</a></p>\n",
 			"date_published": "2018-04-17T16:12:45+08:00",
 			"url": "https://micro.oxus.net/2018/04/17/british-residents-deported.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/17/chinas-weibo-just.html",
-	      	
-			"content_html": "<p><a href=\"https://www.buzzfeed.com/meghara/weibo-lgbt-ban?utm_term=.fe2Ok4pKG#.byGDvL4Qo\">China’s Weibo Just Walked Back A Ban On LGBT Content After Users Protested</a></p>\n",
-			"date_published": "2018-04-17T13:22:20+08:00",
-			"url": "https://micro.oxus.net/2018/04/17/chinas-weibo-just.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/17/circumscribing-the-body.html",
-	      	
-			"content_html": "<p><a href=\"https://religionfactor.net/2018/03/29/circumscribing-the-body-politic-circumcision-religious-freedom-and-identity-in-europe/\">Circumscribing the Body Politic: Circumcision, Religious Freedom and Identity in Europe</a> #dendum</p>\n",
-			"date_published": "2018-04-17T13:06:08+08:00",
-			"url": "https://micro.oxus.net/2018/04/17/circumscribing-the-body.html"
 		}
 		
 	]
