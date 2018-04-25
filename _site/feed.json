@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/25/now-teen-vogue.html",
+	      	
+			"content_html": "<p>Now Teen Vogue is covering the story! (Not that this should surprise anyone who has been following Teen Vogue lately…) <a href=\"https://www.teenvogue.com/story/native-tribes-could-lose-federal-recognition-of-tribal-sovereignty-under-trump\">Native Tribes Could Lose Federal Recognition of Tribal Sovereignty Under Trump</a></p>\n",
+			"date_published": "2018-04-25T09:13:50+08:00",
+			"url": "https://micro.oxus.net/2018/04/25/now-teen-vogue.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/24/httpswwwhrworgzhhansreport.html",
 	      	
 			"content_html": "<p><a href=\"https://www.hrw.org/zh-hans/report/2018/04/23/317205\">中国招聘广告性别歧视</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://displacements.jhu.edu/festival/\">Displacements Online Film Festival</a></p>\n",
 			"date_published": "2018-04-18T14:38:31+08:00",
 			"url": "https://micro.oxus.net/2018/04/18/displacements-online-film.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/18/if-you-criticize.html",
-	      	
-			"content_html": "<p>If you criticize one scholar you are a gadfly, criticize a hundred and you are a philosopher.</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/f60bfff7c9.jpg\" width=\"600\" height=\"198\" /></p>\n",
-			"date_published": "2018-04-18T13:33:53+08:00",
-			"url": "https://micro.oxus.net/2018/04/18/if-you-criticize.html"
 		}
 		
 	]
