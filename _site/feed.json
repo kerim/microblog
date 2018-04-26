@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/26/as-far-as.html",
+	      	
+			"content_html": "<p>As far as making the world a better place goes, malaria is low hanging fruit. Visit the <a href=\"https://www.worldmalariaday2018.org/\">World Malaria Day</a> website to see how you can help!</p>\n",
+			"date_published": "2018-04-26T13:00:29+08:00",
+			"url": "https://micro.oxus.net/2018/04/26/as-far-as.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/26/most-cubans-have.html",
 	      	
 			"content_html": "<p><a href=\"https://reddit.com/r/science/comments/8ex7p6/most_cubans_have_no_internet_access_but_get_a/\">Most Cubans have no internet access, but get information &amp; media via “El Paquete” (the weekly package), a 1 Tb collection of info distributed on USB keys.</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://scroll.in/article/876072/they-fought-over-wifi-twitter-laughs-about-tripura-cms-claims-about-internet-in-mahabharata-era\">Internet in Mahabharata: Tripura chief minister Biplab Deb’s comments leave Twitter users in splits</a></p>\n",
 			"date_published": "2018-04-18T18:45:39+08:00",
 			"url": "https://micro.oxus.net/2018/04/18/internet-in-mahabharata.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/18/indigenous-peoples-higher.html",
-	      	
-			"content_html": "<p><a href=\"http://www.ndhu.edu.tw/files/14-1000-125515,r2390-1.php?Lang=EN\">Indigenous Peoples’ Higher Education and New Zealand Connection - National Dong Hwa University</a></p>\n",
-			"date_published": "2018-04-18T18:30:17+08:00",
-			"url": "https://micro.oxus.net/2018/04/18/indigenous-peoples-higher.html"
 		}
 		
 	]
