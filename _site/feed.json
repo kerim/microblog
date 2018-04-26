@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/26/most-cubans-have.html",
+	      	
+			"content_html": "<p><a href=\"https://reddit.com/r/science/comments/8ex7p6/most_cubans_have_no_internet_access_but_get_a/\">Most Cubans have no internet access, but get information &amp; media via “El Paquete” (the weekly package), a 1 Tb collection of info distributed on USB keys.</a></p>\n",
+			"date_published": "2018-04-26T11:19:43+08:00",
+			"url": "https://micro.oxus.net/2018/04/26/most-cubans-have.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/25/now-teen-vogue.html",
 	      	
 			"content_html": "<p>Now Teen Vogue is covering the story! (Not that this should surprise anyone who has been following Teen Vogue lately…) <a href=\"https://www.teenvogue.com/story/native-tribes-could-lose-federal-recognition-of-tribal-sovereignty-under-trump\">Native Tribes Could Lose Federal Recognition of Tribal Sovereignty Under Trump</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://www.ndhu.edu.tw/files/14-1000-125515,r2390-1.php?Lang=EN\">Indigenous Peoples’ Higher Education and New Zealand Connection - National Dong Hwa University</a></p>\n",
 			"date_published": "2018-04-18T18:30:17+08:00",
 			"url": "https://micro.oxus.net/2018/04/18/indigenous-peoples-higher.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/18/displacements-online-film.html",
-	      	
-			"content_html": "<p><a href=\"http://displacements.jhu.edu/festival/\">Displacements Online Film Festival</a></p>\n",
-			"date_published": "2018-04-18T14:38:31+08:00",
-			"url": "https://micro.oxus.net/2018/04/18/displacements-online-film.html"
 		}
 		
 	]
