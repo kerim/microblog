@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/26/063103.html",
+	      	
+			"content_html": "<p><a href=\"https://www.soas.ac.uk/taiwanstudies/indigenous-studies/\">Taiwan Indigenous Studies</a> A talk series (and eventually a book) at SOAS in London.</p>\n",
+			"date_published": "2018-04-26T14:31:03+08:00",
+			"url": "https://micro.oxus.net/2018/04/26/063103.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/26/as-far-as.html",
 	      	
 			"content_html": "<p>As far as making the world a better place goes, malaria is low hanging fruit. Visit the <a href=\"https://www.worldmalariaday2018.org/\">World Malaria Day</a> website to see how you can help!</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.centerforhealthjournalism.org/2018/04/03/treating-racism-biology-problem-totally-ignores-real-forces-perpetuating-it\">When racism is treated as biology, it is also naturalized and taken out of history</a> (The problem with the “bias training” paradigm.)</p>\n",
 			"date_published": "2018-04-19T08:45:55+08:00",
 			"url": "https://micro.oxus.net/2018/04/19/when-racism-is.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/18/internet-in-mahabharata.html",
-	      	
-			"content_html": "<p><a href=\"https://scroll.in/article/876072/they-fought-over-wifi-twitter-laughs-about-tripura-cms-claims-about-internet-in-mahabharata-era\">Internet in Mahabharata: Tripura chief minister Biplab Deb’s comments leave Twitter users in splits</a></p>\n",
-			"date_published": "2018-04-18T18:45:39+08:00",
-			"url": "https://micro.oxus.net/2018/04/18/internet-in-mahabharata.html"
 		}
 		
 	]
