@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/26/meet-the-researcher.html",
+	      	
+			"content_html": "<p><a href=\"http://psmag.com/economics/meet-the-researcher-dispelling-old-myths-about-the-racial-wealth-gap\">Meet the Researcher Dispelling Old Myths About the Racial Wealth Gap</a></p>\n",
+			"date_published": "2018-04-26T18:37:18+08:00",
+			"url": "https://micro.oxus.net/2018/04/26/meet-the-researcher.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/26/063103.html",
 	      	
 			"content_html": "<p><a href=\"https://www.soas.ac.uk/taiwanstudies/indigenous-studies/\">Taiwan Indigenous Studies</a> A talk series (and eventually a book) at SOAS in London.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://keywords.oxus.net/archives/2018/04/19/visual-anthropology-programs-in-taiwan/\">Visual Anthropology Programs in Taiwan</a></p>\n",
 			"date_published": "2018-04-19T17:12:04+08:00",
 			"url": "https://micro.oxus.net/2018/04/19/visual-anthropology-programs.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/19/when-racism-is.html",
-	      	
-			"content_html": "<p><a href=\"https://www.centerforhealthjournalism.org/2018/04/03/treating-racism-biology-problem-totally-ignores-real-forces-perpetuating-it\">When racism is treated as biology, it is also naturalized and taken out of history</a> (The problem with the “bias training” paradigm.)</p>\n",
-			"date_published": "2018-04-19T08:45:55+08:00",
-			"url": "https://micro.oxus.net/2018/04/19/when-racism-is.html"
 		}
 		
 	]
