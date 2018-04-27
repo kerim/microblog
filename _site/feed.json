@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/27/my-latest-anthrodendum.html",
+	      	
+			"content_html": "<p>My latest anthro{dendum} post: <a href=\"https://anthrodendum.org/2018/04/26/we-suck-at-academic-politics/\">We suck at (academic) politics</a></p>\n",
+			"date_published": "2018-04-27T11:46:25+08:00",
+			"url": "https://micro.oxus.net/2018/04/27/my-latest-anthrodendum.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/26/meet-the-researcher.html",
 	      	
 			"content_html": "<p><a href=\"http://psmag.com/economics/meet-the-researcher-dispelling-old-myths-about-the-racial-wealth-gap\">Meet the Researcher Dispelling Old Myths About the Racial Wealth Gap</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.theguardian.com/commentisfree/2018/apr/18/starbucks-misguided-racism-workshops?CMP=share_btn_fb\">Why Starbucks shouldn’t be praised for its misguided racism workshops</a></p>\n",
 			"date_published": "2018-04-19T23:13:04+08:00",
 			"url": "https://micro.oxus.net/2018/04/19/why-starbucks-shouldnt.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/19/visual-anthropology-programs.html",
-	      	
-			"content_html": "<p><a href=\"https://keywords.oxus.net/archives/2018/04/19/visual-anthropology-programs-in-taiwan/\">Visual Anthropology Programs in Taiwan</a></p>\n",
-			"date_published": "2018-04-19T17:12:04+08:00",
-			"url": "https://micro.oxus.net/2018/04/19/visual-anthropology-programs.html"
 		}
 		
 	]
