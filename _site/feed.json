@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/29/for-those-of.html",
+	      	
+			"content_html": "<p>For those of you in London, a chance to see indigenous weaving from Taiwan! <a href=\"https://www.bl.uk/events/atayal-weavers-of-taiwan\">May 12th at the British Library</a>.</p>\n",
+			"date_published": "2018-04-29T15:30:55+08:00",
+			"url": "https://micro.oxus.net/2018/04/29/for-those-of.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/29/a-great-source.html",
 	      	
 			"title": "A great source of online intermediate level Iyengar yoga classes",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"http://focustaiwan.tw/news/aftr/201804190011.aspx\">Young Taiwanese on China’s lure, in their own words</a></p>\n",
 			"date_published": "2018-04-23T11:13:52+08:00",
 			"url": "https://micro.oxus.net/2018/04/23/young-taiwanese-on.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/22/snipers-ordered-to.html",
-	      	
-			"content_html": "<p><a href=\"https://electronicintifada.net/blogs/ali-abunimah/snipers-ordered-shoot-children-israeli-general-confirms\">Snipers ordered to shoot children, Israeli general confirms</a></p>\n",
-			"date_published": "2018-04-23T06:42:39+08:00",
-			"url": "https://micro.oxus.net/2018/04/23/snipers-ordered-to.html"
 		}
 		
 	]
