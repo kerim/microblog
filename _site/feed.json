@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/30/if-you-liked.html",
+	      	
+			"content_html": "<p>If you liked my <a href=\"https://anthrodendum.org/2018/02/22/lazy-powerpoint-working-with-text-4/\">Lazy PowerPoint</a> post, you’ll be happy to know that the latest version of @decksetapp now supports custom themes as well as using standard Markdown headers as slide-separators. #dendum</p>\n",
+			"date_published": "2018-04-30T18:25:38+08:00",
+			"url": "https://micro.oxus.net/2018/04/30/if-you-liked.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/29/abstudent-a-did.html",
 	      	
 			"content_html": "<p>學生A：你小的時候，已經有彩色照相機嗎？\n學生B：你還有那張照片嗎？有同學不相信你以前很帥。\nStudent A: “Did they have color film cameras when you were a kid?”\nStudent B: “Do you have that picture of you in high school? My friend didn’t believe that you used to be good looking.”\n😭😭😭</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>“the Trump administration <a href=\"https://www.politico.com/story/2018/04/22/trump-native-americans-historical-standing-492794\">contends</a> \nthe tribes are a race”</p>\n\n<p>The erasure of the sovereign is the racialization of the “Indian.” - Barker (Sovereignty Matters)</p>\n",
 			"date_published": "2018-04-23T13:20:43+08:00",
 			"url": "https://micro.oxus.net/2018/04/23/the-trump-administration.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/23/can-a-womans.html",
-	      	
-			"content_html": "<p><a href=\"http://www.thecut.com/2016/07/female-voice-anxiety-c-v-r.html\">Can a Woman’s Voice Ever Be Right?</a></p>\n",
-			"date_published": "2018-04-23T11:19:32+08:00",
-			"url": "https://micro.oxus.net/2018/04/23/can-a-womans.html"
 		}
 		
 	]
