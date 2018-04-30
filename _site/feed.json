@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/04/30/httpswwwmpluscomtwarticle.html",
+	      	
+			"content_html": "<p><a href=\"https://www.mplus.com.tw/article/1600\">納粹制定反猶太法時，參考的是美國法</a></p>\n",
+			"date_published": "2018-04-30T20:17:28+08:00",
+			"url": "https://micro.oxus.net/2018/04/30/httpswwwmpluscomtwarticle.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/04/30/in-zora-neale.html",
+	      	
+			"content_html": "<p>In 1931, Zora Neale Hurston sought to publish the story of Cudjo Lewis, the final slave-ship survivor. Instead it languished in a vault. <a href=\"http://www.vulture.com/2018/04/zora-neale-hurston-barracoon-excerpt.html\">Until now</a>. #dendum</p>\n",
+			"date_published": "2018-04-30T18:45:33+08:00",
+			"url": "https://micro.oxus.net/2018/04/30/in-zora-neale.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/30/if-you-liked.html",
 	      	
 			"content_html": "<p>If you liked my <a href=\"https://anthrodendum.org/2018/02/22/lazy-powerpoint-working-with-text-4/\">Lazy PowerPoint</a> post, you’ll be happy to know that the latest version of @decksetapp now supports custom themes as well as using standard Markdown headers as slide-separators. #dendum</p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p><a href=\"http://www.nbcnews.com/politics/white-house/john-bolton-chaired-anti-muslim-think-tank-n868171\">John Bolton chaired nonprofit that promoted fake anti-Muslim news</a></p>\n",
 			"date_published": "2018-04-23T23:14:22+08:00",
 			"url": "https://micro.oxus.net/2018/04/23/john-bolton-chaired.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/23/httpguavanthropologytwarticle.html",
-	      	
-			"content_html": "<p><a href=\"http://guavanthropology.tw/article/6658\">視覺人類學在台灣 - 芭樂人類學</a></p>\n",
-			"date_published": "2018-04-23T13:45:58+08:00",
-			"url": "https://micro.oxus.net/2018/04/23/httpguavanthropologytwarticle.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/23/the-trump-administration.html",
-	      	
-			"content_html": "<p>“the Trump administration <a href=\"https://www.politico.com/story/2018/04/22/trump-native-americans-historical-standing-492794\">contends</a> \nthe tribes are a race”</p>\n\n<p>The erasure of the sovereign is the racialization of the “Indian.” - Barker (Sovereignty Matters)</p>\n",
-			"date_published": "2018-04-23T13:20:43+08:00",
-			"url": "https://micro.oxus.net/2018/04/23/the-trump-administration.html"
 		}
 		
 	]
