@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/01/about-those-articles.html",
+	      	
+			"content_html": "<p>About those articles claiming “collapse” at the <a href=\"https://nucleardiner.wordpress.com/2018/04/29/the-north-korean-nuclear-test-site/\">North Korean Nuclear Test Site</a> forced N. Korea to negotiate. Don’t believe everything you read…</p>\n",
+			"date_published": "2018-05-01T11:33:05+08:00",
+			"url": "https://micro.oxus.net/2018/05/01/about-those-articles.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/04/30/the-big-apples.html",
 	      	
 			"content_html": "<p><a href=\"http://www.taipeitimes.com/News/feat/archives/2018/04/30/2003692229\">The Big Apple’s budding love for Taiwanese food</a></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"http://features.japantimes.co.jp/dualcitizenship/#.Wt5qt9iWEBQ.facebook\">Dual citizenship in Japan</a></p>\n",
 			"date_published": "2018-04-24T08:16:00+08:00",
 			"url": "https://micro.oxus.net/2018/04/24/dual-citizenship-in.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/24/uncanny-renderings-of.html",
-	      	
-			"content_html": "<p><a href=\"https://hyperallergic.com/438396/allan-rubin-canon-delaware-valley-arts-alliance/\">Uncanny Renderings of Art History’s Famous Self-Portraits</a> (Warning: puns)</p>\n",
-			"date_published": "2018-04-24T08:15:00+08:00",
-			"url": "https://micro.oxus.net/2018/04/24/uncanny-renderings-of.html"
 		}
 		
 	]
