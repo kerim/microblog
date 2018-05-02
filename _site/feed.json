@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/02/china-is-mining.html",
+	      	
+			"content_html": "<p><a href=\"http://www.scmp.com/news/china/society/article/2143899/forget-facebook-leak-china-mining-data-directly-workers-brains\">China is mining data directly from workers’ brains on an industrial scale</a></p>\n",
+			"date_published": "2018-05-02T17:19:53+08:00",
+			"url": "https://micro.oxus.net/2018/05/02/china-is-mining.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/05/02/photojournalist-killed-in.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/04/30/world/asia/shah-marai-afghan-photographer-killed.html\">Photojournalist Killed in Kabul Left a Legacy of Images</a></p>\n",
+			"date_published": "2018-05-02T17:18:58+08:00",
+			"url": "https://micro.oxus.net/2018/05/02/photojournalist-killed-in.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/02/really-springer-thats.html",
 	      	
 			"content_html": "<p><a href=\"https://blog.paperpile.com/springer-fake-papers/\">Really Springer? That’s how you “solved” your fake papers problem?</a></p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>Now Teen Vogue is covering the story! (Not that this should surprise anyone who has been following Teen Vogue lately…) <a href=\"https://www.teenvogue.com/story/native-tribes-could-lose-federal-recognition-of-tribal-sovereignty-under-trump\">Native Tribes Could Lose Federal Recognition of Tribal Sovereignty Under Trump</a></p>\n",
 			"date_published": "2018-04-25T09:13:50+08:00",
 			"url": "https://micro.oxus.net/2018/04/25/now-teen-vogue.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/24/httpswwwhrworgzhhansreport.html",
-	      	
-			"content_html": "<p><a href=\"https://www.hrw.org/zh-hans/report/2018/04/23/317205\">中国招聘广告性别歧视</a></p>\n",
-			"date_published": "2018-04-24T19:38:44+08:00",
-			"url": "https://micro.oxus.net/2018/04/24/httpswwwhrworgzhhansreport.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/24/video-chinese-tech.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/04/23/opinion/chinese-tech-sexism.html?action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=opinion-c-col-right-region&amp;region=opinion-c-col-right-region&amp;WT.nav=opinion-c-col-right-region\">Video - Chinese Tech Companies’ Dirty Secret</a> Job ads ‘promising applicants “beautiful girls” as co-workers, labeling them “late night benefits.”’</p>\n",
-			"date_published": "2018-04-24T19:05:25+08:00",
-			"url": "https://micro.oxus.net/2018/04/24/video-chinese-tech.html"
 		}
 		
 	]
