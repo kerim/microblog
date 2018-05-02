@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/02/several-of-cohens.html",
+	      	
+			"content_html": "<p><a href=\"http://www.rollingstone.com/shady-cases-michael-cohen-personal-injury-practice-w519679\">several of Cohen’s clients were affiliated with insurance fraud rings that repeatedly staged “accidents.”</a></p>\n",
+			"date_published": "2018-05-02T18:17:51+08:00",
+			"url": "https://micro.oxus.net/2018/05/02/several-of-cohens.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/02/china-is-mining.html",
 	      	
 			"content_html": "<p><a href=\"http://www.scmp.com/news/china/society/article/2143899/forget-facebook-leak-china-mining-data-directly-workers-brains\">China is mining data directly from workers’ brains on an industrial scale</a></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"https://reddit.com/r/science/comments/8ex7p6/most_cubans_have_no_internet_access_but_get_a/\">Most Cubans have no internet access, but get information &amp; media via “El Paquete” (the weekly package), a 1 Tb collection of info distributed on USB keys.</a></p>\n",
 			"date_published": "2018-04-26T11:19:43+08:00",
 			"url": "https://micro.oxus.net/2018/04/26/most-cubans-have.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/25/now-teen-vogue.html",
-	      	
-			"content_html": "<p>Now Teen Vogue is covering the story! (Not that this should surprise anyone who has been following Teen Vogue lately…) <a href=\"https://www.teenvogue.com/story/native-tribes-could-lose-federal-recognition-of-tribal-sovereignty-under-trump\">Native Tribes Could Lose Federal Recognition of Tribal Sovereignty Under Trump</a></p>\n",
-			"date_published": "2018-04-25T09:13:50+08:00",
-			"url": "https://micro.oxus.net/2018/04/25/now-teen-vogue.html"
 		}
 		
 	]
