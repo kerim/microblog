@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/02/my-dad-has.html",
+	      	
+			"content_html": "<p>My dad has become a blogger! He’s in Scientific American talking about Bill Gates’ efforts to build a safe, waste-free <a href=\"https://blogs.scientificamerican.com/observations/bill-gates-in-search-of-nuclear-nirvana/\">nuclear reactor</a>.</p>\n",
+			"date_published": "2018-05-03T07:01:18+08:00",
+			"url": "https://micro.oxus.net/2018/05/03/my-dad-has.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/05/02/the-uk-revoked.html",
+	      	
+			"content_html": "<p>The UK revoked the visas of tens of thousands of foreign students based on ETS fraud detection software that <a href=\"https://www.ft.com/content/2ae9b7d2-4d0c-11e8-8a8e-22951a2d8493\">turned out to be highly flawed</a></p>\n",
+			"date_published": "2018-05-03T06:57:56+08:00",
+			"url": "https://micro.oxus.net/2018/05/03/the-uk-revoked.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/02/several-of-cohens.html",
 	      	
 			"content_html": "<p><a href=\"http://www.rollingstone.com/shady-cases-michael-cohen-personal-injury-practice-w519679\">several of Cohen’s clients were affiliated with insurance fraud rings that repeatedly staged “accidents.”</a></p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p><a href=\"https://www.soas.ac.uk/taiwanstudies/indigenous-studies/\">Taiwan Indigenous Studies</a> A talk series (and eventually a book) at SOAS in London.</p>\n",
 			"date_published": "2018-04-26T14:31:03+08:00",
 			"url": "https://micro.oxus.net/2018/04/26/063103.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/26/as-far-as.html",
-	      	
-			"content_html": "<p>As far as making the world a better place goes, malaria is low hanging fruit. Visit the <a href=\"https://www.worldmalariaday2018.org/\">World Malaria Day</a> website to see how you can help!</p>\n",
-			"date_published": "2018-04-26T13:00:29+08:00",
-			"url": "https://micro.oxus.net/2018/04/26/as-far-as.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/26/most-cubans-have.html",
-	      	
-			"content_html": "<p><a href=\"https://reddit.com/r/science/comments/8ex7p6/most_cubans_have_no_internet_access_but_get_a/\">Most Cubans have no internet access, but get information &amp; media via “El Paquete” (the weekly package), a 1 Tb collection of info distributed on USB keys.</a></p>\n",
-			"date_published": "2018-04-26T11:19:43+08:00",
-			"url": "https://micro.oxus.net/2018/04/26/most-cubans-have.html"
 		}
 		
 	]
