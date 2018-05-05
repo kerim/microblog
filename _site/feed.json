@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/05/a-simple-way.html",
+	      	
+			"content_html": "<p><a href=\"http://www.nytimes.com/2018/05/05/health/glasses-developing-world-global-health.html\">A Simple Way to Improve a Billion Lives: Eyeglasses</a></p>\n",
+			"date_published": "2018-05-06T06:05:51+08:00",
+			"url": "https://micro.oxus.net/2018/05/06/a-simple-way.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/05/taiwans-government-still.html",
 	      	
 			"content_html": "<p>Taiwan’s government still hasn’t figured out if they are the empire or the rebel alliance … #may4th</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/2014252c7e.jpg\" width=\"600\" height=\"337\" /></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Really impressed with this woman’s ability to apply makeup in a hand mirror while standing on a public bus in Taipei. I can barely manage to stay standing up while holding on for dear life…</p>\n",
 			"date_published": "2018-04-27T13:13:14+08:00",
 			"url": "https://micro.oxus.net/2018/04/27/really-impressed-with.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/27/my-latest-anthrodendum.html",
-	      	
-			"content_html": "<p>My latest anthro{dendum} post: <a href=\"https://anthrodendum.org/2018/04/26/we-suck-at-academic-politics/\">We suck at (academic) politics</a></p>\n",
-			"date_published": "2018-04-27T11:46:25+08:00",
-			"url": "https://micro.oxus.net/2018/04/27/my-latest-anthrodendum.html"
 		}
 		
 	]
