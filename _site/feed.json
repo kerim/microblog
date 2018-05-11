@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/11/how-china-managed.html",
+	      	
+			"content_html": "<p><a href=\"http://foreignpolicy.com/2018/05/09/how-china-managed-to-play-censor-at-a-conference-on-u-s-soil/\">How China Managed to Play Censor at a Conference on U.S. Soil</a> (Taiwan was scrubbed from keynote speaker’s biography)</p>\n",
+			"date_published": "2018-05-11T14:57:10+08:00",
+			"url": "https://micro.oxus.net/2018/05/11/how-china-managed.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/10/supercomputers-are-driving.html",
 	      	
 			"content_html": "<p><a href=\"https://arstechnica.com/science/2018/05/hurricane-forecasts-have-gotten-insanely-better-over-the-last-20-years/\">Supercomputers are driving a revolution in hurricane forecasting</a> “Five-day forecasts are as good now as two-day forecasts were in 1998.”</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>In 1931, Zora Neale Hurston sought to publish the story of Cudjo Lewis, the final slave-ship survivor. Instead it languished in a vault. <a href=\"http://www.vulture.com/2018/04/zora-neale-hurston-barracoon-excerpt.html\">Until now</a>. #dendum</p>\n",
 			"date_published": "2018-04-30T18:45:33+08:00",
 			"url": "https://micro.oxus.net/2018/04/30/in-zora-neale.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/30/if-you-liked.html",
-	      	
-			"content_html": "<p>If you liked my <a href=\"https://anthrodendum.org/2018/02/22/lazy-powerpoint-working-with-text-4/\">Lazy PowerPoint</a> post, you’ll be happy to know that the latest version of @decksetapp now supports custom themes as well as using standard Markdown headers as slide-separators. #dendum</p>\n",
-			"date_published": "2018-04-30T18:25:38+08:00",
-			"url": "https://micro.oxus.net/2018/04/30/if-you-liked.html"
 		}
 		
 	]
