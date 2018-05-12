@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/12/nomadic-tribes-move.html",
+	      	
+			"content_html": "<p><a href=\"http://indianexpress.com/article/india/nomadic-tribes-move-to-grant-constitutional-protection-gathers-pace-5172161/\">Nomadic tribes: Move to grant Constitutional protection gathers pace</a></p>\n",
+			"date_published": "2018-05-12T09:47:54+08:00",
+			"url": "https://micro.oxus.net/2018/05/12/nomadic-tribes-move.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/05/12/the-disavowal-of.html",
+	      	
+			"content_html": "<p><a href=\"http://www.anthropology-news.org/index.php/2018/05/10/the-disavowal-of-henrietta-schmerler/\">The Disavowal of Henrietta Schmerler</a> #dendum #metoo</p>\n",
+			"date_published": "2018-05-12T09:46:59+08:00",
+			"url": "https://micro.oxus.net/2018/05/12/the-disavowal-of.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/11/what-was-not.html",
 	      	
 			"content_html": "<p><a href=\"https://www.npr.org/2018/03/23/595564642/podcast-what-was-not-said\">What Was Not Said</a> (NPR story on Taiwan, the White Terror, and families. Worth a listen.)</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>About those articles claiming “collapse” at the <a href=\"https://nucleardiner.wordpress.com/2018/04/29/the-north-korean-nuclear-test-site/\">North Korean Nuclear Test Site</a> forced N. Korea to negotiate. Don’t believe everything you read…</p>\n",
 			"date_published": "2018-05-01T11:33:05+08:00",
 			"url": "https://micro.oxus.net/2018/05/01/about-those-articles.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/30/the-big-apples.html",
-	      	
-			"content_html": "<p><a href=\"http://www.taipeitimes.com/News/feat/archives/2018/04/30/2003692229\">The Big Apple’s budding love for Taiwanese food</a></p>\n",
-			"date_published": "2018-04-30T22:07:34+08:00",
-			"url": "https://micro.oxus.net/2018/04/30/the-big-apples.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/04/30/httpswwwmpluscomtwarticle.html",
-	      	
-			"content_html": "<p><a href=\"https://www.mplus.com.tw/article/1600\">納粹制定反猶太法時，參考的是美國法</a></p>\n",
-			"date_published": "2018-04-30T20:17:28+08:00",
-			"url": "https://micro.oxus.net/2018/04/30/httpswwwmpluscomtwarticle.html"
 		}
 		
 	]
