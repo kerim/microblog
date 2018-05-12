@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/12/three-key-officials.html",
+	      	
+			"content_html": "<p>Three key officials of the “Taiwan Civil Government” <a href=\"http://focustaiwan.tw/news/asoc/201805110029.aspx\">detained in Ponzi scheme probe</a></p>\n",
+			"date_published": "2018-05-12T19:49:22+08:00",
+			"url": "https://micro.oxus.net/2018/05/12/three-key-officials.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/05/12/indigenous-canadians-sue.html",
+	      	
+			"content_html": "<p><a href=\"https://boingboing.net/2018/05/11/settler-colonialism.html\">Indigenous Canadians sue the US government over decades of secret, involuntary, inhumane medical experiments</a></p>\n",
+			"date_published": "2018-05-12T09:49:25+08:00",
+			"url": "https://micro.oxus.net/2018/05/12/indigenous-canadians-sue.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/12/nomadic-tribes-move.html",
 	      	
 			"content_html": "<p><a href=\"http://indianexpress.com/article/india/nomadic-tribes-move-to-grant-constitutional-protection-gathers-pace-5172161/\">Nomadic tribes: Move to grant Constitutional protection gathers pace</a></p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/04/30/world/asia/shah-marai-afghan-photographer-killed.html\">Photojournalist Killed in Kabul Left a Legacy of Images</a></p>\n",
 			"date_published": "2018-05-02T17:18:58+08:00",
 			"url": "https://micro.oxus.net/2018/05/02/photojournalist-killed-in.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/02/really-springer-thats.html",
-	      	
-			"content_html": "<p><a href=\"https://blog.paperpile.com/springer-fake-papers/\">Really Springer? That’s how you “solved” your fake papers problem?</a></p>\n",
-			"date_published": "2018-05-02T15:52:46+08:00",
-			"url": "https://micro.oxus.net/2018/05/02/really-springer-thats.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/01/about-those-articles.html",
-	      	
-			"content_html": "<p>About those articles claiming “collapse” at the <a href=\"https://nucleardiner.wordpress.com/2018/04/29/the-north-korean-nuclear-test-site/\">North Korean Nuclear Test Site</a> forced N. Korea to negotiate. Don’t believe everything you read…</p>\n",
-			"date_published": "2018-05-01T11:33:05+08:00",
-			"url": "https://micro.oxus.net/2018/05/01/about-those-articles.html"
 		}
 		
 	]
