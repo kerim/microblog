@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/13/the-challenge-of.html",
+	      	
+			"content_html": "<p><a href=\"https://www.chronicle.com/article/The-Erotic-Professor/243401\">the challenge of intensive mentoring amid neoliberal scarcity</a> #dendum</p>\n",
+			"date_published": "2018-05-14T07:41:01+08:00",
+			"url": "https://micro.oxus.net/2018/05/14/the-challenge-of.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/13/taiwan-takes-a.html",
 	      	
 			"content_html": "<p><a href=\"https://thediplomat.com/2018/05/taiwan-takes-a-step-back-with-new-coal-plant/\">Taiwan Takes a Step Back With New Coal Plant</a></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Taiwan’s government still hasn’t figured out if they are the empire or the rebel alliance … #may4th</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/2014252c7e.jpg\" width=\"600\" height=\"337\" /></p>\n",
 			"date_published": "2018-05-05T13:39:25+08:00",
 			"url": "https://micro.oxus.net/2018/05/05/taiwans-government-still.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/03/wowhttpswwwnaturecomarticless-a-new.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nature.com/articles/s41586-018-0072-8\">Wow</a>! A new study pushes back date of earliest known hominin activity in the Philippines by hundreds of thousands of years… #dendum</p>\n",
-			"date_published": "2018-05-03T12:35:05+08:00",
-			"url": "https://micro.oxus.net/2018/05/03/wowhttpswwwnaturecomarticless-a-new.html"
 		}
 		
 	]
