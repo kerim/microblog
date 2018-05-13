@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/13/meet-the-american.html",
+	      	
+			"content_html": "<p><a href=\"https://scroll.in/article/878800/meet-the-american-who-translates-some-of-indias-finest-hindi-writers-into-english\">Meet the American who translates some of India’s finest Hindi writers into English</a></p>\n",
+			"date_published": "2018-05-13T18:59:02+08:00",
+			"url": "https://micro.oxus.net/2018/05/13/meet-the-american.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/13/ever-wish-you.html",
 	      	
 			"content_html": "<p>Ever wish you could do your writing in the Tardis? <a href=\"http://www.openculture.com/2017/03/get-to-sleep-with-42-hours-of-ambient-sounds-from-blade-runner-alien-star-trek-and-doctor-who.html\">Here you go</a>!</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>The UK revoked the visas of tens of thousands of foreign students based on ETS fraud detection software that <a href=\"https://www.ft.com/content/2ae9b7d2-4d0c-11e8-8a8e-22951a2d8493\">turned out to be highly flawed</a></p>\n",
 			"date_published": "2018-05-03T06:57:56+08:00",
 			"url": "https://micro.oxus.net/2018/05/03/the-uk-revoked.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/02/several-of-cohens.html",
-	      	
-			"content_html": "<p><a href=\"http://www.rollingstone.com/shady-cases-michael-cohen-personal-injury-practice-w519679\">several of Cohen’s clients were affiliated with insurance fraud rings that repeatedly staged “accidents.”</a></p>\n",
-			"date_published": "2018-05-02T18:17:51+08:00",
-			"url": "https://micro.oxus.net/2018/05/02/several-of-cohens.html"
 		}
 		
 	]
