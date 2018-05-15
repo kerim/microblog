@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/15/the-town-of.html",
+	      	
+			"content_html": "<p><a href=\"https://ftalphaville.ft.com/2018/05/14/1526270400000/Stop-getting-The-Flintstones-wrong/\">The town of Bedrock, in the Flintstones, had a more advanced monetary policy than what cryptocurrency advocates want.</a></p>\n",
+			"date_published": "2018-05-15T19:08:15+08:00",
+			"url": "https://micro.oxus.net/2018/05/15/the-town-of.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/05/15/msf-doctors-in.html",
+	      	
+			"content_html": "<p>MSF doctors in Gaza: “<a href=\"https://www.doctorswithoutborders.org/article/gaza-avoiding-greater-blood-bath\">The exit wounds are fist-size. Bone is pulverized into dust.</a>”</p>\n",
+			"date_published": "2018-05-15T19:02:38+08:00",
+			"url": "https://micro.oxus.net/2018/05/15/msf-doctors-in.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/15/as-diy-gene.html",
 	      	
 			"content_html": "<p><a href=\"http://www.nytimes.com/2018/05/14/science/biohackers-gene-editing-virus.html\">As D.I.Y. Gene Editing Gains Popularity, ‘Someone Is Going to Get Hurt’</a> “Odin’s Crispr gene-editing kit for $159” 😲😲😲</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>Here are the three key takeaways from <a href=\"https://www.lazard.com/perspective/levelized-cost-of-energy-2017/\">Lazard’s latest annual Levelized Cost of Energy Analysis</a>.</p>\n\n<p>One: “in some scenarios the full-lifecycle costs of building and operating renewables-based projects have dropped below the operating costs alone of conventional generation technologies such as coal or nuclear.”</p>\n\n<p>and</p>\n\n<p>Two: “Global costs of generating electricity from alternative energy technologies continue to decline.”</p>\n\n<p>but….</p>\n\n<p>Three. “alternative energy systems alone will not be capable of meeting the base-load generation needs of a developed economy for the foreseeable future. Therefore, the optimal solution for many regions of the world is to use complementary conventional and alternative energy resources in a diversified generation fleet.”</p>\n",
 			"date_published": "2018-05-08T09:21:52+08:00",
 			"url": "https://micro.oxus.net/2018/05/08/renewables-getting-cheaper.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/07/meet-the-young.html",
-	      	
-			"content_html": "<p><a href=\"https://www.saveur.com/taiwan-hunters\">Meet the Young Indigenous Hunters of Taiwan</a></p>\n",
-			"date_published": "2018-05-08T05:36:14+08:00",
-			"url": "https://micro.oxus.net/2018/05/08/meet-the-young.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/07/tomahawk-chops-and.html",
-	      	
-			"content_html": "<p><a href=\"https://mobile.nytimes.com/2018/05/07/sports/native-american-mascots-europe.html\">Tomahawk Chops and Indian Mascots: In Europe, Teams Don’t See a Problem</a></p>\n",
-			"date_published": "2018-05-08T05:22:04+08:00",
-			"url": "https://micro.oxus.net/2018/05/08/tomahawk-chops-and.html"
 		}
 		
 	]
