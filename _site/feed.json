@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/18/worstacademicdiagrams-dendum.html",
+	      	
+			"content_html": "<p><a href=\"https://mobile.twitter.com/i/moments/997159873304412162\">#WorstAcademicDiagrams</a> #dendum</p>\n",
+			"date_published": "2018-05-18T18:09:49+08:00",
+			"url": "https://micro.oxus.net/2018/05/18/worstacademicdiagrams-dendum.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/17/taiwanese-women-brag.html",
 	      	
 			"content_html": "<p><a href=\"https://www.taiwannews.com.tw/en/news/3431195\">Taiwanese women brag on LINE about not giving domestic workers vacation</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://www.chicagotribune.com/news/opinion/chapman/ct-perspec-chapman-abortion-murder-williamson-homicide-0429-20180427-story.html\">I don’t think abortion is murder, and neither do you</a> (Great way to fight right wing attempts to define the terms of debate!)</p>\n",
 			"date_published": "2018-05-08T12:53:27+08:00",
 			"url": "https://micro.oxus.net/2018/05/08/i-dont-think.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/08/how-american-births.html",
-	      	
-			"content_html": "<p>How American <a href=\"https://anthrodendum.org/2018/05/07/the-labor-of-racism/\">births are marred by racism</a>. Powerful anthro{dendum} post by Dána-Ain Davis.</p>\n",
-			"date_published": "2018-05-08T11:57:38+08:00",
-			"url": "https://micro.oxus.net/2018/05/08/how-american-births.html"
 		}
 		
 	]
