@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/19/085751.html",
+	      	
+			"content_html": "<p>I don’t think I ever shared the final syllabus for the <a href=\"https://kerim.oxus.net/syllabi/sovereignty/\">Ph.D. seminar in sovereignty studies</a> I’m teaching this semester? Here it is! A bit of this, a bit of that, but hopefully a good overall intro to the topic.</p>\n",
+			"date_published": "2018-05-19T16:57:51+08:00",
+			"url": "https://micro.oxus.net/2018/05/19/085751.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/19/so-today-i.html",
 	      	
 			"content_html": "<p>So today I learned that the Chinese translation of The Big Lebowski is “The Green Toe Murder” 《謀殺綠腳趾》. It makes sense, but sounds like a very different kind of film…</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/97fb2d2470.jpg\" width=\"225\" height=\"225\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://arstechnica.com/science/2018/05/hurricane-forecasts-have-gotten-insanely-better-over-the-last-20-years/\">Supercomputers are driving a revolution in hurricane forecasting</a> “Five-day forecasts are as good now as two-day forecasts were in 1998.”</p>\n",
 			"date_published": "2018-05-10T23:14:32+08:00",
 			"url": "https://micro.oxus.net/2018/05/10/supercomputers-are-driving.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/10/does-your-water.html",
-	      	
-			"content_html": "<p><a href=\"http://www.slate.com/articles/technology/technology/2013/03/ionized_and_alkalinized_water_ridiculous_health_fad_debunked.html\">Does Your Water Need More Ions?</a> (No. But expensive filters that ionize &amp; alkalinize your water are still popular in Taiwan…)</p>\n",
-			"date_published": "2018-05-10T19:55:19+08:00",
-			"url": "https://micro.oxus.net/2018/05/10/does-your-water.html"
 		}
 		
 	]
