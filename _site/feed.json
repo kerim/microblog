@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/19/many-people-have.html",
+	      	
+			"content_html": "<p>Many people have watched the film 3 Idiots, but how many people actually drop out of engineering school to <a href=\"https://m.youtube.com/watch?v=7TVHGkV6ZK8\">pursue their dream</a>?</p>\n",
+			"date_published": "2018-05-19T20:54:28+08:00",
+			"url": "https://micro.oxus.net/2018/05/19/many-people-have.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/05/19/what-really-happens.html",
+	      	
+			"content_html": "<p><a href=\"http://www.nytimes.com/2018/05/15/opinion/china-re-education-camps.html\">What Really Happens in China’s ‘Re-education’ Camps</a></p>\n",
+			"date_published": "2018-05-19T20:45:07+08:00",
+			"url": "https://micro.oxus.net/2018/05/19/what-really-happens.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/19/085751.html",
 	      	
 			"content_html": "<p>I don’t think I ever shared the final syllabus for the <a href=\"https://kerim.oxus.net/syllabi/sovereignty/\">Ph.D. seminar in sovereignty studies</a> I’m teaching this semester? Here it is! A bit of this, a bit of that, but hopefully a good overall intro to the topic.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.npr.org/2018/03/23/595564642/podcast-what-was-not-said\">What Was Not Said</a> (NPR story on Taiwan, the White Terror, and families. Worth a listen.)</p>\n",
 			"date_published": "2018-05-11T18:26:11+08:00",
 			"url": "https://micro.oxus.net/2018/05/11/what-was-not.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/11/how-china-managed.html",
-	      	
-			"content_html": "<p><a href=\"http://foreignpolicy.com/2018/05/09/how-china-managed-to-play-censor-at-a-conference-on-u-s-soil/\">How China Managed to Play Censor at a Conference on U.S. Soil</a> (Taiwan was scrubbed from keynote speaker’s biography)</p>\n",
-			"date_published": "2018-05-11T14:57:10+08:00",
-			"url": "https://micro.oxus.net/2018/05/11/how-china-managed.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/10/supercomputers-are-driving.html",
-	      	
-			"content_html": "<p><a href=\"https://arstechnica.com/science/2018/05/hurricane-forecasts-have-gotten-insanely-better-over-the-last-20-years/\">Supercomputers are driving a revolution in hurricane forecasting</a> “Five-day forecasts are as good now as two-day forecasts were in 1998.”</p>\n",
-			"date_published": "2018-05-10T23:14:32+08:00",
-			"url": "https://micro.oxus.net/2018/05/10/supercomputers-are-driving.html"
 		}
 		
 	]
