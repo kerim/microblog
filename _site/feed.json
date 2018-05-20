@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/20/we-are-dying.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theguardian.com/news/2018/may/18/a-suicide-in-gaza\">“We are dying in Gaza anyway. We might as well die being shot,” said a teenager</a></p>\n",
+			"date_published": "2018-05-20T13:55:32+08:00",
+			"url": "https://micro.oxus.net/2018/05/20/we-are-dying.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/05/20/texas-school-had.html",
+	      	
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/national/santa-fe-school-had-a-shooting-plan-armed-officers-and-practice-and-still-10-people-died/2018/05/19/58b1b55e-5b8d-11e8-8b92-45fdd7aaef3c_story.html?noredirect=on&amp;utm_term=.ef09ecb682d4\">Texas school had a shooting plan, armed officers and practice. And still 10 people died.</a></p>\n",
+			"date_published": "2018-05-20T13:50:33+08:00",
+			"url": "https://micro.oxus.net/2018/05/20/texas-school-had.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/19/many-people-have.html",
 	      	
 			"content_html": "<p>Many people have watched the film 3 Idiots, but how many people actually drop out of engineering school to <a href=\"https://m.youtube.com/watch?v=7TVHGkV6ZK8\">pursue their dream</a>?</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"http://indianexpress.com/article/india/nomadic-tribes-move-to-grant-constitutional-protection-gathers-pace-5172161/\">Nomadic tribes: Move to grant Constitutional protection gathers pace</a></p>\n",
 			"date_published": "2018-05-12T09:47:54+08:00",
 			"url": "https://micro.oxus.net/2018/05/12/nomadic-tribes-move.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/12/the-disavowal-of.html",
-	      	
-			"content_html": "<p><a href=\"http://www.anthropology-news.org/index.php/2018/05/10/the-disavowal-of-henrietta-schmerler/\">The Disavowal of Henrietta Schmerler</a> #dendum #metoo</p>\n",
-			"date_published": "2018-05-12T09:46:59+08:00",
-			"url": "https://micro.oxus.net/2018/05/12/the-disavowal-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/11/what-was-not.html",
-	      	
-			"content_html": "<p><a href=\"https://www.npr.org/2018/03/23/595564642/podcast-what-was-not-said\">What Was Not Said</a> (NPR story on Taiwan, the White Terror, and families. Worth a listen.)</p>\n",
-			"date_published": "2018-05-11T18:26:11+08:00",
-			"url": "https://micro.oxus.net/2018/05/11/what-was-not.html"
 		}
 		
 	]
