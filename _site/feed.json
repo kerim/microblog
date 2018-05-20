@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/20/how-indias-welfare.html",
+	      	
+			"content_html": "<p><a href=\"https://www.newyorker.com/news/dispatch/how-indias-welfare-revolution-is-starving-citizens?mbid=social_twitter\">How India’s Welfare Revolution Is Starving Citizens</a></p>\n",
+			"date_published": "2018-05-20T18:51:11+08:00",
+			"url": "https://micro.oxus.net/2018/05/20/how-indias-welfare.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/20/we-are-dying.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theguardian.com/news/2018/may/18/a-suicide-in-gaza\">“We are dying in Gaza anyway. We might as well die being shot,” said a teenager</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://boingboing.net/2018/05/11/settler-colonialism.html\">Indigenous Canadians sue the US government over decades of secret, involuntary, inhumane medical experiments</a></p>\n",
 			"date_published": "2018-05-12T09:49:25+08:00",
 			"url": "https://micro.oxus.net/2018/05/12/indigenous-canadians-sue.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/12/nomadic-tribes-move.html",
-	      	
-			"content_html": "<p><a href=\"http://indianexpress.com/article/india/nomadic-tribes-move-to-grant-constitutional-protection-gathers-pace-5172161/\">Nomadic tribes: Move to grant Constitutional protection gathers pace</a></p>\n",
-			"date_published": "2018-05-12T09:47:54+08:00",
-			"url": "https://micro.oxus.net/2018/05/12/nomadic-tribes-move.html"
 		}
 		
 	]
