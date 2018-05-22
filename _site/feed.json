@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/21/this-is-fascism.html",
+	      	
+			"content_html": "<p>THIS is Fascism: <a href=\"https://www.whitehouse.gov/articles/need-know-violent-animals-ms-13/\">What You Need To Know About The Violent Animals Of MS-13</a></p>\n",
+			"date_published": "2018-05-22T07:47:33+08:00",
+			"url": "https://micro.oxus.net/2018/05/22/this-is-fascism.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/21/last-serpent-shop.html",
 	      	
 			"content_html": "<p><a href=\"https://www.taiwannews.com.tw/en/news/3435964\">Last serpent shop shutters in Taipei’s Snake Alley</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Ever wish you could do your writing in the Tardis? <a href=\"http://www.openculture.com/2017/03/get-to-sleep-with-42-hours-of-ambient-sounds-from-blade-runner-alien-star-trek-and-doctor-who.html\">Here you go</a>!</p>\n",
 			"date_published": "2018-05-13T14:40:02+08:00",
 			"url": "https://micro.oxus.net/2018/05/13/ever-wish-you.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/13/really-excited-for.html",
-	      	
-			"content_html": "<p>Really excited for this special issue of <em>Boundary 2</em> on Taiwan to finally be coming out!</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/4d6ee1f9b3.jpg\" width=\"367\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-13T11:23:42+08:00",
-			"url": "https://micro.oxus.net/2018/05/13/really-excited-for.html"
 		}
 		
 	]
