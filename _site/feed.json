@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/23/tons-of-prescription.html",
+	      	
+			"content_html": "<p><a href=\"https://www.taiwannews.com.tw/en/news/3437177\">193 tons of prescription medication are thrown away in Taiwan per year</a></p>\n",
+			"date_published": "2018-05-23T18:30:12+08:00",
+			"url": "https://micro.oxus.net/2018/05/23/tons-of-prescription.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/05/23/amazon-teams-up.html",
+	      	
+			"content_html": "<p><a href=\"https://www.aclunc.org/blog/amazon-teams-law-enforcement-deploy-dangerous-new-face-recognition-technology\">Amazon Teams Up With Law Enforcement to Deploy Dangerous New Face Recognition Technology</a></p>\n",
+			"date_published": "2018-05-23T18:21:44+08:00",
+			"url": "https://micro.oxus.net/2018/05/23/amazon-teams-up.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/21/this-is-fascism.html",
 	      	
 			"content_html": "<p>THIS is Fascism: <a href=\"https://www.whitehouse.gov/articles/need-know-violent-animals-ms-13/\">What You Need To Know About The Violent Animals Of MS-13</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://m.youtube.com/watch?v=kNr1HBBeCYM\">This is Russia</a></p>\n",
 			"date_published": "2018-05-14T06:26:41+08:00",
 			"url": "https://micro.oxus.net/2018/05/14/this-is-russiahttpsmyoutubecomwatchvknrhbbecym.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/13/meet-the-american.html",
-	      	
-			"content_html": "<p><a href=\"https://scroll.in/article/878800/meet-the-american-who-translates-some-of-indias-finest-hindi-writers-into-english\">Meet the American who translates some of India’s finest Hindi writers into English</a></p>\n",
-			"date_published": "2018-05-13T18:59:02+08:00",
-			"url": "https://micro.oxus.net/2018/05/13/meet-the-american.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/13/ever-wish-you.html",
-	      	
-			"content_html": "<p>Ever wish you could do your writing in the Tardis? <a href=\"http://www.openculture.com/2017/03/get-to-sleep-with-42-hours-of-ambient-sounds-from-blade-runner-alien-star-trek-and-doctor-who.html\">Here you go</a>!</p>\n",
-			"date_published": "2018-05-13T14:40:02+08:00",
-			"url": "https://micro.oxus.net/2018/05/13/ever-wish-you.html"
 		}
 		
 	]
