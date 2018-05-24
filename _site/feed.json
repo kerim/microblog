@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/24/centrists-are-the.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2018/05/23/opinion/international-world/centrists-democracy.html\">Centrists Are the Most Hostile to Democracy, Not Extremists</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/985bfd9822.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-24T11:35:26+08:00",
+			"url": "https://micro.oxus.net/2018/05/24/centrists-are-the.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/05/24/at-their-peak.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.thenation.com/article/there-is-power-in-a-union/\">at their peak, unions were disproportionately made up of the least-skilled workers and people of color.</a>”</p>\n",
+			"date_published": "2018-05-24T11:32:43+08:00",
+			"url": "https://micro.oxus.net/2018/05/24/at-their-peak.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/24/its-not-too.html",
 	      	
 			"content_html": "<p><a href=\"https://trickytaipei.com/save-taipei-times/\">It’s Not Too Late to Save the Taipei Times</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"http://www.aramcoworld.com/en-US/Articles/January-2017/Rousseau-s-Turban\">Rousseau’s Turban</a></p>\n",
 			"date_published": "2018-05-14T10:16:18+08:00",
 			"url": "https://micro.oxus.net/2018/05/14/021618.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/13/the-challenge-of.html",
-	      	
-			"content_html": "<p><a href=\"https://www.chronicle.com/article/The-Erotic-Professor/243401\">the challenge of intensive mentoring amid neoliberal scarcity</a> #dendum</p>\n",
-			"date_published": "2018-05-14T07:41:01+08:00",
-			"url": "https://micro.oxus.net/2018/05/14/the-challenge-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/13/taiwan-takes-a.html",
-	      	
-			"content_html": "<p><a href=\"https://thediplomat.com/2018/05/taiwan-takes-a-step-back-with-new-coal-plant/\">Taiwan Takes a Step Back With New Coal Plant</a></p>\n",
-			"date_published": "2018-05-14T06:32:44+08:00",
-			"url": "https://micro.oxus.net/2018/05/14/taiwan-takes-a.html"
 		}
 		
 	]
