@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/27/was-slavery-a.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/05/24/opinion/second-amendment-slavery-james-madison.html\">Was Slavery a Factor in the Second Amendment?</a> (Yes it was.)</p>\n",
+			"date_published": "2018-05-27T21:52:26+08:00",
+			"url": "https://micro.oxus.net/2018/05/27/was-slavery-a.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/25/everyone-gets-upset.html",
 	      	
 			"content_html": "<p>Everyone gets upset when airlines fail to list Taiwan as a country, but when Taiwan <a href=\"https://international.thenewslens.com/article/96334\">treats its own fishing vessels as if they weren’t part of Taiwan</a> so they can treat workers like slaves…</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://www.nytimes.com/2018/05/14/science/biohackers-gene-editing-virus.html\">As D.I.Y. Gene Editing Gains Popularity, ‘Someone Is Going to Get Hurt’</a> “Odin’s Crispr gene-editing kit for $159” 😲😲😲</p>\n",
 			"date_published": "2018-05-15T18:23:51+08:00",
 			"url": "https://micro.oxus.net/2018/05/15/as-diy-gene.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/15/we-must-speak.html",
-	      	
-			"content_html": "<p><a href=\"https://www.vice.com/en_uk/article/7xm9p4/we-must-speak-up-against-israels-slaughter-in-gaza\">We Must Speak Up Against Israel’s Slaughter in Gaza</a></p>\n",
-			"date_published": "2018-05-15T12:28:02+08:00",
-			"url": "https://micro.oxus.net/2018/05/15/we-must-speak.html"
 		}
 		
 	]
