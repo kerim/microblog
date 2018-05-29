@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/29/effectiveness-of-anonymization.html",
+	      	
+			"content_html": "<p><a href=\"http://cacm.acm.org/magazines/2018/6/228027-effectiveness-of-anonymization-in-double-blind-review/fulltext\">Effectiveness of Anonymization in Double-Blind Review</a> (Non-blind review is biased against women and non-elite institutions.)</p>\n",
+			"date_published": "2018-05-29T11:53:22+08:00",
+			"url": "https://micro.oxus.net/2018/05/29/effectiveness-of-anonymization.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/29/spend-half-an.html",
 	      	
 			"content_html": "<p>Spend half an hour doing my morning writing, or waste time adding emoji to my todo items? You know the answer! 💩🤖👽😻</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://electronicintifada.net/content/future-nakba/24236\">Zionists… have argued that it is the very presence of Arabs in the Jewish state that propels it to enshrine its racism in all these laws.</a></p>\n",
 			"date_published": "2018-05-16T08:55:17+08:00",
 			"url": "https://micro.oxus.net/2018/05/16/zionists-have-argued.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/15/the-town-of.html",
-	      	
-			"content_html": "<p><a href=\"https://ftalphaville.ft.com/2018/05/14/1526270400000/Stop-getting-The-Flintstones-wrong/\">The town of Bedrock, in the Flintstones, had a more advanced monetary policy than what cryptocurrency advocates want.</a></p>\n",
-			"date_published": "2018-05-15T19:08:15+08:00",
-			"url": "https://micro.oxus.net/2018/05/15/the-town-of.html"
 		}
 		
 	]
