@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/05/30/lost-for-words.html",
+	      	
+			"content_html": "<p><a href=\"http://www.taipeitimes.com/News/feat/archives/2018/05/29/2003693907\">Lost for words: language exchange with India - Taipei Times</a></p>\n",
+			"date_published": "2018-05-30T08:52:37+08:00",
+			"url": "https://micro.oxus.net/2018/05/30/lost-for-words.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/05/29/did-the-trump.html",
 	      	
 			"content_html": "<p><a href=\"http://www.nytimes.com/2018/05/28/us/trump-immigrant-children-lost.html\">Did the Trump Administration Separate Immigrant Children From Parents and Lose Them?</a> (Not exactly …)</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://mobile.twitter.com/i/moments/997159873304412162\">#WorstAcademicDiagrams</a> #dendum</p>\n",
 			"date_published": "2018-05-18T18:09:49+08:00",
 			"url": "https://micro.oxus.net/2018/05/18/worstacademicdiagrams-dendum.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/17/taiwanese-women-brag.html",
-	      	
-			"content_html": "<p><a href=\"https://www.taiwannews.com.tw/en/news/3431195\">Taiwanese women brag on LINE about not giving domestic workers vacation</a></p>\n",
-			"date_published": "2018-05-17T11:46:14+08:00",
-			"url": "https://micro.oxus.net/2018/05/17/taiwanese-women-brag.html"
 		}
 		
 	]
