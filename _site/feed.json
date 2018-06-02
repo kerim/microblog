@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/02/china-has-turned.html",
+	      	
+			"content_html": "<p><a href=\"https://www.economist.com/briefing/2018/05/31/china-has-turned-xinjiang-into-a-police-state-like-no-other\">China has turned Xinjiang into a police state like no other</a> (Remember meeting a Uighur in Urumqi in 1990. We had trouble communicating, so he drew me a picture of the Statue of Liberty …)</p>\n",
+			"date_published": "2018-06-02T08:31:05+08:00",
+			"url": "https://micro.oxus.net/2018/06/02/china-has-turned.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/02/why-rich-kids.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theatlantic.com/family/archive/2018/06/marshmallow-test/561779/\">Why Rich Kids Are So Good at the Marshmallow Test</a> (Not mentioned, but another study showed poor mothers are more likely to use inexpensive sweets to reward children…)</p>\n",
+			"date_published": "2018-06-02T08:24:52+08:00",
+			"url": "https://micro.oxus.net/2018/06/02/why-rich-kids.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/01/niall-ferguson-wanted.html",
 	      	
 			"content_html": "<p><a href=\"https://newrepublic.com/minutes/148653/historian-niall-ferguson-collected-opposition-research-stanford-student\">Niall Ferguson wanted opposition research on a student</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>THIS is Fascism: <a href=\"https://www.whitehouse.gov/articles/need-know-violent-animals-ms-13/\">What You Need To Know About The Violent Animals Of MS-13</a></p>\n",
 			"date_published": "2018-05-22T07:47:33+08:00",
 			"url": "https://micro.oxus.net/2018/05/22/this-is-fascism.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/21/last-serpent-shop.html",
-	      	
-			"content_html": "<p><a href=\"https://www.taiwannews.com.tw/en/news/3435964\">Last serpent shop shutters in Taipei’s Snake Alley</a></p>\n",
-			"date_published": "2018-05-21T17:39:47+08:00",
-			"url": "https://micro.oxus.net/2018/05/21/last-serpent-shop.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/20/israel-and-evangelicals.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/05/19/world/middleeast/netanyahu-evangelicals-embassy.html\">Israel and Evangelicals: New U.S. Embassy Signals a Growing Alliance</a></p>\n",
-			"date_published": "2018-05-20T23:12:05+08:00",
-			"url": "https://micro.oxus.net/2018/05/20/israel-and-evangelicals.html"
 		}
 		
 	]
