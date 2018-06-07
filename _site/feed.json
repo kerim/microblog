@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/07/india-bars-pakistani.html",
+	      	
+			"content_html": "<p><a href=\"https://thewire.in/diplomacy/india-bars-pakistani-academics-from-attending-asian-studies-conference\">India Bars Pakistani Academics From Attending Asian Studies Conference</a></p>\n",
+			"date_published": "2018-06-07T18:13:50+08:00",
+			"url": "https://micro.oxus.net/2018/06/07/india-bars-pakistani.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/06/my-favorite-new.html",
 	      	
 			"title": "My favorite new iOS feature: Bedtime Mode",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"http://www.nytimes.com/2018/05/28/us/trump-immigrant-children-lost.html\">Did the Trump Administration Separate Immigrant Children From Parents and Lose Them?</a> (Not exactly …)</p>\n",
 			"date_published": "2018-05-29T12:29:25+08:00",
 			"url": "https://micro.oxus.net/2018/05/29/did-the-trump.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/29/effectiveness-of-anonymization.html",
-	      	
-			"content_html": "<p><a href=\"http://cacm.acm.org/magazines/2018/6/228027-effectiveness-of-anonymization-in-double-blind-review/fulltext\">Effectiveness of Anonymization in Double-Blind Review</a> (Non-blind review is biased against women and non-elite institutions.)</p>\n",
-			"date_published": "2018-05-29T11:53:22+08:00",
-			"url": "https://micro.oxus.net/2018/05/29/effectiveness-of-anonymization.html"
 		}
 		
 	]
