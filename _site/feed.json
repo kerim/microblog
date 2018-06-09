@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/09/ive-never-read.html",
+	      	
+			"content_html": "<p>I’ve never read or watched anything by Anthony Bourdain but, from the reactions I’ve seen, it seems his greatest claim to fame was being a basically decent human being? I guess such decency is in short supply…</p>\n",
+			"date_published": "2018-06-09T10:56:03+08:00",
+			"url": "https://micro.oxus.net/2018/06/09/ive-never-read.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/09/useful-website-cpecwire.html",
+	      	
+			"content_html": "<p>Useful website @CPECWire is “dedicated to tracking and assessing the China-Pakistan Economic Corridor” <a href=\"http://www.cpecwire.com/\">www.cpecwire.com</a></p>\n",
+			"date_published": "2018-06-09T09:46:58+08:00",
+			"url": "https://micro.oxus.net/2018/06/09/useful-website-cpecwire.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/08/how-should-the.html",
 	      	
 			"content_html": "<p><a href=\"http://www.chinafile.com/conversation/how-should-world-respond-intensifying-repression-xinjiang\">How Should the World Respond to Intensifying Repression in Xinjiang?</a></p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><a href=\"http://www.dailymail.co.uk/news/article-5785643/Last-Rabbit-Proof-Fence-sisters-dies-age-95.html\">Last of Rabbit-Proof Fence sisters Daisy Kadibil dies age 95</a></p>\n",
 			"date_published": "2018-06-01T15:32:08+08:00",
 			"url": "https://micro.oxus.net/2018/06/01/last-of-rabbitproof.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/31/i-used-to.html",
-	      	
-			"content_html": "<p>“<a href=\"http://www.vox.com/first-person/2018/5/30/17406092/race-911-white-lady-calls-police-on-black-family-bbq-oakland\">I used to be a 911 dispatcher. I had to respond to racist calls every day</a>”</p>\n",
-			"date_published": "2018-06-01T07:53:22+08:00",
-			"url": "https://micro.oxus.net/2018/06/01/i-used-to.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/05/31/say-hello-to.html",
-	      	
-			"content_html": "<p><a href=\"http://www.theguardian.com/commentisfree/2018/may/29/justin-trudeau-world-newest-oil-executive-kinder-morgan\">Say hello to Justin Trudeau, the world’s newest oil executive</a></p>\n",
-			"date_published": "2018-05-31T13:06:37+08:00",
-			"url": "https://micro.oxus.net/2018/05/31/say-hello-to.html"
 		}
 		
 	]
