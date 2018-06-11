@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/11/meet-the-guys.html",
+	      	
+			"content_html": "<p><a href=\"https://www.politico.com/story/2018/06/10/trump-papers-filing-system-635164\">Meet the guys who tape Trump’s papers back together</a> “The president’s unofficial ‘filing system’ involves tearing up documents into pieces, even when they’re supposed to be preserved.”</p>\n",
+			"date_published": "2018-06-11T10:25:32+08:00",
+			"url": "https://micro.oxus.net/2018/06/11/meet-the-guys.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/09/precarity-isnt-the.html",
+	      	
+			"content_html": "<p>“<a href=\"https://lbo-news.com/2018/06/07/no-its-not-a-gig-economy/\">Precarity isn’t the major problem in the American labor market. It’s that wages are stagnant or worse</a>”</p>\n",
+			"date_published": "2018-06-09T13:05:34+08:00",
+			"url": "https://micro.oxus.net/2018/06/09/precarity-isnt-the.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/09/ive-never-read.html",
 	      	
 			"content_html": "<p>I’ve never read or watched anything by Anthony Bourdain but, from the reactions I’ve seen, it seems his greatest claim to fame was being a basically decent human being? I guess such decency is in short supply…</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><a href=\"https://electronicintifada.net/content/finding-truth-amid-israels-lies/24531\">Going beyond the archival documents about the Nakba</a></p>\n",
 			"date_published": "2018-06-01T17:49:42+08:00",
 			"url": "https://micro.oxus.net/2018/06/01/going-beyond-the.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/01/its-not-just.html",
-	      	
-			"content_html": "<p>“it’s not just a matter of people naturally growing more conservative as they grow older. It’s also a matter of the wealthier — and more conservative — people surviving … longer.”  <a href=\"http://nymag.com/daily/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html?utm_source=fb&amp;utm_medium=s3&amp;utm_campaign=sharebutton-b\">nymag</a></p>\n",
-			"date_published": "2018-06-01T17:42:44+08:00",
-			"url": "https://micro.oxus.net/2018/06/01/its-not-just.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/01/last-of-rabbitproof.html",
-	      	
-			"content_html": "<p><a href=\"http://www.dailymail.co.uk/news/article-5785643/Last-Rabbit-Proof-Fence-sisters-dies-age-95.html\">Last of Rabbit-Proof Fence sisters Daisy Kadibil dies age 95</a></p>\n",
-			"date_published": "2018-06-01T15:32:08+08:00",
-			"url": "https://micro.oxus.net/2018/06/01/last-of-rabbitproof.html"
 		}
 		
 	]
