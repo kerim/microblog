@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/11/why-do-we.html",
+	      	
+			"content_html": "<p><a href=\"http://www.thehindu.com/thehindu/edu/2003/02/18/stories/2003021800030205.htm\">Why do we say “movie buff” and “computer buff”?</a></p>\n",
+			"date_published": "2018-06-11T23:40:01+08:00",
+			"url": "https://micro.oxus.net/2018/06/11/why-do-we.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/11/meet-the-guys.html",
 	      	
 			"content_html": "<p><a href=\"https://www.politico.com/story/2018/06/10/trump-papers-filing-system-635164\">Meet the guys who tape Trump’s papers back together</a> “The president’s unofficial ‘filing system’ involves tearing up documents into pieces, even when they’re supposed to be preserved.”</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"http://www.washingtonpost.com/national/harvard-study-estimates-thousands-died-in-puerto-rico-due-to-hurricane-maria/2018/05/29/1a82503a-6070-11e8-a4a4-c070ef53f315_story.html\">Harvard study estimates thousands died in Puerto Rico because of Hurricane Maria</a></p>\n",
 			"date_published": "2018-06-01T17:52:58+08:00",
 			"url": "https://micro.oxus.net/2018/06/01/harvard-study-estimates.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/01/going-beyond-the.html",
-	      	
-			"content_html": "<p><a href=\"https://electronicintifada.net/content/finding-truth-amid-israels-lies/24531\">Going beyond the archival documents about the Nakba</a></p>\n",
-			"date_published": "2018-06-01T17:49:42+08:00",
-			"url": "https://micro.oxus.net/2018/06/01/going-beyond-the.html"
 		}
 		
 	]
