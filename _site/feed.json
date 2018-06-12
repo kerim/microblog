@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/12/dennis-banks-native.html",
+	      	
+			"content_html": "<p><a href=\"http://dailynativenews.site/2018/03/dennis-banks-native-american-activist-and-wounded-knee-occupier-dies-at-80\">Dennis Banks, Native American Activist And Wounded Knee Occupier, Dies At 80</a></p>\n",
+			"date_published": "2018-06-12T23:34:52+08:00",
+			"url": "https://micro.oxus.net/2018/06/12/dennis-banks-native.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/12/bernie-sanders-criticism.html",
+	      	
+			"content_html": "<p><a href=\"https://forward.com/opinion/402885/bernie-sanders-criticism-of-israel-is-radical-and-hes-taking-it-mainstream/\">Bernie Sanders’ Criticism Of Israel Is Radical. And He’s Taking It Mainstream</a></p>\n",
+			"date_published": "2018-06-12T13:30:35+08:00",
+			"url": "https://micro.oxus.net/2018/06/12/bernie-sanders-criticism.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/11/why-do-we.html",
 	      	
 			"content_html": "<p><a href=\"http://www.thehindu.com/thehindu/edu/2003/02/18/stories/2003021800030205.htm\">Why do we say “movie buff” and “computer buff”?</a></p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><a href=\"https://newrepublic.com/minutes/148653/historian-niall-ferguson-collected-opposition-research-stanford-student\">Niall Ferguson wanted opposition research on a student</a></p>\n",
 			"date_published": "2018-06-01T22:06:23+08:00",
 			"url": "https://micro.oxus.net/2018/06/01/niall-ferguson-wanted.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/01/a-genetically-modified.html",
-	      	
-			"content_html": "<p><a href=\"http://www.vox.com/science-and-health/2018/5/31/17344406/crispr-mosquito-malaria-gene-drive-editing-target-africa-regulation-gmo\">A genetically modified organism could end malaria and save millions of lives \\— if we decide to use it</a></p>\n",
-			"date_published": "2018-06-01T17:57:55+08:00",
-			"url": "https://micro.oxus.net/2018/06/01/a-genetically-modified.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/01/harvard-study-estimates.html",
-	      	
-			"content_html": "<p><a href=\"http://www.washingtonpost.com/national/harvard-study-estimates-thousands-died-in-puerto-rico-due-to-hurricane-maria/2018/05/29/1a82503a-6070-11e8-a4a4-c070ef53f315_story.html\">Harvard study estimates thousands died in Puerto Rico because of Hurricane Maria</a></p>\n",
-			"date_published": "2018-06-01T17:52:58+08:00",
-			"url": "https://micro.oxus.net/2018/06/01/harvard-study-estimates.html"
 		}
 		
 	]
