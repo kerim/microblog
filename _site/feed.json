@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/13/why-of-florida.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2016/10/06/us/unequal-effect-of-laws-that-block-felons-from-voting.html\">Why 10% of Florida Adults Can’t Vote: How Felony Convictions Affect Access to the Ballot</a></p>\n",
+			"date_published": "2018-06-13T17:36:47+08:00",
+			"url": "https://micro.oxus.net/2018/06/13/why-of-florida.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/12/dennis-banks-native.html",
 	      	
 			"content_html": "<p><a href=\"http://dailynativenews.site/2018/03/dennis-banks-native-american-activist-and-wounded-knee-occupier-dies-at-80\">Dennis Banks, Native American Activist And Wounded Knee Occupier, Dies At 80</a></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://www.theatlantic.com/family/archive/2018/06/marshmallow-test/561779/\">Why Rich Kids Are So Good at the Marshmallow Test</a> (Not mentioned, but another study showed poor mothers are more likely to use inexpensive sweets to reward children…)</p>\n",
 			"date_published": "2018-06-02T08:24:52+08:00",
 			"url": "https://micro.oxus.net/2018/06/02/why-rich-kids.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/01/niall-ferguson-wanted.html",
-	      	
-			"content_html": "<p><a href=\"https://newrepublic.com/minutes/148653/historian-niall-ferguson-collected-opposition-research-stanford-student\">Niall Ferguson wanted opposition research on a student</a></p>\n",
-			"date_published": "2018-06-01T22:06:23+08:00",
-			"url": "https://micro.oxus.net/2018/06/01/niall-ferguson-wanted.html"
 		}
 		
 	]
