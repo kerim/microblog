@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/14/a-very-useful.html",
+	      	
+			"content_html": "<p>A very useful <a href=\"https://twitter.com/hilaryagro/status/1006995504205459456\">Twitter thread</a> by @hilaryagro. It lists almost everything that has happened regarding the anthropology journal HAU in the past few days in chronological order.</p>\n",
+			"date_published": "2018-06-14T15:16:38+08:00",
+			"url": "https://micro.oxus.net/2018/06/14/a-very-useful.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/13/why-of-florida.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2016/10/06/us/unequal-effect-of-laws-that-block-felons-from-voting.html\">Why 10% of Florida Adults Can’t Vote: How Felony Convictions Affect Access to the Ballot</a></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://www.economist.com/briefing/2018/05/31/china-has-turned-xinjiang-into-a-police-state-like-no-other\">China has turned Xinjiang into a police state like no other</a> (Remember meeting a Uighur in Urumqi in 1990. We had trouble communicating, so he drew me a picture of the Statue of Liberty …)</p>\n",
 			"date_published": "2018-06-02T08:31:05+08:00",
 			"url": "https://micro.oxus.net/2018/06/02/china-has-turned.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/02/why-rich-kids.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theatlantic.com/family/archive/2018/06/marshmallow-test/561779/\">Why Rich Kids Are So Good at the Marshmallow Test</a> (Not mentioned, but another study showed poor mothers are more likely to use inexpensive sweets to reward children…)</p>\n",
-			"date_published": "2018-06-02T08:24:52+08:00",
-			"url": "https://micro.oxus.net/2018/06/02/why-rich-kids.html"
 		}
 		
 	]
