@@ -6,6 +6,54 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/15/the-hau-kerfuffle.html",
+	      	
+			"content_html": "<p>The HAU kerfuffle has been <a href=\"https://www.insidehighered.com/news/2018/06/15/promising-open-access-anthropology-journal-moves-modified-subscription-service-amid\">written up</a> by Colleen Flaherty for Inside Higher Ed.</p>\n",
+			"date_published": "2018-06-15T19:44:50+08:00",
+			"url": "https://micro.oxus.net/2018/06/15/the-hau-kerfuffle.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/15/how-people-close.html",
+	      	
+			"content_html": "<p><a href=\"https://theintercept.com/2018/06/14/joe-crowley-congress-new-york/\">How People Close to Joe Crowley Have Gotten Rich While the Queens Boss has Risen in Congress</a></p>\n",
+			"date_published": "2018-06-15T18:21:31+08:00",
+			"url": "https://micro.oxus.net/2018/06/15/how-people-close.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/15/whats-going-on.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theatlantic.com/education/archive/2018/06/new-york-high-schools-stuyvesant-brooklyn-bronx/562772/\">What’s Going On With New York’s Elite Public High Schools?</a></p>\n",
+			"date_published": "2018-06-15T18:01:06+08:00",
+			"url": "https://micro.oxus.net/2018/06/15/whats-going-on.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/15/obamas-dubious-detention.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2016/07/18/opinion/mr-obamas-dubious-detention-centers.html\">Obama’s Dubious Detention Centers</a> (NY Times editorial from 2016…)</p>\n",
+			"date_published": "2018-06-15T16:26:04+08:00",
+			"url": "https://micro.oxus.net/2018/06/15/obamas-dubious-detention.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/14/uyghur-pop-star.html",
+	      	
+			"content_html": "<p><a href=\"http://freemuse.org/news/uyghur-pop-star-detained-in-china/\">Uyghur pop star detained in China</a> “the reason for Ablajan’s detention was simply that he ‘promoted Uyghur culture and identity’”</p>\n",
+			"date_published": "2018-06-14T19:19:57+08:00",
+			"url": "https://micro.oxus.net/2018/06/14/uyghur-pop-star.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/14/dr-ruth-dr.html",
+	      	
+			"content_html": "<p><a href=\"https://www.newyorker.com/news/daily-comment/dr-ruth-dr-kissinger-and-trumps-cruelty-to-families\">Dr. Ruth, Dr. Kissinger, and Trump’s Cruelty to Families</a></p>\n",
+			"date_published": "2018-06-14T19:17:41+08:00",
+			"url": "https://micro.oxus.net/2018/06/14/dr-ruth-dr.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/14/a-very-useful.html",
 	      	
 			"content_html": "<p>A very useful <a href=\"https://twitter.com/hilaryagro/status/1006995504205459456\">Twitter thread</a> by @hilaryagro. It lists almost everything that has happened regarding the anthropology journal HAU in the past few days in chronological order.</p>\n",
@@ -157,54 +205,6 @@
 			"content_html": "<p><a href=\"http://jacobinmag.com/2018/06/trans-mountain-pipeline-justin-trudeau-climate\">Justin Trudeau’s Pipeline Boondoggle</a></p>\n",
 			"date_published": "2018-06-03T09:18:43+08:00",
 			"url": "https://micro.oxus.net/2018/06/03/justin-trudeaus-pipeline.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/02/palestinian-medic-killed.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/video/world/middleeast/100000005932394/palestinian-medic-killed-at-gaza-protest.html\">Palestinian Medic Killed at Gaza Protest - Video</a></p>\n",
-			"date_published": "2018-06-02T21:30:44+08:00",
-			"url": "https://micro.oxus.net/2018/06/02/palestinian-medic-killed.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/02/heres-the-starbucks.html",
-	      	
-			"content_html": "<p><a href=\"https://boingboing.net/2018/06/01/heres-the-starbucks-racial-b.html#more-600351\">Here’s the Starbucks racial bias training video employees saw</a> (I hope someone subtitles this in Chinese, it would be useful to use in class here in Taiwan, where there is little understanding of this issue.)</p>\n",
-			"date_published": "2018-06-02T13:46:30+08:00",
-			"url": "https://micro.oxus.net/2018/06/02/heres-the-starbucks.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/02/its-only-hair.html",
-	      	
-			"content_html": "<p><a href=\"https://vimeo.com/272585937\">It’s Only Hair</a> (Animated ethnography from the anthropology department at Goldsmiths.)</p>\n",
-			"date_published": "2018-06-02T12:20:01+08:00",
-			"url": "https://micro.oxus.net/2018/06/02/its-only-hair.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/02/fema-paid-millions.html",
-	      	
-			"content_html": "<p><a href=\"http://wlrn.org/post/fema-paid-millions-half-empty-floating-hotel-after-hurricane-maria\">FEMA Paid Millions For Half-Empty ‘Floating Hotel’ After Hurricane Maria</a></p>\n",
-			"date_published": "2018-06-02T10:41:14+08:00",
-			"url": "https://micro.oxus.net/2018/06/02/fema-paid-millions.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/02/wave-of-murders.html",
-	      	
-			"content_html": "<p><a href=\"https://newbloommag.net/2018/06/01/murder-toxic-masculinity/\">Wave Of Murders In Past Month Has Its Roots In Toxic Masculinity In Taiwanese Society</a></p>\n",
-			"date_published": "2018-06-02T10:38:21+08:00",
-			"url": "https://micro.oxus.net/2018/06/02/wave-of-murders.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/02/china-has-turned.html",
-	      	
-			"content_html": "<p><a href=\"https://www.economist.com/briefing/2018/05/31/china-has-turned-xinjiang-into-a-police-state-like-no-other\">China has turned Xinjiang into a police state like no other</a> (Remember meeting a Uighur in Urumqi in 1990. We had trouble communicating, so he drew me a picture of the Statue of Liberty …)</p>\n",
-			"date_published": "2018-06-02T08:31:05+08:00",
-			"url": "https://micro.oxus.net/2018/06/02/china-has-turned.html"
 		}
 		
 	]
