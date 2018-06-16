@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/16/the-name-hau.html",
+	      	
+			"content_html": "<p>“The name Hau also reflects a wider problem with how indigenous culture gets discussed in anthropology.” Catherine Trundle in <a href=\"https://www.facebook.com/permalink.php?story_fbid=10102786312220140&amp;id=36917197\">a public FB post</a>. #hautalk #dendum</p>\n",
+			"date_published": "2018-06-16T11:22:42+08:00",
+			"url": "https://micro.oxus.net/2018/06/16/the-name-hau.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/16/this-is-a.html",
+	      	
+			"content_html": "<p>“this is a project that engages indigenous ideas, not actual indigenous people” Alex Golub, in 2012, on the whole “<a href=\"https://savageminds.org/2012/02/03/hau-and-the-opening-of-ethnographic-theory/\">ethnographic theory</a>” project behind HAU. #hautalk #dendum</p>\n",
+			"date_published": "2018-06-16T11:20:49+08:00",
+			"url": "https://micro.oxus.net/2018/06/16/this-is-a.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/15/the-hau-kerfuffle.html",
 	      	
 			"content_html": "<p>The HAU kerfuffle has been <a href=\"https://www.insidehighered.com/news/2018/06/15/promising-open-access-anthropology-journal-moves-modified-subscription-service-amid\">written up</a> by Colleen Flaherty for Inside Higher Ed.</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><a href=\"https://eand.co/why-america-is-the-worlds-first-poor-rich-country-17f5a80e444a\">Why America is the World’s First Poor Rich Country</a> (I don’t know if this phenomenon is really so new or unique, but it is an important part of the story and, as others have pointed out, especially true of the regions - if not the people - that voted for Trump.)</p>\n",
 			"date_published": "2018-06-04T06:36:30+08:00",
 			"url": "https://micro.oxus.net/2018/06/04/why-america-is.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/03/israel-says-it.html",
-	      	
-			"content_html": "<p><a href=\"https://www.timesofisrael.com/israel-says-it-wont-recognize-ugandan-jewish-community-report/\">Israel says it won’t recognize Ugandan Jewish community</a> (From what I know about the Abuyudaya, they are more Jewish than I am, unless your definition of “Jewish” is based on 19th century notions of racial purity …)</p>\n",
-			"date_published": "2018-06-03T09:55:55+08:00",
-			"url": "https://micro.oxus.net/2018/06/03/israel-says-it.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/03/justin-trudeaus-pipeline.html",
-	      	
-			"content_html": "<p><a href=\"http://jacobinmag.com/2018/06/trans-mountain-pipeline-justin-trudeau-climate\">Justin Trudeau’s Pipeline Boondoggle</a></p>\n",
-			"date_published": "2018-06-03T09:18:43+08:00",
-			"url": "https://micro.oxus.net/2018/06/03/justin-trudeaus-pipeline.html"
 		}
 		
 	]
