@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/19/google-released-this.html",
+	      	
+			"content_html": "<p>Google released <a href=\"https://lifehacker.com/google-drive-can-now-open-files-directly-in-your-deskto-1655019365\">this incredibly useful extension</a> 4 years ago, how come I only learned about it now?</p>\n",
+			"date_published": "2018-06-19T10:46:53+08:00",
+			"url": "https://micro.oxus.net/2018/06/19/google-released-this.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/19/trump-job-approval.html",
+	      	
+			"content_html": "<p><a href=\"https://news.gallup.com/poll/235751/trump-job-approval-tying-personal-best.aspx?utm_source=facebookbutton&amp;utm_medium=facebook&amp;utm_campaign=sharing\">Trump Job Approval at 45%, Tying Personal Best</a> (Turns our that putting kids in cages is good for ratings …)</p>\n",
+			"date_published": "2018-06-19T10:07:23+08:00",
+			"url": "https://micro.oxus.net/2018/06/19/trump-job-approval.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/18/so-ive-written.html",
+	      	
+			"content_html": "<p>So I’ve written about 6,500 words this semester. But the problem is that they are the wrong 6,500 words…</p>\n",
+			"date_published": "2018-06-18T22:16:50+08:00",
+			"url": "https://micro.oxus.net/2018/06/18/so-ive-written.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/18/statement-on-hau.html",
 	      	
 			"content_html": "<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSe93a8JsWa_8Yd5Bs37oPjDFsi3pAPmZ8tDI4Tsjv2vvVvpqg/viewform?fbzx=-7538663137212436000\">Statement on Hau and Open Access Publishing</a> (It is actually a petition…) #hautalk #dendum</p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>I’ve never read or watched anything by Anthony Bourdain but, from the reactions I’ve seen, it seems his greatest claim to fame was being a basically decent human being? I guess such decency is in short supply…</p>\n",
 			"date_published": "2018-06-09T10:56:03+08:00",
 			"url": "https://micro.oxus.net/2018/06/09/ive-never-read.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/09/useful-website-cpecwire.html",
-	      	
-			"content_html": "<p>Useful website @CPECWire is “dedicated to tracking and assessing the China-Pakistan Economic Corridor” <a href=\"http://www.cpecwire.com/\">www.cpecwire.com</a></p>\n",
-			"date_published": "2018-06-09T09:46:58+08:00",
-			"url": "https://micro.oxus.net/2018/06/09/useful-website-cpecwire.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/08/how-should-the.html",
-	      	
-			"content_html": "<p><a href=\"http://www.chinafile.com/conversation/how-should-world-respond-intensifying-repression-xinjiang\">How Should the World Respond to Intensifying Repression in Xinjiang?</a></p>\n",
-			"date_published": "2018-06-08T12:16:09+08:00",
-			"url": "https://micro.oxus.net/2018/06/08/how-should-the.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/08/petition-letter-to.html",
-	      	
-			"content_html": "<p><a href=\"https://www.change.org/p/letter-to-the-leadership-of-the-association-for-asian-studies\">Petition · Letter to the Leadership of the Association for Asian Studies</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/4cdb3d377a.jpg\" width=\"479\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-08T11:36:32+08:00",
-			"url": "https://micro.oxus.net/2018/06/08/petition-letter-to.html"
 		}
 		
 	]
