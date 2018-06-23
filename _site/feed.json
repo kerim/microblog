@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/23/netflix-has-a.html",
+	      	
+			"content_html": "<p>Netflix has a “skip intro” feature. I wish they could make another one to skip ahead when characters explain their motivation for the umpteenth time…</p>\n",
+			"date_published": "2018-06-23T17:22:36+08:00",
+			"url": "https://micro.oxus.net/2018/06/23/netflix-has-a.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/21/rip-koko-who.html",
+	      	
+			"content_html": "<p>RIP Koko! 😢<a href=\"http://www.newsweek.com/koko-gorilla-sign-language-death-988302\">Who was Koko? Sign Language Gorilla Dead at 46</a></p>\n",
+			"date_published": "2018-06-21T19:11:23+08:00",
+			"url": "https://micro.oxus.net/2018/06/21/rip-koko-who.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/21/how-early-thcentury.html",
 	      	
 			"content_html": "<p><a href=\"https://www.japantimes.co.jp/news/2018/06/20/national/history/early-20th-century-japan-rice-breeders-shaped-future-staple-food-taiwan/\">How early 20th-century Japanese rice breeders shaped the future of the staple food in Taiwan</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"http://freemuse.org/news/uyghur-pop-star-detained-in-china/\">Uyghur pop star detained in China</a> “the reason for Ablajan’s detention was simply that he ‘promoted Uyghur culture and identity’”</p>\n",
 			"date_published": "2018-06-14T19:19:57+08:00",
 			"url": "https://micro.oxus.net/2018/06/14/uyghur-pop-star.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/14/dr-ruth-dr.html",
-	      	
-			"content_html": "<p><a href=\"https://www.newyorker.com/news/daily-comment/dr-ruth-dr-kissinger-and-trumps-cruelty-to-families\">Dr. Ruth, Dr. Kissinger, and Trump’s Cruelty to Families</a></p>\n",
-			"date_published": "2018-06-14T19:17:41+08:00",
-			"url": "https://micro.oxus.net/2018/06/14/dr-ruth-dr.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/14/a-very-useful.html",
-	      	
-			"content_html": "<p>A very useful <a href=\"https://twitter.com/hilaryagro/status/1006995504205459456\">Twitter thread</a> by @hilaryagro. It lists almost everything that has happened regarding the anthropology journal HAU in the past few days in chronological order.</p>\n",
-			"date_published": "2018-06-14T15:16:38+08:00",
-			"url": "https://micro.oxus.net/2018/06/14/a-very-useful.html"
 		}
 		
 	]
