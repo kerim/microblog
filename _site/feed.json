@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/23/not-only-is.html",
+	      	
+			"content_html": "<p>Not only is Taiwan not welcoming to refugees, but it is <a href=\"http://michaelturton.blogspot.com/2018/06/send-them-to-taiwan-austaiwan-govt-deal.html?m=1\">helping keep Nauru refugees out of Australian courts</a>… 🤬🤬🤬</p>\n",
+			"date_published": "2018-06-23T22:01:03+08:00",
+			"url": "https://micro.oxus.net/2018/06/23/not-only-is.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/23/are-chronotopes-helpful.html",
+	      	
+			"content_html": "<p>“<a href=\"https://alternative-democracy-research.org/2018/06/22/are-chronotopes-helpful/\">Are chronotopes helpful?</a>” - by the unstoppable Jan Blommaert.</p>\n",
+			"date_published": "2018-06-23T18:54:56+08:00",
+			"url": "https://micro.oxus.net/2018/06/23/are-chronotopes-helpful.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/23/netflix-has-a.html",
 	      	
 			"content_html": "<p>Netflix has a “skip intro” feature. I wish they could make another one to skip ahead when characters explain their motivation for the umpteenth time…</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.theatlantic.com/education/archive/2018/06/new-york-high-schools-stuyvesant-brooklyn-bronx/562772/\">What’s Going On With New York’s Elite Public High Schools?</a></p>\n",
 			"date_published": "2018-06-15T18:01:06+08:00",
 			"url": "https://micro.oxus.net/2018/06/15/whats-going-on.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/15/obamas-dubious-detention.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2016/07/18/opinion/mr-obamas-dubious-detention-centers.html\">Obama’s Dubious Detention Centers</a> (NY Times editorial from 2016…)</p>\n",
-			"date_published": "2018-06-15T16:26:04+08:00",
-			"url": "https://micro.oxus.net/2018/06/15/obamas-dubious-detention.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/14/uyghur-pop-star.html",
-	      	
-			"content_html": "<p><a href=\"http://freemuse.org/news/uyghur-pop-star-detained-in-china/\">Uyghur pop star detained in China</a> “the reason for Ablajan’s detention was simply that he ‘promoted Uyghur culture and identity’”</p>\n",
-			"date_published": "2018-06-14T19:19:57+08:00",
-			"url": "https://micro.oxus.net/2018/06/14/uyghur-pop-star.html"
 		}
 		
 	]
