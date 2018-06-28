@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/28/harlan-ellison-grand.html",
+	      	
+			"content_html": "<p><a href=\"https://www.tor.com/2018/06/28/harlan-ellison-1934-2018-obituary/\">Harlan Ellison, Grand Master of Science Fiction &amp; Fantasy, 1934-2018</a></p>\n",
+			"date_published": "2018-06-29T06:29:22+08:00",
+			"url": "https://micro.oxus.net/2018/06/29/harlan-ellison-grand.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/28/kennedys-retirement-ensures.html",
 	      	
 			"content_html": "<p><a href=\"https://slate.com/news-and-politics/2018/06/kennedys-retirement-ensures-roe-v-wade-will-be-overturned.html\">Kennedy’s retirement ensures Roe v. Wade will be overturned</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.currentaffairs.org/2018/06/understanding-the-administrations-monstrous-immigration-policies\">Understanding The Administration’s Monstrous Immigration Policies</a></p>\n",
 			"date_published": "2018-06-18T09:29:29+08:00",
 			"url": "https://micro.oxus.net/2018/06/18/understanding-the-administrations.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/18/the-current-horrific.html",
-	      	
-			"content_html": "<p>The current horrific immigration policy is Trump’s not the Dems; but for decades Dems have sought to gain legitimacy for their immigration reforms by outflanking the Republicans on the right, rather than changing the narrative. Not only didn’t it work, but it made things worse!</p>\n",
-			"date_published": "2018-06-18T09:24:21+08:00",
-			"url": "https://micro.oxus.net/2018/06/18/the-current-horrific.html"
 		}
 		
 	]
