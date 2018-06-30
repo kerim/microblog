@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/06/29/howard-zinn-it.html",
+	      	
+			"content_html": "<p>Howard Zinn: “<a href=\"http://progressive.org/op-eds/howard-zinn-despair-supreme-court/\">It would be naive to depend on the Supreme Court to defend the rights of poor people, women, people of color…</a>”</p>\n",
+			"date_published": "2018-06-29T12:55:36+08:00",
+			"url": "https://micro.oxus.net/2018/06/29/howard-zinn-it.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/29/020416.html",
+	      	
+			"content_html": "<p>跟香港人用「普通話」溝通還是很困難。雖然有一些人講的比英文好，他們還是聽不太懂我的「台灣國語」而我也聽不懂他們的粵語腔。😥</p>\n",
+			"date_published": "2018-06-29T10:04:16+08:00",
+			"url": "https://micro.oxus.net/2018/06/29/020416.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/29/this-is-where.html",
+	      	
+			"content_html": "<p><a href=\"https://medium.com/@johnhawks/this-is-where-scientists-may-find-the-next-hobbits-c41318c61f64\">This is where scientists may find the next hobbits</a></p>\n",
+			"date_published": "2018-06-29T09:36:06+08:00",
+			"url": "https://micro.oxus.net/2018/06/29/this-is-where.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/28/harlan-ellison-grand.html",
 	      	
 			"content_html": "<p><a href=\"https://www.tor.com/2018/06/28/harlan-ellison-1934-2018-obituary/\">Harlan Ellison, Grand Master of Science Fiction &amp; Fantasy, 1934-2018</a></p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>So I’ve written about 6,500 words this semester. But the problem is that they are the wrong 6,500 words…</p>\n",
 			"date_published": "2018-06-18T22:16:50+08:00",
 			"url": "https://micro.oxus.net/2018/06/18/so-ive-written.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/18/statement-on-hau.html",
-	      	
-			"content_html": "<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSe93a8JsWa_8Yd5Bs37oPjDFsi3pAPmZ8tDI4Tsjv2vvVvpqg/viewform?fbzx=-7538663137212436000\">Statement on Hau and Open Access Publishing</a> (It is actually a petition…) #hautalk #dendum</p>\n",
-			"date_published": "2018-06-18T20:14:47+08:00",
-			"url": "https://micro.oxus.net/2018/06/18/statement-on-hau.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/18/supporting-taiwanese-sovereignty.html",
-	      	
-			"content_html": "<p>Supporting Taiwanese sovereignty shouldn’t mean parroting the racist theories of early 20th C. Chinese nationalists who portrayed the Qing as “<a href=\"https://roomfordebate.blogs.nytimes.com/2009/12/13/chinas-changing-views-on-race/\">barbaric</a>” alien “Tartars.”</p>\n",
-			"date_published": "2018-06-18T11:17:31+08:00",
-			"url": "https://micro.oxus.net/2018/06/18/supporting-taiwanese-sovereignty.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/18/understanding-the-administrations.html",
-	      	
-			"content_html": "<p><a href=\"https://www.currentaffairs.org/2018/06/understanding-the-administrations-monstrous-immigration-policies\">Understanding The Administration’s Monstrous Immigration Policies</a></p>\n",
-			"date_published": "2018-06-18T09:29:29+08:00",
-			"url": "https://micro.oxus.net/2018/06/18/understanding-the-administrations.html"
 		}
 		
 	]
