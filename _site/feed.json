@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/01/how-facebook-punked.html",
+	      	
+			"content_html": "<p><a href=\"https://talkingpointsmemo.com/edblog/how-facebook-punked-and-then-gut-punched-the-news-biz\">How Facebook Punked and then Gut Punched the News Biz</a></p>\n",
+			"date_published": "2018-07-01T12:41:42+08:00",
+			"url": "https://micro.oxus.net/2018/07/01/how-facebook-punked.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/06/30/taiwans-new-southbound.html",
+	      	
+			"content_html": "<p><a href=\"https://international.thenewslens.com/article/98692\">Taiwan’s New Southbound Push Risks Duterte Drug War Complicity</a></p>\n",
+			"date_published": "2018-06-30T18:06:03+08:00",
+			"url": "https://micro.oxus.net/2018/06/30/taiwans-new-southbound.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/06/29/howard-zinn-it.html",
 	      	
 			"content_html": "<p>Howard Zinn: “<a href=\"http://progressive.org/op-eds/howard-zinn-despair-supreme-court/\">It would be naive to depend on the Supreme Court to defend the rights of poor people, women, people of color…</a>”</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Google released <a href=\"https://lifehacker.com/google-drive-can-now-open-files-directly-in-your-deskto-1655019365\">this incredibly useful extension</a> 4 years ago, how come I only learned about it now?</p>\n",
 			"date_published": "2018-06-19T10:46:53+08:00",
 			"url": "https://micro.oxus.net/2018/06/19/google-released-this.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/19/trump-job-approval.html",
-	      	
-			"content_html": "<p><a href=\"https://news.gallup.com/poll/235751/trump-job-approval-tying-personal-best.aspx?utm_source=facebookbutton&amp;utm_medium=facebook&amp;utm_campaign=sharing\">Trump Job Approval at 45%, Tying Personal Best</a> (Turns our that putting kids in cages is good for ratings …)</p>\n",
-			"date_published": "2018-06-19T10:07:23+08:00",
-			"url": "https://micro.oxus.net/2018/06/19/trump-job-approval.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/18/so-ive-written.html",
-	      	
-			"content_html": "<p>So I’ve written about 6,500 words this semester. But the problem is that they are the wrong 6,500 words…</p>\n",
-			"date_published": "2018-06-18T22:16:50+08:00",
-			"url": "https://micro.oxus.net/2018/06/18/so-ive-written.html"
 		}
 		
 	]
