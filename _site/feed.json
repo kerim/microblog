@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/01/more-states-opting.html",
+	      	
+			"content_html": "<p><a href=\"http://www.npr.org/2018/06/30/624373367/more-states-opting-to-robo-grade-student-essays-by-computer\">More States Opting To ‘Robo-Grade’ Student Essays By Computer</a> (How long till academic journals are peer reviewed by computer?)</p>\n",
+			"date_published": "2018-07-02T06:32:20+08:00",
+			"url": "https://micro.oxus.net/2018/07/02/more-states-opting.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/01/most-of-the.html",
 	      	
 			"content_html": "<p>Most of the videos on my Facebook timeline are basically ads. Sometimes I lazily watch them, but now Facebook has taken to interrupting these ads with ads?! How many hours went into developing this ad-within-an-ad technology? Does anyone watch them?</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.nature.com/articles/s41598-018-27363-8\">Complex history of dog origins and translocations in the Pacific revealed by ancient mitogenomes</a></p>\n",
 			"date_published": "2018-06-19T22:06:52+08:00",
 			"url": "https://micro.oxus.net/2018/06/19/complex-history-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/19/breaking-nationwide-protests.html",
-	      	
-			"content_html": "<p><a href=\"https://front.moveon.org/breaking-nationwide-protests-against-family-separation-announced/\">BREAKING: Nationwide Protests Against Family Separation Announced</a></p>\n",
-			"date_published": "2018-06-19T15:02:20+08:00",
-			"url": "https://micro.oxus.net/2018/06/19/breaking-nationwide-protests.html"
 		}
 		
 	]
