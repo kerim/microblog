@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/03/more-americans-evacuated.html",
+	      	
+			"content_html": "<p><a href=\"https://mobile.nytimes.com/2018/06/30/world/asia/china-sonic-guangzhou.html\">More Americans Evacuated From China Over Mysterious Ailments</a> (What a weird story, but also like the start of a Sherlock Holmes mystery …)</p>\n",
+			"date_published": "2018-07-04T07:26:56+08:00",
+			"url": "https://micro.oxus.net/2018/07/04/more-americans-evacuated.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/03/bill-gates-spent.html",
 	      	
 			"content_html": "<p><a href=\"https://www.washingtonpost.com/news/answer-sheet/wp/2018/06/29/bill-gates-spent-hundreds-of-millions-of-dollars-to-improve-teaching-new-report-says-it-was-a-bust/?noredirect=on&amp;utm_term=.57df416fda82\">Bill Gates spent hundreds of millions of dollars to improve teaching. New report says it was a bust.</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>“<a href=\"https://www.nytimes.com/2018/06/19/climate/koch-brothers-public-transit.html\">Public transit, Americans for Prosperity says, goes against the liberties that Americans hold dear.</a>” 😱🤬🤮</p>\n",
 			"date_published": "2018-06-20T13:37:21+08:00",
 			"url": "https://micro.oxus.net/2018/06/20/public-transit-americans.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/20/aaa-rejects-separating.html",
-	      	
-			"content_html": "<p><a href=\"http://www.americananthro.org/ParticipateAndAdvocate/AdvocacyDetail.aspx?ItemNumber=22965&amp;navItemNumber=659\">AAA Rejects Separating Immigrant Children From Their Parents as Mean-Spirited Political Ploy</a> #dendum</p>\n",
-			"date_published": "2018-06-20T08:24:56+08:00",
-			"url": "https://micro.oxus.net/2018/06/20/aaa-rejects-separating.html"
 		}
 		
 	]
