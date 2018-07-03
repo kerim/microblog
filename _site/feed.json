@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/03/bill-gates-spent.html",
+	      	
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/news/answer-sheet/wp/2018/06/29/bill-gates-spent-hundreds-of-millions-of-dollars-to-improve-teaching-new-report-says-it-was-a-bust/?noredirect=on&amp;utm_term=.57df416fda82\">Bill Gates spent hundreds of millions of dollars to improve teaching. New report says it was a bust.</a></p>\n",
+			"date_published": "2018-07-03T08:14:08+08:00",
+			"url": "https://micro.oxus.net/2018/07/03/bill-gates-spent.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/01/more-states-opting.html",
 	      	
 			"content_html": "<p><a href=\"http://www.npr.org/2018/06/30/624373367/more-states-opting-to-robo-grade-student-essays-by-computer\">More States Opting To ‘Robo-Grade’ Student Essays By Computer</a> (How long till academic journals are peer reviewed by computer?)</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://www.americananthro.org/ParticipateAndAdvocate/AdvocacyDetail.aspx?ItemNumber=22965&amp;navItemNumber=659\">AAA Rejects Separating Immigrant Children From Their Parents as Mean-Spirited Political Ploy</a> #dendum</p>\n",
 			"date_published": "2018-06-20T08:24:56+08:00",
 			"url": "https://micro.oxus.net/2018/06/20/aaa-rejects-separating.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/19/complex-history-of.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nature.com/articles/s41598-018-27363-8\">Complex history of dog origins and translocations in the Pacific revealed by ancient mitogenomes</a></p>\n",
-			"date_published": "2018-06-19T22:06:52+08:00",
-			"url": "https://micro.oxus.net/2018/06/19/complex-history-of.html"
 		}
 		
 	]
