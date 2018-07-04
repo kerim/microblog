@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/04/sharing-indias-hidden.html",
+	      	
+			"content_html": "<p><a href=\"https://changingthestory.leeds.ac.uk/2018/02/13/sharing-indias-hidden-history/\">Sharing India’s Hidden History : Changing the Story</a> #budhantheatre #dnt</p>\n",
+			"date_published": "2018-07-05T00:22:46+08:00",
+			"url": "https://micro.oxus.net/2018/07/05/sharing-indias-hidden.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/04/i-was-thinking.html",
+	      	
+			"content_html": "<p>I was thinking about the early days of blogging (circa 2003-5) and remembering Jeanne D’Arc at the now defunct blog <a href=\"https://web.archive.org/web/20060206225718/http://bodyandsoul.typepad.com:80/blog/\">Body and Soul</a>. Is she still blogging or on social media somewhere?</p>\n",
+			"date_published": "2018-07-04T12:39:59+08:00",
+			"url": "https://micro.oxus.net/2018/07/04/i-was-thinking.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/04/the-folks-over.html",
+	      	
+			"content_html": "<p>The folks over at the Socialist Worker ask: “<a href=\"https://socialistworker.org/2018/07/03/what-can-we-do-with-the-democrats\">What can we do with the Democrats?</a>”</p>\n",
+			"date_published": "2018-07-04T11:13:53+08:00",
+			"url": "https://micro.oxus.net/2018/07/04/the-folks-over.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/04/a-shocking-map.html",
+	      	
+			"content_html": "<p><a href=\"https://www.fastcodesign.com/90177979/a-shocking-map-of-americas-vast-immigrant-detention-machine\">A shocking map of America’s vast “immigrant detention machine”</a></p>\n",
+			"date_published": "2018-07-04T11:03:36+08:00",
+			"url": "https://micro.oxus.net/2018/07/04/a-shocking-map.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/03/more-americans-evacuated.html",
 	      	
 			"content_html": "<p><a href=\"https://mobile.nytimes.com/2018/06/30/world/asia/china-sonic-guangzhou.html\">More Americans Evacuated From China Over Mysterious Ailments</a> (What a weird story, but also like the start of a Sherlock Holmes mystery …)</p>\n",
@@ -171,38 +203,6 @@
 			"content_html": "<p>Netflix has a “skip intro” feature. I wish they could make another one to skip ahead when characters explain their motivation for the umpteenth time…</p>\n",
 			"date_published": "2018-06-23T17:22:36+08:00",
 			"url": "https://micro.oxus.net/2018/06/23/netflix-has-a.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/21/rip-koko-who.html",
-	      	
-			"content_html": "<p>RIP Koko! 😢<a href=\"http://www.newsweek.com/koko-gorilla-sign-language-death-988302\">Who was Koko? Sign Language Gorilla Dead at 46</a></p>\n",
-			"date_published": "2018-06-21T19:11:23+08:00",
-			"url": "https://micro.oxus.net/2018/06/21/rip-koko-who.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/21/how-early-thcentury.html",
-	      	
-			"content_html": "<p><a href=\"https://www.japantimes.co.jp/news/2018/06/20/national/history/early-20th-century-japan-rice-breeders-shaped-future-staple-food-taiwan/\">How early 20th-century Japanese rice breeders shaped the future of the staple food in Taiwan</a></p>\n",
-			"date_published": "2018-06-21T16:33:36+08:00",
-			"url": "https://micro.oxus.net/2018/06/21/how-early-thcentury.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/20/125620.html",
-	      	
-			"content_html": "<p><a href=\"http://publicanthropologist.cmi.no/2018/06/20/the-problem-with-assholes/\">The Problem with Assholes</a> (This says so many things I wanted to say about #hautalk, including some things I didn’t even know I wanted to say!) #dendum</p>\n",
-			"date_published": "2018-06-20T20:56:20+08:00",
-			"url": "https://micro.oxus.net/2018/06/20/125620.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/20/public-transit-americans.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.nytimes.com/2018/06/19/climate/koch-brothers-public-transit.html\">Public transit, Americans for Prosperity says, goes against the liberties that Americans hold dear.</a>” 😱🤬🤮</p>\n",
-			"date_published": "2018-06-20T13:37:21+08:00",
-			"url": "https://micro.oxus.net/2018/06/20/public-transit-americans.html"
 		}
 		
 	]
