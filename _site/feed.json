@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/05/today-i-learned.html",
+	      	
+			"content_html": "<p>Today I learned that EVA Air has an interpretive dance <a href=\"https://m.youtube.com/watch?v=B1osPNt7BNY\">in-flight safety video</a>!</p>\n",
+			"date_published": "2018-07-06T00:03:46+08:00",
+			"url": "https://micro.oxus.net/2018/07/06/today-i-learned.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/04/sharing-indias-hidden.html",
 	      	
 			"content_html": "<p><a href=\"https://changingthestory.leeds.ac.uk/2018/02/13/sharing-indias-hidden-history/\">Sharing India’s Hidden History : Changing the Story</a> #budhantheatre #dnt</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>“<a href=\"https://alternative-democracy-research.org/2018/06/22/are-chronotopes-helpful/\">Are chronotopes helpful?</a>” - by the unstoppable Jan Blommaert.</p>\n",
 			"date_published": "2018-06-23T18:54:56+08:00",
 			"url": "https://micro.oxus.net/2018/06/23/are-chronotopes-helpful.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/23/netflix-has-a.html",
-	      	
-			"content_html": "<p>Netflix has a “skip intro” feature. I wish they could make another one to skip ahead when characters explain their motivation for the umpteenth time…</p>\n",
-			"date_published": "2018-06-23T17:22:36+08:00",
-			"url": "https://micro.oxus.net/2018/06/23/netflix-has-a.html"
 		}
 		
 	]
