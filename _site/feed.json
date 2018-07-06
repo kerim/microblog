@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/06/donald-trump-is.html",
+	      	
+			"content_html": "<p><a href=\"https://slate.com/news-and-politics/2018/07/donald-trump-is-leading-the-republican-charge-to-preserve-a-shrinking-white-majority.html\">Donald Trump is leading the Republican charge to preserve a shrinking white majority.</a></p>\n",
+			"date_published": "2018-07-06T09:09:58+08:00",
+			"url": "https://micro.oxus.net/2018/07/06/donald-trump-is.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/06/google-and-http.html",
+	      	
+			"content_html": "<p><a href=\"http://this.how/googleAndHttp/\">Google and HTTP</a> “Google has spent a lot of effort to convince you that HTTP is not good. Let me have the floor for a moment to tell you why HTTP is the best thing ever.”</p>\n",
+			"date_published": "2018-07-06T09:00:03+08:00",
+			"url": "https://micro.oxus.net/2018/07/06/google-and-http.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/05/today-i-learned.html",
 	      	
 			"content_html": "<p>Today I learned that EVA Air has an interpretive dance <a href=\"https://m.youtube.com/watch?v=B1osPNt7BNY\">in-flight safety video</a>!</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.google.com/amp/mobile.reuters.com/article/amp/idUSKCN1BH0OY\">Hong Kong’s vanishing archives and the battle to preserve history</a></p>\n",
 			"date_published": "2018-06-25T11:39:28+08:00",
 			"url": "https://micro.oxus.net/2018/06/25/hong-kongs-vanishing.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/23/not-only-is.html",
-	      	
-			"content_html": "<p>Not only is Taiwan not welcoming to refugees, but it is <a href=\"http://michaelturton.blogspot.com/2018/06/send-them-to-taiwan-austaiwan-govt-deal.html?m=1\">helping keep Nauru refugees out of Australian courts</a>… 🤬🤬🤬</p>\n",
-			"date_published": "2018-06-23T22:01:03+08:00",
-			"url": "https://micro.oxus.net/2018/06/23/not-only-is.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/23/are-chronotopes-helpful.html",
-	      	
-			"content_html": "<p>“<a href=\"https://alternative-democracy-research.org/2018/06/22/are-chronotopes-helpful/\">Are chronotopes helpful?</a>” - by the unstoppable Jan Blommaert.</p>\n",
-			"date_published": "2018-06-23T18:54:56+08:00",
-			"url": "https://micro.oxus.net/2018/06/23/are-chronotopes-helpful.html"
 		}
 		
 	]
