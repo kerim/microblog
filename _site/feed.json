@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/06/scott-pruitt-is.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.washingtonpost.com/blogs/compost/wp/2018/07/05/keep-scott-pruitt-moist/?utm_term=.8e32cc9e6537\">Scott Pruitt is trying to keep the Earth warm. As it becomes warmer, he will need more ointment…</a>”</p>\n",
+			"date_published": "2018-07-06T17:26:19+08:00",
+			"url": "https://micro.oxus.net/2018/07/06/scott-pruitt-is.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/06/donald-trump-is.html",
 	      	
 			"content_html": "<p><a href=\"https://slate.com/news-and-politics/2018/07/donald-trump-is-leading-the-republican-charge-to-preserve-a-shrinking-white-majority.html\">Donald Trump is leading the Republican charge to preserve a shrinking white majority.</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>If, like me, you’ve been too busy to keep with <a href=\"https://docs.google.com/document/d/e/2PACX-1vSHK7oM8jxF9ppg_oVnX2VjWofn0VrH3Hf7GMqvlygYSDcuJ3-rSlGVQNEyKeHXLNVjabGBfJnL1Mnx/pub\">#hautalk</a>, this document links to pretty much everything that’s been said. #dendum</p>\n",
 			"date_published": "2018-06-26T17:23:07+08:00",
 			"url": "https://micro.oxus.net/2018/06/26/if-like-me.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/25/hong-kongs-vanishing.html",
-	      	
-			"content_html": "<p><a href=\"https://www.google.com/amp/mobile.reuters.com/article/amp/idUSKCN1BH0OY\">Hong Kong’s vanishing archives and the battle to preserve history</a></p>\n",
-			"date_published": "2018-06-25T11:39:28+08:00",
-			"url": "https://micro.oxus.net/2018/06/25/hong-kongs-vanishing.html"
 		}
 		
 	]
