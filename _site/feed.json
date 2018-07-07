@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/06/a-korean-odyssey.html",
+	      	
+			"content_html": "<p>A Korean Odyssey (화유기, 和遊記）is described as Journey to the West 西遊記 in the form of a Korean drama, but that isn’t quite right. It would be more accurate to say that it is Buffy the Vampire Slayer 魔法奇兵 as a Korean drama. Thanks to Netflix, I’m totally hooked.</p>\n",
+			"date_published": "2018-07-07T07:32:50+08:00",
+			"url": "https://micro.oxus.net/2018/07/07/a-korean-odyssey.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/06/explaining-away-ocasiocortezs.html",
+	      	
+			"content_html": "<p><a href=\"https://jacobinmag.com/2018/07/alexandria-ocasio-cortez-liberal-pundits/\">Explaining Away Ocasio-Cortez’s Political Earthquake</a></p>\n",
+			"date_published": "2018-07-06T19:56:41+08:00",
+			"url": "https://micro.oxus.net/2018/07/06/explaining-away-ocasiocortezs.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/06/scott-pruitt-is.html",
 	      	
 			"content_html": "<p>“<a href=\"https://www.washingtonpost.com/blogs/compost/wp/2018/07/05/keep-scott-pruitt-moist/?utm_term=.8e32cc9e6537\">Scott Pruitt is trying to keep the Earth warm. As it becomes warmer, he will need more ointment…</a>”</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.thenation.com/article/poor-peoples-campaign-just-getting-started/\">The Poor People’s Campaign Is Just Getting Started</a></p>\n",
 			"date_published": "2018-06-26T21:07:52+08:00",
 			"url": "https://micro.oxus.net/2018/06/26/the-poor-peoples.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/26/for-people-who.html",
-	      	
-			"content_html": "<p>For people who somehow still don’t know that <a href=\"https://imperialglobalexeter.com/2018/06/26/going-native-with-dunes-paul-atreides/\">Dune’s Paul Atreides is Lawrence of Arabia</a></p>\n",
-			"date_published": "2018-06-26T17:44:52+08:00",
-			"url": "https://micro.oxus.net/2018/06/26/for-people-who.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/26/if-like-me.html",
-	      	
-			"content_html": "<p>If, like me, you’ve been too busy to keep with <a href=\"https://docs.google.com/document/d/e/2PACX-1vSHK7oM8jxF9ppg_oVnX2VjWofn0VrH3Hf7GMqvlygYSDcuJ3-rSlGVQNEyKeHXLNVjabGBfJnL1Mnx/pub\">#hautalk</a>, this document links to pretty much everything that’s been said. #dendum</p>\n",
-			"date_published": "2018-06-26T17:23:07+08:00",
-			"url": "https://micro.oxus.net/2018/06/26/if-like-me.html"
 		}
 		
 	]
