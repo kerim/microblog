@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/08/this-post-on.html",
+	      	
+			"content_html": "<p>This post on the <a href=\"https://footnotesblog.com/2018/07/07/guest-post-citation-is-a-gift-punking-accounting-in-hautalk/\">politics of citation</a> is great, but also makes me want to know more. Would love to see comparative data from other flagship anthropology journals… #hautalk #dendum</p>\n",
+			"date_published": "2018-07-08T08:05:30+08:00",
+			"url": "https://micro.oxus.net/2018/07/08/this-post-on.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/07/fascism-minister-jayant.html",
+	      	
+			"content_html": "<p>Fascism: <a href=\"https://www.ndtv.com/india-news/minister-jayant-sinha-garlands-8-men-who-killed-meat-trader-in-jharkhand-1879268\">Minister Jayant Sinha Garlands 8 Men Who Killed Meat Trader In Jharkhand</a></p>\n",
+			"date_published": "2018-07-07T10:33:39+08:00",
+			"url": "https://micro.oxus.net/2018/07/07/fascism-minister-jayant.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/07/how-the-poorest.html",
+	      	
+			"content_html": "<p><a href=\"http://www.catchnews.com/india-news/how-the-poorest-of-the-poor-are-becoming-targets-of-lynch-mobs-in-india-121267.html\">How the poorest of the poor are becoming targets of lynch-mobs in India</a> (Includes interview with Dakxin.)</p>\n",
+			"date_published": "2018-07-07T08:09:43+08:00",
+			"url": "https://micro.oxus.net/2018/07/07/how-the-poorest.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/07/native-american-water.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nationofchange.org/2018/06/13/native-american-water-protector-becomes-first-to-be-sentenced-to-time-in-federal-prison-for-dapl-protests/\">Native American water protector becomes first to be sentenced to time in federal prison for DAPL protests</a> (From June 13th, but first I’m seeing this news.)</p>\n",
+			"date_published": "2018-07-07T08:06:47+08:00",
+			"url": "https://micro.oxus.net/2018/07/07/native-american-water.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/06/a-korean-odyssey.html",
 	      	
 			"content_html": "<p>A Korean Odyssey (화유기, 和遊記）is described as Journey to the West 西遊記 in the form of a Korean drama, but that isn’t quite right. It would be more accurate to say that it is Buffy the Vampire Slayer 魔法奇兵 as a Korean drama. Thanks to Netflix, I’m totally hooked.</p>\n",
@@ -171,38 +203,6 @@
 			"content_html": "<p><a href=\"https://www.tor.com/2018/06/28/harlan-ellison-1934-2018-obituary/\">Harlan Ellison, Grand Master of Science Fiction &amp; Fantasy, 1934-2018</a></p>\n",
 			"date_published": "2018-06-29T06:29:22+08:00",
 			"url": "https://micro.oxus.net/2018/06/29/harlan-ellison-grand.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/28/kennedys-retirement-ensures.html",
-	      	
-			"content_html": "<p><a href=\"https://slate.com/news-and-politics/2018/06/kennedys-retirement-ensures-roe-v-wade-will-be-overturned.html\">Kennedy’s retirement ensures Roe v. Wade will be overturned</a></p>\n",
-			"date_published": "2018-06-28T18:20:18+08:00",
-			"url": "https://micro.oxus.net/2018/06/28/kennedys-retirement-ensures.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/27/the-colonial-documentary.html",
-	      	
-			"content_html": "<p><a href=\"https://edinburghuniversitypress.com/book-the-colonial-documentary-film-in-south-and-south-east-asia.html\">The Colonial Documentary Film in South and South-East Asia</a> (Important new anthology.)</p>\n",
-			"date_published": "2018-06-27T12:20:11+08:00",
-			"url": "https://micro.oxus.net/2018/06/27/the-colonial-documentary.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/27/a-top-house.html",
-	      	
-			"content_html": "<p>A top House Democrat just lost his primary — to a socialist. Alexandria Ocasio-Cortez ran boldly to the left of Rep. Joe Crowley — <a href=\"https://www.vox.com/policy-and-politics/2018/6/26/17506970/alexandria-ocasio-cortez-joe-crowley-primary-new-york\">and won</a>. (Yeah!!!)</p>\n",
-			"date_published": "2018-06-27T11:13:29+08:00",
-			"url": "https://micro.oxus.net/2018/06/27/a-top-house.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/26/the-poor-peoples.html",
-	      	
-			"content_html": "<p><a href=\"https://www.thenation.com/article/poor-peoples-campaign-just-getting-started/\">The Poor People’s Campaign Is Just Getting Started</a></p>\n",
-			"date_published": "2018-06-26T21:07:52+08:00",
-			"url": "https://micro.oxus.net/2018/06/26/the-poor-peoples.html"
 		}
 		
 	]
