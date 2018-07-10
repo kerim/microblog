@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/10/there-is-a.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.insidehighered.com/blogs/just-visiting/solution-paul-ryans-problem?utm_content=buffer5c9a6&amp;utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=IHEbuffer\">There is a time-tested, economics-validated alternative to more babies, immigration</a>” (I keep telling Taiwanese this and they look at me like I’m crazy … 😞)</p>\n",
+			"date_published": "2018-07-10T09:00:56+08:00",
+			"url": "https://micro.oxus.net/2018/07/10/there-is-a.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/10/why-would-seeing.html",
+	      	
+			"content_html": "<p>“<a href=\"https://iainews.iai.tv/articles/why-stupidity-is-part-of-human-nature-auid-1072\">Why would seeing and hearing be irrelevant? We are creatures with multimodal perception. That’s what we’re good at.</a>”</p>\n",
+			"date_published": "2018-07-10T08:52:21+08:00",
+			"url": "https://micro.oxus.net/2018/07/10/why-would-seeing.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/08/this-post-on.html",
 	      	
 			"content_html": "<p>This post on the <a href=\"https://footnotesblog.com/2018/07/07/guest-post-citation-is-a-gift-punking-accounting-in-hautalk/\">politics of citation</a> is great, but also makes me want to know more. Would love to see comparative data from other flagship anthropology journals… #hautalk #dendum</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>跟香港人用「普通話」溝通還是很困難。雖然有一些人講的比英文好，他們還是聽不太懂我的「台灣國語」而我也聽不懂他們的粵語腔。😥</p>\n",
 			"date_published": "2018-06-29T10:04:16+08:00",
 			"url": "https://micro.oxus.net/2018/06/29/020416.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/29/this-is-where.html",
-	      	
-			"content_html": "<p><a href=\"https://medium.com/@johnhawks/this-is-where-scientists-may-find-the-next-hobbits-c41318c61f64\">This is where scientists may find the next hobbits</a></p>\n",
-			"date_published": "2018-06-29T09:36:06+08:00",
-			"url": "https://micro.oxus.net/2018/06/29/this-is-where.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/28/harlan-ellison-grand.html",
-	      	
-			"content_html": "<p><a href=\"https://www.tor.com/2018/06/28/harlan-ellison-1934-2018-obituary/\">Harlan Ellison, Grand Master of Science Fiction &amp; Fantasy, 1934-2018</a></p>\n",
-			"date_published": "2018-06-29T06:29:22+08:00",
-			"url": "https://micro.oxus.net/2018/06/29/harlan-ellison-grand.html"
 		}
 		
 	]
