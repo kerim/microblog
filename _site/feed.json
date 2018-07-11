@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/11/how-china-got.html",
+	      	
+			"content_html": "<p><a href=\"https://mobile.nytimes.com/2018/06/25/world/asia/china-sri-lanka-port.html\">How China Got Sri Lanka to Cough Up a Port</a></p>\n",
+			"date_published": "2018-07-11T08:14:15+08:00",
+			"url": "https://micro.oxus.net/2018/07/11/how-china-got.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/11/iphone-crashing-bug.html",
+	      	
+			"content_html": "<p><a href=\"https://arstechnica.com/information-technology/2018/07/iphone-crashing-bug-likely-caused-by-code-added-to-appease-chinese-govt/\">iPhone crashing bug likely caused by code added to appease Chinese gov’t</a></p>\n",
+			"date_published": "2018-07-11T08:07:53+08:00",
+			"url": "https://micro.oxus.net/2018/07/11/iphone-crashing-bug.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/10/thousands-in-xinjiang.html",
 	      	
 			"content_html": "<p><a href=\"https://www.ft.com/content/f0d3223a-7f4d-11e8-bc55-50daf11b720d\">Thousands in Xinjiang placed in de facto orphanages after parents detained</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.versobooks.com/blogs/3895-ebook-flash-sale-90-off\">Verso</a> has a flash sale for Sunday, July 1st: 90% off all ebooks!</p>\n",
 			"date_published": "2018-07-01T20:24:35+08:00",
 			"url": "https://micro.oxus.net/2018/07/01/verso-has-a.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/01/how-facebook-punked.html",
-	      	
-			"content_html": "<p><a href=\"https://talkingpointsmemo.com/edblog/how-facebook-punked-and-then-gut-punched-the-news-biz\">How Facebook Punked and then Gut Punched the News Biz</a></p>\n",
-			"date_published": "2018-07-01T12:41:42+08:00",
-			"url": "https://micro.oxus.net/2018/07/01/how-facebook-punked.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/06/30/taiwans-new-southbound.html",
-	      	
-			"content_html": "<p><a href=\"https://international.thenewslens.com/article/98692\">Taiwan’s New Southbound Push Risks Duterte Drug War Complicity</a></p>\n",
-			"date_published": "2018-06-30T18:06:03+08:00",
-			"url": "https://micro.oxus.net/2018/06/30/taiwans-new-southbound.html"
 		}
 		
 	]
