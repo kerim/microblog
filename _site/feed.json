@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/16/investigation-uncovers-a.html",
+	      	
+			"content_html": "<p><a href=\"https://www.rawstory.com/2018/07/investigation-uncovers-stunning-rate-bigoted-assault-harassment-new-york/\">Investigation uncovers a stunning rate of bigoted assault and harassment in New York</a></p>\n",
+			"date_published": "2018-07-16T22:44:58+08:00",
+			"url": "https://micro.oxus.net/2018/07/16/investigation-uncovers-a.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/16/otranscribe-needs-a.html",
+	      	
+			"content_html": "<p><a href=\"https://ejb.github.io/2018/07/15/otranscribe-new-home.html\">oTranscribe needs a new home</a> (I hope someone takes over this important open source project! I depend on it for both teaching and research…)</p>\n",
+			"date_published": "2018-07-16T14:59:58+08:00",
+			"url": "https://micro.oxus.net/2018/07/16/otranscribe-needs-a.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/15/israel-in-turmoil.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theguardian.com/world/2018/jul/15/israel-turmoil-bill-allowing-jews-arabs-segregated\">Israel in turmoil over bill allowing Jews and Arabs to be segregated</a> (“which critics have condemned as the end of a democratic state” 😂😂😂)</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Today I learned that EVA Air has an interpretive dance <a href=\"https://m.youtube.com/watch?v=B1osPNt7BNY\">in-flight safety video</a>!</p>\n",
 			"date_published": "2018-07-06T00:03:46+08:00",
 			"url": "https://micro.oxus.net/2018/07/06/today-i-learned.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/04/sharing-indias-hidden.html",
-	      	
-			"content_html": "<p><a href=\"https://changingthestory.leeds.ac.uk/2018/02/13/sharing-indias-hidden-history/\">Sharing India’s Hidden History : Changing the Story</a> #budhantheatre #dnt</p>\n",
-			"date_published": "2018-07-05T00:22:46+08:00",
-			"url": "https://micro.oxus.net/2018/07/05/sharing-indias-hidden.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/04/i-was-thinking.html",
-	      	
-			"content_html": "<p>I was thinking about the early days of blogging (circa 2003-5) and remembering Jeanne D’Arc at the now defunct blog <a href=\"https://web.archive.org/web/20060206225718/http://bodyandsoul.typepad.com:80/blog/\">Body and Soul</a>. Is she still blogging or on social media somewhere?</p>\n",
-			"date_published": "2018-07-04T12:39:59+08:00",
-			"url": "https://micro.oxus.net/2018/07/04/i-was-thinking.html"
 		}
 		
 	]
