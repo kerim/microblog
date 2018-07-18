@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/18/the-united-states.html",
+	      	
+			"content_html": "<p><a href=\"https://vimeo.com/279923192\">The United States of Arms on Vimeo</a> (Question: To what extent, if any, has Taiwan’s loyal support of the US arms industry accelerated the militarization of daily life in America?)</p>\n",
+			"date_published": "2018-07-18T14:04:50+08:00",
+			"url": "https://micro.oxus.net/2018/07/18/the-united-states.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/17/an-ancient-dog.html",
 	      	
 			"content_html": "<p><a href=\"https://topics.amcham.com.tw/2018/07/an-ancient-dog-finds-its-place-in-the-modern-world/\">An Ancient Dog Finds its Place in the Modern World</a> (“the way a Taiwan Dog bonds with its human is very unique and intense” - actually a problem if you need a dog sitter now and then…)</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>“<a href=\"https://www.washingtonpost.com/blogs/compost/wp/2018/07/05/keep-scott-pruitt-moist/?utm_term=.8e32cc9e6537\">Scott Pruitt is trying to keep the Earth warm. As it becomes warmer, he will need more ointment…</a>”</p>\n",
 			"date_published": "2018-07-06T17:26:19+08:00",
 			"url": "https://micro.oxus.net/2018/07/06/scott-pruitt-is.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/06/donald-trump-is.html",
-	      	
-			"content_html": "<p><a href=\"https://slate.com/news-and-politics/2018/07/donald-trump-is-leading-the-republican-charge-to-preserve-a-shrinking-white-majority.html\">Donald Trump is leading the Republican charge to preserve a shrinking white majority.</a></p>\n",
-			"date_published": "2018-07-06T09:09:58+08:00",
-			"url": "https://micro.oxus.net/2018/07/06/donald-trump-is.html"
 		}
 		
 	]
