@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/24/i-think-ryan.html",
+	      	
+			"content_html": "<p>I think Ryan Cooper’s <a href=\"http://www.ryanlouiscooper.com/2018/07/russiagate-and-left-round-ii.html\">response</a> to Corey Robin is right on for the first two points, but I am sympathetic to Corey’s concerns about framing…</p>\n",
+			"date_published": "2018-07-24T11:28:36+08:00",
+			"url": "https://micro.oxus.net/2018/07/24/i-think-ryan.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/24/andrew-cuomo-had.html",
+	      	
+			"content_html": "<p><a href=\"https://nypost.com/2018/07/22/cuomo-had-the-mta-waste-30m-on-tunnel-vanity-project/\">Andrew Cuomo had MTA waste $30M on tunnel vanity project</a> (Vote @CynthiaNixon!)</p>\n",
+			"date_published": "2018-07-24T10:22:41+08:00",
+			"url": "https://micro.oxus.net/2018/07/24/andrew-cuomo-had.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/24/nordic-state-ownership.html",
+	      	
+			"content_html": "<p><a href=\"http://peoplespolicyproject.org/2018/07/22/nordic-state-ownership-of-enterprise-is-a-real-thing/\">Nordic State Ownership of Enterprise Is a Real Thing</a> (And prevents capital flight in the face of tightening environmental or labor legislation.)</p>\n",
+			"date_published": "2018-07-24T10:21:26+08:00",
+			"url": "https://micro.oxus.net/2018/07/24/nordic-state-ownership.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/24/would-be-great.html",
 	      	
 			"content_html": "<p>Would be great to see India finally set up a <a href=\"https://indianexpress.com/article/india/niti-aayog-nod-to-panel-for-denotified-semi-nomadic-nomadic-tribes-5270427/\">panel for denotified, semi-nomadic, nomadic tribes</a>.</p>\n",
@@ -183,30 +207,6 @@
 			"content_html": "<p>My phone tells me that I walk, on average, about 2000 km a year. So in about 20 years I should’ve walked the equivalent of the circumference of the earth! 🚶‍♂️🐕🌏💫</p>\n",
 			"date_published": "2018-07-12T21:22:03+08:00",
 			"url": "https://micro.oxus.net/2018/07/12/my-phone-tells.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/12/african-multiregionalism-the.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theatlantic.com/science/archive/2018/07/the-new-story-of-humanitys-origins/564779/\">African Multiregionalism: The New Story of Human Origins</a></p>\n",
-			"date_published": "2018-07-12T10:10:41+08:00",
-			"url": "https://micro.oxus.net/2018/07/12/african-multiregionalism-the.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/11/how-china-got.html",
-	      	
-			"content_html": "<p><a href=\"https://mobile.nytimes.com/2018/06/25/world/asia/china-sri-lanka-port.html\">How China Got Sri Lanka to Cough Up a Port</a></p>\n",
-			"date_published": "2018-07-11T08:14:15+08:00",
-			"url": "https://micro.oxus.net/2018/07/11/how-china-got.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/11/iphone-crashing-bug.html",
-	      	
-			"content_html": "<p><a href=\"https://arstechnica.com/information-technology/2018/07/iphone-crashing-bug-likely-caused-by-code-added-to-appease-chinese-govt/\">iPhone crashing bug likely caused by code added to appease Chinese gov’t</a></p>\n",
-			"date_published": "2018-07-11T08:07:53+08:00",
-			"url": "https://micro.oxus.net/2018/07/11/iphone-crashing-bug.html"
 		}
 		
 	]
