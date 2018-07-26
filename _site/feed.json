@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/26/sometimes-one-does.html",
+	      	
+			"content_html": "<p>Sometimes one does better by buying a RT ticket 💸  to a big city 🏙 in the US on a decent airline ✈️ , and then a separate local ticket 🎟 on a crappy US carrier 💩, rather than trying to book everything at once. (Never fly United 😱!)</p>\n",
+			"date_published": "2018-07-26T17:00:28+08:00",
+			"url": "https://micro.oxus.net/2018/07/26/sometimes-one-does.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/26/puerto-rican-debt.html",
+	      	
+			"content_html": "<p>❝Puerto Rican debt is owned by actors who invested knowing full well that Puerto Rico could not pay❞ <a href=\"https://theintercept.com/2018/07/25/puerto-rico-debt-cancellation-bill/\">2020 Democrats Band Together to Call for Puerto Rico Debt Cancellation</a></p>\n",
+			"date_published": "2018-07-26T09:55:34+08:00",
+			"url": "https://micro.oxus.net/2018/07/26/puerto-rican-debt.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/25/china-holds-ethnic.html",
 	      	
 			"content_html": "<p><a href=\"https://www.rfa.org/english/news/china/mongolian-historian-07232018123931.html\">China Holds Ethnic Mongolian Historian Who Wrote ‘Genocide’ Book</a></p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p><a href=\"https://www.theguardian.com/world/2018/jul/15/israel-turmoil-bill-allowing-jews-arabs-segregated\">Israel in turmoil over bill allowing Jews and Arabs to be segregated</a> (“which critics have condemned as the end of a democratic state” 😂😂😂)</p>\n",
 			"date_published": "2018-07-15T21:41:34+08:00",
 			"url": "https://micro.oxus.net/2018/07/15/israel-in-turmoil.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/13/company-claimed-it.html",
-	      	
-			"content_html": "<p>Company claimed it had no obligation to honor \nunion because some were undocumented immigrants. <a href=\"http://www.jwj.org/to-brett-kavanaugh-and-donald-trump-immigrants-have-no-rights\">Only Kavanaugh agreed</a>.</p>\n",
-			"date_published": "2018-07-14T07:48:56+08:00",
-			"url": "https://micro.oxus.net/2018/07/14/company-claimed-it.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/13/re-my-last.html",
-	      	
-			"content_html": "<p>RE: <a href=\"https://micro.oxus.net/2018/07/13/an-important-part.html\">my last post</a> about “follow counts.” I do find it interesting to see how many of my followers on Twitter follow certain accounts: 35 of the people I follow also follow @mondomascots!</p>\n",
-			"date_published": "2018-07-13T10:09:43+08:00",
-			"url": "https://micro.oxus.net/2018/07/13/re-my-last.html"
 		}
 		
 	]
