@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/25/china-holds-ethnic.html",
+	      	
+			"content_html": "<p><a href=\"https://www.rfa.org/english/news/china/mongolian-historian-07232018123931.html\">China Holds Ethnic Mongolian Historian Who Wrote ‘Genocide’ Book</a></p>\n",
+			"date_published": "2018-07-26T07:27:14+08:00",
+			"url": "https://micro.oxus.net/2018/07/26/china-holds-ethnic.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/25/the-bottom-percent.html",
+	      	
+			"content_html": "<p>❝the bottom 60 percent of income-earners have accounted for most of the rise in spending over the past two years even as the their finances worsened❞ <a href=\"https://www.nakedcapitalism.com/2018/07/americas-subprime-economy.html\">America’s Subprime Economy</a></p>\n",
+			"date_published": "2018-07-25T18:01:19+08:00",
+			"url": "https://micro.oxus.net/2018/07/25/the-bottom-percent.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/24/above-all-i.html",
+	      	
+			"content_html": "<p>❝Above all, I saw how easy it would be to accept the notion that it was the government’s job to make sure that those things were provided.❞  <a href=\"http://dailycaller.com/2018/07/23/conservative-alexandria-ocasio-cortez-rally/\">I’m A Conservative, And I Went To An Alexandria Ocasio-Cortez Rally</a></p>\n",
+			"date_published": "2018-07-24T13:08:43+08:00",
+			"url": "https://micro.oxus.net/2018/07/24/above-all-i.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/24/i-think-ryan.html",
 	      	
 			"content_html": "<p>I think Ryan Cooper’s <a href=\"http://www.ryanlouiscooper.com/2018/07/russiagate-and-left-round-ii.html\">response</a> to Corey Robin is right on for the first two points, but I am sympathetic to Corey’s concerns about framing…</p>\n",
@@ -183,30 +207,6 @@
 			"content_html": "<p>RE: <a href=\"https://micro.oxus.net/2018/07/13/an-important-part.html\">my last post</a> about “follow counts.” I do find it interesting to see how many of my followers on Twitter follow certain accounts: 35 of the people I follow also follow @mondomascots!</p>\n",
 			"date_published": "2018-07-13T10:09:43+08:00",
 			"url": "https://micro.oxus.net/2018/07/13/re-my-last.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/13/an-important-part.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.manton.org/2018/07/12/following-users-ui.html\">an important part of Micro.blog is to never show follower counts</a>” (Love the thought that <a href=\"https://micro.blog/manton\">@manton</a> put into implementing this feature. Focuses on discovery, not popularity.)</p>\n",
-			"date_published": "2018-07-13T10:01:30+08:00",
-			"url": "https://micro.oxus.net/2018/07/13/an-important-part.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/12/just-last-year.html",
-	      	
-			"content_html": "<p><a href=\"https://www.thedailybeast.com/just-last-year-brett-kavanaugh-suggested-roe-v-wade-was-wrongly-decided\">Just Last Year, Brett Kavanaugh Suggested Roe v. Wade Was Wrongly Decided</a></p>\n",
-			"date_published": "2018-07-13T07:47:51+08:00",
-			"url": "https://micro.oxus.net/2018/07/13/just-last-year.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/12/my-phone-tells.html",
-	      	
-			"content_html": "<p>My phone tells me that I walk, on average, about 2000 km a year. So in about 20 years I should’ve walked the equivalent of the circumference of the earth! 🚶‍♂️🐕🌏💫</p>\n",
-			"date_published": "2018-07-12T21:22:03+08:00",
-			"url": "https://micro.oxus.net/2018/07/12/my-phone-tells.html"
 		}
 		
 	]
