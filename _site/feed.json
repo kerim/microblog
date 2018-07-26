@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/26/finally-figured-out.html",
+	      	
+			"content_html": "<p>Finally figured out what all those <a href=\"https://www.youtube.com/watch?v=Ek39M_lYUtE\">Hataraku Saibou</a> memes are about…</p>\n",
+			"date_published": "2018-07-26T21:04:19+08:00",
+			"url": "https://micro.oxus.net/2018/07/26/finally-figured-out.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/26/sometimes-one-does.html",
 	      	
 			"content_html": "<p>Sometimes one does better by buying a RT ticket 💸  to a big city 🏙 in the US on a decent airline ✈️ , and then a separate local ticket 🎟 on a crappy US carrier 💩, rather than trying to book everything at once. (Never fly United 😱!)</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"https://ejb.github.io/2018/07/15/otranscribe-new-home.html\">oTranscribe needs a new home</a> (I hope someone takes over this important open source project! I depend on it for both teaching and research…)</p>\n",
 			"date_published": "2018-07-16T14:59:58+08:00",
 			"url": "https://micro.oxus.net/2018/07/16/otranscribe-needs-a.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/15/israel-in-turmoil.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theguardian.com/world/2018/jul/15/israel-turmoil-bill-allowing-jews-arabs-segregated\">Israel in turmoil over bill allowing Jews and Arabs to be segregated</a> (“which critics have condemned as the end of a democratic state” 😂😂😂)</p>\n",
-			"date_published": "2018-07-15T21:41:34+08:00",
-			"url": "https://micro.oxus.net/2018/07/15/israel-in-turmoil.html"
 		}
 		
 	]
