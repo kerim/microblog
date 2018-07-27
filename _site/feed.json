@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/27/i-use-emoji.html",
+	      	
+			"content_html": "<p>I use emoji to help organize my todo lists and my calendar. Been trying to figure out an emoji to use for academic conferences, but wasn’t happy with the choices. Today I finally figured it out: 🎪! #amanth2018</p>\n",
+			"date_published": "2018-07-27T13:31:22+08:00",
+			"url": "https://micro.oxus.net/2018/07/27/i-use-emoji.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/27/angry-to-hear.html",
+	      	
+			"content_html": "<p>Angry to hear that the police, for no particular reason, have beaten and arrested hundreds of people in Chharanagar, including theater member Atish Indrekar. When Dakxin got arrested we made our first short film about Chharanagar: <a href=\"https://www.youtube.com/watch?v=vpbL1UfxnzI\">Acting Like a Thief</a></p>\n",
+			"date_published": "2018-07-27T08:26:03+08:00",
+			"url": "https://micro.oxus.net/2018/07/27/angry-to-hear.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/26/infringements-to-academic.html",
+	      	
+			"content_html": "<p>❝infringements {to} academic freedom…had already occurred before Chinese personnel of the institutes even got there.❞ <a href=\"https://www.insidehighered.com/views/2018/07/26/confucius-institutes-function-propaganda-arms-chinese-government-opinion\">Confucius Institutes function as propaganda arms of the Chinese government</a></p>\n",
+			"date_published": "2018-07-26T21:46:12+08:00",
+			"url": "https://micro.oxus.net/2018/07/26/infringements-to-academic.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/26/finally-figured-out.html",
 	      	
 			"content_html": "<p>Finally figured out what all those <a href=\"https://www.youtube.com/watch?v=Ek39M_lYUtE\">Hataraku Saibou</a> memes are about…</p>\n",
@@ -183,30 +207,6 @@
 			"content_html": "<p><a href=\"https://topics.amcham.com.tw/2018/07/an-ancient-dog-finds-its-place-in-the-modern-world/\">An Ancient Dog Finds its Place in the Modern World</a> (“the way a Taiwan Dog bonds with its human is very unique and intense” - actually a problem if you need a dog sitter now and then…)</p>\n",
 			"date_published": "2018-07-17T21:37:39+08:00",
 			"url": "https://micro.oxus.net/2018/07/17/an-ancient-dog.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/17/omg-taiwan-the.html",
-	      	
-			"content_html": "<p>OMG! “Taiwan: The Land Colonialisms Made,” the special issue of Boundary 2 edited by Arif Dirlik, Ping-hui Liao, and Ya-Chung Chuang (in which I have an article) is <a href=\"https://read.dukeupress.edu/boundary-2/issue/45/3\">now available online</a>!</p>\n",
-			"date_published": "2018-07-17T17:35:19+08:00",
-			"url": "https://micro.oxus.net/2018/07/17/omg-taiwan-the.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/16/investigation-uncovers-a.html",
-	      	
-			"content_html": "<p><a href=\"https://www.rawstory.com/2018/07/investigation-uncovers-stunning-rate-bigoted-assault-harassment-new-york/\">Investigation uncovers a stunning rate of bigoted assault and harassment in New York</a></p>\n",
-			"date_published": "2018-07-16T22:44:58+08:00",
-			"url": "https://micro.oxus.net/2018/07/16/investigation-uncovers-a.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/16/otranscribe-needs-a.html",
-	      	
-			"content_html": "<p><a href=\"https://ejb.github.io/2018/07/15/otranscribe-new-home.html\">oTranscribe needs a new home</a> (I hope someone takes over this important open source project! I depend on it for both teaching and research…)</p>\n",
-			"date_published": "2018-07-16T14:59:58+08:00",
-			"url": "https://micro.oxus.net/2018/07/16/otranscribe-needs-a.html"
 		}
 		
 	]
