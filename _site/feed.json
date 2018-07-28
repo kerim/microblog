@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/28/what-the-cops.html",
+	      	
+			"content_html": "<p>What the cops did in Chharanagar is nothing less than “collective punishment”!  <a href=\"http://www.catchnews.com/india-news/chharas-of-ahmedabad-face-brutal-side-of-gujarat-model-as-cops-go-on-rampage-124846.html\">Cops Go On Rampage</a></p>\n",
+			"date_published": "2018-07-28T15:31:25+08:00",
+			"url": "https://micro.oxus.net/2018/07/28/what-the-cops.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/27/i-use-emoji.html",
 	      	
 			"content_html": "<p>I use emoji to help organize my todo lists and my calendar. Been trying to figure out an emoji to use for academic conferences, but wasn’t happy with the choices. Today I finally figured it out: 🎪! #amanth2018</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"https://vimeo.com/279923192\">The United States of Arms on Vimeo</a> (Question: To what extent, if any, has Taiwan’s loyal support of the US arms industry accelerated the militarization of daily life in America?)</p>\n",
 			"date_published": "2018-07-18T14:04:50+08:00",
 			"url": "https://micro.oxus.net/2018/07/18/the-united-states.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/17/an-ancient-dog.html",
-	      	
-			"content_html": "<p><a href=\"https://topics.amcham.com.tw/2018/07/an-ancient-dog-finds-its-place-in-the-modern-world/\">An Ancient Dog Finds its Place in the Modern World</a> (“the way a Taiwan Dog bonds with its human is very unique and intense” - actually a problem if you need a dog sitter now and then…)</p>\n",
-			"date_published": "2018-07-17T21:37:39+08:00",
-			"url": "https://micro.oxus.net/2018/07/17/an-ancient-dog.html"
 		}
 		
 	]
