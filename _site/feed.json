@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/29/the-way-twitter.html",
+	      	
+			"content_html": "<p>The way Twitter is structured, with branching conversations that don’t always trace back to the same root, makes it very difficult to reconstruct conversations after the fact. Especially if you weren’t one of the people tagged in every @ reply. Why I mostly stick with link-posts.</p>\n",
+			"date_published": "2018-07-29T10:21:49+08:00",
+			"url": "https://micro.oxus.net/2018/07/29/the-way-twitter.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/28/gujarat-police-arrest.html",
+	      	
+			"content_html": "<p><a href=\"https://scroll.in/latest/888232/gujarat-ahmedabad-police-arrest-29-men-for-allegedly-rioting-injuring-a-police-officer\">Gujarat: Police arrest 29 men in Chharanagar for alleged rioting, injuring a police officer</a></p>\n",
+			"date_published": "2018-07-28T23:53:09+08:00",
+			"url": "https://micro.oxus.net/2018/07/28/gujarat-police-arrest.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/28/what-the-cops.html",
 	      	
 			"content_html": "<p>What the cops did in Chharanagar is nothing less than “collective punishment”!  <a href=\"http://www.catchnews.com/india-news/chharas-of-ahmedabad-face-brutal-side-of-gujarat-model-as-cops-go-on-rampage-124846.html\">Cops Go On Rampage</a></p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p><a href=\"https://www.reuters.com/article/us-israel-politics-law/israel-adopts-divisive-jewish-nation-state-law-idUSKBN1K901V?utm_source=reddit.com\">Israel adopts divisive Jewish nation-state law</a> (“The bill also strips Arabic of its designation as an official language alongside Hebrew…”)</p>\n",
 			"date_published": "2018-07-19T19:49:49+08:00",
 			"url": "https://micro.oxus.net/2018/07/19/israel-adopts-divisive.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/19/facebook-domination-vs.html",
-	      	
-			"content_html": "<p><a href=\"https://boingboing.net/2018/07/18/platform-independence.html\">Facebook Domination vs. Self-Determination</a> (A vision of the social web as an open, decentralized, protocol.)</p>\n",
-			"date_published": "2018-07-19T19:06:44+08:00",
-			"url": "https://micro.oxus.net/2018/07/19/facebook-domination-vs.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/18/the-united-states.html",
-	      	
-			"content_html": "<p><a href=\"https://vimeo.com/279923192\">The United States of Arms on Vimeo</a> (Question: To what extent, if any, has Taiwan’s loyal support of the US arms industry accelerated the militarization of daily life in America?)</p>\n",
-			"date_published": "2018-07-18T14:04:50+08:00",
-			"url": "https://micro.oxus.net/2018/07/18/the-united-states.html"
 		}
 		
 	]
