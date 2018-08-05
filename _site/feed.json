@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/08/05/theres-no-reason.html",
+	      	
+			"content_html": "<p>❝there’s no reason to see a real tension between chasing swing voters and mobilizing nonvoters❞ - <a href=\"https://www.vox.com/2018/7/23/17575768/swing-voters-exist\">Swing voters exist: persuasion still counts</a></p>\n",
+			"date_published": "2018-08-05T09:52:57+08:00",
+			"url": "https://micro.oxus.net/2018/08/05/theres-no-reason.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/05/our-swing-voter.html",
+	      	
+			"content_html": "<p>❝Our swing voter is not red-to-blue. Our swing voter is … the non-voter to the voter.❞  -<a href=\"https://edition.cnn.com/2018/08/02/politics/ocasio-cortez-michigan-abdul-el-sayed-whitmer/index.html\">Alexandria Ocasio-Cortez</a></p>\n",
+			"date_published": "2018-08-05T09:49:59+08:00",
+			"url": "https://micro.oxus.net/2018/08/05/our-swing-voter.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/08/04/leftwing-professors-were.html",
 	      	
 			"content_html": "<p>❝<a href=\"https://www.vox.com/policy-and-politics/2018/8/3/17644180/political-correctness-free-speech-liberal-data-georgetown\">left-wing professors were more likely to be dismissed for their speech than conservative ones</a>❞</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>The way Twitter is structured, with branching conversations that don’t always trace back to the same root, makes it very difficult to reconstruct conversations after the fact. Especially if you weren’t one of the people tagged in every @ reply. Why I mostly stick with link-posts.</p>\n",
 			"date_published": "2018-07-29T10:21:49+08:00",
 			"url": "https://micro.oxus.net/2018/07/29/the-way-twitter.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/28/gujarat-police-arrest.html",
-	      	
-			"content_html": "<p><a href=\"https://scroll.in/latest/888232/gujarat-ahmedabad-police-arrest-29-men-for-allegedly-rioting-injuring-a-police-officer\">Gujarat: Police arrest 29 men in Chharanagar for alleged rioting, injuring a police officer</a></p>\n",
-			"date_published": "2018-07-28T23:53:09+08:00",
-			"url": "https://micro.oxus.net/2018/07/28/gujarat-police-arrest.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/28/what-the-cops.html",
-	      	
-			"content_html": "<p>What the cops did in Chharanagar is nothing less than “collective punishment”!  <a href=\"http://www.catchnews.com/india-news/chharas-of-ahmedabad-face-brutal-side-of-gujarat-model-as-cops-go-on-rampage-124846.html\">Cops Go On Rampage</a></p>\n",
-			"date_published": "2018-07-28T15:31:25+08:00",
-			"url": "https://micro.oxus.net/2018/07/28/what-the-cops.html"
 		}
 		
 	]
