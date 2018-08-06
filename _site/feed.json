@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/08/05/low-power-mode.html",
+	      	
+			"content_html": "<p><a href=\"https://marco.org/2018/07/31/mac-low-power-mode\">Low Power Mode on the Mac</a> (I’m definitely getting better battery life with Turbo Boost Switcher Pro installed! Worth looking at if you have a 2013 or later MacBook Pro.)</p>\n",
+			"date_published": "2018-08-05T15:49:33+08:00",
+			"url": "https://micro.oxus.net/2018/08/05/low-power-mode.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/08/05/theres-no-reason.html",
 	      	
 			"content_html": "<p>❝there’s no reason to see a real tension between chasing swing voters and mobilizing nonvoters❞ - <a href=\"https://www.vox.com/2018/7/23/17575768/swing-voters-exist\">Swing voters exist: persuasion still counts</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I can’t make tea without the water getting cold before I remember to drink it and I can’t make toast without burning the bread. Maybe I should make tea in the toaster and heat the bread on the electric kettle? ☕️❄️🍞🔥😕</p>\n",
 			"date_published": "2018-07-29T14:53:05+08:00",
 			"url": "https://micro.oxus.net/2018/07/29/i-cant-make.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/29/the-way-twitter.html",
-	      	
-			"content_html": "<p>The way Twitter is structured, with branching conversations that don’t always trace back to the same root, makes it very difficult to reconstruct conversations after the fact. Especially if you weren’t one of the people tagged in every @ reply. Why I mostly stick with link-posts.</p>\n",
-			"date_published": "2018-07-29T10:21:49+08:00",
-			"url": "https://micro.oxus.net/2018/07/29/the-way-twitter.html"
 		}
 		
 	]
