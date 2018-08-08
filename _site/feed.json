@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/08/08/social-media-is.html",
+	      	
+			"content_html": "<p>Social media is broken, so I’m now offering my micro blog as a weekly email newsletter as well. You can signup <a href=\"http://eepurl.com/dDv9q1\">here</a> or via the sidebar on my micro blog Facebook page.</p>\n",
+			"date_published": "2018-08-08T19:39:25+08:00",
+			"url": "https://micro.oxus.net/2018/08/08/social-media-is.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/08/08/ancient-dna-and.html",
 	      	
 			"content_html": "<p><a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1002/arco.5165\">Ancient DNA and its contribution to understanding the human history of the Pacific Islands</a> (This is a paywalled 🔐💰journal article, but it offers a useful overview for non-experts…)</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://thewire.in/rights/lawyers-theatre-personality-among-many-arrested-in-brutal-police-action-in-ahmedabad\">Lawyers, Theatre Personality Among Many Arrested in ‘Brutal’ Police Action in Ahmedabad</a></p>\n",
 			"date_published": "2018-07-29T19:09:16+08:00",
 			"url": "https://micro.oxus.net/2018/07/29/lawyers-theatre-personality.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/29/podcast-how-has.html",
-	      	
-			"content_html": "<p>Podcast🎙: <a href=\"https://overcast.fm/+lXIWcKC8\">How has Basque survived?</a></p>\n",
-			"date_published": "2018-07-29T16:48:15+08:00",
-			"url": "https://micro.oxus.net/2018/07/29/podcast-how-has.html"
 		}
 		
 	]
