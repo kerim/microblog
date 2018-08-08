@@ -48,7 +48,9 @@ paginate_path: "/page/:num/"
 timezone: "Singapore"
 site_id: "2872"
 gems: ["jekyll-paginate"]
+itunes_description: "Kerim Friedman is an anthropologist, blogger, and filmmaker. Read more about Kerim on his [homepage](https://kerim.oxus.net)."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Kerim Friedman"
+itunes_email: ""
 podcast: false
