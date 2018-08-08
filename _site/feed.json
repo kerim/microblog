@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/08/08/ancient-dna-and.html",
+	      	
+			"content_html": "<p><a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1002/arco.5165\">Ancient DNA and its contribution to understanding the human history of the Pacific Islands</a> (This is a paywalled 🔐💰journal article, but it offers a useful overview for non-experts…)</p>\n",
+			"date_published": "2018-08-08T11:36:52+08:00",
+			"url": "https://micro.oxus.net/2018/08/08/ancient-dna-and.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/05/chharanagar-police-brutality.html",
+	      	
+			"content_html": "<p><a href=\"https://mumbaimirror.indiatimes.com/others/sunday-read/that-night-of-26-july/articleshow/65275853.cms\">Chharanagar police brutality to be turned into a play</a></p>\n",
+			"date_published": "2018-08-05T17:18:23+08:00",
+			"url": "https://micro.oxus.net/2018/08/05/chharanagar-police-brutality.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/08/05/low-power-mode.html",
 	      	
 			"content_html": "<p><a href=\"https://marco.org/2018/07/31/mac-low-power-mode\">Low Power Mode on the Mac</a> (I’m definitely getting better battery life with Turbo Boost Switcher Pro installed! Worth looking at if you have a 2013 or later MacBook Pro.)</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Podcast🎙: <a href=\"https://overcast.fm/+lXIWcKC8\">How has Basque survived?</a></p>\n",
 			"date_published": "2018-07-29T16:48:15+08:00",
 			"url": "https://micro.oxus.net/2018/07/29/podcast-how-has.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/29/the-man-whose.html",
-	      	
-			"content_html": "<p><a href=\"https://www.dw.com/en/the-man-whose-deportation-elin-ersson-tried-to-prevent/a-44841129?maca=en-Facebook-sharing\">The man whose deportation Elin Ersson tried to prevent</a> (Turns out he wasn’t on the plane and was deported after all… 😢)</p>\n",
-			"date_published": "2018-07-29T15:34:19+08:00",
-			"url": "https://micro.oxus.net/2018/07/29/the-man-whose.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/29/i-cant-make.html",
-	      	
-			"content_html": "<p>I can’t make tea without the water getting cold before I remember to drink it and I can’t make toast without burning the bread. Maybe I should make tea in the toaster and heat the bread on the electric kettle? ☕️❄️🍞🔥😕</p>\n",
-			"date_published": "2018-07-29T14:53:05+08:00",
-			"url": "https://micro.oxus.net/2018/07/29/i-cant-make.html"
 		}
 		
 	]
