@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Kerim Friedman</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/kerim&quot;&gt;@kerim on Micro.blog&lt;/a&gt;.</description>
+    <description>Kerim Friedman is an anthropologist, blogger, and filmmaker. Read more about Kerim on his [homepage](https://kerim.oxus.net).</description>
     <link>https://micro.oxus.net/</link>
-    <pubDate>Sun, 05 Aug 2018 15:51:29 +0800</pubDate>
-    <lastBuildDate>Sun, 05 Aug 2018 15:51:29 +0800</lastBuildDate>
+    <pubDate>Wed, 08 Aug 2018 11:37:12 +0800</pubDate>
+    <lastBuildDate>Wed, 08 Aug 2018 11:37:12 +0800</lastBuildDate>
 	<itunes:image href="https://micro.blog/kerim/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>Kerim Friedman</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Kerim Friedman</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
     
 		
