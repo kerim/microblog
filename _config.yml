@@ -23,7 +23,7 @@ defaults:
     values:
       layout:       "post"
 
-title: "Kerim Friedman"
+title: "Kerim's Micro Blog"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/kerim\">@kerim on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/kerim\">@kerim on Micro.blog</a>."
@@ -34,11 +34,11 @@ username: "kerim"
 microblog_user: "kerim"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
-author: "Kerim Friedman"
-name: "Kerim Friedman"
+author: "Kerim's Micro Blog"
+name: "Kerim's Micro Blog"
 gravatar_hash: "3f733bd06413af380fcd122e4be08dc4"
 avatar: "https://micro.blog/kerim/avatar.jpg"
-full_name: "Kerim Friedman"
+full_name: "Kerim's Micro Blog"
 bio: ""
 twitter_username: "kerim"
 github_username: "kerim"
