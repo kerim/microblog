@@ -1,9 +1,73 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Kerim Friedman",
+	"title": "Kerim's Micro Blog",
 	"home_page_url": "https://micro.oxus.net/",
 	"feed_url": "https://micro.oxus.net/feed.json",
 	"items": [
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/10/the-indigenous-mexican.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theatlantic.com/science/archive/2018/08/amaizeballs/567140/\">The Indigenous Mexican Corn That Uses Air as Fertilizer</a></p>\n",
+			"date_published": "2018-08-10T20:40:06+08:00",
+			"url": "https://micro.oxus.net/2018/08/10/the-indigenous-mexican.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/10/my-friends-in.html",
+	      	
+			"content_html": "<p>My friends in Europe and America pride themselves on quitting Facebook, but FB is where indigenous Taiwanese and India’s DNTs are mobilizing and sharing their stories. They need FB (or something like it). <a href=\"https://venturebeat.com/2018/04/14/5-ways-congress-could-regulate-facebook/\">Let’s regulate FB</a>, not abandon it!</p>\n",
+			"date_published": "2018-08-10T11:18:38+08:00",
+			"url": "https://micro.oxus.net/2018/08/10/my-friends-in.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/09/how-well-do.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2018/08/09/upshot/trump-voters-how-theyve-changed.html\">How Well Do You Understand the Trump Coalition? A Two-Question Quiz</a> (I got the first one right but was depressingly off on no. 2…)</p>\n",
+			"date_published": "2018-08-09T23:23:53+08:00",
+			"url": "https://micro.oxus.net/2018/08/09/how-well-do.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/09/china-is-cheating.html",
+	      	
+			"content_html": "<p><a href=\"https://foreignpolicy.com/2018/08/08/china-is-cheating-at-a-rigged-game/\">China Is Cheating at a Rigged Game</a></p>\n",
+			"date_published": "2018-08-09T21:33:10+08:00",
+			"url": "https://micro.oxus.net/2018/08/09/china-is-cheating.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/09/kahan-hai-chinese.html",
+	      	
+			"content_html": "<p>❝Kahan hai Chinese? Yahan par toh sab Pakistani hain❞ (“Where’s the Chinese? There are only Pakistanis here”) <a href=\"https://www.dawn.com/news/1425738\">Being Chinese in Pakistan</a></p>\n",
+			"date_published": "2018-08-09T19:03:21+08:00",
+			"url": "https://micro.oxus.net/2018/08/09/kahan-hai-chinese.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/09/cause-for-hope.html",
+	      	
+			"content_html": "<p>(Cause for hope?) ❝Democrats have <a href=\"https://www.axios.com/newsletters/axios-pm-c9111384-1e3b-43fb-887e-7b050739a894.html\">outperformed in each special election since President Trump took office</a> by an average of 8.5 points…double the margin required for Democrats to take back the House❞</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/fc7c5a7780.jpg\" width=\"600\" height=\"569\" /></p>\n",
+			"date_published": "2018-08-09T09:50:14+08:00",
+			"url": "https://micro.oxus.net/2018/08/09/cause-for-hope.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/08/wheelchair-agents-are.html",
+	      	
+			"content_html": "<p>❝Wheelchair agents… are paid based on the assumption that they will earn tips, and yet they are not allowed to let passengers know that❞ - <a href=\"https://www.washingtonpost.com/local/they-have-nothing-how-a-20-tip-cost-an-immigrant-her-dulles-job-and-severed-a-lifeline-to-sierra-leone/2018/08/01/82d9aafc-952c-11e8-810c-5fa705927d54_story.html?utm_term=.21a0c4e56b22\">How a $20 tip cost an immigrant her job at Dulles Airport and severed a lifeline to Sierra Leone</a></p>\n",
+			"date_published": "2018-08-08T23:16:09+08:00",
+			"url": "https://micro.oxus.net/2018/08/08/wheelchair-agents-are.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/08/women-who-suffer.html",
+	      	
+			"content_html": "<p>❝<a href=\"http://mentalfloss.com/article/553687/if-youre-woman-having-heart-attack-youll-want-female-er-doctor\">Women who suffer heart attacks may face a 12 percent greater risk of dying if their care is entrusted to a male doctor</a>❞</p>\n",
+			"date_published": "2018-08-08T22:08:08+08:00",
+			"url": "https://micro.oxus.net/2018/08/08/women-who-suffer.html"
+		},
 		
 		{
 			"id": "http://kerim.micro.blog/2018/08/08/social-media-is.html",
@@ -19,6 +83,30 @@
 			"content_html": "<p><a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1002/arco.5165\">Ancient DNA and its contribution to understanding the human history of the Pacific Islands</a> (This is a paywalled 🔐💰journal article, but it offers a useful overview for non-experts…)</p>\n",
 			"date_published": "2018-08-08T11:36:52+08:00",
 			"url": "https://micro.oxus.net/2018/08/08/ancient-dna-and.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/07/064543.html",
+	      	
+			"content_html": "<p>🐌💋</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/394f448f9b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-07T14:45:43+08:00",
+			"url": "https://micro.oxus.net/2018/08/07/064543.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/07/pterodactyl-vs-fish.html",
+	      	
+			"content_html": "<p>pterodactyl vs fish</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/325bfd0c8c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-07T14:43:21+08:00",
+			"url": "https://micro.oxus.net/2018/08/07/pterodactyl-vs-fish.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/06/100914.html",
+	      	
+			"content_html": "<p>英雄廣場商業大樓</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e0a0127040.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-06T18:09:14+08:00",
+			"url": "https://micro.oxus.net/2018/08/06/100914.html"
 		},
 		
 		{
@@ -115,94 +203,6 @@
 			"content_html": "<p><a href=\"https://techcrunch.com/2018/08/01/psa-cross-posting-tweets-to-facebook-no-longer-works-as-of-today/\">PSA: Automatic cross-posting of tweets to Facebook no longer works as of today</a></p>\n",
 			"date_published": "2018-08-02T16:15:09+08:00",
 			"url": "https://micro.oxus.net/2018/08/02/psa-automatic-crossposting.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/02/a-tokyo-medical.html",
-	      	
-			"content_html": "<p>A <a href=\"http://www.asiaone.com/world/tokyo-medical-school-altered-test-scores-keep-women-out\">Tokyo medical school altered test scores to keep percentage of female students below 30%</a> even as number of women applicants was increasing!</p>\n",
-			"date_published": "2018-08-02T15:53:13+08:00",
-			"url": "https://micro.oxus.net/2018/08/02/a-tokyo-medical.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/01/because-its-easier.html",
-	      	
-			"content_html": "<p>Because it’s easier to imagine socialism than reigning in the military-industrial complex? ➭ <a href=\"https://newrepublic.com/article/150317/left-wings-foreign-policy\">Where Is the Left Wing’s Foreign Policy?</a></p>\n",
-			"date_published": "2018-08-01T18:46:23+08:00",
-			"url": "https://micro.oxus.net/2018/08/01/because-its-easier.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/31/if-you-were.html",
-	      	
-			"content_html": "<p>If you were teaching Moana in a course focused on issues of representation and identity and could only pick one article to use with the film, what would it be?</p>\n",
-			"date_published": "2018-07-31T15:57:20+08:00",
-			"url": "https://micro.oxus.net/2018/07/31/if-you-were.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/31/oh-i-wish.html",
-	      	
-			"content_html": "<p>Oh, I wish I had time to read this Special Issue of Anthropological Theory right now! “<a href=\"http://journals.sagepub.com/toc/anta/18/2-3\">Civility: Global Perspectives</a>.” I often feel that the discussions about this topic are overly US-centric, so this seems like an excellent intervention. #dendum</p>\n",
-			"date_published": "2018-07-31T14:24:17+08:00",
-			"url": "https://micro.oxus.net/2018/07/31/oh-i-wish.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/30/lack-of-day.html",
-	      	
-			"content_html": "<p><a href=\"http://m.focustaiwan.tw/news/afav/201807260024.aspx\">Lack of day off for migrants (in Taiwan) is ‘denial of human rights’</a></p>\n",
-			"date_published": "2018-07-30T20:12:11+08:00",
-			"url": "https://micro.oxus.net/2018/07/30/lack-of-day.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/30/what-happens-to.html",
-	      	
-			"content_html": "<p><a href=\"https://www.bbc.com/news/world-asia-india-45002670\">What happens to India’s four million ‘stateless’ people?</a></p>\n",
-			"date_published": "2018-07-30T20:10:25+08:00",
-			"url": "https://micro.oxus.net/2018/07/30/what-happens-to.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/30/stop-rewind-repeat.html",
-	      	
-			"content_html": "<p><a href=\"https://www.amnesty.org/en/latest/news/2018/07/why-chinese-children-are-still-not-safe/\">Stop. Rewind. Repeat. Why Chinese children are still not safe</a></p>\n",
-			"date_published": "2018-07-30T20:07:33+08:00",
-			"url": "https://micro.oxus.net/2018/07/30/stop-rewind-repeat.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/30/on-my-fb.html",
-	      	
-			"content_html": "<p>On my FB feed I’m seeing posts by @m4abhi of the lawyer’s strike at the Metropolitan Court in Ahmedabad. Here, is a screen grab of a short piece I wrote for DNA Ahmedabad in 2010 called “A Look at Why Chharanagar is the Land of Lawyers.”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/390241161c.jpg\" width=\"600\" height=\"169\" /></p>\n",
-			"date_published": "2018-07-30T15:35:07+08:00",
-			"url": "https://micro.oxus.net/2018/07/30/on-my-fb.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/30/anthropology-graduate-student.html",
-	      	
-			"content_html": "<p>Anthropology graduate student Darren Byler (雷风) is doing <a href=\"https://livingotherwise.com/\">some amazing blogging</a> about what is happening to to Uyghurs right now. Be sure to follow him on Twitter as well @dtbyler #dendum</p>\n",
-			"date_published": "2018-07-30T12:02:01+08:00",
-			"url": "https://micro.oxus.net/2018/07/30/anthropology-graduate-student.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/30/in-the-past.html",
-	      	
-			"content_html": "<p>❝in the past 50 years, Italian syntax has shifted towards patterns that mimic English models❞ (German and Swedish too!)<a href=\"https://www.theguardian.com/news/2018/jul/27/english-language-global-dominance\">Behemoth, bully, thief: how the English language is taking over the planet</a></p>\n",
-			"date_published": "2018-07-30T10:42:03+08:00",
-			"url": "https://micro.oxus.net/2018/07/30/in-the-past.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/07/29/lawyers-theatre-personality.html",
-	      	
-			"content_html": "<p><a href=\"https://thewire.in/rights/lawyers-theatre-personality-among-many-arrested-in-brutal-police-action-in-ahmedabad\">Lawyers, Theatre Personality Among Many Arrested in ‘Brutal’ Police Action in Ahmedabad</a></p>\n",
-			"date_published": "2018-07-29T19:09:16+08:00",
-			"url": "https://micro.oxus.net/2018/07/29/lawyers-theatre-personality.html"
 		}
 		
 	]
