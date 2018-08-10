@@ -1,9 +1,73 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Kerim Friedman",
+	"title": "Kerim's Micro Blog",
 	"home_page_url": "https://micro.oxus.net/",
 	"feed_url": "https://micro.oxus.net/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/10/the-indigenous-mexican.html",
+	      	
+			"content_text": "The Indigenous Mexican Corn That Uses Air as Fertilizer\n",
+			"date_published": "2018-08-10T20:40:06+08:00",
+			"url": "https://micro.oxus.net/2018/08/10/the-indigenous-mexican.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/10/my-friends-in.html",
+	      	
+			"content_text": "My friends in Europe and America pride themselves on quitting...",
+			"date_published": "2018-08-10T11:18:38+08:00",
+			"url": "https://micro.oxus.net/2018/08/10/my-friends-in.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/09/how-well-do.html",
+	      	
+			"content_text": "How Well Do You Understand the Trump Coalition? A Two-Question...",
+			"date_published": "2018-08-09T23:23:53+08:00",
+			"url": "https://micro.oxus.net/2018/08/09/how-well-do.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/09/china-is-cheating.html",
+	      	
+			"content_text": "China Is Cheating at a Rigged Game\n",
+			"date_published": "2018-08-09T21:33:10+08:00",
+			"url": "https://micro.oxus.net/2018/08/09/china-is-cheating.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/09/kahan-hai-chinese.html",
+	      	
+			"content_text": "❝Kahan hai Chinese? Yahan par toh sab Pakistani hain❞ (“Where’s...",
+			"date_published": "2018-08-09T19:03:21+08:00",
+			"url": "https://micro.oxus.net/2018/08/09/kahan-hai-chinese.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/09/cause-for-hope.html",
+	      	
+			"content_text": "(Cause for hope?) ❝Democrats have outperformed in each special election...",
+			"date_published": "2018-08-09T09:50:14+08:00",
+			"url": "https://micro.oxus.net/2018/08/09/cause-for-hope.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/08/wheelchair-agents-are.html",
+	      	
+			"content_text": "❝Wheelchair agents… are paid based on the assumption that they...",
+			"date_published": "2018-08-08T23:16:09+08:00",
+			"url": "https://micro.oxus.net/2018/08/08/wheelchair-agents-are.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/08/women-who-suffer.html",
+	      	
+			"content_text": "❝Women who suffer heart attacks may face a 12 percent...",
+			"date_published": "2018-08-08T22:08:08+08:00",
+			"url": "https://micro.oxus.net/2018/08/08/women-who-suffer.html"
+		},
 		
 		{
 			"id": "http://kerim.micro.blog/2018/08/08/social-media-is.html",
@@ -19,6 +83,30 @@
 			"content_text": "Ancient DNA and its contribution to understanding the human history...",
 			"date_published": "2018-08-08T11:36:52+08:00",
 			"url": "https://micro.oxus.net/2018/08/08/ancient-dna-and.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/07/064543.html",
+	      	
+			"content_text": "🐌💋\n\n\n",
+			"date_published": "2018-08-07T14:45:43+08:00",
+			"url": "https://micro.oxus.net/2018/08/07/064543.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/07/pterodactyl-vs-fish.html",
+	      	
+			"content_text": "pterodactyl vs fish\n\n\n",
+			"date_published": "2018-08-07T14:43:21+08:00",
+			"url": "https://micro.oxus.net/2018/08/07/pterodactyl-vs-fish.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/06/100914.html",
+	      	
+			"content_text": "英雄廣場商業大樓\n\n\n",
+			"date_published": "2018-08-06T18:09:14+08:00",
+			"url": "https://micro.oxus.net/2018/08/06/100914.html"
 		},
 		
 		{
@@ -131,6 +219,14 @@
 			"content_text": "Because it’s easier to imagine socialism than reigning in the...",
 			"date_published": "2018-08-01T18:46:23+08:00",
 			"url": "https://micro.oxus.net/2018/08/01/because-its-easier.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/31/the-wing-chun.html",
+	      	
+			"content_text": "The Wing Chun master’s rooster\n\n\n",
+			"date_published": "2018-08-01T07:21:36+08:00",
+			"url": "https://micro.oxus.net/2018/08/01/the-wing-chun.html"
 		},
 		
 		{
@@ -270,6 +366,14 @@
 		},
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/26/sophie-gave-me.html",
+	      	
+			"content_text": "Sophie gave me a new yoga prop, but I’m not...",
+			"date_published": "2018-07-26T22:37:42+08:00",
+			"url": "https://micro.oxus.net/2018/07/26/sophie-gave-me.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/26/infringements-to-academic.html",
 	      	
 			"content_text": "❝infringements {to} academic freedom…had already occurred before Chinese personnel of...",
@@ -390,6 +494,14 @@
 		},
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/22/adiler.html",
+	      	
+			"content_text": "Adiler\n\n\n",
+			"date_published": "2018-07-22T21:46:47+08:00",
+			"url": "https://micro.oxus.net/2018/07/22/adiler.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/22/shinobu-hashimoto-writer.html",
 	      	
 			"content_text": "Shinobu Hashimoto, Writer of Towering Kurosawa Films, Is Dead at...",
@@ -426,6 +538,14 @@
 		},
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/21/less-than-us.html",
+	      	
+			"content_text": "Less than US$2 for a whole basket of vegetarian dumplings...",
+			"date_published": "2018-07-21T10:55:37+08:00",
+			"url": "https://micro.oxus.net/2018/07/21/less-than-us.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/19/israel-adopts-divisive.html",
 	      	
 			"content_text": "Israel adopts divisive Jewish nation-state law (“The bill also strips...",
@@ -439,6 +559,14 @@
 			"content_text": "Facebook Domination vs. Self-Determination (A vision of the social web...",
 			"date_published": "2018-07-19T19:06:44+08:00",
 			"url": "https://micro.oxus.net/2018/07/19/facebook-domination-vs.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/18/in-this-heat.html",
+	      	
+			"content_text": "In this heat, I don’t blame them for waiting for...",
+			"date_published": "2018-07-18T18:48:24+08:00",
+			"url": "https://micro.oxus.net/2018/07/18/in-this-heat.html"
 		},
 		
 		{
@@ -482,11 +610,27 @@
 		},
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/16/phd-students-notes.html",
+	      	
+			"content_text": "PhD student’s notes writing during our wide ranging, three hour...",
+			"date_published": "2018-07-16T11:18:04+08:00",
+			"url": "https://micro.oxus.net/2018/07/16/phd-students-notes.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/15/israel-in-turmoil.html",
 	      	
 			"content_text": "Israel in turmoil over bill allowing Jews and Arabs to...",
 			"date_published": "2018-07-15T21:41:34+08:00",
 			"url": "https://micro.oxus.net/2018/07/15/israel-in-turmoil.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/14/doraemon-has-a.html",
+	      	
+			"content_text": "Doraemon has a toothache\n\n\n",
+			"date_published": "2018-07-14T14:46:04+08:00",
+			"url": "https://micro.oxus.net/2018/07/14/doraemon-has-a.html"
 		},
 		
 		{
@@ -538,6 +682,14 @@
 		},
 		
 		{
+			"id": "http://kerim.micro.blog/2018/07/11/fried-bread-sticks.html",
+	      	
+			"content_text": "Fried bread sticks (油條) getting made\n\n\n",
+			"date_published": "2018-07-11T15:12:19+08:00",
+			"url": "https://micro.oxus.net/2018/07/11/fried-bread-sticks.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/07/11/how-china-got.html",
 	      	
 			"content_text": "How China Got Sri Lanka to Cough Up a Port...",
@@ -583,6 +735,14 @@
 			"content_text": "“Why would seeing and hearing be irrelevant? We are creatures...",
 			"date_published": "2018-07-10T08:52:21+08:00",
 			"url": "https://micro.oxus.net/2018/07/10/why-would-seeing.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/07/10/classy-hotel-for.html",
+	      	
+			"content_text": "Classy hotel for classy people\n\n\n",
+			"date_published": "2018-07-10T08:21:56+08:00",
+			"url": "https://micro.oxus.net/2018/07/10/classy-hotel-for.html"
 		},
 		
 		{
