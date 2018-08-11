@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/08/11/if-a-socialist.html",
+	      	
+			"content_html": "<p>If a socialist says something stupid it is the “ideology” that is flawed, but if a liberal says something stupid they are just a lone idiot and their comments in no way reflect upon the limits of liberalism. 🤔</p>\n",
+			"date_published": "2018-08-11T11:00:18+08:00",
+			"url": "https://micro.oxus.net/2018/08/11/if-a-socialist.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/10/twitter-says-infowars.html",
+	      	
+			"content_html": "<p><a href=\"https://money.cnn.com/2018/08/09/media/twitter-infowars-alex-jones/index.html\">Twitter says Infowars hasn’t ‘violated our rules.’ It looks like that’s not the case</a> <a href=\"https://micro.blog/jack\">@jack</a></p>\n",
+			"date_published": "2018-08-10T20:53:25+08:00",
+			"url": "https://micro.oxus.net/2018/08/10/twitter-says-infowars.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/08/10/the-indigenous-mexican.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theatlantic.com/science/archive/2018/08/amaizeballs/567140/\">The Indigenous Mexican Corn That Uses Air as Fertilizer</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/07/31/upshot/Census-question-citizenship-power.html\">A Census Question That Could Change How Power Is Divided in America</a></p>\n",
 			"date_published": "2018-08-02T16:36:52+08:00",
 			"url": "https://micro.oxus.net/2018/08/02/a-census-question.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/02/this-looks-like.html",
-	      	
-			"content_html": "<p>This looks like an important new book 📚!</p>\n<blockquote>\n  <p><a href=\"https://www.luminosoa.org/site/books/10.1525/luminos.34/\">Placing Empire</a> examines the spatial politics of Japanese imperialism through a study of Japanese travel and tourism to Korea, Manchuria, and Taiwan between the late nineteenth century and the early 1950s.</p>\n</blockquote>\n",
-			"date_published": "2018-08-02T16:22:53+08:00",
-			"url": "https://micro.oxus.net/2018/08/02/this-looks-like.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/02/psa-automatic-crossposting.html",
-	      	
-			"content_html": "<p><a href=\"https://techcrunch.com/2018/08/01/psa-cross-posting-tweets-to-facebook-no-longer-works-as-of-today/\">PSA: Automatic cross-posting of tweets to Facebook no longer works as of today</a></p>\n",
-			"date_published": "2018-08-02T16:15:09+08:00",
-			"url": "https://micro.oxus.net/2018/08/02/psa-automatic-crossposting.html"
 		}
 		
 	]
