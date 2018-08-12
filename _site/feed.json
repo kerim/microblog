@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/08/12/i-only-ever.html",
+	      	
+			"content_html": "<p>I only ever read one book by <a href=\"https://www.nytimes.com/2018/08/11/obituaries/vs-naipaul-dead-author-nobel-prize.html\">V.S. Naipaul</a>, his Islamophobic travelog from the early eighties, but it put me off ever reading another book by him. Wondering if I should give his fiction a try? Or will it just piss me off more?</p>\n",
+			"date_published": "2018-08-12T08:42:38+08:00",
+			"url": "https://micro.oxus.net/2018/08/12/i-only-ever.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/08/11/holding-hands-like.html",
 	      	
 			"content_html": "<p><a href=\"https://scroll.in/article/889972/a-british-photographer-captures-the-very-indian-phenomenon-of-men-non-romantically-holding-hands\">Holding hands like this</a> used to be common in China, but didn’t see it on my last trip… Because I was in Shanghai, or changing norms?</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>❝Our swing voter is not red-to-blue. Our swing voter is … the non-voter to the voter.❞  -<a href=\"https://edition.cnn.com/2018/08/02/politics/ocasio-cortez-michigan-abdul-el-sayed-whitmer/index.html\">Alexandria Ocasio-Cortez</a></p>\n",
 			"date_published": "2018-08-05T09:49:59+08:00",
 			"url": "https://micro.oxus.net/2018/08/05/our-swing-voter.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/04/leftwing-professors-were.html",
-	      	
-			"content_html": "<p>❝<a href=\"https://www.vox.com/policy-and-politics/2018/8/3/17644180/political-correctness-free-speech-liberal-data-georgetown\">left-wing professors were more likely to be dismissed for their speech than conservative ones</a>❞</p>\n",
-			"date_published": "2018-08-04T08:48:17+08:00",
-			"url": "https://micro.oxus.net/2018/08/04/leftwing-professors-were.html"
 		}
 		
 	]
