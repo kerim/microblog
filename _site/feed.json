@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/08/14/more-people-stayed.html",
+	      	
+			"content_html": "<p>❝<a href=\"https://boingboing.net/2018/08/14/president-elizabeth-warren.html\">More people stayed home from the polls than voted for either Hillary Clinton or Donald Trump and nonvoters were more likely to be nonwhite, under 50, and low-earning</a>❞</p>\n",
+			"date_published": "2018-08-15T01:16:04+08:00",
+			"url": "https://micro.oxus.net/2018/08/15/more-people-stayed.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/12/china-not-just.html",
+	      	
+			"content_html": "<p>China not just detaining Uighurs, but also Kazakhs in their <a href=\"https://www.washingtonpost.com/world/asia_pacific/new-evidence-emerges-that-china-is-forcing-muslims-into-reeducation-camps/2018/08/10/1d6d2f64-8dce-11e8-9b0d-749fb254bc3d_story.html?utm_term=.ed6d4f9b1022\">‘reeducation’ camps</a> 😡</p>\n",
+			"date_published": "2018-08-12T08:52:30+08:00",
+			"url": "https://micro.oxus.net/2018/08/12/china-not-just.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/12/glad-to-see.html",
+	      	
+			"content_html": "<p>Glad to see <a href=\"https://www.muckrock.com/news/archives/2018/aug/06/otranscribe-joining-muckrock-and-documentcloud/?utm_content=buffer57f34&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer\">oTranscribe</a> in new hands. A great free tool for anthropologists and filmmakers!</p>\n",
+			"date_published": "2018-08-12T08:50:06+08:00",
+			"url": "https://micro.oxus.net/2018/08/12/glad-to-see.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/12/not-a-fan.html",
+	      	
+			"content_html": "<p>Not a fan of Monsanto, but the science just doesn’t support the <a href=\"https://arstechnica.com/tech-policy/2018/08/lawsuit-brings-289-million-verdict-against-maker-of-roundup-weed-killer/\">Roundup case</a> and it will probably be overturned on appeal…</p>\n",
+			"date_published": "2018-08-12T08:48:48+08:00",
+			"url": "https://micro.oxus.net/2018/08/12/not-a-fan.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/08/12/i-only-ever.html",
 	      	
 			"content_html": "<p>I only ever read one book by <a href=\"https://www.nytimes.com/2018/08/11/obituaries/vs-naipaul-dead-author-nobel-prize.html\">V.S. Naipaul</a>, his Islamophobic travelog from the early eighties, but it put me off ever reading another book by him. Wondering if I should give his fiction a try? Or will it just piss me off more?</p>\n",
@@ -171,38 +203,6 @@
 			"content_html": "<p>英雄廣場商業大樓</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e0a0127040.jpg\" width=\"480\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-06T18:09:14+08:00",
 			"url": "https://micro.oxus.net/2018/08/06/100914.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/05/chharanagar-police-brutality.html",
-	      	
-			"content_html": "<p><a href=\"https://mumbaimirror.indiatimes.com/others/sunday-read/that-night-of-26-july/articleshow/65275853.cms\">Chharanagar police brutality to be turned into a play</a></p>\n",
-			"date_published": "2018-08-05T17:18:23+08:00",
-			"url": "https://micro.oxus.net/2018/08/05/chharanagar-police-brutality.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/05/low-power-mode.html",
-	      	
-			"content_html": "<p><a href=\"https://marco.org/2018/07/31/mac-low-power-mode\">Low Power Mode on the Mac</a> (I’m definitely getting better battery life with Turbo Boost Switcher Pro installed! Worth looking at if you have a 2013 or later MacBook Pro.)</p>\n",
-			"date_published": "2018-08-05T15:49:33+08:00",
-			"url": "https://micro.oxus.net/2018/08/05/low-power-mode.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/05/theres-no-reason.html",
-	      	
-			"content_html": "<p>❝there’s no reason to see a real tension between chasing swing voters and mobilizing nonvoters❞ - <a href=\"https://www.vox.com/2018/7/23/17575768/swing-voters-exist\">Swing voters exist: persuasion still counts</a></p>\n",
-			"date_published": "2018-08-05T09:52:57+08:00",
-			"url": "https://micro.oxus.net/2018/08/05/theres-no-reason.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/05/our-swing-voter.html",
-	      	
-			"content_html": "<p>❝Our swing voter is not red-to-blue. Our swing voter is … the non-voter to the voter.❞  -<a href=\"https://edition.cnn.com/2018/08/02/politics/ocasio-cortez-michigan-abdul-el-sayed-whitmer/index.html\">Alexandria Ocasio-Cortez</a></p>\n",
-			"date_published": "2018-08-05T09:49:59+08:00",
-			"url": "https://micro.oxus.net/2018/08/05/our-swing-voter.html"
 		}
 		
 	]
