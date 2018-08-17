@@ -3,7 +3,7 @@ title: "Newsletter"
 permalink: "/newsletter/"
 layout: page
 order: 4
-date: 2018-08-08 19:54:39 +0800
+date: 2018-08-08 07:54:39 -0400
 ---
 You can get a weekly digest of posts from this blog via the email newsletter. After subscribing via this form you will be asked to confirm your subscription via email. If you don't see the email, please check your SPAM folder. (You can unsubscribe at any time!)
 
