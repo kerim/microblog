@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/08/22/dear-academic-journals.html",
+	      	
+			"content_html": "<p>Dear academic journals: making something temporarily free to download is not the same thing as making it “open access.”</p>\n",
+			"date_published": "2018-08-22T11:37:15-04:00",
+			"url": "https://micro.oxus.net/2018/08/22/dear-academic-journals.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/20/lockheed-martins-worldphotoday.html",
+	      	
+			"content_html": "<p><a href=\"https://www.huffingtonpost.com/entry/lockheed-martin-world-photo-day_us_5b78a2eee4b018b93e948af3?ncid=engmodushpmg00000004\">Lockheed Martin’s #WorldPhotoDay Tweet Backfires</a></p>\n",
+			"date_published": "2018-08-20T17:38:00-04:00",
+			"url": "https://micro.oxus.net/2018/08/20/lockheed-martins-worldphotoday.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/20/the-unsexy-truth.html",
+	      	
+			"content_html": "<p><a href=\"https://www.chronicle.com/article/The-Unsexy-Truth-About-the/244314\">The Unsexy Truth About the Avital Ronell Scandal</a></p>\n",
+			"date_published": "2018-08-20T17:11:44-04:00",
+			"url": "https://micro.oxus.net/2018/08/20/the-unsexy-truth.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/08/20/groundhog-day-shot.html",
 	      	
 			"content_html": "<p>Groundhog Day! (Shot through a pair of binoculars …)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/bfda77d274.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>Not a fan of Monsanto, but the science just doesn’t support the <a href=\"https://arstechnica.com/tech-policy/2018/08/lawsuit-brings-289-million-verdict-against-maker-of-roundup-weed-killer/\">Roundup case</a> and it will probably be overturned on appeal…</p>\n",
 			"date_published": "2018-08-11T20:48:48-04:00",
 			"url": "https://micro.oxus.net/2018/08/11/not-a-fan.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/12/i-only-ever.html",
-	      	
-			"content_html": "<p>I only ever read one book by <a href=\"https://www.nytimes.com/2018/08/11/obituaries/vs-naipaul-dead-author-nobel-prize.html\">V.S. Naipaul</a>, his Islamophobic travelog from the early eighties, but it put me off ever reading another book by him. Wondering if I should give his fiction a try? Or will it just piss me off more?</p>\n",
-			"date_published": "2018-08-11T20:42:38-04:00",
-			"url": "https://micro.oxus.net/2018/08/11/i-only-ever.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/11/holding-hands-like.html",
-	      	
-			"content_html": "<p><a href=\"https://scroll.in/article/889972/a-british-photographer-captures-the-very-indian-phenomenon-of-men-non-romantically-holding-hands\">Holding hands like this</a> used to be common in China, but didn’t see it on my last trip… Because I was in Shanghai, or changing norms?</p>\n",
-			"date_published": "2018-08-11T07:51:28-04:00",
-			"url": "https://micro.oxus.net/2018/08/11/holding-hands-like.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/11/star-scholar-disappears.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/08/10/world/asia/china-xinjiang-rahile-dawut.html\">Star Scholar Disappears as Crackdown Engulfs Western China</a> #dendum</p>\n",
-			"date_published": "2018-08-11T06:50:29-04:00",
-			"url": "https://micro.oxus.net/2018/08/11/star-scholar-disappears.html"
 		}
 		
 	]
