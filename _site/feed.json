@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/08/24/annual-global-temperatures.html",
+	      	
+			"content_html": "<p><a href=\"http://www.climate-lab-book.ac.uk/2018/warming-stripes/\">Annual global temperatures from 1850-2017</a> (The colour scale represents the change in global temperatures covering 1.35°C)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/382ec2c36d.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-08-24T09:15:48-04:00",
+			"url": "https://micro.oxus.net/2018/08/24/annual-global-temperatures.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/23/an-explainer-on.html",
+	      	
+			"content_html": "<p>An explainer on <a href=\"https://supchina.com/2018/08/22/xinjiang-explainer-chinas-reeducation-camps-for-a-million-muslims/\">China’s re-education camps for a million Muslims</a></p>\n",
+			"date_published": "2018-08-23T14:59:11-04:00",
+			"url": "https://micro.oxus.net/2018/08/23/an-explainer-on.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/23/indias-new-compensatory.html",
+	      	
+			"content_html": "<p><a href=\"https://india.mongabay.com/2018/08/23/indias-new-compensatory-afforestation-rules-dilute-rights-of-forest-dwellers/\">India’s new compensatory afforestation rules dilute rights of forest dwellers</a></p>\n",
+			"date_published": "2018-08-23T14:49:34-04:00",
+			"url": "https://micro.oxus.net/2018/08/23/indias-new-compensatory.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/23/call-to-action.html",
+	      	
+			"content_html": "<p><a href=\"https://anthroboycott.wordpress.com/2018/08/18/call-to-action-respond-to-increasing-israeli-attacks-on-palestinian-educational-institutions/\">Call to Action: Respond to Increasing Israeli Attacks on Palestinian Educational Institutions</a> #dendum</p>\n",
+			"date_published": "2018-08-23T08:10:28-04:00",
+			"url": "https://micro.oxus.net/2018/08/23/call-to-action.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/08/22/why-wait-to.html",
+	      	
+			"content_html": "<p>Why wait to be a 🦋 when you can strut your stuff as a 🐛?</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/5b17500571.jpg\" width=\"600\" height=\"598\" /></p>\n",
+			"date_published": "2018-08-22T19:16:47-04:00",
+			"url": "https://micro.oxus.net/2018/08/22/why-wait-to.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/08/22/dear-academic-journals.html",
 	      	
 			"content_html": "<p>Dear academic journals: making something temporarily free to download is not the same thing as making it “open access.”</p>\n",
@@ -163,46 +203,6 @@
 			"content_html": "<p>Much fungi, many shrooms…</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/77d8d0e738.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/80bc44b71c.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/2e7e50be97.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/de0b10a7ff.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/6b39f70880.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/c64e1349cb.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/48f779d2e5.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-14T21:25:13-04:00",
 			"url": "https://micro.oxus.net/2018/08/14/much-fungi-many.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/14/thorium-uranium.html",
-	      	
-			"content_html": "<p>Thorium 👍 Uranium 👎</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/879e674bf9.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-14T19:30:21-04:00",
-			"url": "https://micro.oxus.net/2018/08/14/thorium-uranium.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/14/more-people-stayed.html",
-	      	
-			"content_html": "<p>❝<a href=\"https://boingboing.net/2018/08/14/president-elizabeth-warren.html\">More people stayed home from the polls than voted for either Hillary Clinton or Donald Trump and nonvoters were more likely to be nonwhite, under 50, and low-earning</a>❞</p>\n",
-			"date_published": "2018-08-14T13:16:04-04:00",
-			"url": "https://micro.oxus.net/2018/08/14/more-people-stayed.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/12/china-not-just.html",
-	      	
-			"content_html": "<p>China not just detaining Uighurs, but also Kazakhs in their <a href=\"https://www.washingtonpost.com/world/asia_pacific/new-evidence-emerges-that-china-is-forcing-muslims-into-reeducation-camps/2018/08/10/1d6d2f64-8dce-11e8-9b0d-749fb254bc3d_story.html?utm_term=.ed6d4f9b1022\">‘reeducation’ camps</a> 😡</p>\n",
-			"date_published": "2018-08-11T20:52:30-04:00",
-			"url": "https://micro.oxus.net/2018/08/11/china-not-just.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/12/glad-to-see.html",
-	      	
-			"content_html": "<p>Glad to see <a href=\"https://www.muckrock.com/news/archives/2018/aug/06/otranscribe-joining-muckrock-and-documentcloud/?utm_content=buffer57f34&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer\">oTranscribe</a> in new hands. A great free tool for anthropologists and filmmakers!</p>\n",
-			"date_published": "2018-08-11T20:50:06-04:00",
-			"url": "https://micro.oxus.net/2018/08/11/glad-to-see.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/08/12/not-a-fan.html",
-	      	
-			"content_html": "<p>Not a fan of Monsanto, but the science just doesn’t support the <a href=\"https://arstechnica.com/tech-policy/2018/08/lawsuit-brings-289-million-verdict-against-maker-of-roundup-weed-killer/\">Roundup case</a> and it will probably be overturned on appeal…</p>\n",
-			"date_published": "2018-08-11T20:48:48-04:00",
-			"url": "https://micro.oxus.net/2018/08/11/not-a-fan.html"
 		}
 		
 	]
