@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-06 03:44:21 -0400
+date: 2018-02-06 15:44:21 +0800
 guid: http://kerim.micro.blog/2018/02/06/hualien-quakes-sign.html
 ---
 [Hualien quakes sign that Taiwan has entered 100-year earthquake cycle](https://www.taiwannews.com.tw/en/news/3357470)
