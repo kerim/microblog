@@ -3,7 +3,7 @@ layout: post
 title: "#AmAnth2018 Panel: Indexing Indigeneity in Taiwan"
 microblog: false
 audio: 
-date: 2018-07-21 01:21:19 -0400
+date: 2018-07-21 13:21:19 +0800
 guid: http://kerim.micro.blog/2018/07/21/amanth-panel-indexing.html
 ---
 <img src="http://micro.oxus.net/uploads/2018/0d21b0a840.jpg" width="506" height="381" />
