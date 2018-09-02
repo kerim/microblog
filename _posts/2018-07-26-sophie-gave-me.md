@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-26 10:37:42 -0400
+date: 2018-07-26 22:37:42 +0800
 guid: http://kerim.micro.blog/2018/07/26/sophie-gave-me.html
 ---
 Sophie gave me a new yoga prop, but I’m not sure how to use it?
