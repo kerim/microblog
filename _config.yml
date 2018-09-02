@@ -45,7 +45,7 @@ github_username: "kerim"
 instagram_username: "kerimfriedman"
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "US/Michigan"
+timezone: "Singapore"
 site_id: "2872"
 gems: ["jekyll-paginate"]
 itunes_description: "Kerim Friedman is an anthropologist, blogger, and filmmaker. Read more about Kerim on his [homepage](https://kerim.oxus.net)."
