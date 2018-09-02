@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-31 19:21:36 -0400
+date: 2018-08-01 07:21:36 +0800
 guid: http://kerim.micro.blog/2018/07/31/the-wing-chun.html
 ---
 The Wing Chun master’s rooster
