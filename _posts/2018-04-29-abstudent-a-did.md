@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-29 08:41:55 -0400
+date: 2018-04-29 20:41:55 +0800
 guid: http://kerim.micro.blog/2018/04/29/abstudent-a-did.html
 ---
 學生A：你小的時候，已經有彩色照相機嗎？
