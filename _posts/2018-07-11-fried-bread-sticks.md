@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-11 03:12:19 -0400
+date: 2018-07-11 15:12:19 +0800
 guid: http://kerim.micro.blog/2018/07/11/fried-bread-sticks.html
 ---
 Fried bread sticks (油條) getting made
