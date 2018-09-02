@@ -3,7 +3,7 @@ layout: post
 title: "A great source of online intermediate level Iyengar yoga classes"
 microblog: false
 audio: 
-date: 2018-04-29 01:49:28 -0400
+date: 2018-04-29 13:49:28 +0800
 guid: http://kerim.micro.blog/2018/04/29/a-great-source.html
 ---
 Although there are some great Iyengar yoga teachers in [Taipei](http://www.shellyyoga.com/) and [Hualien](http://yogihome.pixnet.net/blog), with my busy schedule (and a dog!) I can't always make it to a class in the morning. While I have a pretty decent home practice, I never push myself at home as much as I do with a teacher. I also tend to avoid certain types of poses altogether which means that the longer I practice at home the worse I get at things like backbends. For this reason I've long been looking for a good online Iyengar yoga course. Unfortunately, most of what is out there involves paying for fairly basic lessons. Certainly not worth it for me. 
