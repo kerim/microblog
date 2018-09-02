@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-09 20:21:56 -0400
+date: 2018-07-10 08:21:56 +0800
 guid: http://kerim.micro.blog/2018/07/10/classy-hotel-for.html
 ---
 Classy hotel for classy people
