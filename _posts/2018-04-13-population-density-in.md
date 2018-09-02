@@ -3,7 +3,7 @@ layout: post
 title: "Population Density in Shanghai vs. Taipei "
 microblog: false
 audio: 
-date: 2018-04-13 03:51:51 -0400
+date: 2018-04-13 15:51:51 +0800
 guid: http://kerim.micro.blog/2018/04/13/population-density-in.html
 ---
 When I was in Shanghai I was shocked at how a city with one million more people than the entire population of Taiwan (24 million vs. 23 million) could feel so uncrowded, but that's because I didn't realize just how big Shanghai is at the time. (The extensive subway system makes the city feel much smaller than it is.)
