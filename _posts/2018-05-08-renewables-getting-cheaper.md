@@ -3,7 +3,7 @@ layout: post
 title: "Renewables Getting Cheaper, But We Still Need (Some) Conventional Sources"
 microblog: false
 audio: 
-date: 2018-05-07 21:21:52 -0400
+date: 2018-05-08 09:21:52 +0800
 guid: http://kerim.micro.blog/2018/05/08/renewables-getting-cheaper.html
 ---
 Here are the three key takeaways from [Lazard’s latest annual Levelized Cost of Energy Analysis](https://www.lazard.com/perspective/levelized-cost-of-energy-2017/).
