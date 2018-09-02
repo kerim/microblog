@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-14 21:25:13 -0400
+date: 2018-08-15 09:25:13 +0800
 guid: http://kerim.micro.blog/2018/08/15/much-fungi-many.html
 ---
 Much fungi, many shrooms…
