@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Kerim's Micro Blog",
+	"icon": "https://micro.blog/kerim/avatar.jpg",
 	"home_page_url": "https://micro.oxus.net/",
 	"feed_url": "https://micro.oxus.net/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/13/why-does-the.html",
+	      	
+			"content_text": "Why does the Kuomintang, with all its resources, run such...",
+			"date_published": "2018-09-13T12:26:27+08:00",
+			"url": "https://micro.oxus.net/2018/09/13/why-does-the.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/12/me-throws-you.html",
+	      	
+			"content_text": "Me: throws you down a pit You: my leg’s broken...",
+			"date_published": "2018-09-12T10:43:41+08:00",
+			"url": "https://micro.oxus.net/2018/09/12/me-throws-you.html"
+		},
 		
 		{
 			"id": "http://kerim.micro.blog/2018/09/11/some-people-have.html",
