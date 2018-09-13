@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Kerim's Micro Blog",
+	"icon": "https://micro.blog/kerim/avatar.jpg",
 	"home_page_url": "https://micro.oxus.net/",
 	"feed_url": "https://micro.oxus.net/feed.json",
 	"items": [
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/13/why-does-the.html",
+	      	
+			"content_html": "<p><a href=\"https://popula.com/2018/09/12/kuomintang-kitsch/\">Why does the Kuomintang, with all its resources, run such incredibly schlocky ads and conduct such terrible advertising?</a></p>\n",
+			"date_published": "2018-09-13T12:26:27+08:00",
+			"url": "https://micro.oxus.net/2018/09/13/why-does-the.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/12/me-throws-you.html",
+	      	
+			"content_html": "<p>Me: <em>throws you down a pit</em>\nYou: my leg’s broken\nMe: I’m sure you have proof. I’ll wait\nYou: YOU THREW ME DOWN A PIT\nMe: so sick of people always bringing up pits\nYou: YOU THREW ME DOWN ONE\nMe: wow victim card much\n(<a href=\"https://twitter.com/juliusgoat/status/1039122374204026880?s=12\">Thread</a>)</p>\n",
+			"date_published": "2018-09-12T10:43:41+08:00",
+			"url": "https://micro.oxus.net/2018/09/12/me-throws-you.html"
+		},
 		
 		{
 			"id": "http://kerim.micro.blog/2018/09/11/some-people-have.html",
@@ -187,22 +204,6 @@
 			"content_html": "<p><a href=\"https://m.france24.com/en/20180904-india-activists-arrest-assassination-plot-paris-modi\">India ‘assassination’ plot reaches Paris, but credibility is lost in translation</a></p>\n",
 			"date_published": "2018-09-06T06:37:54+08:00",
 			"url": "https://micro.oxus.net/2018/09/06/india-assassination-plot.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/05/i-am-ashamed.html",
-	      	
-			"content_html": "<p>❝I am ashamed to play Pokémon Go at an Unmarked Slave Graveyard, and I am also ashamed that <a href=\"https://nursingclio.org/2018/09/05/pokemon-go-before-and-after-august-12/\">without Pokémon Go, I may never have known that there is this small memorial in my neighborhood</a>.❞</p>\n",
-			"date_published": "2018-09-06T06:22:31+08:00",
-			"url": "https://micro.oxus.net/2018/09/06/i-am-ashamed.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/05/folks-theres-nothing.html",
-	      	
-			"content_html": "<p>“<a href=\"https://allthingslinguistic.com/post/177712815507/folks-theres-nothing-left-from-the-linguistics\">Folks, there’s nothing left from the Linguistics division</a>.”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/0d56ccb98e.jpg\" width=\"600\" height=\"415\" /></p>\n",
-			"date_published": "2018-09-06T06:13:28+08:00",
-			"url": "https://micro.oxus.net/2018/09/06/folks-theres-nothing.html"
 		}
 		
 	]
