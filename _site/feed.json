@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/13/the-suicide-rate.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.theguardian.com/world/2018/sep/13/nearly-two-out-of-five-women-who-commit-suicide-are-indian\">The suicide rate among Indian women was three times higher than what might be predicted for a country with similar geography and socio-economic indicators</a>”</p>\n",
+			"date_published": "2018-09-14T06:24:03+08:00",
+			"url": "https://micro.oxus.net/2018/09/14/the-suicide-rate.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/13/why-does-the.html",
 	      	
 			"content_html": "<p><a href=\"https://popula.com/2018/09/12/kuomintang-kitsch/\">Why does the Kuomintang, with all its resources, run such incredibly schlocky ads and conduct such terrible advertising?</a></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><a href=\"https://newbloommag.net/2018/09/03/tsai-death-penalty/\">Tsai Administration Carries Out Politically-Motivated Use Of Capital Punishment</a></p>\n",
 			"date_published": "2018-09-06T06:39:43+08:00",
 			"url": "https://micro.oxus.net/2018/09/06/tsai-administration-carries.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/05/india-assassination-plot.html",
-	      	
-			"content_html": "<p><a href=\"https://m.france24.com/en/20180904-india-activists-arrest-assassination-plot-paris-modi\">India ‘assassination’ plot reaches Paris, but credibility is lost in translation</a></p>\n",
-			"date_published": "2018-09-06T06:37:54+08:00",
-			"url": "https://micro.oxus.net/2018/09/06/india-assassination-plot.html"
 		}
 		
 	]
