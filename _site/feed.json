@@ -7,11 +7,75 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/17/captionpop-seems-like.html",
+	      	
+			"content_html": "<p><a href=\"https://www.captionpop.com/\">CaptionPop</a> seems like a really great tool for language learners. Works with any YouTube video that has subtitles.</p>\n",
+			"date_published": "2018-09-17T11:24:14+08:00",
+			"url": "https://micro.oxus.net/2018/09/17/captionpop-seems-like.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/16/one-problem-i.html",
+	      	
+			"content_html": "<p>One problem I have as a festival programmer is that it is much harder to watch slow films on a laptop than in a movie theater. But that’s one reason why festivals like TIEFF are so important. My students almost never see documentaries in the theater…</p>\n",
+			"date_published": "2018-09-16T15:50:34+08:00",
+			"url": "https://micro.oxus.net/2018/09/16/one-problem-i.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/14/ways-to-get.html",
+	      	
+			"content_html": "<p><a href=\"https://foreignpolicy.com/2018/09/13/48-ways-to-get-sent-to-a-chinese-concentration-camp/\">48 Ways to Get Sent to a Chinese Concentration Camp</a></p>\n",
+			"date_published": "2018-09-14T12:45:02+08:00",
+			"url": "https://micro.oxus.net/2018/09/14/ways-to-get.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/14/new-york-has.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theatlantic.com/ideas/archive/2018/09/new-yorks-worst-in-the-country-voting-system/570223/\">New York Has the Worst Voting System in the Country</a></p>\n",
+			"date_published": "2018-09-14T12:43:18+08:00",
+			"url": "https://micro.oxus.net/2018/09/14/new-york-has.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/14/landmark-ruling-hks.html",
+	      	
+			"content_html": "<p>Landmark ruling: “<a href=\"https://www.lexology.com/library/detail.aspx?g=02179ca4-9f2e-4469-906d-cfce65b49c0d&amp;utm_source=lexology+daily+newsfeed&amp;utm_medium=html+email+-+body+-+general+section&amp;utm_campaign=lexology+subscriber+daily+feed&amp;utm_content=lexology+daily+newsfeed+2018-09-12&amp;utm_term=\">HK’s policy of refusing to grant dependant visas to same sex spouses is discriminatory and not justified</a>”</p>\n",
+			"date_published": "2018-09-14T09:08:05+08:00",
+			"url": "https://micro.oxus.net/2018/09/14/landmark-ruling-hks.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/13/my-school-now.html",
+	      	
+			"content_html": "<p>My school now wants to see reviewer comments for book chapters to verify that they really were peer reviewed. I understand the concern, but still feel uncomfortable about this. It feels invasive. What do y’all think? (I’m not up for review this year, just responding to a memo.)</p>\n",
+			"date_published": "2018-09-14T07:43:07+08:00",
+			"url": "https://micro.oxus.net/2018/09/14/my-school-now.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/13/the-suicide-rate.html",
 	      	
 			"content_html": "<p>“<a href=\"https://www.theguardian.com/world/2018/sep/13/nearly-two-out-of-five-women-who-commit-suicide-are-indian\">The suicide rate among Indian women was three times higher than what might be predicted for a country with similar geography and socio-economic indicators</a>”</p>\n",
 			"date_published": "2018-09-14T06:24:03+08:00",
 			"url": "https://micro.oxus.net/2018/09/14/the-suicide-rate.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/13/this-place-seems.html",
+	      	
+			"content_html": "<p>This place seems popular, it’s packed with customers right now.</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/ef63dd479b.jpg\" width=\"562\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-13T18:44:36+08:00",
+			"url": "https://micro.oxus.net/2018/09/13/this-place-seems.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/13/scariest-campaign-poster.html",
+	      	
+			"content_html": "<p>Scariest campaign poster in Taiwan. 台灣最可怕的選舉海報。</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/dc82542b8c.jpg\" width=\"600\" height=\"598\" /></p>\n",
+			"date_published": "2018-09-13T17:49:01+08:00",
+			"url": "https://micro.oxus.net/2018/09/13/scariest-campaign-poster.html"
 		},
 		
 		{
@@ -140,70 +204,6 @@
 			"content_html": "<p>🇺🇸🌏🗳👍 <a href=\"https://www.nytimes.com/2018/09/04/smarter-living/how-to-vote-abroad-overseas-expat.html\">How to Vote as an American Living Abroad</a></p>\n",
 			"date_published": "2018-09-07T12:13:39+08:00",
 			"url": "https://micro.oxus.net/2018/09/07/how-to-vote.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/07/the-great-slate.html",
-	      	
-			"content_html": "<p><a href=\"https://techsolidarity.org/resources/great_slate.html\">The Great Slate</a> is raising funds for progressive Congressional candidates fighting competitive races in overlooked districts. A great way for small donors to have a big impact!</p>\n",
-			"date_published": "2018-09-07T09:30:55+08:00",
-			"url": "https://micro.oxus.net/2018/09/07/the-great-slate.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/06/indian-supreme-court.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theguardian.com/world/2018/sep/06/indian-supreme-court-decriminalises-homosexuality?CMP=share_btn_tw\">Indian supreme court decriminalises homosexuality</a></p>\n",
-			"date_published": "2018-09-06T14:57:25+08:00",
-			"url": "https://micro.oxus.net/2018/09/06/indian-supreme-court.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/06/to-be-clear.html",
-	      	
-			"content_html": "<p>“To be clear, ours is not the popular ‘resistance’ of, well you know, The Resistance. We want this administration to succeed and think that many of its policies have already made the galaxy safer and more prosperous.”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/0aa52cf2dc.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-06T14:55:45+08:00",
-			"url": "https://micro.oxus.net/2018/09/06/to-be-clear.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/06/sweden-about-to.html",
-	      	
-			"content_html": "<p><a href=\"http://inbeijing.se/bulletin/2018/09/05/sweden-about-to-deport-a-uyghur-family-to-xinjiang/\">Sweden about to deport a Uyghur family to Xinjiang</a></p>\n",
-			"date_published": "2018-09-06T14:36:54+08:00",
-			"url": "https://micro.oxus.net/2018/09/06/sweden-about-to.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/06/i-am-part.html",
-	      	
-			"content_html": "<p><a href=\"https://www.mcsweeneys.net/articles/i-am-part-of-the-resistance-inside-nyarlathoteps-death-cult\">I Am Part of the Resistance Inside Nyarlathotep’s Death Cult</a></p>\n",
-			"date_published": "2018-09-06T11:21:55+08:00",
-			"url": "https://micro.oxus.net/2018/09/06/i-am-part.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/06/but-dont-get.html",
-	      	
-			"content_html": "<p>“<a href=\"https://theslot.jezebel.com/i-wrote-the-op-ed-1828840708\">But don’t get me wrong. There are bright spots: I like how he does war and stealing from poor people. I wrote the op-ed anonymously because I was scared and cry every night.</a>”</p>\n",
-			"date_published": "2018-09-06T11:15:26+08:00",
-			"url": "https://micro.oxus.net/2018/09/06/but-dont-get.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/05/metabolism-and-weight.html",
-	      	
-			"content_html": "<p><a href=\"https://www.vox.com/2018/9/4/17486110/metabolism-diet-fast-weight-loss\">Metabolism and weight loss: debunking myths in the metabolic chamber</a></p>\n",
-			"date_published": "2018-09-06T07:30:01+08:00",
-			"url": "https://micro.oxus.net/2018/09/06/metabolism-and-weight.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/05/tsai-administration-carries.html",
-	      	
-			"content_html": "<p><a href=\"https://newbloommag.net/2018/09/03/tsai-death-penalty/\">Tsai Administration Carries Out Politically-Motivated Use Of Capital Punishment</a></p>\n",
-			"date_published": "2018-09-06T06:39:43+08:00",
-			"url": "https://micro.oxus.net/2018/09/06/tsai-administration-carries.html"
 		}
 		
 	]
