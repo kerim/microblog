@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/18/sheltering-from-the.html",
+	      	
+			"content_html": "<p>Sheltering from the sun</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/334d20a83a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-18T13:01:37+08:00",
+			"url": "https://micro.oxus.net/2018/09/18/sheltering-from-the.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/17/captionpop-seems-like.html",
 	      	
 			"content_html": "<p><a href=\"https://www.captionpop.com/\">CaptionPop</a> seems like a really great tool for language learners. Works with any YouTube video that has subtitles.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><a href=\"https://newbloommag.net/2018/09/06/migrant-workers-police-brutality/\">Police Brutality Against Migrant Workers Largely Unremarked Upon In Taiwan</a></p>\n",
 			"date_published": "2018-09-07T12:48:17+08:00",
 			"url": "https://micro.oxus.net/2018/09/07/police-brutality-against.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/07/how-to-vote.html",
-	      	
-			"content_html": "<p>🇺🇸🌏🗳👍 <a href=\"https://www.nytimes.com/2018/09/04/smarter-living/how-to-vote-abroad-overseas-expat.html\">How to Vote as an American Living Abroad</a></p>\n",
-			"date_published": "2018-09-07T12:13:39+08:00",
-			"url": "https://micro.oxus.net/2018/09/07/how-to-vote.html"
 		}
 		
 	]
