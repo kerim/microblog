@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/19/the-firstever-nationwide.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.thecut.com/2018/09/mcdonalds-sexual-harassment-strike-takes-place-in-10-cities.html\">the first-ever nationwide strike against sexual harassment, and it’s led by working-class women of color</a>”</p>\n",
+			"date_published": "2018-09-19T08:35:57+08:00",
+			"url": "https://micro.oxus.net/2018/09/19/the-firstever-nationwide.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/18/siri-suggestions-in.html",
+	      	
+			"content_html": "<p>Siri Suggestions in iOS 12 are great, but they are also totally opaque. To get an alarm suggestion it wasn’t enough to turn on an existing alarm, I had to delete it and re-create it… Why can’t we just have a list?</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/3b67ea49ac.jpg\" width=\"600\" height=\"179\" /></p>\n",
+			"date_published": "2018-09-18T20:55:01+08:00",
+			"url": "https://micro.oxus.net/2018/09/18/siri-suggestions-in.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/18/sheltering-from-the.html",
 	      	
 			"content_html": "<p>Sheltering from the sun</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/334d20a83a.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Roughly 9% of China scholars report having been “<a href=\"https://ssrn.com/abstract=3243059\">taken for tea</a>” by authorities within the past ten years</p>\n",
 			"date_published": "2018-09-07T19:47:23+08:00",
 			"url": "https://micro.oxus.net/2018/09/07/roughly-of-china.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/07/why-young-men.html",
-	      	
-			"content_html": "<p><a href=\"https://www.thedailybeast.com/why-young-men-of-color-are-joining-white-supremacist-groups?source=facebook&amp;via=desktop\">Why Young Men of Color Are Joining White-Supremacist Groups</a></p>\n",
-			"date_published": "2018-09-07T13:18:39+08:00",
-			"url": "https://micro.oxus.net/2018/09/07/why-young-men.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/07/police-brutality-against.html",
-	      	
-			"content_html": "<p><a href=\"https://newbloommag.net/2018/09/06/migrant-workers-police-brutality/\">Police Brutality Against Migrant Workers Largely Unremarked Upon In Taiwan</a></p>\n",
-			"date_published": "2018-09-07T12:48:17+08:00",
-			"url": "https://micro.oxus.net/2018/09/07/police-brutality-against.html"
 		}
 		
 	]
