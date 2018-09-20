@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/20/ice-arrested-immigrants.html",
+	      	
+			"content_html": "<p><a href=\"https://www.cnn.com/2018/09/20/politics/ice-arrested-immigrants-sponsor-children/index.html\">ICE arrested immigrants who tried to take in undocumented children</a></p>\n",
+			"date_published": "2018-09-21T07:18:51+08:00",
+			"url": "https://micro.oxus.net/2018/09/21/ice-arrested-immigrants.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/20/this-article-is.html",
+	      	
+			"content_html": "<p><a href=\"https://www.huffingtonpost.com/entry/yale-student-brett-kavanaugh-clerkship-look_us_5ba2f051e4b0181540d9e2bb\">This article</a> is fascinating, not just for the stuff about Kavanaugh, but for the insight into what an elite education gets you.</p>\n",
+			"date_published": "2018-09-20T12:41:57+08:00",
+			"url": "https://micro.oxus.net/2018/09/20/this-article-is.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/20/does-anyone-in.html",
 	      	
 			"content_html": "<p>Does anyone in my extended social network teach video production to students who commute from far away? There are specific challenges I face due to this situation which I would like to discuss with someone who has similar experiences. Please DM me! Thanks…</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>“<a href=\"https://www.newyorker.com/news/dispatch/was-the-philosopher-julia-kristeva-a-cold-war-collaborator\">what truly disturbs in Kristeva’s case is not whatever help she gave to State Security—not much…—but her apparent attempt to silence the past.</a>”</p>\n",
 			"date_published": "2018-09-08T18:20:11+08:00",
 			"url": "https://micro.oxus.net/2018/09/08/what-truly-disturbs.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/08/michael-turtons-the.html",
-	      	
-			"content_html": "<p>Michael Turton’s The View from Taiwan has been an invaluable resource for so many years, I’m very <a href=\"https://michaelturton.blogspot.com/2018/09/what-more-words.html\">sorry to see it go</a>. Best of luck with whatever you do next, @michaelturton!</p>\n",
-			"date_published": "2018-09-08T15:38:42+08:00",
-			"url": "https://micro.oxus.net/2018/09/08/michael-turtons-the.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/08/ive-been-saying.html",
-	      	
-			"content_html": "<p>I’ve been saying for some time that <a href=\"https://micro.blog/apple\">@apple</a> <a href=\"https://daringfireball.net/2018/09/mac_app_store_malware\">needs to allow users to easily flag suspicious app store apps</a>.</p>\n",
-			"date_published": "2018-09-08T11:34:24+08:00",
-			"url": "https://micro.oxus.net/2018/09/08/ive-been-saying.html"
 		}
 		
 	]
