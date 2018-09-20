@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/20/does-anyone-in.html",
+	      	
+			"content_html": "<p>Does anyone in my extended social network teach video production to students who commute from far away? There are specific challenges I face due to this situation which I would like to discuss with someone who has similar experiences. Please DM me! Thanks…</p>\n",
+			"date_published": "2018-09-20T09:48:57+08:00",
+			"url": "https://micro.oxus.net/2018/09/20/does-anyone-in.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/19/carpark-view.html",
+	      	
+			"content_html": "<p>Carpark view</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e1688e5bf8.jpg\" width=\"600\" height=\"478\" /></p>\n",
+			"date_published": "2018-09-19T11:51:29+08:00",
+			"url": "https://micro.oxus.net/2018/09/19/carpark-view.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/19/pot-of-gold.html",
+	      	
+			"content_html": "<p>Pot of gold</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/c0ea0c65ce.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-19T08:48:48+08:00",
+			"url": "https://micro.oxus.net/2018/09/19/pot-of-gold.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/19/the-firstever-nationwide.html",
 	      	
 			"content_html": "<p>“<a href=\"https://www.thecut.com/2018/09/mcdonalds-sexual-harassment-strike-takes-place-in-10-cities.html\">the first-ever nationwide strike against sexual harassment, and it’s led by working-class women of color</a>”</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>I’ve been saying for some time that <a href=\"https://micro.blog/apple\">@apple</a> <a href=\"https://daringfireball.net/2018/09/mac_app_store_malware\">needs to allow users to easily flag suspicious app store apps</a>.</p>\n",
 			"date_published": "2018-09-08T11:34:24+08:00",
 			"url": "https://micro.oxus.net/2018/09/08/ive-been-saying.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/08/the-scarytoilet-twitter.html",
-	      	
-			"content_html": "<p>The <a href=\"https://twitter.com/scarytoilet\">@scarytoilet</a> twitter feed will give you nightmares…</p>\n",
-			"date_published": "2018-09-08T11:29:19+08:00",
-			"url": "https://micro.oxus.net/2018/09/08/the-scarytoilet-twitter.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/08/william-saletans-guess.html",
-	      	
-			"content_html": "<p>William Saletan’s guess that <a href=\"https://slate.com/news-and-politics/2018/09/new-york-times-op-ed-anonymous-writer-trump.html\">anonymous is Jon Huntsman</a> seems pretty convincing. Surprised it isn’t getting more attention.</p>\n",
-			"date_published": "2018-09-08T11:06:23+08:00",
-			"url": "https://micro.oxus.net/2018/09/08/william-saletans-guess.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/07/roughly-of-china.html",
-	      	
-			"content_html": "<p>Roughly 9% of China scholars report having been “<a href=\"https://ssrn.com/abstract=3243059\">taken for tea</a>” by authorities within the past ten years</p>\n",
-			"date_published": "2018-09-07T19:47:23+08:00",
-			"url": "https://micro.oxus.net/2018/09/07/roughly-of-china.html"
 		}
 		
 	]
