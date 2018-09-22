@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/22/my-mom-was.html",
+	      	
+			"content_html": "<p>My mom was telling me about the Jewish “Dairy Restaurants” of her childhood. Here is the menu of one, and there is a good discussion <a href=\"https://www.chowhound.com/post/jewish-dairy-restaurant-370237?page=2\">here</a> Any good ones left in the NY area I could check out next time I’m home?</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/b1eea87301.jpg\" width=\"388\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-22T10:14:42+08:00",
+			"url": "https://micro.oxus.net/2018/09/22/my-mom-was.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/21/board-games-for.html",
+	      	
+			"content_html": "<p><a href=\"https://www.mcsweeneys.net/articles/board-games-for-adjunct-professors\">Board Games For Adjunct Professors</a> “Jenga: You build an ivory tower out of wooden blocks. Just for fun, you start removing crucial parts of the tower’s foundation.”</p>\n",
+			"date_published": "2018-09-21T09:04:49+08:00",
+			"url": "https://micro.oxus.net/2018/09/21/board-games-for.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/21/you-can-now.html",
+	      	
+			"content_html": "<p><a href=\"https://shanghai.ist/2018/09/18/look-fake-angkor-wat-opens-in-nanning/\">You can now experience the beauty of Angkor Wat without ever leaving China</a></p>\n",
+			"date_published": "2018-09-21T08:59:42+08:00",
+			"url": "https://micro.oxus.net/2018/09/21/you-can-now.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/20/ice-arrested-immigrants.html",
 	      	
 			"content_html": "<p><a href=\"https://www.cnn.com/2018/09/20/politics/ice-arrested-immigrants-sponsor-children/index.html\">ICE arrested immigrants who tried to take in undocumented children</a></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p><a href=\"https://amp.theguardian.com/us-news/2018/sep/07/imprisoned-by-algorithms-the-dark-side-of-california-ending-cash-bail\">Imprisoned by algorithms: the dark side of California ending cash bail</a></p>\n",
 			"date_published": "2018-09-10T12:17:16+08:00",
 			"url": "https://micro.oxus.net/2018/09/10/imprisoned-by-algorithms.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/10/blotim-looks-like.html",
-	      	
-			"content_html": "<p>Blot.im looks like the absolute easiest way to start a blog. Just place files (plain text, microsoft word, images, etc.) in a Dropbox folder and they are magically posted to your blog! @blot__</p>\n",
-			"date_published": "2018-09-10T11:15:54+08:00",
-			"url": "https://micro.oxus.net/2018/09/10/blotim-looks-like.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/09/god-for-sale.html",
-	      	
-			"content_html": "<p>God for sale</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/53cc18eadc.jpg\" width=\"600\" height=\"598\" /></p>\n",
-			"date_published": "2018-09-10T06:44:14+08:00",
-			"url": "https://micro.oxus.net/2018/09/10/god-for-sale.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/08/what-truly-disturbs.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.newyorker.com/news/dispatch/was-the-philosopher-julia-kristeva-a-cold-war-collaborator\">what truly disturbs in Kristeva’s case is not whatever help she gave to State Security—not much…—but her apparent attempt to silence the past.</a>”</p>\n",
-			"date_published": "2018-09-08T18:20:11+08:00",
-			"url": "https://micro.oxus.net/2018/09/08/what-truly-disturbs.html"
 		}
 		
 	]
