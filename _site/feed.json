@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/22/105640.html",
+	      	
+			"content_html": "<p><a href=\"https://apnews.com/903a97b7c62a47b98553b6f422827dd7\">China treats Uighur kids as ‘orphans’ after parents seized</a> (Like the residential school program in Canada or the Stolen Generation in Australia the goal is to erase the culture.)</p>\n",
+			"date_published": "2018-09-22T18:56:40+08:00",
+			"url": "https://micro.oxus.net/2018/09/22/105640.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/22/when-you-vote.html",
+	      	
+			"content_html": "<p>When you vote this November, please vote for the party that doesn’t think <a href=\"https://www.newyorker.com/news/our-columnists/after-the-kavanaugh-allegations-republicans-offer-a-shocking-defense-sexual-assault-isnt-a-big-deal\">rape is OK</a>…</p>\n",
+			"date_published": "2018-09-22T10:32:57+08:00",
+			"url": "https://micro.oxus.net/2018/09/22/when-you-vote.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/22/my-mom-was.html",
 	      	
 			"content_html": "<p>My mom was telling me about the Jewish “Dairy Restaurants” of her childhood. Here is the menu of one, and there is a good discussion <a href=\"https://www.chowhound.com/post/jewish-dairy-restaurant-370237?page=2\">here</a> Any good ones left in the NY area I could check out next time I’m home?</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/b1eea87301.jpg\" width=\"388\" height=\"600\" /></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Some people have vacation autoresponder emails, I need a back-to-work autoresponder email. Sheesh, I forgot how many emails one gets the first week back at school! 😱😱😱</p>\n",
 			"date_published": "2018-09-11T16:43:57+08:00",
 			"url": "https://micro.oxus.net/2018/09/11/some-people-have.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/11/nj-transit-train.html",
-	      	
-			"content_html": "<p><a href=\"http://gothamist.com/2018/09/10/nj_transit_train_impaled_by_own_ele.php\">NJ Transit Train Impaled By Big Chunk Of Metal</a></p>\n",
-			"date_published": "2018-09-11T10:11:57+08:00",
-			"url": "https://micro.oxus.net/2018/09/11/nj-transit-train.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/10/imprisoned-by-algorithms.html",
-	      	
-			"content_html": "<p><a href=\"https://amp.theguardian.com/us-news/2018/sep/07/imprisoned-by-algorithms-the-dark-side-of-california-ending-cash-bail\">Imprisoned by algorithms: the dark side of California ending cash bail</a></p>\n",
-			"date_published": "2018-09-10T12:17:16+08:00",
-			"url": "https://micro.oxus.net/2018/09/10/imprisoned-by-algorithms.html"
 		}
 		
 	]
