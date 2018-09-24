@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/24/china-has-silenced.html",
+	      	
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/opinions/global-opinions/china-has-silenced-american-academics-for-years-now-theyre-pushing-back/2018/09/23/9834fac8-bdcc-11e8-be70-52bd11fe18af_story.html?utm_term=.745ccdeaed89\">China has silenced American academics for years. Now they’re pushing back.</a> #dendum</p>\n",
+			"date_published": "2018-09-24T22:58:36+08:00",
+			"url": "https://micro.oxus.net/2018/09/24/china-has-silenced.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/23/disabled-people-who.html",
 	      	
 			"content_html": "<p>“<a href=\"https://granta.com/common-cyborg/\">Disabled people who use tech to live are cyborgs. Our lives are not metaphors.</a>”</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><a href=\"https://www.captionpop.com/\">CaptionPop</a> seems like a really great tool for language learners. Works with any YouTube video that has subtitles.</p>\n",
 			"date_published": "2018-09-17T11:24:14+08:00",
 			"url": "https://micro.oxus.net/2018/09/17/captionpop-seems-like.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/16/one-problem-i.html",
-	      	
-			"content_html": "<p>One problem I have as a festival programmer is that it is much harder to watch slow films on a laptop than in a movie theater. But that’s one reason why festivals like TIEFF are so important. My students almost never see documentaries in the theater…</p>\n",
-			"date_published": "2018-09-16T15:50:34+08:00",
-			"url": "https://micro.oxus.net/2018/09/16/one-problem-i.html"
 		}
 		
 	]
