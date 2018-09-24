@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/23/disabled-people-who.html",
+	      	
+			"content_html": "<p>“<a href=\"https://granta.com/common-cyborg/\">Disabled people who use tech to live are cyborgs. Our lives are not metaphors.</a>”</p>\n",
+			"date_published": "2018-09-24T07:57:59+08:00",
+			"url": "https://micro.oxus.net/2018/09/24/disabled-people-who.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/23/if-you-are.html",
+	      	
+			"content_html": "<p>If you are an academic, please consider joining the <a href=\"https://xinjianginitiative.wixsite.com/xjinitiative\">Xinjiang Initiative</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/7c5d8d3bae.jpg\" width=\"600\" height=\"433\" /></p>\n",
+			"date_published": "2018-09-23T22:41:08+08:00",
+			"url": "https://micro.oxus.net/2018/09/23/if-you-are.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/23/out-of-almost.html",
 	      	
 			"content_html": "<p><a href=\"https://www.vice.com/en_us/article/kz5zew/youre-probably-not-getting-that-loan-forgiveness-youre-counting-on\">Out of almost 30,000 people who applied for a forgiveness program, just 96—less than 1 percent—had their debt erased. And it gets worse.</a></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>One problem I have as a festival programmer is that it is much harder to watch slow films on a laptop than in a movie theater. But that’s one reason why festivals like TIEFF are so important. My students almost never see documentaries in the theater…</p>\n",
 			"date_published": "2018-09-16T15:50:34+08:00",
 			"url": "https://micro.oxus.net/2018/09/16/one-problem-i.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/14/ways-to-get.html",
-	      	
-			"content_html": "<p><a href=\"https://foreignpolicy.com/2018/09/13/48-ways-to-get-sent-to-a-chinese-concentration-camp/\">48 Ways to Get Sent to a Chinese Concentration Camp</a></p>\n",
-			"date_published": "2018-09-14T12:45:02+08:00",
-			"url": "https://micro.oxus.net/2018/09/14/ways-to-get.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/14/new-york-has.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theatlantic.com/ideas/archive/2018/09/new-yorks-worst-in-the-country-voting-system/570223/\">New York Has the Worst Voting System in the Country</a></p>\n",
-			"date_published": "2018-09-14T12:43:18+08:00",
-			"url": "https://micro.oxus.net/2018/09/14/new-york-has.html"
 		}
 		
 	]
