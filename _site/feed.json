@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/26/use-as-many.html",
+	      	
+			"content_html": "<ol>\n  <li><a href=\"https://leniency.blogspot.com/2008/12/how-to-write-like-agamben.html?m=1\">Use as many of the original language reference and most arcane features in said entry to trace a genealogy of said “symbol” (remember to introduce the most esoteric or unusual by beginning with “As everyone knows”)</a></li>\n</ol>\n",
+			"date_published": "2018-09-26T12:08:50+08:00",
+			"url": "https://micro.oxus.net/2018/09/26/use-as-many.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/25/but-people-arent.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.nytimes.com/2018/09/10/opinion/brett-kavanaugh-supreme-court-constitution-democrats-.html\">But people aren’t meaningfully free unless they have some security and some option to say no — that is, some power.</a>”</p>\n",
+			"date_published": "2018-09-25T18:09:04+08:00",
+			"url": "https://micro.oxus.net/2018/09/25/but-people-arent.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/25/hong-kong-bans.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/24/world/asia/hong-kong-party-ban-andy-chan.html\">Hong Kong Bans Pro-Independence Party</a></p>\n",
+			"date_published": "2018-09-25T18:07:27+08:00",
+			"url": "https://micro.oxus.net/2018/09/25/hong-kong-bans.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/24/charlottesville-wont-show.html",
 	      	
 			"content_html": "<p><a href=\"https://www.washingtonpost.com/outlook/2018/09/24/charlottesville-wont-show-up-federal-hate-crime-stats/?utm_term=.d0fef5b13506\">Charlottesville won’t show up in federal hate crime stats</a></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>Carpark view</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e1688e5bf8.jpg\" width=\"600\" height=\"478\" /></p>\n",
 			"date_published": "2018-09-19T11:51:29+08:00",
 			"url": "https://micro.oxus.net/2018/09/19/carpark-view.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/19/pot-of-gold.html",
-	      	
-			"content_html": "<p>Pot of gold</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/c0ea0c65ce.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-19T08:48:48+08:00",
-			"url": "https://micro.oxus.net/2018/09/19/pot-of-gold.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/19/the-firstever-nationwide.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.thecut.com/2018/09/mcdonalds-sexual-harassment-strike-takes-place-in-10-cities.html\">the first-ever nationwide strike against sexual harassment, and it’s led by working-class women of color</a>”</p>\n",
-			"date_published": "2018-09-19T08:35:57+08:00",
-			"url": "https://micro.oxus.net/2018/09/19/the-firstever-nationwide.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/18/siri-suggestions-in.html",
-	      	
-			"content_html": "<p>Siri Suggestions in iOS 12 are great, but they are also totally opaque. To get an alarm suggestion it wasn’t enough to turn on an existing alarm, I had to delete it and re-create it… Why can’t we just have a list?</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/3b67ea49ac.jpg\" width=\"600\" height=\"179\" /></p>\n",
-			"date_published": "2018-09-18T20:55:01+08:00",
-			"url": "https://micro.oxus.net/2018/09/18/siri-suggestions-in.html"
 		}
 		
 	]
