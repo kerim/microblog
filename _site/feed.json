@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/27/the-turnout-gap.html",
+	      	
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/news/monkey-cage/wp/2018/09/25/the-turnout-gap-between-whites-and-racial-minorities-is-larger-than-you-think-and-hard-to-change/?utm_term=.fcc28ff8f656\">The turnout gap between whites and racial minorities is larger than you think — and hard to change</a></p>\n",
+			"date_published": "2018-09-27T12:31:37+08:00",
+			"url": "https://micro.oxus.net/2018/09/27/the-turnout-gap.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/26/use-as-many.html",
 	      	
 			"content_html": "<ol>\n  <li><a href=\"https://leniency.blogspot.com/2008/12/how-to-write-like-agamben.html?m=1\">Use as many of the original language reference and most arcane features in said entry to trace a genealogy of said “symbol” (remember to introduce the most esoteric or unusual by beginning with “As everyone knows”)</a></li>\n</ol>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Does anyone in my extended social network teach video production to students who commute from far away? There are specific challenges I face due to this situation which I would like to discuss with someone who has similar experiences. Please DM me! Thanks…</p>\n",
 			"date_published": "2018-09-20T09:48:57+08:00",
 			"url": "https://micro.oxus.net/2018/09/20/does-anyone-in.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/19/carpark-view.html",
-	      	
-			"content_html": "<p>Carpark view</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e1688e5bf8.jpg\" width=\"600\" height=\"478\" /></p>\n",
-			"date_published": "2018-09-19T11:51:29+08:00",
-			"url": "https://micro.oxus.net/2018/09/19/carpark-view.html"
 		}
 		
 	]
