@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/09/30/how-we-know.html",
+	      	
+			"content_html": "<p><a href=\"https://www.currentaffairs.org/2018/09/how-we-know-kavanaugh-is-lying\">How We Know Kavanaugh Is Lying</a></p>\n",
+			"date_published": "2018-09-30T12:48:10+08:00",
+			"url": "https://micro.oxus.net/2018/09/30/how-we-know.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/29/ayushman-bharat-trivialises.html",
+	      	
+			"content_html": "<p><a href=\"https://thewire.in/health/ayushman-bharat-trivialises-indias-quest-for-universal-health-care\">Ayushman Bharat Trivialises India’s Quest for Universal Health Care</a></p>\n",
+			"date_published": "2018-09-29T18:30:31+08:00",
+			"url": "https://micro.oxus.net/2018/09/29/ayushman-bharat-trivialises.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/29/where-are-the.html",
+	      	
+			"content_html": "<p><a href=\"https://www.hcn.org/articles/tribal-affairs-where-are-the-indigenous-children-that-never-came-home-carlisle-indian-school-nations-want-answers\">Where are the Indigenous children who never came home?</a></p>\n",
+			"date_published": "2018-09-29T17:57:48+08:00",
+			"url": "https://micro.oxus.net/2018/09/29/where-are-the.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/09/29/john-jay-professors.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/22/nyregion/john-jay-professors-allegations.html\">John Jay Professors Face Allegations of Drug Sales and Sexual Misconduct</a> (Anthropology Department!)</p>\n",
+			"date_published": "2018-09-29T17:51:06+08:00",
+			"url": "https://micro.oxus.net/2018/09/29/john-jay-professors.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/09/29/frances-new-law.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/27/world/europe/france-sexual-harassment-law.html\">France’s New Law Against Sexist Catcalls Gets Its First Conviction</a></p>\n",
@@ -172,38 +204,6 @@
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/24/world/asia/hong-kong-party-ban-andy-chan.html\">Hong Kong Bans Pro-Independence Party</a></p>\n",
 			"date_published": "2018-09-25T18:07:27+08:00",
 			"url": "https://micro.oxus.net/2018/09/25/hong-kong-bans.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/24/charlottesville-wont-show.html",
-	      	
-			"content_html": "<p><a href=\"https://www.washingtonpost.com/outlook/2018/09/24/charlottesville-wont-show-up-federal-hate-crime-stats/?utm_term=.d0fef5b13506\">Charlottesville won’t show up in federal hate crime stats</a></p>\n",
-			"date_published": "2018-09-25T07:25:27+08:00",
-			"url": "https://micro.oxus.net/2018/09/25/charlottesville-wont-show.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/24/a-dalit-rights.html",
-	      	
-			"content_html": "<p>A Dalit Rights activist sang a song, the lyrics of which were allegedly, “a call to bring down the State.” <a href=\"https://cjp.org.in/brechts-words-misinterpreted-to-cast-cloak-of-criminality-over-arrested-activists/\">These words are actually a translation of a poem in a play by Bertolt Brecht</a>.</p>\n",
-			"date_published": "2018-09-24T23:03:54+08:00",
-			"url": "https://micro.oxus.net/2018/09/24/a-dalit-rights.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/24/china-has-silenced.html",
-	      	
-			"content_html": "<p><a href=\"https://www.washingtonpost.com/opinions/global-opinions/china-has-silenced-american-academics-for-years-now-theyre-pushing-back/2018/09/23/9834fac8-bdcc-11e8-be70-52bd11fe18af_story.html?utm_term=.745ccdeaed89\">China has silenced American academics for years. Now they’re pushing back.</a> #dendum</p>\n",
-			"date_published": "2018-09-24T22:58:36+08:00",
-			"url": "https://micro.oxus.net/2018/09/24/china-has-silenced.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/23/disabled-people-who.html",
-	      	
-			"content_html": "<p>“<a href=\"https://granta.com/common-cyborg/\">Disabled people who use tech to live are cyborgs. Our lives are not metaphors.</a>”</p>\n",
-			"date_published": "2018-09-24T07:57:59+08:00",
-			"url": "https://micro.oxus.net/2018/09/24/disabled-people-who.html"
 		}
 		
 	]
