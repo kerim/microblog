@@ -7,6 +7,46 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/04/among-taiwanese-the.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/04/world/asia/taiwan-food-q-texture.html\">“Among Taiwanese, the appreciation for Q texture starts at a young age”</a></p>\n",
+			"date_published": "2018-10-04T20:14:33+08:00",
+			"url": "https://micro.oxus.net/2018/10/04/among-taiwanese-the.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/04/female-nobel-prize.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theguardian.com/science/2018/oct/03/donna-strickland-nobel-physics-prize-wikipedia-denied\">Female Nobel prize winner deemed not important enough for Wikipedia entry</a></p>\n",
+			"date_published": "2018-10-04T09:25:01+08:00",
+			"url": "https://micro.oxus.net/2018/10/04/female-nobel-prize.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/04/china-curbs-teachers.html",
+	      	
+			"content_html": "<p><a href=\"https://www.rfa.org/english/news/china/teachers-passports-10022018133856.html\">China Curbs Teachers’ Overseas Travel, Recalls Passports ‘Nationwide’</a></p>\n",
+			"date_published": "2018-10-04T09:17:48+08:00",
+			"url": "https://micro.oxus.net/2018/10/04/china-curbs-teachers.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/03/presidential-alert.html",
+	      	
+			"content_html": "<p>Presidential Alert</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/32ae7d5aa8.jpg\" width=\"600\" height=\"479\" /></p>\n",
+			"date_published": "2018-10-04T07:47:00+08:00",
+			"url": "https://micro.oxus.net/2018/10/04/presidential-alert.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/03/infographic-why-all.html",
+	      	
+			"content_html": "<p><a href=\"https://international.thenewslens.com/article/105272\">INFOGRAPHIC: Why All Typhoons Have Missed Taiwan in 2018</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/f94459d547.jpg\" width=\"500\" height=\"500\" /></p>\n",
+			"date_published": "2018-10-04T06:15:30+08:00",
+			"url": "https://micro.oxus.net/2018/10/04/infographic-why-all.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/03/long-winded-and.html",
 	      	
 			"content_html": "<p>Long winded and full of obscure digressions, this account of <a href=\"http://thewritingbaron.com/the-cog-that-slipped-chiang-ching-kuos-russian-odyssey\">Chiang Ching-kuo’s time in Russia</a> is still really interesting.</p>\n",
@@ -164,46 +204,6 @@
 			"content_html": "<p>Surely @PayPal can come up with a better security protocol than making me change my password every time I purchase something? (OK, maybe every other time, or even every third time, but it’s ridiculous. I suspect they just don’t trust transactions from Taiwanese IP addresses…)</p>\n",
 			"date_published": "2018-09-28T09:13:57+08:00",
 			"url": "https://micro.oxus.net/2018/09/28/surely-paypal-can.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/27/human-rights-watch.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/27/world/asia/rodrigo-duterte-philippines-drug-war.html\">Human Rights Watch estimates that more than 12,000 people have died in the drug war, many of them victims of summary execution by the police</a></p>\n",
-			"date_published": "2018-09-28T07:21:28+08:00",
-			"url": "https://micro.oxus.net/2018/09/28/human-rights-watch.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/27/he-is-not.html",
-	      	
-			"content_html": "<p>HE IS NOT EMOTIONAL!\nYOU ARE EMOTIONAL!\nNO, YOU LISTEN!\n~ <a href=\"https://www.washingtonpost.com/news/opinions/wp/2018/09/27/how-dare-you-do-this-to-brett-kavanaugh/\">Alexandra Petri</a></p>\n",
-			"date_published": "2018-09-28T07:19:27+08:00",
-			"url": "https://micro.oxus.net/2018/09/28/he-is-not.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/27/from-reciprocity-to.html",
-	      	
-			"content_html": "<p><a href=\"https://culanth.org/fieldsights/1525-from-reciprocity-to-relationality-anthropological-possibilities\">From Reciprocity to Relationality: Anthropological Possibilities</a> #dendum</p>\n",
-			"date_published": "2018-09-27T22:56:59+08:00",
-			"url": "https://micro.oxus.net/2018/09/27/from-reciprocity-to.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/27/do-boring-speakers.html",
-	      	
-			"content_html": "<p><a href=\"http://www.nature.com/articles/d41586-018-06817-z\">Do boring speakers really talk for longer?</a> (Yes)</p>\n",
-			"date_published": "2018-09-27T22:55:59+08:00",
-			"url": "https://micro.oxus.net/2018/09/27/do-boring-speakers.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/27/the-devastating-consequences.html",
-	      	
-			"content_html": "<p>“<a href=\"http://alberto-corsin-jimenez.org/?p=352\">the devastating consequences that delegating the design and management of Open Access (OA) repositories to proprietary and corporate vendors y</a>”</p>\n",
-			"date_published": "2018-09-27T21:45:52+08:00",
-			"url": "https://micro.oxus.net/2018/09/27/the-devastating-consequences.html"
 		}
 		
 	]
