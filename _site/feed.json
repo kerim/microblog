@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/04/thanks-again-to.html",
+	      	
+			"content_html": "<p>Thanks again to ‪@anthroprez‬ for sending out a strong pro-labor message in support of the ‪@unitehere‬ union workers at the San Jose Marriott, where our annual conference is scheduled. #dendum</p>\n",
+			"date_published": "2018-10-05T07:28:45+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/thanks-again-to.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/04/among-taiwanese-the.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/04/world/asia/taiwan-food-q-texture.html\">“Among Taiwanese, the appreciation for Q texture starts at a young age”</a></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Facebook is too important to remain unregulated. “<a href=\"https://www.eff.org/deeplinks/2018/09/you-gave-facebook-your-number-security-they-used-it-ads\">You Gave Facebook Your Number For Security. They Used It For Ads.</a>”</p>\n",
 			"date_published": "2018-09-28T14:01:54+08:00",
 			"url": "https://micro.oxus.net/2018/09/28/facebook-is-too.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/28/surely-paypal-can.html",
-	      	
-			"content_html": "<p>Surely @PayPal can come up with a better security protocol than making me change my password every time I purchase something? (OK, maybe every other time, or even every third time, but it’s ridiculous. I suspect they just don’t trust transactions from Taiwanese IP addresses…)</p>\n",
-			"date_published": "2018-09-28T09:13:57+08:00",
-			"url": "https://micro.oxus.net/2018/09/28/surely-paypal-can.html"
 		}
 		
 	]
