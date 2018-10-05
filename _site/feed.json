@@ -7,6 +7,86 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/05/support-susan-collins.html",
+	      	
+			"content_html": "<p><a href=\"https://secure.actblue.com/donate/me-sen\">Support Susan Collins’ eventual Democratic challenger</a> - I just did.</p>\n",
+			"date_published": "2018-10-06T06:56:01+08:00",
+			"url": "https://micro.oxus.net/2018/10/06/support-susan-collins.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/05/their-cruelty-made.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/\">Their cruelty made them feel good</a>, it made them feel proud, it made them feel happy. And it made them feel closer to each other.”</p>\n",
+			"date_published": "2018-10-05T23:25:05+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/their-cruelty-made.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/05/florida-is-on.html",
+	      	
+			"content_html": "<p><a href=\"https://www.motherjones.com/politics/2018/10/inside-the-unlikely-movement-that-could-restore-voting-rights-to-1-4-million-floridians/\">Florida is on the verge of giving ex-felons the right to vote—and maybe changing state politics forever</a></p>\n",
+			"date_published": "2018-10-05T23:13:48+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/florida-is-on.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/05/when-actual-economics.html",
+	      	
+			"content_html": "<p>When actual <a href=\"http://crookedtimber.org/2018/10/03/move-over-sokal-hoax/\">economics articles</a> are more absurd than hoax social science.</p>\n",
+			"date_published": "2018-10-05T22:32:38+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/when-actual-economics.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/05/it-is-not.html",
+	      	
+			"content_html": "<p><a href=\"[www.thedailybeast.com/russian-o...](https://www.thedailybeast.com/russian-official-linked-to-natalia-veselnitskaya-the-trump-tower-lawyer-is-dead)\nvia Instapaper\">It is not known why</a> experienced pilot Mikhnov decided to take off after nightfall in adverse conditions without authorities’ approval.</p>\n",
+			"date_published": "2018-10-05T22:16:58+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/it-is-not.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/05/the-internet-archive.html",
+	      	
+			"content_html": "<p><a href=\"https://www.manton.org/2018/10/04/internet-archive-fixing.html\">The Internet Archive has fixed 9 million broken links on Wikipedia by updating them to point to the Wayback Machine’s copy</a></p>\n",
+			"date_published": "2018-10-05T20:20:04+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/the-internet-archive.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/05/protest-against-springer.html",
+	      	
+			"content_html": "<p><a href=\"http://u.osu.edu/mclc/2018/10/04/protest-against-springer-bowing-to-censorship/\">Protest against Springer bowing to Chinese censorship</a></p>\n",
+			"date_published": "2018-10-05T19:26:19+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/protest-against-springer.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/05/autumn-morning-in.html",
+	      	
+			"content_html": "<p>Autumn morning in Hualien</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/4739d2a825.jpg\" width=\"600\" height=\"478\" /></p>\n",
+			"date_published": "2018-10-05T18:45:57+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/autumn-morning-in.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/05/i-for-one.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.bbc.com/news/world-europe-45753455\">I, for one, hail our new 8 year old Swedish queen!</a>”</p>\n",
+			"date_published": "2018-10-05T15:23:50+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/i-for-one.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/05/thinking-about-rob.html",
+	      	
+			"content_html": "<p>Thinking about Rob O’Brien who led the way at a time the AAA was less supportive of unions. <a href=\"http://ucmweb.rutgers.edu/inmemoriam/?q=inmemoriam_record&amp;id=371\">Miss you</a>.</p>\n",
+			"date_published": "2018-10-05T09:09:11+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/thinking-about-rob.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/04/thanks-again-to.html",
 	      	
 			"content_html": "<p>Thanks again to ‪@anthroprez‬ for sending out a strong pro-labor message in support of the ‪@unitehere‬ union workers at the San Jose Marriott, where our annual conference is scheduled. #dendum</p>\n",
@@ -124,86 +204,6 @@
 			"content_html": "<p><a href=\"https://thewire.in/health/ayushman-bharat-trivialises-indias-quest-for-universal-health-care\">Ayushman Bharat Trivialises India’s Quest for Universal Health Care</a></p>\n",
 			"date_published": "2018-09-29T18:30:31+08:00",
 			"url": "https://micro.oxus.net/2018/09/29/ayushman-bharat-trivialises.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/29/where-are-the.html",
-	      	
-			"content_html": "<p><a href=\"https://www.hcn.org/articles/tribal-affairs-where-are-the-indigenous-children-that-never-came-home-carlisle-indian-school-nations-want-answers\">Where are the Indigenous children who never came home?</a></p>\n",
-			"date_published": "2018-09-29T17:57:48+08:00",
-			"url": "https://micro.oxus.net/2018/09/29/where-are-the.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/29/john-jay-professors.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/22/nyregion/john-jay-professors-allegations.html\">John Jay Professors Face Allegations of Drug Sales and Sexual Misconduct</a> (Anthropology Department!)</p>\n",
-			"date_published": "2018-09-29T17:51:06+08:00",
-			"url": "https://micro.oxus.net/2018/09/29/john-jay-professors.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/29/frances-new-law.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/27/world/europe/france-sexual-harassment-law.html\">France’s New Law Against Sexist Catcalls Gets Its First Conviction</a></p>\n",
-			"date_published": "2018-09-29T17:22:42+08:00",
-			"url": "https://micro.oxus.net/2018/09/29/frances-new-law.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/29/finally-moved-my.html",
-	      	
-			"content_html": "<p>Finally moved my <a href=\"https://keywords.oxus.net/\">personal blog</a> from github over to blot. David, the owner/developer, was really helpful getting things set up. Can’t think of an easier way to blog than by saving text files to a special Dropbox folder! Maybe I’ll post more often now?</p>\n",
-			"date_published": "2018-09-29T12:07:57+08:00",
-			"url": "https://micro.oxus.net/2018/09/29/finally-moved-my.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/29/censored-in-china.html",
-	      	
-			"content_html": "<p><a href=\"https://jamiemetzl.com/censored-in-china/\">Censored in China - Jamie Metzl</a></p>\n",
-			"date_published": "2018-09-29T09:36:38+08:00",
-			"url": "https://micro.oxus.net/2018/09/29/censored-in-china.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/29/hacker-backpedals-on.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.google.com/amp/s/mashable.com/article/taiwanese-hacker-claims-delete-mark-zuckerberg-facebook-account-livestream.amp\">Hacker backpedals on his brazen threat to delete Mark Zuckerberg’s Facebook account</a>” so I guess he had nothing to do with yesterday’s hack?</p>\n",
-			"date_published": "2018-09-29T09:08:10+08:00",
-			"url": "https://micro.oxus.net/2018/09/29/hacker-backpedals-on.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/29/does-the-facebook.html",
-	      	
-			"content_html": "<p>Does the “<a href=\"https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html?action=click&amp;module=Top+Stories&amp;pgtype=Homepage\">Facebook Breached by Hackers</a>” story have anything to do with the Taiwanese hacker who promised to delete Mark Zuckerberg’s FB page?</p>\n",
-			"date_published": "2018-09-29T08:03:19+08:00",
-			"url": "https://micro.oxus.net/2018/09/29/does-the-facebook.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/28/leta-hongfincher-on.html",
-	      	
-			"content_html": "<p><a href=\"https://jezebel.com/feminism-as-a-global-solidarity-movement-leta-hong-fin-1829180875\">Leta Hong-Fincher on Betraying Big Brother: The Feminist Awakening in China</a></p>\n",
-			"date_published": "2018-09-28T21:17:42+08:00",
-			"url": "https://micro.oxus.net/2018/09/28/leta-hongfincher-on.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/28/dear-tech-corporations.html",
-	      	
-			"content_html": "<p>Dear tech corporations on Twitter: I don’t want to privately DM you or speak to a tech support person over the phone. If I’m complaining about you online it is because I’m pretty sure that doing either will be a waste of my time. Also, I’d rather any discussion remains public.</p>\n",
-			"date_published": "2018-09-28T16:16:13+08:00",
-			"url": "https://micro.oxus.net/2018/09/28/dear-tech-corporations.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/28/facebook-is-too.html",
-	      	
-			"content_html": "<p>Facebook is too important to remain unregulated. “<a href=\"https://www.eff.org/deeplinks/2018/09/you-gave-facebook-your-number-security-they-used-it-ads\">You Gave Facebook Your Number For Security. They Used It For Ads.</a>”</p>\n",
-			"date_published": "2018-09-28T14:01:54+08:00",
-			"url": "https://micro.oxus.net/2018/09/28/facebook-is-too.html"
 		}
 		
 	]
