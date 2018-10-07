@@ -7,6 +7,46 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/07/foamy-weather.html",
+	      	
+			"content_html": "<p>Foamy weather</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/dc3ff9367e.jpg\" width=\"600\" height=\"479\" /></p>\n",
+			"date_published": "2018-10-07T18:21:06+08:00",
+			"url": "https://micro.oxus.net/2018/10/07/foamy-weather.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/07/101833.html",
+	      	
+			"content_html": "<p>🦎</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/379db4b492.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-10-07T18:18:33+08:00",
+			"url": "https://micro.oxus.net/2018/10/07/101833.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/07/evening-yoga.html",
+	      	
+			"content_html": "<p>Evening yoga</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/01a98a7cdc.jpg\" width=\"600\" height=\"478\" /></p>\n",
+			"date_published": "2018-10-07T10:04:04+08:00",
+			"url": "https://micro.oxus.net/2018/10/07/evening-yoga.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/07/students-from-china.html",
+	      	
+			"content_html": "<p>“<a href=\"http://www.atimes.com/article/chinese-students-arent-completely-banned-from-the-us-yet/\">Students from China make up… almost one-third, of foreign students studying in the US</a>”</p>\n",
+			"date_published": "2018-10-07T08:13:40+08:00",
+			"url": "https://micro.oxus.net/2018/10/07/students-from-china.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/07/a-fight-for.html",
+	      	
+			"content_html": "<p><a href=\"http://cepr.net/publications/op-eds-columns/brazil-presidential-election-a-fight-for-democracy\">A Fight for Democracy in Brazil</a></p>\n",
+			"date_published": "2018-10-07T08:08:40+08:00",
+			"url": "https://micro.oxus.net/2018/10/07/a-fight-for.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/05/support-susan-collins.html",
 	      	
 			"content_html": "<p><a href=\"https://secure.actblue.com/donate/me-sen\">Support Susan Collins’ eventual Democratic challenger</a> - I just did.</p>\n",
@@ -164,46 +204,6 @@
 			"content_html": "<p><a href=\"https://qz.com/1395050/there-are-now-more-100-bills-than-1-bills-in-the-world/\">There are now more $100 bills than $1 bills in the world</a></p>\n",
 			"date_published": "2018-10-01T12:24:51+08:00",
 			"url": "https://micro.oxus.net/2018/10/01/there-are-now.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/01/watching-together.html",
-	      	
-			"content_html": "<p>Watching together</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/eb20aec282.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2018-10-01T09:21:47+08:00",
-			"url": "https://micro.oxus.net/2018/10/01/watching-together.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/30/the-rape-culture.html",
-	      	
-			"content_html": "<p><a href=\"https://www.vox.com/culture/2018/9/27/17906644/sixteen-candles-rape-culture-1980s-brett-kavanaugh\">The rape culture of the 1980s, explained by Sixteen Candles</a></p>\n",
-			"date_published": "2018-09-30T18:54:16+08:00",
-			"url": "https://micro.oxus.net/2018/09/30/the-rape-culture.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/30/the-nominees-transgressions.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theatlantic.com/ideas/archive/2018/09/why-do-republicans-still-support-brett-kavanaugh/571699/\">The nominee’s transgressions, far from marking him as unfit, signal to his supporters that he is trustworthy—he is one of them.</a></p>\n",
-			"date_published": "2018-09-30T13:20:10+08:00",
-			"url": "https://micro.oxus.net/2018/09/30/the-nominees-transgressions.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/30/how-we-know.html",
-	      	
-			"content_html": "<p><a href=\"https://www.currentaffairs.org/2018/09/how-we-know-kavanaugh-is-lying\">How We Know Kavanaugh Is Lying</a></p>\n",
-			"date_published": "2018-09-30T12:48:10+08:00",
-			"url": "https://micro.oxus.net/2018/09/30/how-we-know.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/09/29/ayushman-bharat-trivialises.html",
-	      	
-			"content_html": "<p><a href=\"https://thewire.in/health/ayushman-bharat-trivialises-indias-quest-for-universal-health-care\">Ayushman Bharat Trivialises India’s Quest for Universal Health Care</a></p>\n",
-			"date_published": "2018-09-29T18:30:31+08:00",
-			"url": "https://micro.oxus.net/2018/09/29/ayushman-bharat-trivialises.html"
 		}
 		
 	]
