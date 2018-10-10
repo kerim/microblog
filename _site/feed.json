@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/10/this-review-of.html",
+	      	
+			"content_html": "<p>This review of Milko Lazarov’s film Ága makes it sound pretty offensive. A film about an Inuit couple, where the man is named “Nanook,” is a “<a href=\"https://variety.com/2018/film/reviews/aga-review-berlinale-2018-1202709567/\">paean to a dying culture</a>.” Sounds more like Edward “Vanishing Race” Curtis than Robert Flaherty…</p>\n",
+			"date_published": "2018-10-10T18:17:29+08:00",
+			"url": "https://micro.oxus.net/2018/10/10/this-review-of.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/09/fest.html",
+	      	
+			"content_html": "<p>🐌 fest</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/3e8293703b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-09T22:26:24+08:00",
+			"url": "https://micro.oxus.net/2018/10/09/fest.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/09/how-to-convert.html",
 	      	
 			"content_html": "<p><a href=\"https://dellu.wordpress.com/2018/08/31/how-to-convert-scanned-images-to-perfect-pdf-ebooks/\">How to convert scanned images to perfect ebooks</a> (A little tricky to use but the results are great, and easier than other options out there.)</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Presidential Alert</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/32ae7d5aa8.jpg\" width=\"600\" height=\"479\" /></p>\n",
 			"date_published": "2018-10-04T07:47:00+08:00",
 			"url": "https://micro.oxus.net/2018/10/04/presidential-alert.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/03/infographic-why-all.html",
-	      	
-			"content_html": "<p><a href=\"https://international.thenewslens.com/article/105272\">INFOGRAPHIC: Why All Typhoons Have Missed Taiwan in 2018</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/f94459d547.jpg\" width=\"500\" height=\"500\" /></p>\n",
-			"date_published": "2018-10-04T06:15:30+08:00",
-			"url": "https://micro.oxus.net/2018/10/04/infographic-why-all.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/03/long-winded-and.html",
-	      	
-			"content_html": "<p>Long winded and full of obscure digressions, this account of <a href=\"http://thewritingbaron.com/the-cog-that-slipped-chiang-ching-kuos-russian-odyssey\">Chiang Ching-kuo’s time in Russia</a> is still really interesting.</p>\n",
-			"date_published": "2018-10-03T14:16:17+08:00",
-			"url": "https://micro.oxus.net/2018/10/03/long-winded-and.html"
 		}
 		
 	]
