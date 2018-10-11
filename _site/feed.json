@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/11/some-memories-of.html",
+	      	
+			"content_html": "<p>Some memories of my time in Urumqi and [thoughts] (https://keywords.oxus.net/archives/2018/10/11/a-strange-day-in-urumqi) about why signing the Xinjiang Iniative Pledge was so important to me.</p>\n",
+			"date_published": "2018-10-11T21:52:21+08:00",
+			"url": "https://micro.oxus.net/2018/10/11/some-memories-of.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/11/when-clever-political.html",
+	      	
+			"content_html": "<p>“<a href=\"https://popula.com/2018/10/09/the-red-state-of-joe-manchin/\">When clever political analysts talk about Joe Manchin, today, they are often mystified by two facts</a>”</p>\n",
+			"date_published": "2018-10-11T13:57:18+08:00",
+			"url": "https://micro.oxus.net/2018/10/11/when-clever-political.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/11/it-is-a.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.reuters.com/article/us-saudi-politics-dissident-insight/apple-watch-hired-jet-mystery-vehicle-figure-in-search-for-missing-saudi-dissident-idUSKCN1MK1WY\">It is a very mysterious situation</a>. Diplomats that came in private jets, stay in Turkey for a few hours, and leave.”</p>\n\n",
+			"date_published": "2018-10-11T10:10:02+08:00",
+			"url": "https://micro.oxus.net/2018/10/11/it-is-a.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/11/an-actor-a.html",
+	      	
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/news/global-opinions/wp/2018/10/10/an-actor-a-journalist-a-government-minister-who-is-next-to-fall-in-indias-metoo-wave/?utm_term=.026ccf8666ff\">An actor, a journalist, a government minister: Who is next to fall in India’s #MeToo wave?</a></p>\n",
+			"date_published": "2018-10-11T09:25:31+08:00",
+			"url": "https://micro.oxus.net/2018/10/11/an-actor-a.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/11/why-has-google.html",
 	      	
 			"content_html": "<p>Why has Google taken to reminding ME that other people haven’t replied to my emails? This seems like a clear case of victim blaming!</p>\n",
@@ -172,38 +204,6 @@
 			"content_html": "<p>Autumn morning in Hualien</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/4739d2a825.jpg\" width=\"600\" height=\"478\" /></p>\n",
 			"date_published": "2018-10-05T18:45:57+08:00",
 			"url": "https://micro.oxus.net/2018/10/05/autumn-morning-in.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/05/i-for-one.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.bbc.com/news/world-europe-45753455\">I, for one, hail our new 8 year old Swedish queen!</a>”</p>\n",
-			"date_published": "2018-10-05T15:23:50+08:00",
-			"url": "https://micro.oxus.net/2018/10/05/i-for-one.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/05/thinking-about-rob.html",
-	      	
-			"content_html": "<p>Thinking about Rob O’Brien who led the way at a time the AAA was less supportive of unions. <a href=\"http://ucmweb.rutgers.edu/inmemoriam/?q=inmemoriam_record&amp;id=371\">Miss you</a>.</p>\n",
-			"date_published": "2018-10-05T09:09:11+08:00",
-			"url": "https://micro.oxus.net/2018/10/05/thinking-about-rob.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/04/thanks-again-to.html",
-	      	
-			"content_html": "<p>Thanks again to ‪@anthroprez‬ for sending out a strong pro-labor message in support of the ‪@unitehere‬ union workers at the San Jose Marriott, where our annual conference is scheduled. #dendum</p>\n",
-			"date_published": "2018-10-05T07:28:45+08:00",
-			"url": "https://micro.oxus.net/2018/10/05/thanks-again-to.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/04/among-taiwanese-the.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/04/world/asia/taiwan-food-q-texture.html\">“Among Taiwanese, the appreciation for Q texture starts at a young age”</a></p>\n",
-			"date_published": "2018-10-04T20:14:33+08:00",
-			"url": "https://micro.oxus.net/2018/10/04/among-taiwanese-the.html"
 		}
 		
 	]
