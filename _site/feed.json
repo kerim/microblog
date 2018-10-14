@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/14/shuttered-polling-sites.html",
+	      	
+			"content_html": "<p><a href=\"https://whowhatwhy.org/2018/09/05/shuttered-polling-sites-cast-shadow-over-midterm-elections/\">Shuttered Polling Sites Cast Shadow Over Midterm Elections</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/df6c5a63a7.jpg\" width=\"600\" height=\"402\" /></p>\n",
+			"date_published": "2018-10-14T09:43:13+08:00",
+			"url": "https://micro.oxus.net/2018/10/14/shuttered-polling-sites.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/13/millennial-aboriginal-australians.html",
+	      	
+			"content_html": "<p><a href=\"http://www.atlasobscura.com/articles/light-warlpiri\">Millennial Aboriginal Australians Have Developed Their Own Language</a></p>\n",
+			"date_published": "2018-10-13T23:41:10+08:00",
+			"url": "https://micro.oxus.net/2018/10/13/millennial-aboriginal-australians.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/13/the-potential-range.html",
+	      	
+			"content_html": "<p>“<a href=\"https://anthrodendum.org/2018/10/07/on-using-archives-and-freedom-of-information-act-for-anthropological-research/\">the potential range of anthropological research projects that could benefit from FOIA requests is limitless</a>”</p>\n",
+			"date_published": "2018-10-13T23:33:26+08:00",
+			"url": "https://micro.oxus.net/2018/10/13/the-potential-range.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/13/if-you-click.html",
 	      	
 			"content_html": "<p>If you click “Audio and Subtitles” at the very bottom of the Netflix home screen, you can filter content by language. Very useful for language study!</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p><a href=\"https://secure.actblue.com/donate/me-sen\">Support Susan Collins’ eventual Democratic challenger</a> - I just did.</p>\n",
 			"date_published": "2018-10-06T06:56:01+08:00",
 			"url": "https://micro.oxus.net/2018/10/06/support-susan-collins.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/05/their-cruelty-made.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/\">Their cruelty made them feel good</a>, it made them feel proud, it made them feel happy. And it made them feel closer to each other.”</p>\n",
-			"date_published": "2018-10-05T23:25:05+08:00",
-			"url": "https://micro.oxus.net/2018/10/05/their-cruelty-made.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/05/florida-is-on.html",
-	      	
-			"content_html": "<p><a href=\"https://www.motherjones.com/politics/2018/10/inside-the-unlikely-movement-that-could-restore-voting-rights-to-1-4-million-floridians/\">Florida is on the verge of giving ex-felons the right to vote—and maybe changing state politics forever</a></p>\n",
-			"date_published": "2018-10-05T23:13:48+08:00",
-			"url": "https://micro.oxus.net/2018/10/05/florida-is-on.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/05/when-actual-economics.html",
-	      	
-			"content_html": "<p>When actual <a href=\"http://crookedtimber.org/2018/10/03/move-over-sokal-hoax/\">economics articles</a> are more absurd than hoax social science.</p>\n",
-			"date_published": "2018-10-05T22:32:38+08:00",
-			"url": "https://micro.oxus.net/2018/10/05/when-actual-economics.html"
 		}
 		
 	]
