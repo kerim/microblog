@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/15/amazons-cheeky-sloganartificial.html",
+	      	
+			"content_html": "<p>“<a href=\"https://logicmag.io/05-the-automation-charade/\">Amazon’s cheeky slogan—“artificial artificial intelligence”—acknowledges that there are still plenty of things egregiously underpaid people do better than robots.</a>”</p>\n",
+			"date_published": "2018-10-15T10:07:53+08:00",
+			"url": "https://micro.oxus.net/2018/10/15/amazons-cheeky-sloganartificial.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/14/the-columbia-university.html",
+	      	
+			"content_html": "<p><a href=\"https://www.cuhistorytour.com/\">The Columbia University History Tour Initiative</a> offers a self-guided walking tour of CU’s campus through an iOS app and aims to present narratives of slavery, oppression, and violence, while preserving stories of resistance, perseverance, and social progress.</p>\n",
+			"date_published": "2018-10-14T16:37:53+08:00",
+			"url": "https://micro.oxus.net/2018/10/14/the-columbia-university.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/14/shuttered-polling-sites.html",
 	      	
 			"content_html": "<p><a href=\"https://whowhatwhy.org/2018/09/05/shuttered-polling-sites-cast-shadow-over-midterm-elections/\">Shuttered Polling Sites Cast Shadow Over Midterm Elections</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/df6c5a63a7.jpg\" width=\"600\" height=\"402\" /></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>“<a href=\"http://www.atimes.com/article/chinese-students-arent-completely-banned-from-the-us-yet/\">Students from China make up… almost one-third, of foreign students studying in the US</a>”</p>\n",
 			"date_published": "2018-10-07T08:13:40+08:00",
 			"url": "https://micro.oxus.net/2018/10/07/students-from-china.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/07/a-fight-for.html",
-	      	
-			"content_html": "<p><a href=\"http://cepr.net/publications/op-eds-columns/brazil-presidential-election-a-fight-for-democracy\">A Fight for Democracy in Brazil</a></p>\n",
-			"date_published": "2018-10-07T08:08:40+08:00",
-			"url": "https://micro.oxus.net/2018/10/07/a-fight-for.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/05/support-susan-collins.html",
-	      	
-			"content_html": "<p><a href=\"https://secure.actblue.com/donate/me-sen\">Support Susan Collins’ eventual Democratic challenger</a> - I just did.</p>\n",
-			"date_published": "2018-10-06T06:56:01+08:00",
-			"url": "https://micro.oxus.net/2018/10/06/support-susan-collins.html"
 		}
 		
 	]
