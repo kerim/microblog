@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/17/elizabeth-warren-falls.html",
+	      	
+			"content_html": "<p><a href=\"https://www.newyorker.com/news/our-columnists/elizabeth-warren-falls-for-trumps-trap-and-promotes-insidious-ideas-about-race-and-dna\">Elizabeth Warren Falls for Trump’s Trap—and Promotes Insidious Ideas About Race and DNA</a></p>\n",
+			"date_published": "2018-10-17T08:41:31+08:00",
+			"url": "https://micro.oxus.net/2018/10/17/elizabeth-warren-falls.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/16/the-supreme-court.html",
 	      	
 			"content_html": "<p><a href=\"https://rewire.news/ablc/2018/10/11/supreme-court-native-americans-november/\">The Supreme Court Just Ensured That Thousands of Native Americans Won’t Be Able to Vote in November</a></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>🐌 fest</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/3e8293703b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-10-09T22:26:24+08:00",
 			"url": "https://micro.oxus.net/2018/10/09/fest.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/09/how-to-convert.html",
-	      	
-			"content_html": "<p><a href=\"https://dellu.wordpress.com/2018/08/31/how-to-convert-scanned-images-to-perfect-pdf-ebooks/\">How to convert scanned images to perfect ebooks</a> (A little tricky to use but the results are great, and easier than other options out there.)</p>\n",
-			"date_published": "2018-10-09T08:23:03+08:00",
-			"url": "https://micro.oxus.net/2018/10/09/how-to-convert.html"
 		}
 		
 	]
