@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/18/hautalk-the-tyranny.html",
+	      	
+			"content_html": "<p><a href=\"http://allegralaboratory.net/hautalk-the-tyranny-of-structurelessness-and-no-end-in-sight/\">#HAUTALK: the tyranny of structurelessness and no end in sight</a> #dendum</p>\n",
+			"date_published": "2018-10-18T21:21:19+08:00",
+			"url": "https://micro.oxus.net/2018/10/18/hautalk-the-tyranny.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/18/opinion-elizabeth-warren.html",
+	      	
+			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>[Opinion</td>\n      <td>Elizabeth Warren and the Folly of Genetic Ancestry Tests](https://www.nytimes.com/2018/10/17/opinion/elizabeth-warren-and-the-folly-of-genetic-ancestry-tests.html)</td>\n    </tr>\n  </tbody>\n</table>\n",
+			"date_published": "2018-10-18T12:38:50+08:00",
+			"url": "https://micro.oxus.net/2018/10/18/opinion-elizabeth-warren.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/18/seventy-years-of.html",
+	      	
+			"content_html": "<p><a href=\"http://www.jadaliyya.com/Details/34727\">Seventy Years of the New York Times Describing Saudi Royals as Reformers</a></p>\n",
+			"date_published": "2018-10-18T12:33:46+08:00",
+			"url": "https://micro.oxus.net/2018/10/18/seventy-years-of.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/18/breakfast-by-the.html",
 	      	
 			"content_html": "<p>Breakfast by the lake</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/d8c24e3906.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p><a href=\"https://omny.fm/shows/the-little-red-podcast/xi-jinping-s-war-on-the-uighurs-part-1-the-witness\">Xi Jinping’s War on the Uighurs. Part 1: The Witnesses - The Little Red Podcast</a></p>\n",
 			"date_published": "2018-10-12T16:54:49+08:00",
 			"url": "https://micro.oxus.net/2018/10/12/xi-jinpings-war.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/11/some-memories-of.html",
-	      	
-			"content_html": "<p>Some memories of my time in Urumqi and [thoughts] (https://keywords.oxus.net/archives/2018/10/11/a-strange-day-in-urumqi) about why signing the Xinjiang Iniative Pledge was so important to me.</p>\n",
-			"date_published": "2018-10-11T21:52:21+08:00",
-			"url": "https://micro.oxus.net/2018/10/11/some-memories-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/11/when-clever-political.html",
-	      	
-			"content_html": "<p>“<a href=\"https://popula.com/2018/10/09/the-red-state-of-joe-manchin/\">When clever political analysts talk about Joe Manchin, today, they are often mystified by two facts</a>”</p>\n",
-			"date_published": "2018-10-11T13:57:18+08:00",
-			"url": "https://micro.oxus.net/2018/10/11/when-clever-political.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/11/it-is-a.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.reuters.com/article/us-saudi-politics-dissident-insight/apple-watch-hired-jet-mystery-vehicle-figure-in-search-for-missing-saudi-dissident-idUSKCN1MK1WY\">It is a very mysterious situation</a>. Diplomats that came in private jets, stay in Turkey for a few hours, and leave.”</p>\n\n",
-			"date_published": "2018-10-11T10:10:02+08:00",
-			"url": "https://micro.oxus.net/2018/10/11/it-is-a.html"
 		}
 		
 	]
