@@ -7,6 +7,54 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/18/breakfast-by-the.html",
+	      	
+			"content_html": "<p>Breakfast by the lake</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/d8c24e3906.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-18T09:34:04+08:00",
+			"url": "https://micro.oxus.net/2018/10/18/breakfast-by-the.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/17/apple-fixes-bagel.html",
+	      	
+			"content_html": "<p><a href=\"https://blog.emojipedia.org/apple-fixes-bagel-emoji/\">Apple Fixes Bagel Emoji</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/97f8969cf4.jpg\" width=\"600\" height=\"341\" /></p>\n",
+			"date_published": "2018-10-17T10:50:16+08:00",
+			"url": "https://micro.oxus.net/2018/10/17/apple-fixes-bagel.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/17/crystal-mason-begins.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theguardian.com/us-news/2018/sep/28/crystal-mason-begins-prison-sentence-in-texas-for-of-voting?fbclid=IwAR35QKq3729S3jbwDt4ahp7_sNW-qkMO5s14CyuXrkFBrh0kO4OHOaUa5yI\">Crystal Mason begins prison sentence in Texas for crime of voting</a></p>\n",
+			"date_published": "2018-10-17T10:31:07+08:00",
+			"url": "https://micro.oxus.net/2018/10/17/crystal-mason-begins.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/17/a-medieval-book.html",
+	      	
+			"content_html": "<p><a href=\"http://www.openculture.com/2018/10/medieval-book-opens-six-different-ways-revealing-six-different-books-one.html?fbclid=IwAR3tusjcafK9DM3I6obczWQGwBtYIVg8m2rq4_UhHPY2Vd58OoheQ75N5h4\">A Medieval Book That Opens Six Different Ways, Revealing Six Different Books in One</a></p>\n",
+			"date_published": "2018-10-17T09:56:03+08:00",
+			"url": "https://micro.oxus.net/2018/10/17/a-medieval-book.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/17/allahabad-in-uttar.html",
+	      	
+			"content_html": "<p><a href=\"https://amp.theguardian.com/world/2018/oct/16/india-uttar-pradesh-allahabad-name-changed-prayagraj-muslim-hindu?fbclid=IwAR1gr_At1xQZkYCxmDaE_L-LsOyhmrmCl00WGLUQGLT3GLugF546M1VuW88\">Allahabad in Uttar Pradesh, headed by hardliner accused of violence against Muslims, to become Prayagraj</a></p>\n",
+			"date_published": "2018-10-17T09:32:47+08:00",
+			"url": "https://micro.oxus.net/2018/10/17/allahabad-in-uttar.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/17/elizabeth-warrens-native.html",
+	      	
+			"content_html": "<p><a href=\"https://www.currentaffairs.org/2018/10/elizabeth-warrens-native-ancestry-response-is-a-complete-disaster\">Elizabeth Warren’s Native Ancestry Response Is A Complete Disaster</a></p>\n",
+			"date_published": "2018-10-17T08:43:55+08:00",
+			"url": "https://micro.oxus.net/2018/10/17/elizabeth-warrens-native.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/17/elizabeth-warren-falls.html",
 	      	
 			"content_html": "<p><a href=\"https://www.newyorker.com/news/our-columnists/elizabeth-warren-falls-for-trumps-trap-and-promotes-insidious-ideas-about-race-and-dna\">Elizabeth Warren Falls for Trump’s Trap—and Promotes Insidious Ideas About Race and DNA</a></p>\n",
@@ -156,54 +204,6 @@
 			"content_html": "<p>“<a href=\"https://www.reuters.com/article/us-saudi-politics-dissident-insight/apple-watch-hired-jet-mystery-vehicle-figure-in-search-for-missing-saudi-dissident-idUSKCN1MK1WY\">It is a very mysterious situation</a>. Diplomats that came in private jets, stay in Turkey for a few hours, and leave.”</p>\n\n",
 			"date_published": "2018-10-11T10:10:02+08:00",
 			"url": "https://micro.oxus.net/2018/10/11/it-is-a.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/11/an-actor-a.html",
-	      	
-			"content_html": "<p><a href=\"https://www.washingtonpost.com/news/global-opinions/wp/2018/10/10/an-actor-a-journalist-a-government-minister-who-is-next-to-fall-in-indias-metoo-wave/?utm_term=.026ccf8666ff\">An actor, a journalist, a government minister: Who is next to fall in India’s #MeToo wave?</a></p>\n",
-			"date_published": "2018-10-11T09:25:31+08:00",
-			"url": "https://micro.oxus.net/2018/10/11/an-actor-a.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/11/why-has-google.html",
-	      	
-			"content_html": "<p>Why has Google taken to reminding ME that other people haven’t replied to my emails? This seems like a clear case of victim blaming!</p>\n",
-			"date_published": "2018-10-11T09:10:06+08:00",
-			"url": "https://micro.oxus.net/2018/10/11/why-has-google.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/10/how-can-stenographers.html",
-	      	
-			"content_html": "<p><a href=\"https://boingboing.net/2018/10/09/how-can-stenographers-keep-up.html\">How can stenographers keep up with a speaker?</a></p>\n",
-			"date_published": "2018-10-10T19:52:53+08:00",
-			"url": "https://micro.oxus.net/2018/10/10/how-can-stenographers.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/10/indian-airport-security.html",
-	      	
-			"content_html": "<p>Indian airport security ‘<a href=\"https://www.bbc.com/news/world-asia-india-45784317#\">will move from a “broad smile system” to a “sufficient smile system”</a>’</p>\n",
-			"date_published": "2018-10-10T18:43:22+08:00",
-			"url": "https://micro.oxus.net/2018/10/10/indian-airport-security.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/10/this-review-of.html",
-	      	
-			"content_html": "<p>This review of Milko Lazarov’s film Ága makes it sound pretty offensive. A film about an Inuit couple, where the man is named “Nanook,” is a “<a href=\"https://variety.com/2018/film/reviews/aga-review-berlinale-2018-1202709567/\">paean to a dying culture</a>.” Sounds more like Edward “Vanishing Race” Curtis than Robert Flaherty…</p>\n",
-			"date_published": "2018-10-10T18:17:29+08:00",
-			"url": "https://micro.oxus.net/2018/10/10/this-review-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/09/fest.html",
-	      	
-			"content_html": "<p>🐌 fest</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/3e8293703b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-10-09T22:26:24+08:00",
-			"url": "https://micro.oxus.net/2018/10/09/fest.html"
 		}
 		
 	]
