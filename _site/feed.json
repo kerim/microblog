@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/21/the-proud-boys.html",
+	      	
+			"content_html": "<p><a href=\"https://www.huffingtonpost.com/entry/proud-boys-republican-party-fascist-creep_us_5bc7b37de4b055bc947d2a8c\">The Proud Boys, The GOP And ‘The Fascist Creep’</a> （Good, although it makes too much of the “newness” of the GOP’s association with far-right groups.)</p>\n",
+			"date_published": "2018-10-21T09:21:29+08:00",
+			"url": "https://micro.oxus.net/2018/10/21/the-proud-boys.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/20/taiwans-health-care.html",
 	      	
 			"content_html": "<p><a href=\"https://www.bloomberg.com/news/articles/2018-09-19/u-s-near-bottom-of-health-index-hong-kong-and-singapore-at-top\">Taiwan’s health care even 9th most efficient</a> out of fifty in this study, up three from last year.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>For Sophie (our dog), the car is like a TARDIS. She’s pretty sure if we just wait in the space where it was parked, sooner or later @shashwati will magically reappear. And she’s not wrong…</p>\n",
 			"date_published": "2018-10-15T11:01:56+08:00",
 			"url": "https://micro.oxus.net/2018/10/15/for-sophie-our.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/15/amazons-cheeky-sloganartificial.html",
-	      	
-			"content_html": "<p>“<a href=\"https://logicmag.io/05-the-automation-charade/\">Amazon’s cheeky slogan—“artificial artificial intelligence”—acknowledges that there are still plenty of things egregiously underpaid people do better than robots.</a>”</p>\n",
-			"date_published": "2018-10-15T10:07:53+08:00",
-			"url": "https://micro.oxus.net/2018/10/15/amazons-cheeky-sloganartificial.html"
 		}
 		
 	]
