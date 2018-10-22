@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/22/percent-of-manhattans.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.citylab.com/life/2018/10/how-manhattan-became-rich-ghost-town/573025/\">20 percent of Manhattan’s street retail is vacant or about to become vacant</a>”</p>\n",
+			"date_published": "2018-10-22T08:58:51+08:00",
+			"url": "https://micro.oxus.net/2018/10/22/percent-of-manhattans.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/21/at-least-dead.html",
 	      	
 			"content_html": "<p><a href=\"https://www.straitstimes.com/asia/east-asia/at-least-3-dead-over-20-injured-after-train-derails-in-taiwans-north-eastern-yilan\">At least 17 dead, 100 injured after train derails in Taiwan’s north-eastern Yilan county</a></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><a href=\"https://patternsofmeaning.com/2018/05/17/steven-pinkers-ideas-about-progress-are-fatally-flawed-these-eight-graphs-show-why/\">Steven Pinker’s Ideas About Progress Are Fatally Flawed. These Eight Graphs Show Why</a></p>\n",
 			"date_published": "2018-10-16T08:12:10+08:00",
 			"url": "https://micro.oxus.net/2018/10/16/steven-pinkers-ideas.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/15/dna-testing-cannot.html",
-	      	
-			"content_html": "<p><a href=\"http://www.slate.com/articles/technology/future_tense/2016/06/dna_testing_cannot_determine_ancestry_including_elizabeth_warren_s.html?wpsrc=sh_all_mob_tw_top\">DNA testing cannot determine ancestry, including Elizabeth Warren’s</a></p>\n",
-			"date_published": "2018-10-15T21:24:53+08:00",
-			"url": "https://micro.oxus.net/2018/10/15/dna-testing-cannot.html"
 		}
 		
 	]
