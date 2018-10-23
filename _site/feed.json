@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/23/so-the-latest.html",
+	      	
+			"content_html": "<p>So, the latest Dr. Who took a page from Timeless and explored issues of racism in history. But they had to go to America to do it. I guess it would be too much to expect them to tackle the British slave trade, colonialism, or Windrush?</p>\n",
+			"date_published": "2018-10-23T16:03:02+08:00",
+			"url": "https://micro.oxus.net/2018/10/23/so-the-latest.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/22/percent-of-manhattans.html",
 	      	
 			"content_html": "<p>“<a href=\"https://www.citylab.com/life/2018/10/how-manhattan-became-rich-ghost-town/573025/\">20 percent of Manhattan’s street retail is vacant or about to become vacant</a>”</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><a href=\"https://www.counterpunch.org/2016/12/06/elizabeth-warrens-shameful-exploitation-of-standing-rock-victory/\">Elizabeth Warren’s Shameful Exploitation of Standing Rock Victory</a> (From 2016, but newly relevant.)</p>\n",
 			"date_published": "2018-10-16T14:23:40+08:00",
 			"url": "https://micro.oxus.net/2018/10/16/elizabeth-warrens-shameful.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/16/steven-pinkers-ideas.html",
-	      	
-			"content_html": "<p><a href=\"https://patternsofmeaning.com/2018/05/17/steven-pinkers-ideas-about-progress-are-fatally-flawed-these-eight-graphs-show-why/\">Steven Pinker’s Ideas About Progress Are Fatally Flawed. These Eight Graphs Show Why</a></p>\n",
-			"date_published": "2018-10-16T08:12:10+08:00",
-			"url": "https://micro.oxus.net/2018/10/16/steven-pinkers-ideas.html"
 		}
 		
 	]
