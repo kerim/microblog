@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/24/did-hillary-clinton.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theguardian.com/world/2016/aug/31/hillary-clinton-honduras-violence-manuel-zelaya-berta-caceres\">Did Hillary Clinton stand by as Honduras coup ushered in era of violence?</a> (From 2016, but newly relevant.)</p>\n",
+			"date_published": "2018-10-24T19:30:14+08:00",
+			"url": "https://micro.oxus.net/2018/10/24/did-hillary-clinton.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/24/black-liberation-activist.html",
+	      	
+			"content_html": "<p><a href=\"https://www.telesurtv.net/english/news/Black-Liberation-Activist-Freed-After-40-Years-in-Prison-20181023-0014.html\">Black Liberation Activist Freed After 40 Years in Prison</a></p>\n",
+			"date_published": "2018-10-24T13:13:22+08:00",
+			"url": "https://micro.oxus.net/2018/10/24/black-liberation-activist.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/24/administrations-attempt-to.html",
+	      	
+			"content_html": "<p><a href=\"https://www.americananthro.org/ParticipateAndAdvocate/AdvocacyDetail.aspx?ItemNumber=24301&amp;navItemNumber=659&amp;fbclid=IwAR0B0n4qJ9cyTN6EhzqrQY7aqfaGgvwtbtFMrjnt2mldxcGEg2YyugLno_c\">Administration’s Attempt to Rollback Transgender Protections Flies in the Face of a Century of Anthropological Evidence</a> - an apt and timely response from @AmericanAnthro</p>\n",
+			"date_published": "2018-10-24T10:53:08+08:00",
+			"url": "https://micro.oxus.net/2018/10/24/administrations-attempt-to.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/24/white-house-antisocialism.html",
 	      	
 			"content_html": "<p><a href=\"https://www.vox.com/policy-and-politics/2018/10/23/18014026/trump-socialism-single-payer?fbclid=IwAR13Z2d3tKAelkBmfui7GYM9bwryV3biWbHIU_eGhYPKboLqKxe2pNhrl6o\">White House anti-socialism report inadvertently makes a case for single-payer</a></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p><a href=\"http://www.openculture.com/2018/10/medieval-book-opens-six-different-ways-revealing-six-different-books-one.html?fbclid=IwAR3tusjcafK9DM3I6obczWQGwBtYIVg8m2rq4_UhHPY2Vd58OoheQ75N5h4\">A Medieval Book That Opens Six Different Ways, Revealing Six Different Books in One</a></p>\n",
 			"date_published": "2018-10-17T09:56:03+08:00",
 			"url": "https://micro.oxus.net/2018/10/17/a-medieval-book.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/17/allahabad-in-uttar.html",
-	      	
-			"content_html": "<p><a href=\"https://amp.theguardian.com/world/2018/oct/16/india-uttar-pradesh-allahabad-name-changed-prayagraj-muslim-hindu?fbclid=IwAR1gr_At1xQZkYCxmDaE_L-LsOyhmrmCl00WGLUQGLT3GLugF546M1VuW88\">Allahabad in Uttar Pradesh, headed by hardliner accused of violence against Muslims, to become Prayagraj</a></p>\n",
-			"date_published": "2018-10-17T09:32:47+08:00",
-			"url": "https://micro.oxus.net/2018/10/17/allahabad-in-uttar.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/17/elizabeth-warrens-native.html",
-	      	
-			"content_html": "<p><a href=\"https://www.currentaffairs.org/2018/10/elizabeth-warrens-native-ancestry-response-is-a-complete-disaster\">Elizabeth Warren’s Native Ancestry Response Is A Complete Disaster</a></p>\n",
-			"date_published": "2018-10-17T08:43:55+08:00",
-			"url": "https://micro.oxus.net/2018/10/17/elizabeth-warrens-native.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/17/elizabeth-warren-falls.html",
-	      	
-			"content_html": "<p><a href=\"https://www.newyorker.com/news/our-columnists/elizabeth-warren-falls-for-trumps-trap-and-promotes-insidious-ideas-about-race-and-dna\">Elizabeth Warren Falls for Trump’s Trap—and Promotes Insidious Ideas About Race and DNA</a></p>\n",
-			"date_published": "2018-10-17T08:41:31+08:00",
-			"url": "https://micro.oxus.net/2018/10/17/elizabeth-warren-falls.html"
 		}
 		
 	]
