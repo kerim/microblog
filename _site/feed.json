@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/24/white-house-antisocialism.html",
+	      	
+			"content_html": "<p><a href=\"https://www.vox.com/policy-and-politics/2018/10/23/18014026/trump-socialism-single-payer?fbclid=IwAR13Z2d3tKAelkBmfui7GYM9bwryV3biWbHIU_eGhYPKboLqKxe2pNhrl6o\">White House anti-socialism report inadvertently makes a case for single-payer</a></p>\n",
+			"date_published": "2018-10-24T08:35:42+08:00",
+			"url": "https://micro.oxus.net/2018/10/24/white-house-antisocialism.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/23/the-englishonly-nt.html",
+	      	
+			"content_html": "<p><a href=\"http://theconversation.com/the-english-only-nt-parliament-is-undermining-healthy-democracy-by-excluding-aboriginal-languages-105048\">The English-only NT parliament is undermining healthy democracy by excluding Aboriginal languages</a></p>\n",
+			"date_published": "2018-10-23T19:49:36+08:00",
+			"url": "https://micro.oxus.net/2018/10/23/the-englishonly-nt.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/23/so-the-latest.html",
 	      	
 			"content_html": "<p>So, the latest Dr. Who took a page from Timeless and explored issues of racism in history. But they had to go to America to do it. I guess it would be too much to expect them to tackle the British slave trade, colonialism, or Windrush?</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p><a href=\"https://www.newyorker.com/news/our-columnists/elizabeth-warren-falls-for-trumps-trap-and-promotes-insidious-ideas-about-race-and-dna\">Elizabeth Warren Falls for Trump’s Trap—and Promotes Insidious Ideas About Race and DNA</a></p>\n",
 			"date_published": "2018-10-17T08:41:31+08:00",
 			"url": "https://micro.oxus.net/2018/10/17/elizabeth-warren-falls.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/16/the-supreme-court.html",
-	      	
-			"content_html": "<p><a href=\"https://rewire.news/ablc/2018/10/11/supreme-court-native-americans-november/\">The Supreme Court Just Ensured That Thousands of Native Americans Won’t Be Able to Vote in November</a></p>\n",
-			"date_published": "2018-10-16T19:31:05+08:00",
-			"url": "https://micro.oxus.net/2018/10/16/the-supreme-court.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/16/elizabeth-warrens-shameful.html",
-	      	
-			"content_html": "<p><a href=\"https://www.counterpunch.org/2016/12/06/elizabeth-warrens-shameful-exploitation-of-standing-rock-victory/\">Elizabeth Warren’s Shameful Exploitation of Standing Rock Victory</a> (From 2016, but newly relevant.)</p>\n",
-			"date_published": "2018-10-16T14:23:40+08:00",
-			"url": "https://micro.oxus.net/2018/10/16/elizabeth-warrens-shameful.html"
 		}
 		
 	]
