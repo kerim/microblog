@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/25/uniqlo-exploited-us.html",
+	      	
+			"content_html": "<p><a href=\"https://www.scmp.com/news/asia/east-asia/article/2169836/uniqlo-exploited-us-now-it-ignores-us-indonesian-factory-workers\">Uniqlo exploited us, now it ignores us: Indonesian factory workers</a></p>\n",
+			"date_published": "2018-10-25T18:20:55+08:00",
+			"url": "https://micro.oxus.net/2018/10/25/uniqlo-exploited-us.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/25/indigenous-tayal-experiences.html",
+	      	
+			"content_html": "<p>“<a href=\"http://journals.sagepub.com/doi/10.1177/0263775818799751\">Indigenous Tayal experiences of dispossession in Taiwan reflect a familiar pattern of state-sanctioned property rights precluding recognition of Indigenous rights</a>” Important new paper!</p>\n",
+			"date_published": "2018-10-25T10:15:43+08:00",
+			"url": "https://micro.oxus.net/2018/10/25/indigenous-tayal-experiences.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/25/public-statement-on.html",
 	      	
 			"content_html": "<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd2_4o7c6gbLBlp6Jbb4Ijaht22jM6xJkTR_cI7lsBq9mhiQw/viewform?fbzx=-3947480513787696000\">Public Statement on the AAA’s “Repository for the Common Good”</a> (Please read and consider adding your name.) #dendum</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>[Opinion</td>\n      <td>Elizabeth Warren and the Folly of Genetic Ancestry Tests](https://www.nytimes.com/2018/10/17/opinion/elizabeth-warren-and-the-folly-of-genetic-ancestry-tests.html)</td>\n    </tr>\n  </tbody>\n</table>\n",
 			"date_published": "2018-10-18T12:38:50+08:00",
 			"url": "https://micro.oxus.net/2018/10/18/opinion-elizabeth-warren.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/18/seventy-years-of.html",
-	      	
-			"content_html": "<p><a href=\"http://www.jadaliyya.com/Details/34727\">Seventy Years of the New York Times Describing Saudi Royals as Reformers</a></p>\n",
-			"date_published": "2018-10-18T12:33:46+08:00",
-			"url": "https://micro.oxus.net/2018/10/18/seventy-years-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/18/breakfast-by-the.html",
-	      	
-			"content_html": "<p>Breakfast by the lake</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/d8c24e3906.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-10-18T09:34:04+08:00",
-			"url": "https://micro.oxus.net/2018/10/18/breakfast-by-the.html"
 		}
 		
 	]
