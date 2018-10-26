@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/26/sticking-out.html",
+	      	
+			"content_html": "<p>Sticking out</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/07330fb467.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-26T08:47:24+08:00",
+			"url": "https://micro.oxus.net/2018/10/26/sticking-out.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/25/pbs-docuseries-native.html",
+	      	
+			"content_html": "<p><a href=\"https://apnews.com/ce27d013ac2f4f1ebd988511da8091ed\">PBS docuseries ‘Native America’ recreates cultures pre-1492</a> (Anyone watching it? Any good?)</p>\n",
+			"date_published": "2018-10-25T19:19:11+08:00",
+			"url": "https://micro.oxus.net/2018/10/25/pbs-docuseries-native.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/25/uniqlo-exploited-us.html",
 	      	
 			"content_html": "<p><a href=\"https://www.scmp.com/news/asia/east-asia/article/2169836/uniqlo-exploited-us-now-it-ignores-us-indonesian-factory-workers\">Uniqlo exploited us, now it ignores us: Indonesian factory workers</a></p>\n",
@@ -28,6 +44,14 @@
 			"content_html": "<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd2_4o7c6gbLBlp6Jbb4Ijaht22jM6xJkTR_cI7lsBq9mhiQw/viewform?fbzx=-3947480513787696000\">Public Statement on the AAA’s “Repository for the Common Good”</a> (Please read and consider adding your name.) #dendum</p>\n",
 			"date_published": "2018-10-25T09:51:49+08:00",
 			"url": "https://micro.oxus.net/2018/10/25/public-statement-on.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/25/residents-of-kashgar.html",
+	      	
+			"content_html": "<p>Residents of Kashgar going to market. (Fall 1990)</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/17262c4dad.jpg\" width=\"600\" height=\"386\" /></p>\n",
+			"date_published": "2018-10-25T09:47:16+08:00",
+			"url": "https://micro.oxus.net/2018/10/25/residents-of-kashgar.html"
 		},
 		
 		{
@@ -180,30 +204,6 @@
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/17/world/asia/south-korea-yemeni-refugees.html?smprod=nytcore-ipad\">South Korea Denies Refugee Status to Hundreds of Fleeing Yemenis</a> (I guess it is too much to hope that Taiwan would step up and take in these refugees?)</p>\n",
 			"date_published": "2018-10-19T12:35:12+08:00",
 			"url": "https://micro.oxus.net/2018/10/19/south-korea-denies.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/18/watch-caroline-a.html",
-	      	
-			"content_html": "<p>Watch <a href=\"https://vimeo.com/295591903\">Caroline</a> a powerful 10 min short film…</p>\n",
-			"date_published": "2018-10-18T22:23:00+08:00",
-			"url": "https://micro.oxus.net/2018/10/18/watch-caroline-a.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/18/hautalk-the-tyranny.html",
-	      	
-			"content_html": "<p><a href=\"http://allegralaboratory.net/hautalk-the-tyranny-of-structurelessness-and-no-end-in-sight/\">#HAUTALK: the tyranny of structurelessness and no end in sight</a> #dendum</p>\n",
-			"date_published": "2018-10-18T21:21:19+08:00",
-			"url": "https://micro.oxus.net/2018/10/18/hautalk-the-tyranny.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/18/opinion-elizabeth-warren.html",
-	      	
-			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>[Opinion</td>\n      <td>Elizabeth Warren and the Folly of Genetic Ancestry Tests](https://www.nytimes.com/2018/10/17/opinion/elizabeth-warren-and-the-folly-of-genetic-ancestry-tests.html)</td>\n    </tr>\n  </tbody>\n</table>\n",
-			"date_published": "2018-10-18T12:38:50+08:00",
-			"url": "https://micro.oxus.net/2018/10/18/opinion-elizabeth-warren.html"
 		}
 		
 	]
