@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/28/taiwans-gay-pride.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/27/world/asia/taiwan-gay-pride-parade.html\">Taiwan’s Gay Pride Parade Draws Thousands, as Votes on Same-Sex Marriage Near</a> 🏳️‍🌈👬👭🇹🇼</p>\n",
+			"date_published": "2018-10-28T11:08:38+08:00",
+			"url": "https://micro.oxus.net/2018/10/28/taiwans-gay-pride.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/26/pinghe-mural.html",
 	      	
 			"content_html": "<p>Pinghe Mural</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/e6f70b177d.jpg\" width=\"600\" height=\"479\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>So, the latest Dr. Who took a page from Timeless and explored issues of racism in history. But they had to go to America to do it. I guess it would be too much to expect them to tackle the British slave trade, colonialism, or Windrush?</p>\n",
 			"date_published": "2018-10-23T16:03:02+08:00",
 			"url": "https://micro.oxus.net/2018/10/23/so-the-latest.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/22/percent-of-manhattans.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.citylab.com/life/2018/10/how-manhattan-became-rich-ghost-town/573025/\">20 percent of Manhattan’s street retail is vacant or about to become vacant</a>”</p>\n",
-			"date_published": "2018-10-22T08:58:51+08:00",
-			"url": "https://micro.oxus.net/2018/10/22/percent-of-manhattans.html"
 		}
 		
 	]
