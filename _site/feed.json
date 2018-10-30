@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/30/nordic-countries-have.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/27/opinion/are-the-danes-melancholy-are-the-swedes-sad.html\">Nordic countries have a lower GDP than the US because they choose to work less</a></p>\n",
+			"date_published": "2018-10-30T08:03:47+08:00",
+			"url": "https://micro.oxus.net/2018/10/30/nordic-countries-have.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/29/working-in-taiwan.html",
+	      	
+			"content_html": "<p><a href=\"http://www.winklerpartners.com/?p=9188\">Working in Taiwan as a creative professional part 1: the freelance artist work permit</a> (Useful FAQ for anyone thinking of applying.)</p>\n",
+			"date_published": "2018-10-29T19:18:07+08:00",
+			"url": "https://micro.oxus.net/2018/10/29/working-in-taiwan.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/29/fox-news-now.html",
+	      	
+			"content_html": "<p>Fox News now suggesting refugees are “<a href=\"https://crooksandliars.com/2018/10/it-time-boycott-all-fox-news-advertisers\">infested with diseases, like rabies and typhoid</a>”  😡😡😡</p>\n",
+			"date_published": "2018-10-29T19:01:42+08:00",
+			"url": "https://micro.oxus.net/2018/10/29/fox-news-now.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/29/brazils-ruling-elite.html",
 	      	
 			"content_html": "<p><a href=\"https://thenextrecession.wordpress.com/2018/10/29/brazils-tropical-trump/\">Brazil’s ruling elite face a difficult task in imposing control over its working class and cutting public spending and wages</a></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>It’s rich of @tim_cook to <a href=\"https://techcrunch.com/2018/10/24/apples-tim-cook-makes-blistering-attack-on-the-data-industrial-complex\">act like he’s a great defender of privacy</a> after Apple moved all Chinese users’ data to servers where they are almost certainly being spied on by their own government…</p>\n",
 			"date_published": "2018-10-26T13:05:20+08:00",
 			"url": "https://micro.oxus.net/2018/10/26/its-rich-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/26/on-the-redtagging.html",
-	      	
-			"content_html": "<p><a href=\"https://migranteinternational.org/2018/10/25/on-the-red-tagging-of-migrante-taiwan-members/\">On the red-tagging of Migrante Taiwan members</a></p>\n",
-			"date_published": "2018-10-26T12:49:51+08:00",
-			"url": "https://micro.oxus.net/2018/10/26/on-the-redtagging.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/26/was-keynes-partially.html",
-	      	
-			"content_html": "<p><a href=\"https://www.epw.in/journal/2018/42/special-articles/profit-inflation-keynes-and-\">“Was Keynes partially responsible for the death of three million civilians in undivided Bengal?”</a></p>\n",
-			"date_published": "2018-10-26T12:46:32+08:00",
-			"url": "https://micro.oxus.net/2018/10/26/was-keynes-partially.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/26/dispatcher-no-if.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.taiwannews.com.tw/en/news/3560538\">Dispatcher: No, if the ATP is disabled will it be good?</a>”</p>\n",
-			"date_published": "2018-10-26T12:39:01+08:00",
-			"url": "https://micro.oxus.net/2018/10/26/dispatcher-no-if.html"
 		}
 		
 	]
