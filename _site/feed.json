@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/10/30/be-careful-about.html",
+	      	
+			"content_html": "<p><a href=\"https://www.currentaffairs.org/2018/10/be-careful-about-relying-on-the-constitution\">Be Careful About Relying On The Constitution</a> (…it won’t necessarily protect us from Trump!)</p>\n",
+			"date_published": "2018-10-31T07:52:17+08:00",
+			"url": "https://micro.oxus.net/2018/10/31/be-careful-about.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/30/nordic-countries-have.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/27/opinion/are-the-danes-melancholy-are-the-swedes-sad.html\">Nordic countries have a lower GDP than the US because they choose to work less</a></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Take back Congress! <a href=\"https://daringfireball.net/linked/2018/10/25/donate-to-the-great-slate\">Donate to The Great Slate</a>!</p>\n",
 			"date_published": "2018-10-26T13:18:01+08:00",
 			"url": "https://micro.oxus.net/2018/10/26/take-back-congress.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/26/its-rich-of.html",
-	      	
-			"content_html": "<p>It’s rich of @tim_cook to <a href=\"https://techcrunch.com/2018/10/24/apples-tim-cook-makes-blistering-attack-on-the-data-industrial-complex\">act like he’s a great defender of privacy</a> after Apple moved all Chinese users’ data to servers where they are almost certainly being spied on by their own government…</p>\n",
-			"date_published": "2018-10-26T13:05:20+08:00",
-			"url": "https://micro.oxus.net/2018/10/26/its-rich-of.html"
 		}
 		
 	]
