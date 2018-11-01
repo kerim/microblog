@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/01/the-island-that.html",
+	      	
+			"content_html": "<p><a href=\"http://www.bbc.com/travel/story/20181031-the-island-that-never-stops-apologising?fbclid=IwAR1fe9kfL4WRTcIGrLcXIWwks3mjRH_5dkDoj2xZ53YLKVZc4ira5QxV2Jo\">The island that never stops apologising</a></p>\n",
+			"date_published": "2018-11-01T12:24:37+08:00",
+			"url": "https://micro.oxus.net/2018/11/01/the-island-that.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/31/the-last-source.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.theguardian.com/cities/2018/oct/31/a-chapter-closes-last-hong-kong-bookshop-selling-titles-banned-in-china-shuts\">the last source of literary contraband in the city</a>”</p>\n",
+			"date_published": "2018-10-31T12:50:20+08:00",
+			"url": "https://micro.oxus.net/2018/10/31/the-last-source.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/31/trump-says-no.html",
+	      	
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/world/2018/10/30/trump-says-no-other-country-has-birthright-citizenship-hes-wrong/?utm_term=.4b485d2a650b\">Trump says no other country has birthright citizenship. He’s wrong</a></p>\n",
+			"date_published": "2018-10-31T08:00:14+08:00",
+			"url": "https://micro.oxus.net/2018/10/31/trump-says-no.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/10/30/across-europe-nationalist.html",
+	      	
+			"content_html": "<p><a href=\"https://www.bbc.com/news/world-europe-36130006\">Across Europe, nationalist and far-right parties have made significant electoral gains</a></p>\n",
+			"date_published": "2018-10-31T07:58:51+08:00",
+			"url": "https://micro.oxus.net/2018/10/31/across-europe-nationalist.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/10/30/be-careful-about.html",
 	      	
 			"content_html": "<p><a href=\"https://www.currentaffairs.org/2018/10/be-careful-about-relying-on-the-constitution\">Be Careful About Relying On The Constitution</a> (…it won’t necessarily protect us from Trump!)</p>\n",
@@ -172,38 +204,6 @@
 			"content_html": "<p>Pinghe Mural</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/e6f70b177d.jpg\" width=\"600\" height=\"479\" /></p>\n",
 			"date_published": "2018-10-26T17:25:42+08:00",
 			"url": "https://micro.oxus.net/2018/10/26/pinghe-mural.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/26/proposed-changes-to.html",
-	      	
-			"content_html": "<p><a href=\"https://newbloommag.net/2018/10/24/religious-basic-act-changes/\">Proposed Changes To Religious Basic Act Would Put Religious Groups Above The Law</a></p>\n",
-			"date_published": "2018-10-26T14:20:53+08:00",
-			"url": "https://micro.oxus.net/2018/10/26/proposed-changes-to.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/26/chinas-government-has.html",
-	      	
-			"content_html": "<p><a href=\"http://www.chinafile.com/reporting-opinion/postcard/million-citizens-occupy-uighur-homes-xinjiang\">China’s Government Has Ordered a Million Citizens to Occupy Uighur Homes. Here’s What They Think They’re Doing.</a></p>\n",
-			"date_published": "2018-10-26T13:43:07+08:00",
-			"url": "https://micro.oxus.net/2018/10/26/chinas-government-has.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/26/the-identity-of.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/\">the identity of the gonad emerges from a contest between two opposing networks of gene activity</a>”</p>\n",
-			"date_published": "2018-10-26T13:25:07+08:00",
-			"url": "https://micro.oxus.net/2018/10/26/the-identity-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/26/take-back-congress.html",
-	      	
-			"content_html": "<p>Take back Congress! <a href=\"https://daringfireball.net/linked/2018/10/25/donate-to-the-great-slate\">Donate to The Great Slate</a>!</p>\n",
-			"date_published": "2018-10-26T13:18:01+08:00",
-			"url": "https://micro.oxus.net/2018/10/26/take-back-congress.html"
 		}
 		
 	]
