@@ -7,9 +7,25 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/03/have-we-really.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theatlantic.com/science/archive/2018/10/have-we-really-killed-60-percent-animals-1970/574549/\">Have We Really Killed 60 Percent of Animals Since 1970?</a></p>\n",
+			"date_published": "2018-11-04T07:55:51+08:00",
+			"url": "https://micro.oxus.net/2018/11/04/have-we-really.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/02/invoking-tribalism-to.html",
+	      	
+			"content_html": "<p>Invoking “tribalism” to describe contemporary populism “<a href=\"https://theweek.com/articles/802580/tribalism-not-problem\">is garbage history and garbage analysis. Tribes do not behave as moronically as described</a>” (good, but this piece needs more anthropology…)</p>\n",
+			"date_published": "2018-11-02T11:32:40+08:00",
+			"url": "https://micro.oxus.net/2018/11/02/invoking-tribalism-to.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/02/intense-contact-across.html",
 	      	
-			"content_html": "<p>“intense contact across the Taiwan Strait in the early period of Austronesian maritime activity, allowed different elements to make up Daic” <a href=\"https://s3.amazonaws.com/academia.edu.documents/57574196/Daic_and_Austronesian_are_related_2018.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&amp;Expires=1541116223&amp;Signature=Bypf8EBLv3PzTnVY4wQdL%2B%2FSTy8%3D&amp;response-content-disposition=inline%3B%20filename%3DTai-Kadai_and_Austronesian_are_related_a.pdf\">PDF</a></p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/d72cce2661.jpg\" width=\"600\" height=\"318\" /></p>\n",
+			"content_html": "<p>“intense contact across the Taiwan Strait in the early period of Austronesian maritime activity, allowed different elements to make up Daic” <a href=\"https://www.academia.edu/37593287/Tai-Kadai_and_Austronesian_are_related_at_multiple_levels_and_their_archaeological_interpretation\">PDF</a></p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/d72cce2661.jpg\" width=\"600\" height=\"318\" /></p>\n",
 			"date_published": "2018-11-02T08:24:38+08:00",
 			"url": "https://micro.oxus.net/2018/11/02/intense-contact-across.html"
 		},
@@ -188,22 +204,6 @@
 			"content_html": "<p><a href=\"https://www.eff.org/deeplinks/2018/10/eus-link-tax-will-kill-open-access-and-creative-commons-news\">The EU’s Link Tax Will Kill Open Access and Creative Commons News</a></p>\n",
 			"date_published": "2018-10-29T07:37:48+08:00",
 			"url": "https://micro.oxus.net/2018/10/29/the-eus-link.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/28/finally-i-never.html",
-	      	
-			"content_html": "<p>Finally! I never thought this day would come … “<a href=\"http://www.taipeitimes.com/News/front/archives/2018/10/29/2003703235\">ARC number format to be in line with national IDs</a>” (Although it means having to update every ID and account, it’s worth it in the long run…)</p>\n",
-			"date_published": "2018-10-29T07:02:55+08:00",
-			"url": "https://micro.oxus.net/2018/10/29/finally-i-never.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/28/pittsburgh-shooting-is.html",
-	      	
-			"content_html": "<p><a href=\"https://forward.com/opinion/412821/pittsburgh-shooting-is-a-reminder-jews-and-muslims-are-in-this-together/\">Pittsburgh Shooting Is A Reminder: Jews And Muslims Are In This Together</a></p>\n",
-			"date_published": "2018-10-28T18:01:37+08:00",
-			"url": "https://micro.oxus.net/2018/10/28/pittsburgh-shooting-is.html"
 		}
 		
 	]
