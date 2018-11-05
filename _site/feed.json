@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/05/marriott-official-wont.html",
+	      	
+			"content_html": "<p><a href=\"https://sanfrancisco.cbslocal.com/2018/11/02/oakland-marriott-workers-reach-tentative-agreement-sf-strike-goes-on/\">Marriott official won’t return to the bargaining table till November 12th</a> which makes a settlement before #AmAnth2018 very unlikely! #dendum</p>\n",
+			"date_published": "2018-11-05T08:16:37+08:00",
+			"url": "https://micro.oxus.net/2018/11/05/marriott-official-wont.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/04/things-i-think.html",
+	      	
+			"content_html": "<p>Things I think I am good at, but actually suck at #382: booking travel arrangements 😭😭😭</p>\n",
+			"date_published": "2018-11-04T12:40:52+08:00",
+			"url": "https://micro.oxus.net/2018/11/04/things-i-think.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/04/tribute-to-jane.html",
+	      	
+			"content_html": "<p><a href=\"https://www.ipetitions.com/petition/tribute-to-jane-h-hill?fbclid=IwAR18bKh_wt4Zhr1uvqfN1BgfHBJcQ4Myqs9Qs1so-V_LvdVEOuSa9CdNwso\">Tribute to Jane H. Hill</a> (A petition site is being used as a way to leave rememberences that will be shared with the family.) #dendum</p>\n",
+			"date_published": "2018-11-04T11:03:46+08:00",
+			"url": "https://micro.oxus.net/2018/11/04/tribute-to-jane.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/03/have-we-really.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theatlantic.com/science/archive/2018/10/have-we-really-killed-60-percent-animals-1970/574549/\">Have We Really Killed 60 Percent of Animals Since 1970?</a></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>How many of you actually read academic book reviews? I find it rarely worth the effort of getting around a paywall for pieces that invariably do little more than summarize the table of contents. Better to go directly to the publisher’s website for more info and a sample excerpt…</p>\n",
 			"date_published": "2018-10-29T09:30:02+08:00",
 			"url": "https://micro.oxus.net/2018/10/29/how-many-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/29/a-new-authoritarian.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theguardian.com/commentisfree/ng-interactive/2018/sep/13/bernie-sanders-international-progressive-front\">A new authoritarian axis demands an international progressive front</a></p>\n",
-			"date_published": "2018-10-29T09:09:18+08:00",
-			"url": "https://micro.oxus.net/2018/10/29/a-new-authoritarian.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/29/what-happens-when.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theatlantic.com/education/archive/2018/10/when-college-cant-use-race-admissions/574126/\">What Happens When Colleges Can’t Use Affirmative Action</a></p>\n",
-			"date_published": "2018-10-29T09:05:45+08:00",
-			"url": "https://micro.oxus.net/2018/10/29/what-happens-when.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/10/28/the-eus-link.html",
-	      	
-			"content_html": "<p><a href=\"https://www.eff.org/deeplinks/2018/10/eus-link-tax-will-kill-open-access-and-creative-commons-news\">The EU’s Link Tax Will Kill Open Access and Creative Commons News</a></p>\n",
-			"date_published": "2018-10-29T07:37:48+08:00",
-			"url": "https://micro.oxus.net/2018/10/29/the-eus-link.html"
 		}
 		
 	]
