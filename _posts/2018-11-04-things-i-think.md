@@ -1,0 +1,8 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2018-11-04 12:40:52 +0800
+guid: http://kerim.micro.blog/2018/11/04/things-i-think.html
+---
+Things I think I am good at, but actually suck at #382: booking travel arrangements 😭😭😭
