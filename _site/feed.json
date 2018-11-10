@@ -7,10 +7,26 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/10/colorado-abolishes-prison.html",
+	      	
+			"content_html": "<p><a href=\"http://fortune.com/2018/11/07/colorado-abolishes-prison-slavery-servitude/\">Colorado Abolishes Prison Slavery in Huge Win for Prisoners Rights</a></p>\n",
+			"date_published": "2018-11-10T09:14:19+08:00",
+			"url": "https://micro.oxus.net/2018/11/10/colorado-abolishes-prison.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/09/serial-season-three.html",
+	      	
+			"content_html": "<p><a href=\"https://serialpodcast.org/\">Serial Season Three</a> is both important and infuriating.</p>\n",
+			"date_published": "2018-11-09T17:15:45+08:00",
+			"url": "https://micro.oxus.net/2018/11/09/serial-season-three.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/09/recent-hiring-trends.html",
 	      	
-			"content_html": "<p><a href=\"http://keywords.blot.im/archives/2018/11/09/recent-hiring-trends-in-anthropology\">Recent hiring trends in anthropology</a> (Highlights from an important new paper.)</p>\n",
-			"date_published": "2018-11-09T09:53:32+08:00",
+			"content_html": "<p><a href=\"https://keywords.oxus.net/archives/2018/11/09/recent-hiring-trends-in-anthropology\">Recent hiring trends in anthropology</a> (Highlights from an important new study on the US anthropology job market.)</p>\n",
+			"date_published": "2018-11-09T10:02:57+08:00",
 			"url": "https://micro.oxus.net/2018/11/09/recent-hiring-trends.html"
 		},
 		
@@ -188,22 +204,6 @@
 			"content_html": "<p>“intense contact across the Taiwan Strait in the early period of Austronesian maritime activity, allowed different elements to make up Daic” <a href=\"https://www.academia.edu/37593287/Tai-Kadai_and_Austronesian_are_related_at_multiple_levels_and_their_archaeological_interpretation\">PDF</a></p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/d72cce2661.jpg\" width=\"600\" height=\"318\" /></p>\n",
 			"date_published": "2018-11-02T08:24:38+08:00",
 			"url": "https://micro.oxus.net/2018/11/02/intense-contact-across.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/01/the-untold-story.html",
-	      	
-			"content_html": "<p><a href=\"http://www.pbs.org/independentlens/films/dawnland/\">the untold story of Indigenous child removal in the US</a></p>\n",
-			"date_published": "2018-11-01T21:38:14+08:00",
-			"url": "https://micro.oxus.net/2018/11/01/the-untold-story.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/01/free-rahile-dawut.html",
-	      	
-			"content_html": "<p><a href=\"http://salsa4.salsalabs.com/o/50943/p/dia/action4/common/public/?action_KEY=25616\">Free Rahile Dawut, a Renowned Uyghur Scholar Detained in China</a></p>\n",
-			"date_published": "2018-11-01T18:28:10+08:00",
-			"url": "https://micro.oxus.net/2018/11/01/free-rahile-dawut.html"
 		}
 		
 	]
