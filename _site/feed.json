@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/12/striking-marriott-workers.html",
+	      	
+			"content_html": "<p><a href=\"https://sanfrancisco.cbslocal.com/2018/11/10/striking-marriott-workers-san-jose-ratify-contract/\">Striking Marriott Workers in San Jose Agree to Contract</a> #AmAnth2018 #dendum</p>\n",
+			"date_published": "2018-11-12T11:03:58+08:00",
+			"url": "https://micro.oxus.net/2018/11/12/striking-marriott-workers.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/11/how-colonial-violence.html",
+	      	
+			"content_html": "<p><a href=\"http://www.theguardian.com/news/2017/nov/10/how-colonial-violence-came-home-the-ugly-truth-of-the-first-world-war\">How colonial violence came home: the ugly truth of the first world war</a></p>\n",
+			"date_published": "2018-11-12T00:14:00+08:00",
+			"url": "https://micro.oxus.net/2018/11/12/how-colonial-violence.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/11/if-the-united.html",
 	      	
 			"content_html": "<p><a href=\"http://www.aei.org/publication/if-the-united-states-had-open-borders-how-many-immigrants-would-come/\">If the United States had open borders, how many immigrants would come?</a></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Thinking of crossing the picket line to keep your Marriott reservation at  #AmAnth2018 in San Jose? Read <a href=\"https://www.thenation.com/article/marriott-strike-loans-inequality/\">Amy Traub</a> on the similarities between Marriott’s predatory lending and sharecropping! #dendum</p>\n",
 			"date_published": "2018-11-05T08:20:06+08:00",
 			"url": "https://micro.oxus.net/2018/11/05/thinking-of-crossing.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/05/marriott-official-wont.html",
-	      	
-			"content_html": "<p><a href=\"https://sanfrancisco.cbslocal.com/2018/11/02/oakland-marriott-workers-reach-tentative-agreement-sf-strike-goes-on/\">Marriott official won’t return to the bargaining table till November 12th</a> which makes a settlement before #AmAnth2018 very unlikely! #dendum</p>\n",
-			"date_published": "2018-11-05T08:16:37+08:00",
-			"url": "https://micro.oxus.net/2018/11/05/marriott-official-wont.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/04/things-i-think.html",
-	      	
-			"content_html": "<p>Things I think I am good at, but actually suck at #382: booking travel arrangements 😭😭😭</p>\n",
-			"date_published": "2018-11-04T12:40:52+08:00",
-			"url": "https://micro.oxus.net/2018/11/04/things-i-think.html"
 		}
 		
 	]
