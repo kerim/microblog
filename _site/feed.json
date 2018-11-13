@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/13/is-gender-written.html",
+	      	
+			"content_html": "<p><a href=\"https://www.sapiens.org/body/intersex-biological-sex/\">Is Gender Written Into Your Skeleton?</a></p>\n",
+			"date_published": "2018-11-13T10:45:31+08:00",
+			"url": "https://micro.oxus.net/2018/11/13/is-gender-written.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/12/these-guys-have.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.technologyreview.com/s/612375/using-wi-fi-to-see-behind-closed-doors-is-easier-than-anyone-thought/\">These guys have found a way to see through walls using ambient Wi-Fi signals and an ordinary smartphone.</a>”</p>\n",
+			"date_published": "2018-11-12T17:16:42+08:00",
+			"url": "https://micro.oxus.net/2018/11/12/these-guys-have.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/12/young-activists-go.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/11/11/world/asia/china-student-activists.html\">Young Activists Go Missing in China, Raising Fears of Crackdown</a></p>\n",
+			"date_published": "2018-11-12T17:10:55+08:00",
+			"url": "https://micro.oxus.net/2018/11/12/young-activists-go.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/12/striking-marriott-workers.html",
 	      	
 			"content_html": "<p><a href=\"https://sanfrancisco.cbslocal.com/2018/11/10/striking-marriott-workers-san-jose-ratify-contract/\">Striking Marriott Workers in San Jose Agree to Contract</a> #AmAnth2018 #dendum</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/11/02/nyregion/the-man-who-turns-back-new-york-citys-clocks-hand-by-hand.html\">The Man Who Turns Back New York City’s Clocks, Hand by Hand</a></p>\n",
 			"date_published": "2018-11-05T14:38:19+08:00",
 			"url": "https://micro.oxus.net/2018/11/05/the-man-who.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/05/the-effects-of.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.vox.com/the-goods/2018/11/2/18057450/china-social-credit-score-spend-frivolously-video-games\">The effects of the US credit system aren’t so far from that of China’s controversial system</a>”</p>\n",
-			"date_published": "2018-11-05T14:34:52+08:00",
-			"url": "https://micro.oxus.net/2018/11/05/the-effects-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/05/taiwan-continues-support.html",
-	      	
-			"content_html": "<p><a href=\"https://newbloommag.net/2018/11/04/bolsonaro-support/\">Taiwan Continues Support Of Right-Wing Authoritarians In The Case Of Bolsonaro</a></p>\n",
-			"date_published": "2018-11-05T14:32:20+08:00",
-			"url": "https://micro.oxus.net/2018/11/05/taiwan-continues-support.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/05/thinking-of-crossing.html",
-	      	
-			"content_html": "<p>Thinking of crossing the picket line to keep your Marriott reservation at  #AmAnth2018 in San Jose? Read <a href=\"https://www.thenation.com/article/marriott-strike-loans-inequality/\">Amy Traub</a> on the similarities between Marriott’s predatory lending and sharecropping! #dendum</p>\n",
-			"date_published": "2018-11-05T08:20:06+08:00",
-			"url": "https://micro.oxus.net/2018/11/05/thinking-of-crossing.html"
 		}
 		
 	]
