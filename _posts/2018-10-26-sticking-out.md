@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-26 08:47:24 +0800
+date: 2018-10-25 16:47:24 -0800
 guid: http://kerim.micro.blog/2018/10/26/sticking-out.html
 ---
 Sticking out
