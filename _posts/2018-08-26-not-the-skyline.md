@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-26 09:56:28 +0800
+date: 2018-08-25 17:56:28 -0800
 guid: http://kerim.micro.blog/2018/08/26/not-the-skyline.html
 ---
 Not the skyline I remember…
