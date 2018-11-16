@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-26 17:25:42 +0800
+date: 2018-10-26 01:25:42 -0800
 guid: http://kerim.micro.blog/2018/10/26/pinghe-mural.html
 ---
 Pinghe Mural
