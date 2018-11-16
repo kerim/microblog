@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-01 09:21:47 +0800
+date: 2018-09-30 17:21:47 -0800
 guid: http://kerim.micro.blog/2018/10/01/watching-together.html
 ---
 Watching together
