@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-15 07:30:21 +0800
+date: 2018-08-14 15:30:21 -0800
 guid: http://kerim.micro.blog/2018/08/14/thorium-uranium.html
 ---
 Thorium 👍 Uranium 👎
