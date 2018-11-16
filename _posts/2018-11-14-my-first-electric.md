@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-11-15 00:16:54 +0800
+date: 2018-11-14 08:16:54 -0800
 guid: http://kerim.micro.blog/2018/11/14/my-first-electric.html
 ---
 My first electric scooter ride in the brisk morning air woke me up better than caffeine!
