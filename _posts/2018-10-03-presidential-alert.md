@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-04 07:47:00 +0800
+date: 2018-10-03 15:47:00 -0800
 guid: http://kerim.micro.blog/2018/10/03/presidential-alert.html
 ---
 Presidential Alert
