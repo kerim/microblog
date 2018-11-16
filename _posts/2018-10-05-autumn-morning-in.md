@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-05 18:45:57 +0800
+date: 2018-10-05 02:45:57 -0800
 guid: http://kerim.micro.blog/2018/10/05/autumn-morning-in.html
 ---
 Autumn morning in Hualien
