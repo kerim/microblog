@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/17/too-hard-to.html",
+	      	
+			"content_html": "<p>“<a href=\"http://languagelog.ldc.upenn.edu/nll/?p=39811\">Too hard to translate soup</a>”</p>\n",
+			"date_published": "2018-11-17T06:10:34-08:00",
+			"url": "https://micro.oxus.net/2018/11/17/too-hard-to.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/16/susan-philips-for.html",
 	      	
 			"content_html": "<p>Susan Philips: “For Jane Hill, no language was ever alone.” #amanth2018</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>“<a href=\"https://www.nytimes.com/2018/11/07/us/elections-wisconsin-governor-evers-walker.html\">Tony Evers Wins Wisconsin Governor’s Race, Beating Scott Walker</a>” (Dems gained 7 governorships, but this one is especially sweet!)</p>\n",
 			"date_published": "2018-11-07T03:12:06-08:00",
 			"url": "https://micro.oxus.net/2018/11/07/tony-evers-wins.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/07/florida-just-restored.html",
-	      	
-			"content_html": "<p><a href=\"https://www.businessinsider.com/felony-disenfranchisement-states-florida-amendment-4-voting-rights-2018-11\">Florida just restored voting rights to 1.5 million people with felony convictions</a></p>\n",
-			"date_published": "2018-11-06T23:21:43-08:00",
-			"url": "https://micro.oxus.net/2018/11/06/florida-just-restored.html"
 		}
 		
 	]
