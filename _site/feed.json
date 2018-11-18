@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/18/the-society-of.html",
+	      	
+			"content_html": "<p>The Society of Linguistic Anthropology ‪@soclinganth‬ is the fourth largest AAA ‪@AmericanAnthro‬ section, by number of members, out of 42 sections! #AmAnth2018</p>\n",
+			"date_published": "2018-11-17T20:08:40-08:00",
+			"url": "https://micro.oxus.net/2018/11/17/the-society-of.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/17/154128.html",
+	      	
+			"content_html": "<p><a href=\"https://collive.com/show_news.rtx?id=53068&amp;alias=a-black-man-cant-have-a-torah&amp;fbclid=IwAR1qIkjyNeg_Yy0MQLq4-itEkJMvi0jG7hU0sOVp7zwCUXaan6dwusUuBPw\">A Black Man Can’t Have a Torah?</a></p>\n",
+			"date_published": "2018-11-17T07:41:28-08:00",
+			"url": "https://micro.oxus.net/2018/11/17/154128.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/17/too-hard-to.html",
 	      	
 			"content_html": "<p>“<a href=\"http://languagelog.ldc.upenn.edu/nll/?p=39811\">Too hard to translate soup</a>”</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Our #AmAnth2018 panel, “Indexing Indigeneity in Taiwan: Resistance and Adaptation in Taiwanese Visual Culture” (4-0420) 11/16/2018 (10:15 AM - 12:00 PM). With Skaya Siku,  Futuru Tsai, Tzu Tung Lee, Eliana Ritts, Darryl Sterk, and  Marc Moskowitz discussing.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/0053d3eec8.jpg\" width=\"600\" height=\"510\" /></p>\n",
 			"date_published": "2018-11-07T18:53:20-08:00",
 			"url": "https://micro.oxus.net/2018/11/07/our-amanth-panel.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/08/dead-republican-brothel.html",
-	      	
-			"content_html": "<p><a href=\"https://www.sfchronicle.com/news/article/Dead-Republican-brothel-owner-Dennis-Hof-wins-13370219.php\">Dead Republican brothel owner Dennis Hof wins election for Nevada legislative seat</a></p>\n",
-			"date_published": "2018-11-07T18:20:15-08:00",
-			"url": "https://micro.oxus.net/2018/11/07/dead-republican-brothel.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/07/tony-evers-wins.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.nytimes.com/2018/11/07/us/elections-wisconsin-governor-evers-walker.html\">Tony Evers Wins Wisconsin Governor’s Race, Beating Scott Walker</a>” (Dems gained 7 governorships, but this one is especially sweet!)</p>\n",
-			"date_published": "2018-11-07T03:12:06-08:00",
-			"url": "https://micro.oxus.net/2018/11/07/tony-evers-wins.html"
 		}
 		
 	]
