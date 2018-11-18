@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/18/i-could-never.html",
+	      	
+			"content_html": "<p>I could never understand why airlines discourage you from checking luggage. Turns out <a href=\"https://www.npr.org/2015/01/21/378905601/tired-of-paying-for-checked-baggage-youre-actually-getting-a-good-deal\">that extra space is used for paid cargo</a>.</p>\n",
+			"date_published": "2018-11-18T14:30:01-08:00",
+			"url": "https://micro.oxus.net/2018/11/18/i-could-never.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/18/while-meetings-like.html",
+	      	
+			"content_html": "<p>While meetings like #amanth2018 can be overwhelming, you are sure to meet lots of amazing young scholars who are, at great personal cost, and with little hope of landing a TT job, nonetheless doing amazing, relevant, scholarship. Depressing, yes, but also inspiring! 加油！</p>\n",
+			"date_published": "2018-11-18T06:58:03-08:00",
+			"url": "https://micro.oxus.net/2018/11/18/while-meetings-like.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/18/will-an-ambitious.html",
+	      	
+			"content_html": "<p><a href=\"http://theconversation.com/will-an-ambitious-chinese-built-rail-line-through-the-himalayas-lead-to-a-debt-trap-for-nepal-100377\">Will an ambitious Chinese-built rail line through the Himalayas lead to a debt trap for Nepal?</a></p>\n",
+			"date_published": "2018-11-18T05:28:12-08:00",
+			"url": "https://micro.oxus.net/2018/11/18/will-an-ambitious.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/18/falling-population-squeezes.html",
 	      	
 			"content_html": "<p><a href=\"https://topics.amcham.com.tw/2018/11/falling-population-squeezes-taiwans-universities/\">Falling Population Squeezes Taiwan’s Universities</a></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>‘<a href=\"http://nymag.com/intelligencer/2018/11/the-2018-midterms-did-not-vindicate-your-policy-preferences.html\">the Democratic Party’s “centrist” candidates were far more liberal in 2018 than they’ve been in past cycles</a>’</p>\n",
 			"date_published": "2018-11-09T19:56:43-08:00",
 			"url": "https://micro.oxus.net/2018/11/09/the-democratic-partys.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/10/colorado-abolishes-prison.html",
-	      	
-			"content_html": "<p><a href=\"http://fortune.com/2018/11/07/colorado-abolishes-prison-slavery-servitude/\">Colorado Abolishes Prison Slavery in Huge Win for Prisoners Rights</a></p>\n",
-			"date_published": "2018-11-09T17:14:19-08:00",
-			"url": "https://micro.oxus.net/2018/11/09/colorado-abolishes-prison.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/09/serial-season-three.html",
-	      	
-			"content_html": "<p><a href=\"https://serialpodcast.org/\">Serial Season Three</a> is both important and infuriating.</p>\n",
-			"date_published": "2018-11-09T01:15:45-08:00",
-			"url": "https://micro.oxus.net/2018/11/09/serial-season-three.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/09/recent-hiring-trends.html",
-	      	
-			"content_html": "<p><a href=\"https://keywords.oxus.net/archives/2018/11/09/recent-hiring-trends-in-anthropology\">Recent hiring trends in anthropology</a> (Highlights from an important new study on the US anthropology job market.)</p>\n",
-			"date_published": "2018-11-08T18:02:57-08:00",
-			"url": "https://micro.oxus.net/2018/11/08/recent-hiring-trends.html"
 		}
 		
 	]
