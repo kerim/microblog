@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/91496c9d00.jpg
 date: 2018-02-05 17:50:06 -0800
 guid: http://kerim.micro.blog/2018/02/06/president-donald-trumpcommunicates.html
 ---
