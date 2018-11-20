@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-07 14:49:47 -0800
 guid: http://kerim.micro.blog/2018/10/07/reddit-user-offers.html
 ---
