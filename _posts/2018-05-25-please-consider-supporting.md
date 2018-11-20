@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-24 17:49:17 -0800
 guid: http://kerim.micro.blog/2018/05/25/please-consider-supporting.html
 ---
