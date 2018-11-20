@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-06 20:48:17 -0800
 guid: http://kerim.micro.blog/2018/09/07/police-brutality-against.html
 ---
