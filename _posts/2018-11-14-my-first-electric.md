@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://micro.oxus.net/uploads/2018/0e88ab5698.jpg
 date: 2018-11-14 08:16:54 -0800
 guid: http://kerim.micro.blog/2018/11/14/my-first-electric.html
 ---
