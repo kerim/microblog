@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-11 16:42:38 -0800
 guid: http://kerim.micro.blog/2018/08/12/i-only-ever.html
 ---
