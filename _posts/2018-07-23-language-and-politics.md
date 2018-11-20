@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-22 19:49:32 -0800
 guid: http://kerim.micro.blog/2018/07/23/language-and-politics.html
 ---
