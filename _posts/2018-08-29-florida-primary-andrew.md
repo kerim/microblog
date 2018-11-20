@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-28 19:18:42 -0800
 guid: http://kerim.micro.blog/2018/08/29/florida-primary-andrew.html
 ---
