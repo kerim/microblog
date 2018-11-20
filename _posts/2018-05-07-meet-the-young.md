@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-07 13:36:14 -0800
 guid: http://kerim.micro.blog/2018/05/07/meet-the-young.html
 ---
