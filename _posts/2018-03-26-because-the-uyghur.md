@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-26 05:45:18 -0800
 guid: http://kerim.micro.blog/2018/03/26/because-the-uyghur.html
 ---
