@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-07 19:57:38 -0800
 guid: http://kerim.micro.blog/2018/05/08/how-american-births.html
 ---
