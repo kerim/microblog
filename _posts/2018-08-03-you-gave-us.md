@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-02 18:19:45 -0800
 guid: http://kerim.micro.blog/2018/08/03/you-gave-us.html
 ---
