@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-26 20:31:37 -0800
 guid: http://kerim.micro.blog/2018/09/27/the-turnout-gap.html
 ---
