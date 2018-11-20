@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-10 18:11:57 -0800
 guid: http://kerim.micro.blog/2018/09/11/nj-transit-train.html
 ---
