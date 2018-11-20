@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-27 05:52:26 -0800
 guid: http://kerim.micro.blog/2018/05/27/was-slavery-a.html
 ---
