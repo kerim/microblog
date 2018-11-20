@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-29 02:30:31 -0800
 guid: http://kerim.micro.blog/2018/09/29/ayushman-bharat-trivialises.html
 ---
