@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-22 14:27:12 -0800
 guid: http://kerim.micro.blog/2018/09/22/academic-precarity-and.html
 ---
