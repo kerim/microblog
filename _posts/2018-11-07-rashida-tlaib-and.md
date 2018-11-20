@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-06 23:20:41 -0800
 guid: http://kerim.micro.blog/2018/11/07/rashida-tlaib-and.html
 ---
