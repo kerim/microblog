@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-16 21:58:07 -0800
 guid: http://kerim.micro.blog/2018/03/17/japans-prisons-are.html
 ---
