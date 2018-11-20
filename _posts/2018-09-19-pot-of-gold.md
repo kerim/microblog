@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/c0ea0c65ce.jpg
 date: 2018-09-18 16:48:48 -0800
 guid: http://kerim.micro.blog/2018/09/19/pot-of-gold.html
 ---
