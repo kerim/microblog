@@ -3,6 +3,7 @@ layout: post
 title: "My favorite new iOS feature: Bedtime Mode"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-05 21:27:50 -0800
 guid: http://kerim.micro.blog/2018/06/06/my-favorite-new.html
 ---
