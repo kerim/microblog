@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-09 19:15:54 -0800
 guid: http://kerim.micro.blog/2018/09/10/blotim-looks-like.html
 ---
