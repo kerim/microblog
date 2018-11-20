@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/c15b699fd4.jpg
 date: 2018-02-24 06:34:52 -0800
 guid: http://kerim.micro.blog/2018/02/24/i-really-have.html
 ---
