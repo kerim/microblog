@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-30 02:17:52 -0800
 guid: http://kerim.micro.blog/2018/08/30/india-replaced-its.html
 ---
