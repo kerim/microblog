@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-31 20:28:36 -0800
 guid: http://kerim.micro.blog/2018/09/01/most-dems-are.html
 ---
