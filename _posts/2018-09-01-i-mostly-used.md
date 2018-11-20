@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/6e629b253e.jpg
 date: 2018-08-31 19:11:58 -0800
 guid: http://kerim.micro.blog/2018/09/01/i-mostly-used.html
 ---
