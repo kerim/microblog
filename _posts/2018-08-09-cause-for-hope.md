@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/fc7c5a7780.jpg
 date: 2018-08-08 17:50:14 -0800
 guid: http://kerim.micro.blog/2018/08/09/cause-for-hope.html
 ---
