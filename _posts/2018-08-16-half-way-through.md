@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-16 13:08:49 -0800
 guid: http://kerim.micro.blog/2018/08/16/half-way-through.html
 ---
