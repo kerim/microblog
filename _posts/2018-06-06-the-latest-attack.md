@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-05 20:51:05 -0800
 guid: http://kerim.micro.blog/2018/06/06/the-latest-attack.html
 ---
