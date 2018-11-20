@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-02 19:29:23 -0800
 guid: http://kerim.micro.blog/2018/08/03/this-narrative-about.html
 ---
