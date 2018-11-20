@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-01 19:54:35 -0800
 guid: http://kerim.micro.blog/2018/03/02/the-students-of.html
 ---
