@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/ef63dd479b.jpg
 date: 2018-09-13 02:44:36 -0800
 guid: http://kerim.micro.blog/2018/09/13/this-place-seems.html
 ---
