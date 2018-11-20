@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-28 16:03:19 -0800
 guid: http://kerim.micro.blog/2018/09/29/does-the-facebook.html
 ---
