@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-09 07:23:53 -0800
 guid: http://kerim.micro.blog/2018/08/09/how-well-do.html
 ---
