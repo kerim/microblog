@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-23 18:22:41 -0800
 guid: http://kerim.micro.blog/2018/07/24/andrew-cuomo-had.html
 ---
