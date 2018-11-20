@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-03 17:05:38 -0800
 guid: http://kerim.micro.blog/2018/03/04/the-story-we.html
 ---
