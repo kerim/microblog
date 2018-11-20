@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-21 16:58:51 -0800
 guid: http://kerim.micro.blog/2018/10/22/percent-of-manhattans.html
 ---
