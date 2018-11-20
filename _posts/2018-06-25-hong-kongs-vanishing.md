@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-24 19:39:28 -0800
 guid: http://kerim.micro.blog/2018/06/25/hong-kongs-vanishing.html
 ---
