@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-06 21:18:39 -0800
 guid: http://kerim.micro.blog/2018/09/07/why-young-men.html
 ---
