@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-29 02:07:31 -0800
 guid: http://kerim.micro.blog/2018/03/29/a-detective-is.html
 ---
