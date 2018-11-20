@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-13 20:45:02 -0800
 guid: http://kerim.micro.blog/2018/09/14/ways-to-get.html
 ---
