@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-11 17:46:59 -0800
 guid: http://kerim.micro.blog/2018/05/12/the-disavowal-of.html
 ---
