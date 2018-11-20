@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-26 21:13:14 -0800
 guid: http://kerim.micro.blog/2018/04/27/really-impressed-with.html
 ---
