@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-10 02:43:22 -0800
 guid: http://kerim.micro.blog/2018/10/10/indian-airport-security.html
 ---
