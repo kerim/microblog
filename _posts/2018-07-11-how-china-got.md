@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-10 16:14:15 -0800
 guid: http://kerim.micro.blog/2018/07/11/how-china-got.html
 ---
