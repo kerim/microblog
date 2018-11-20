@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-04 08:22:46 -0800
 guid: http://kerim.micro.blog/2018/07/04/sharing-indias-hidden.html
 ---
