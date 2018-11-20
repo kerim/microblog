@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-03 18:02:12 -0800
 guid: http://kerim.micro.blog/2018/03/04/billy-graham-is.html
 ---
