@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-30 16:52:11 -0800
 guid: http://kerim.micro.blog/2018/08/31/i-worked-with.html
 ---
