@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://micro.oxus.net/uploads/2018/528ff9924c.jpg
 date: 2018-10-28 01:52:56 -0800
 guid: http://kerim.micro.blog/2018/10/28/at-times-like.html
 ---
