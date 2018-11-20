@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-28 20:29:25 -0800
 guid: http://kerim.micro.blog/2018/05/29/did-the-trump.html
 ---
