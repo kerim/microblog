@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-05 14:37:54 -0800
 guid: http://kerim.micro.blog/2018/09/05/india-assassination-plot.html
 ---
