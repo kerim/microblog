@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/282cb2c6e0.jpg
 date: 2018-08-16 09:50:13 -0800
 guid: http://kerim.micro.blog/2018/08/16/on-this-site.html
 ---
