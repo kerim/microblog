@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/0aa52cf2dc.jpg
 date: 2018-09-05 22:55:45 -0800
 guid: http://kerim.micro.blog/2018/09/06/to-be-clear.html
 ---
