@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-10 22:57:10 -0800
 guid: http://kerim.micro.blog/2018/05/11/how-china-managed.html
 ---
