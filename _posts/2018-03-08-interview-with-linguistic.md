@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-08 02:32:59 -0800
 guid: http://kerim.micro.blog/2018/03/08/interview-with-linguistic.html
 ---
