@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/4d6ee1f9b3.jpg
 date: 2018-05-12 19:23:42 -0800
 guid: http://kerim.micro.blog/2018/05/13/really-excited-for.html
 ---
