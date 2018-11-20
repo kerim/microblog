@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-10 08:46:30 -0800
 guid: http://kerim.micro.blog/2018/03/10/more-indians-are.html
 ---
