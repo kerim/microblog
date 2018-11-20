@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-26 21:48:24 -0800
 guid: http://kerim.micro.blog/2018/09/27/metoo-unmasks-the.html
 ---
