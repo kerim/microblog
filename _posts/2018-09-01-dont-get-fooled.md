@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-01 13:47:30 -0800
 guid: http://kerim.micro.blog/2018/09/01/dont-get-fooled.html
 ---
