@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/ecf1611355.jpg
 date: 2018-07-09 16:21:56 -0800
 guid: http://kerim.micro.blog/2018/07/10/classy-hotel-for.html
 ---
