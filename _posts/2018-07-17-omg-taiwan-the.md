@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-17 01:35:19 -0800
 guid: http://kerim.micro.blog/2018/07/17/omg-taiwan-the.html
 ---
