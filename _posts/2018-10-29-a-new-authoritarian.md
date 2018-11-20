@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-28 17:09:18 -0800
 guid: http://kerim.micro.blog/2018/10/29/a-new-authoritarian.html
 ---
