@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-26 01:00:28 -0800
 guid: http://kerim.micro.blog/2018/07/26/sometimes-one-does.html
 ---
