@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-15 02:21:31 -0800
 guid: http://kerim.micro.blog/2018/06/15/how-people-close.html
 ---
