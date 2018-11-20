@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-09 05:33:10 -0800
 guid: http://kerim.micro.blog/2018/08/09/china-is-cheating.html
 ---
