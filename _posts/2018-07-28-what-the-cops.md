@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-27 23:31:25 -0800
 guid: http://kerim.micro.blog/2018/07/28/what-the-cops.html
 ---
