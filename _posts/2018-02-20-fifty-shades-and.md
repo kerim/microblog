@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-20 10:58:18 -0800
 guid: http://kerim.micro.blog/2018/02/20/fifty-shades-and.html
 ---
