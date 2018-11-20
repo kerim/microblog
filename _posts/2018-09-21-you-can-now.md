@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-20 16:59:42 -0800
 guid: http://kerim.micro.blog/2018/09/21/you-can-now.html
 ---
