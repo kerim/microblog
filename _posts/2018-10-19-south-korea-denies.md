@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-18 20:35:12 -0800
 guid: http://kerim.micro.blog/2018/10/19/south-korea-denies.html
 ---
