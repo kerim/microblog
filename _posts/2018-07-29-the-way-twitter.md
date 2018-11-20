@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-28 18:21:49 -0800
 guid: http://kerim.micro.blog/2018/07/29/the-way-twitter.html
 ---
