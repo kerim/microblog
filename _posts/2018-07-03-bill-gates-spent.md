@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-02 16:14:08 -0800
 guid: http://kerim.micro.blog/2018/07/03/bill-gates-spent.html
 ---
