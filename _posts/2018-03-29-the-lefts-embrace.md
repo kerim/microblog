@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-29 06:51:06 -0800
 guid: http://kerim.micro.blog/2018/03/29/the-lefts-embrace.html
 ---
