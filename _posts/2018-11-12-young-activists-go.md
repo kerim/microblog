@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-12 01:10:55 -0800
 guid: http://kerim.micro.blog/2018/11/12/young-activists-go.html
 ---
