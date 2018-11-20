@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/ec9e8500aa.jpg
 date: 2018-10-07 17:42:27 -0800
 guid: http://kerim.micro.blog/2018/10/08/marion-stanfords-yard.html
 ---
