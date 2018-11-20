@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-01 18:41:14 -0800
 guid: http://kerim.micro.blog/2018/06/02/fema-paid-millions.html
 ---
