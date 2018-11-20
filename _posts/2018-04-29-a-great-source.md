@@ -3,6 +3,7 @@ layout: post
 title: "A great source of online intermediate level Iyengar yoga classes"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-28 21:49:28 -0800
 guid: http://kerim.micro.blog/2018/04/29/a-great-source.html
 ---
