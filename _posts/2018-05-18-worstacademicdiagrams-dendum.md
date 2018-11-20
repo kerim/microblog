@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-18 02:09:49 -0800
 guid: http://kerim.micro.blog/2018/05/18/worstacademicdiagrams-dendum.html
 ---
