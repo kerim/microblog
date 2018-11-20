@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-15 22:59:58 -0800
 guid: http://kerim.micro.blog/2018/07/16/otranscribe-needs-a.html
 ---
