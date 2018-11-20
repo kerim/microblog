@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/dc82542b8c.jpg
 date: 2018-09-13 01:49:01 -0800
 guid: http://kerim.micro.blog/2018/09/13/scariest-campaign-poster.html
 ---
