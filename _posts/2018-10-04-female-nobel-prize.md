@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-03 17:25:01 -0800
 guid: http://kerim.micro.blog/2018/10/04/female-nobel-prize.html
 ---
