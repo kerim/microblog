@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-17 17:24:21 -0800
 guid: http://kerim.micro.blog/2018/06/18/the-current-horrific.html
 ---
