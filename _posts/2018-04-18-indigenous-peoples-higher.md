@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-18 02:30:17 -0800
 guid: http://kerim.micro.blog/2018/04/18/indigenous-peoples-higher.html
 ---
