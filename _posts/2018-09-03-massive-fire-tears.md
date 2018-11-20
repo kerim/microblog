@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-02 20:04:59 -0800
 guid: http://kerim.micro.blog/2018/09/03/massive-fire-tears.html
 ---
