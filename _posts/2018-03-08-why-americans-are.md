@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-07 20:39:19 -0800
 guid: http://kerim.micro.blog/2018/03/08/why-americans-are.html
 ---
