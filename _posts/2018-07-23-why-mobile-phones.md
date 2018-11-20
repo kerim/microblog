@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-22 19:40:34 -0800
 guid: http://kerim.micro.blog/2018/07/23/why-mobile-phones.html
 ---
