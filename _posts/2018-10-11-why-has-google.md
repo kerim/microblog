@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-10 17:10:06 -0800
 guid: http://kerim.micro.blog/2018/10/11/why-has-google.html
 ---
