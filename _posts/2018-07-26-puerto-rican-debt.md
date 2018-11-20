@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-25 17:55:34 -0800
 guid: http://kerim.micro.blog/2018/07/26/puerto-rican-debt.html
 ---
