@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/b4684c48eb.jpg
 date: 2018-08-27 18:21:15 -0800
 guid: http://kerim.micro.blog/2018/08/28/i-love-taiwan.html
 ---
