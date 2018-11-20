@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-24 06:58:36 -0800
 guid: http://kerim.micro.blog/2018/09/24/china-has-silenced.html
 ---
