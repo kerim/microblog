@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-29 02:55:38 -0800
 guid: http://kerim.micro.blog/2018/10/29/brazils-ruling-elite.html
 ---
