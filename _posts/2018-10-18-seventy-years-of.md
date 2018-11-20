@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-17 20:33:46 -0800
 guid: http://kerim.micro.blog/2018/10/18/seventy-years-of.html
 ---
