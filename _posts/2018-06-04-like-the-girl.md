@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-04 05:44:27 -0800
 guid: http://kerim.micro.blog/2018/06/04/like-the-girl.html
 ---
