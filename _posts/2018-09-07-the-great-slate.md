@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-06 17:30:55 -0800
 guid: http://kerim.micro.blog/2018/09/07/the-great-slate.html
 ---
