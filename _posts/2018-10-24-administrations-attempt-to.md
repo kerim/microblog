@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-23 18:53:08 -0800
 guid: http://kerim.micro.blog/2018/10/24/administrations-attempt-to.html
 ---
