@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-09 21:55:04 -0800
 guid: http://kerim.micro.blog/2018/02/10/bookseller-gui-minhai.html
 ---
