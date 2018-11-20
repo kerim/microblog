@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/02288e8395.jpg
 date: 2018-07-20 18:55:37 -0800
 guid: http://kerim.micro.blog/2018/07/21/less-than-us.html
 ---
