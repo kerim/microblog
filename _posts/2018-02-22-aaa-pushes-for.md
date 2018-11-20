@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-22 12:39:39 -0800
 guid: http://kerim.micro.blog/2018/02/22/aaa-pushes-for.html
 ---
