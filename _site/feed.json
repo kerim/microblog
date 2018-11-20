@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/19/a-new-day.html",
+	      	
+			"content_html": "<p>A new day in New Taipei</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/a86a059267.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-19T15:07:31-08:00",
+			"url": "https://micro.oxus.net/2018/11/19/a-new-day.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/18/i-could-never.html",
 	      	
 			"content_html": "<p>I could never understand why airlines discourage you from checking luggage. Turns out <a href=\"https://www.npr.org/2015/01/21/378905601/tired-of-paying-for-checked-baggage-youre-actually-getting-a-good-deal\">that extra space is used for paid cargo</a>.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>“<a href=\"https://www.texastribune.org/2018/11/09/ted-cruz-beto-orourke-closest-texas-race-40-years/\">Texas is home to some of the biggest cities in the country – all of which now trend blue</a>”</p>\n",
 			"date_published": "2018-11-09T20:01:14-08:00",
 			"url": "https://micro.oxus.net/2018/11/09/texas-is-home.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/10/the-democratic-partys.html",
-	      	
-			"content_html": "<p>‘<a href=\"http://nymag.com/intelligencer/2018/11/the-2018-midterms-did-not-vindicate-your-policy-preferences.html\">the Democratic Party’s “centrist” candidates were far more liberal in 2018 than they’ve been in past cycles</a>’</p>\n",
-			"date_published": "2018-11-09T19:56:43-08:00",
-			"url": "https://micro.oxus.net/2018/11/09/the-democratic-partys.html"
 		}
 		
 	]
