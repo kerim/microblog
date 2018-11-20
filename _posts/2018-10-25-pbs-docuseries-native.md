@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-25 03:19:11 -0800
 guid: http://kerim.micro.blog/2018/10/25/pbs-docuseries-native.html
 ---
