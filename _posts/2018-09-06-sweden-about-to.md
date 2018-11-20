@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-05 22:36:54 -0800
 guid: http://kerim.micro.blog/2018/09/06/sweden-about-to.html
 ---
