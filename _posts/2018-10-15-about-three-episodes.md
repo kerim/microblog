@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-15 01:54:49 -0800
 guid: http://kerim.micro.blog/2018/10/15/about-three-episodes.html
 ---
