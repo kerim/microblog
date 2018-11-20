@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-17 21:29:36 -0800
 guid: http://kerim.micro.blog/2018/02/18/what-happened-when.html
 ---
