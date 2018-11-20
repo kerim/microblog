@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-09 22:41:19 -0800
 guid: http://kerim.micro.blog/2018/02/10/indigenous-land-acknowledgement.html
 ---
