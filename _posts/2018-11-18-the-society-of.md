@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-17 20:08:40 -0800
 guid: http://kerim.micro.blog/2018/11/18/the-society-of.html
 ---
