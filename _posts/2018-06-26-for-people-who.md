@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-26 01:44:52 -0800
 guid: http://kerim.micro.blog/2018/06/26/for-people-who.html
 ---
