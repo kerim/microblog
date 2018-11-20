@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-23 17:33:25 -0800
 guid: http://kerim.micro.blog/2018/07/24/would-be-great.html
 ---
