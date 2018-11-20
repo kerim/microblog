@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-24 16:34:57 -0800
 guid: http://kerim.micro.blog/2018/08/25/great-critique-of.html
 ---
