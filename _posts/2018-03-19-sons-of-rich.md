@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-19 03:40:51 -0800
 guid: http://kerim.micro.blog/2018/03/19/sons-of-rich.html
 ---
