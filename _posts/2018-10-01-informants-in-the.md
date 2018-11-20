@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-30 20:35:04 -0800
 guid: http://kerim.micro.blog/2018/10/01/informants-in-the.html
 ---
