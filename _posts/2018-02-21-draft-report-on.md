@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-21 06:04:38 -0800
 guid: http://kerim.micro.blog/2018/02/21/draft-report-on.html
 ---
