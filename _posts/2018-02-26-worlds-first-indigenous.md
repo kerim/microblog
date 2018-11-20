@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-25 17:31:39 -0800
 guid: http://kerim.micro.blog/2018/02/26/worlds-first-indigenous.html
 ---
