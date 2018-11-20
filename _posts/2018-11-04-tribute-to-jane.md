@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-03 19:03:46 -0800
 guid: http://kerim.micro.blog/2018/11/04/tribute-to-jane.html
 ---
