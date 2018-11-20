@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-02 13:41:58 -0800
 guid: http://kerim.micro.blog/2018/04/02/why-latinx-is.html
 ---
