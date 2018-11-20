@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-29 16:03:47 -0800
 guid: http://kerim.micro.blog/2018/10/30/nordic-countries-have.html
 ---
