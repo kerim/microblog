@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-22 14:31:15 -0800
 guid: http://kerim.micro.blog/2018/09/22/police-crime-labs.html
 ---
