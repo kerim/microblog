@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-11 05:52:21 -0800
 guid: http://kerim.micro.blog/2018/10/11/some-memories-of.html
 ---
