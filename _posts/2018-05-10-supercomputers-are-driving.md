@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-10 07:14:32 -0800
 guid: http://kerim.micro.blog/2018/05/10/supercomputers-are-driving.html
 ---
