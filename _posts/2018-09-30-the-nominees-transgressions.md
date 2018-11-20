@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-29 21:20:10 -0800
 guid: http://kerim.micro.blog/2018/09/30/the-nominees-transgressions.html
 ---
