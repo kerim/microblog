@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-30 06:07:34 -0800
 guid: http://kerim.micro.blog/2018/04/30/the-big-apples.html
 ---
