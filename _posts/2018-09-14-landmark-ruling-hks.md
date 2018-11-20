@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-13 17:08:05 -0800
 guid: http://kerim.micro.blog/2018/09/14/landmark-ruling-hks.html
 ---
