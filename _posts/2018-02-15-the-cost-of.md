@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-15 01:04:52 -0800
 guid: http://kerim.micro.blog/2018/02/15/the-cost-of.html
 ---
