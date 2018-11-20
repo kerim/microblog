@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-11 08:14:00 -0800
 guid: http://kerim.micro.blog/2018/11/11/how-colonial-violence.html
 ---
