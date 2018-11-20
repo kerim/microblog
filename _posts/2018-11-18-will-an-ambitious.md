@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-18 05:28:12 -0800
 guid: http://kerim.micro.blog/2018/11/18/will-an-ambitious.html
 ---
