@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://micro.oxus.net/uploads/2018/d72cce2661.jpg
 date: 2018-11-01 16:24:38 -0800
 guid: http://kerim.micro.blog/2018/11/02/intense-contact-across.html
 ---
