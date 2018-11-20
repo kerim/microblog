@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-01 23:52:46 -0800
 guid: http://kerim.micro.blog/2018/05/02/really-springer-thats.html
 ---
