@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-01 23:53:13 -0800
 guid: http://kerim.micro.blog/2018/08/02/a-tokyo-medical.html
 ---
