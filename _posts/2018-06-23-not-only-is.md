@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-23 06:01:03 -0800
 guid: http://kerim.micro.blog/2018/06/23/not-only-is.html
 ---
