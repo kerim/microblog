@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-12 07:12:45 -0800
 guid: http://kerim.micro.blog/2018/02/12/a-black-man.html
 ---
