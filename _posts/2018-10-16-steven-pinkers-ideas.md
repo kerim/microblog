@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-15 16:12:10 -0800
 guid: http://kerim.micro.blog/2018/10/16/steven-pinkers-ideas.html
 ---
