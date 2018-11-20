@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-31 23:32:08 -0800
 guid: http://kerim.micro.blog/2018/06/01/last-of-rabbitproof.html
 ---
