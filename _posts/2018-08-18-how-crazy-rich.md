@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-18 12:08:16 -0800
 guid: http://kerim.micro.blog/2018/08/18/how-crazy-rich.html
 ---
