@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-19 14:23:55 -0800
 guid: http://kerim.micro.blog/2018/08/19/securitisation-and-mass.html
 ---
