@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 20:50:20 -0800
 guid: http://kerim.micro.blog/2018/10/31/the-last-source.html
 ---
