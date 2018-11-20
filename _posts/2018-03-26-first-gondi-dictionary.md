@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-26 06:19:54 -0800
 guid: http://kerim.micro.blog/2018/03/26/first-gondi-dictionary.html
 ---
