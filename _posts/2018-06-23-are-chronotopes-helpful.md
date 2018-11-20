@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-23 02:54:56 -0800
 guid: http://kerim.micro.blog/2018/06/23/are-chronotopes-helpful.html
 ---
