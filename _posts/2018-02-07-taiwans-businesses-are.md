@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-07 05:02:08 -0800
 guid: http://kerim.micro.blog/2018/02/07/taiwans-businesses-are.html
 ---
