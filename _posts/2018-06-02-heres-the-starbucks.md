@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-01 21:46:30 -0800
 guid: http://kerim.micro.blog/2018/06/02/heres-the-starbucks.html
 ---
