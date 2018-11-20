@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-14 19:35:24 -0800
 guid: http://kerim.micro.blog/2018/11/15/dolores-huerta-in.html
 ---
