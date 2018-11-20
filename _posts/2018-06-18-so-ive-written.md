@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-18 06:16:50 -0800
 guid: http://kerim.micro.blog/2018/06/18/so-ive-written.html
 ---
