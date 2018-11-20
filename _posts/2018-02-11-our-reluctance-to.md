@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-11 04:10:21 -0800
 guid: http://kerim.micro.blog/2018/02/11/our-reluctance-to.html
 ---
