@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/5281af26b7.jpg
 date: 2018-04-20 01:04:29 -0800
 guid: http://kerim.micro.blog/2018/04/20/that-moment-when.html
 ---
