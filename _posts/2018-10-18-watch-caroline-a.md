@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-18 06:23:00 -0800
 guid: http://kerim.micro.blog/2018/10/18/watch-caroline-a.html
 ---
