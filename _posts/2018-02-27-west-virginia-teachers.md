@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-26 21:24:46 -0800
 guid: http://kerim.micro.blog/2018/02/27/west-virginia-teachers.html
 ---
