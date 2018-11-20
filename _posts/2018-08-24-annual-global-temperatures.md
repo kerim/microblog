@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/382ec2c36d.jpg
 date: 2018-08-24 05:15:48 -0800
 guid: http://kerim.micro.blog/2018/08/24/annual-global-temperatures.html
 ---
