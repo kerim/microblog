@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-08 21:05:34 -0800
 guid: http://kerim.micro.blog/2018/06/09/precarity-isnt-the.html
 ---
