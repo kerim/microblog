@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-05 07:33:54 -0800
 guid: http://kerim.micro.blog/2018/02/05/very-happy-to.html
 ---
