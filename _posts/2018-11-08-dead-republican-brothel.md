@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-07 18:20:15 -0800
 guid: http://kerim.micro.blog/2018/11/08/dead-republican-brothel.html
 ---
