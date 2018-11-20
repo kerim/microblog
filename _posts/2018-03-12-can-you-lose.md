@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-11 17:20:46 -0800
 guid: http://kerim.micro.blog/2018/03/12/can-you-lose.html
 ---
