@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-07 20:53:27 -0800
 guid: http://kerim.micro.blog/2018/05/08/i-dont-think.html
 ---
