@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-30 02:25:38 -0800
 guid: http://kerim.micro.blog/2018/04/30/if-you-liked.html
 ---
