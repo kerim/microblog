@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 15:52:17 -0800
 guid: http://kerim.micro.blog/2018/10/30/be-careful-about.html
 ---
