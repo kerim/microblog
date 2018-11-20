@@ -3,6 +3,7 @@ layout: post
 title: "If that Golden State Killer story scared you, just look at what China and India are doing!"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-28 17:50:15 -0800
 guid: http://kerim.micro.blog/2018/04/29/if-that-golden.html
 ---
