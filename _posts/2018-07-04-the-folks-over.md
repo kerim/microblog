@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-03 19:13:53 -0800
 guid: http://kerim.micro.blog/2018/07/04/the-folks-over.html
 ---
