@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://micro.oxus.net/uploads/2018/0053d3eec8.jpg
 date: 2018-11-07 18:53:20 -0800
 guid: http://kerim.micro.blog/2018/11/08/our-amanth-panel.html
 ---
