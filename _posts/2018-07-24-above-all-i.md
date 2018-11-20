@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-23 21:08:43 -0800
 guid: http://kerim.micro.blog/2018/07/24/above-all-i.html
 ---
