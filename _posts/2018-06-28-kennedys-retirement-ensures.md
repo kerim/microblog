@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-28 02:20:18 -0800
 guid: http://kerim.micro.blog/2018/06/28/kennedys-retirement-ensures.html
 ---
