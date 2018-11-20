@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-12 05:22:03 -0800
 guid: http://kerim.micro.blog/2018/07/12/my-phone-tells.html
 ---
