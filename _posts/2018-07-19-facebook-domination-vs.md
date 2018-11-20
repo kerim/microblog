@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-19 03:06:44 -0800
 guid: http://kerim.micro.blog/2018/07/19/facebook-domination-vs.html
 ---
