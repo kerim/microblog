@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-24 17:08:04 -0800
 guid: http://kerim.micro.blog/2018/03/25/march-for-our.html
 ---
