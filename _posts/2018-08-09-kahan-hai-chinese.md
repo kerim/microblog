@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-09 03:03:21 -0800
 guid: http://kerim.micro.blog/2018/08/09/kahan-hai-chinese.html
 ---
