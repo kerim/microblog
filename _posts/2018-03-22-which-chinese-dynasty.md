@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-21 18:53:07 -0800
 guid: http://kerim.micro.blog/2018/03/22/which-chinese-dynasty.html
 ---
