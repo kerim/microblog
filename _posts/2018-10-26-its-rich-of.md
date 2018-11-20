@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-25 21:05:20 -0800
 guid: http://kerim.micro.blog/2018/10/26/its-rich-of.html
 ---
