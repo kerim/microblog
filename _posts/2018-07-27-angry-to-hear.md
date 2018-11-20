@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-26 16:26:03 -0800
 guid: http://kerim.micro.blog/2018/07/27/angry-to-hear.html
 ---
