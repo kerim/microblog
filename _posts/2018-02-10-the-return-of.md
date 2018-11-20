@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-10 04:10:06 -0800
 guid: http://kerim.micro.blog/2018/02/10/the-return-of.html
 ---
