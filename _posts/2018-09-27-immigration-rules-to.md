@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-27 04:48:22 -0800
 guid: http://kerim.micro.blog/2018/09/27/immigration-rules-to.html
 ---
