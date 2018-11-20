@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/72e2eb1925.jpg
 date: 2018-08-16 10:15:54 -0800
 guid: http://kerim.micro.blog/2018/08/16/photos-franklin-street.html
 ---
