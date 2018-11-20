@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-05 14:48:38 -0800
 guid: http://kerim.micro.blog/2018/11/05/marriott-worker-in.html
 ---
