@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-23 03:49:36 -0800
 guid: http://kerim.micro.blog/2018/10/23/the-englishonly-nt.html
 ---
