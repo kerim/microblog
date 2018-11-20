@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-21 21:52:01 -0800
 guid: http://kerim.micro.blog/2018/04/22/wall-street-is.html
 ---
