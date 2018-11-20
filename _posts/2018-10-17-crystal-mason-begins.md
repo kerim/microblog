@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-16 18:31:07 -0800
 guid: http://kerim.micro.blog/2018/10/17/crystal-mason-begins.html
 ---
