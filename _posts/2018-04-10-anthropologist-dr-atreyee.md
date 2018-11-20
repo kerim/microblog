@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-10 15:04:11 -0800
 guid: http://kerim.micro.blog/2018/04/10/anthropologist-dr-atreyee.html
 ---
