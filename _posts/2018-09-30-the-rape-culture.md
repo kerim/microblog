@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-30 02:54:16 -0800
 guid: http://kerim.micro.blog/2018/09/30/the-rape-culture.html
 ---
