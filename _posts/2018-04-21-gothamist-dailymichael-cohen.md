@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-20 17:14:27 -0800
 guid: http://kerim.micro.blog/2018/04/21/gothamist-dailymichael-cohen.html
 ---
