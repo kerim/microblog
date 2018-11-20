@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/e689c4d560.jpg
 date: 2018-02-06 05:42:47 -0800
 guid: http://kerim.micro.blog/2018/02/06/the-bitter-truth.html
 ---
