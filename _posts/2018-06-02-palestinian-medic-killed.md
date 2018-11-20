@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-02 05:30:44 -0800
 guid: http://kerim.micro.blog/2018/06/02/palestinian-medic-killed.html
 ---
