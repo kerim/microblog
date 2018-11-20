@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-24 18:21:09 -0800
 guid: http://kerim.micro.blog/2018/03/25/minimal-media-coverage.html
 ---
