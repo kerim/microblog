@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-21 01:39:47 -0800
 guid: http://kerim.micro.blog/2018/05/21/last-serpent-shop.html
 ---
