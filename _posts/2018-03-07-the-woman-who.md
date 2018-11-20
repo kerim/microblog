@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-06 23:02:57 -0800
 guid: http://kerim.micro.blog/2018/03/07/the-woman-who.html
 ---
