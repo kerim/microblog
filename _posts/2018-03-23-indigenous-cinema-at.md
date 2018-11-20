@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-23 06:11:13 -0800
 guid: http://kerim.micro.blog/2018/03/23/indigenous-cinema-at.html
 ---
