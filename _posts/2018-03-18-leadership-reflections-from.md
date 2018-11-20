@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-18 06:32:48 -0800
 guid: http://kerim.micro.blog/2018/03/18/leadership-reflections-from.html
 ---
