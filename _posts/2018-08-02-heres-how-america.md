@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-02 00:44:54 -0800
 guid: http://kerim.micro.blog/2018/08/02/heres-how-america.html
 ---
