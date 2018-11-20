@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-01 04:26:10 -0800
 guid: http://kerim.micro.blog/2018/04/01/anthrodendum-is-now.html
 ---
