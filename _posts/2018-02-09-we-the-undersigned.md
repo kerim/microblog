@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-08 20:34:58 -0800
 guid: http://kerim.micro.blog/2018/02/09/we-the-undersigned.html
 ---
