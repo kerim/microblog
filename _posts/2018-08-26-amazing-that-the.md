@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-26 09:11:06 -0800
 guid: http://kerim.micro.blog/2018/08/26/amazing-that-the.html
 ---
