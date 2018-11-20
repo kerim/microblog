@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-12 03:13:54 -0800
 guid: http://kerim.micro.blog/2018/10/12/defying-china-malaysia.html
 ---
