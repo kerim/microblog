@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-02 01:19:53 -0800
 guid: http://kerim.micro.blog/2018/05/02/china-is-mining.html
 ---
