@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-14 20:28:02 -0800
 guid: http://kerim.micro.blog/2018/05/15/we-must-speak.html
 ---
