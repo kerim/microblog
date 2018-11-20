@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-07 08:21:32 -0800
 guid: http://kerim.micro.blog/2018/02/07/why-a-simple.html
 ---
