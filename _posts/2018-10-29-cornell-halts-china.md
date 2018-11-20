@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://micro.oxus.net/uploads/2018/d435726050.jpg
 date: 2018-10-28 19:01:05 -0800
 guid: http://kerim.micro.blog/2018/10/29/cornell-halts-china.html
 ---
