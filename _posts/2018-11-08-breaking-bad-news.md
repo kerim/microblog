@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-07 19:14:41 -0800
 guid: http://kerim.micro.blog/2018/11/08/breaking-bad-news.html
 ---
