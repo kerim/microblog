@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-28 18:39:25 -0800
 guid: http://kerim.micro.blog/2018/03/29/displacementshttpsdisplacementsjhuedu-is-a.html
 ---
