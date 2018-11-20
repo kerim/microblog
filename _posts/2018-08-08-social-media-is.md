@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-08 03:39:25 -0800
 guid: http://kerim.micro.blog/2018/08/08/social-media-is.html
 ---
