@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-23 07:14:22 -0800
 guid: http://kerim.micro.blog/2018/04/23/john-bolton-chaired.html
 ---
