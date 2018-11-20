@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-23 18:34:36 -0800
 guid: http://kerim.micro.blog/2018/05/24/its-not-too.html
 ---
