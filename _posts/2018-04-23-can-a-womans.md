@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-22 19:19:32 -0800
 guid: http://kerim.micro.blog/2018/04/23/can-a-womans.html
 ---
