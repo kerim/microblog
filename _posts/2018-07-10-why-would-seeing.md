@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-09 16:52:21 -0800
 guid: http://kerim.micro.blog/2018/07/10/why-would-seeing.html
 ---
