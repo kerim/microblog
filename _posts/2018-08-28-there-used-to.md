@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-27 18:10:56 -0800
 guid: http://kerim.micro.blog/2018/08/28/there-used-to.html
 ---
