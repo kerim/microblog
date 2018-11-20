@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-28 14:01:43 -0800
 guid: http://kerim.micro.blog/2018/08/28/japan-opening-up.html
 ---
