@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-04 23:49:33 -0800
 guid: http://kerim.micro.blog/2018/08/05/low-power-mode.html
 ---
