@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-07 03:12:06 -0800
 guid: http://kerim.micro.blog/2018/11/07/tony-evers-wins.html
 ---
