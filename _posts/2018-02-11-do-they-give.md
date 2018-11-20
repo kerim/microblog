@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-10 20:43:09 -0800
 guid: http://kerim.micro.blog/2018/02/11/do-they-give.html
 ---
