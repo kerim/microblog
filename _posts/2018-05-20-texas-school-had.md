@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-19 21:50:33 -0800
 guid: http://kerim.micro.blog/2018/05/20/texas-school-had.html
 ---
