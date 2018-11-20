@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-31 16:50:32 -0800
 guid: http://kerim.micro.blog/2018/04/01/lessons-from-the.html
 ---
