@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-01 02:46:23 -0800
 guid: http://kerim.micro.blog/2018/08/01/because-its-easier.html
 ---
