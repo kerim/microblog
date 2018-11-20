@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-06 07:01:50 -0800
 guid: http://kerim.micro.blog/2018/05/06/surreal-scenes-on.html
 ---
