@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-27 19:44:50 -0800
 guid: http://kerim.micro.blog/2018/05/28/wherearethechildren-how-to.html
 ---
