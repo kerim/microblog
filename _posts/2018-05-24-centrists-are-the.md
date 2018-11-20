@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/985bfd9822.jpg
 date: 2018-05-23 19:35:26 -0800
 guid: http://kerim.micro.blog/2018/05/24/centrists-are-the.html
 ---
