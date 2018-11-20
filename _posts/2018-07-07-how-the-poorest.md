@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-06 16:09:43 -0800
 guid: http://kerim.micro.blog/2018/07/07/how-the-poorest.html
 ---
