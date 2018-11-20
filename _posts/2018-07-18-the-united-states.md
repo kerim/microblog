@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-17 22:04:50 -0800
 guid: http://kerim.micro.blog/2018/07/18/the-united-states.html
 ---
