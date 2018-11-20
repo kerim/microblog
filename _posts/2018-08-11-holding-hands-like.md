@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-11 03:51:28 -0800
 guid: http://kerim.micro.blog/2018/08/11/holding-hands-like.html
 ---
