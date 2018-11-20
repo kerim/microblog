@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-11 16:50:06 -0800
 guid: http://kerim.micro.blog/2018/08/12/glad-to-see.html
 ---
