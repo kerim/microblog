@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-15 00:26:04 -0800
 guid: http://kerim.micro.blog/2018/06/15/obamas-dubious-detention.html
 ---
