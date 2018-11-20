@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-07 22:42:26 -0800
 guid: http://kerim.micro.blog/2018/02/08/israeli-police-to.html
 ---
