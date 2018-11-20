@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-13 15:43:07 -0800
 guid: http://kerim.micro.blog/2018/09/13/my-school-now.html
 ---
