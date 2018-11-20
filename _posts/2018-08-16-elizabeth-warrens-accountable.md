@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-16 11:28:56 -0800
 guid: http://kerim.micro.blog/2018/08/16/elizabeth-warrens-accountable.html
 ---
