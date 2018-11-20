@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-13 01:36:47 -0800
 guid: http://kerim.micro.blog/2018/06/13/why-of-florida.html
 ---
