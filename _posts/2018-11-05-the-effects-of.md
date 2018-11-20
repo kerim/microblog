@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-04 22:34:52 -0800
 guid: http://kerim.micro.blog/2018/11/05/the-effects-of.html
 ---
