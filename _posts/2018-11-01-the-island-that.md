@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-31 20:24:37 -0800
 guid: http://kerim.micro.blog/2018/11/01/the-island-that.html
 ---
