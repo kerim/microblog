@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-21 00:33:36 -0800
 guid: http://kerim.micro.blog/2018/06/21/how-early-thcentury.html
 ---
