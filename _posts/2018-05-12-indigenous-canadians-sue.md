@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-11 17:49:25 -0800
 guid: http://kerim.micro.blog/2018/05/12/indigenous-canadians-sue.html
 ---
