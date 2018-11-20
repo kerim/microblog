@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-29 01:57:48 -0800
 guid: http://kerim.micro.blog/2018/09/29/where-are-the.html
 ---
