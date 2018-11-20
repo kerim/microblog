@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-27 19:25:19 -0800
 guid: http://kerim.micro.blog/2018/10/28/indigenous-land-culture.html
 ---
