@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-07 01:37:33 -0800
 guid: http://kerim.micro.blog/2018/05/07/in-brazil-patients.html
 ---
