@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-24 03:05:25 -0800
 guid: http://kerim.micro.blog/2018/04/24/video-chinese-tech.html
 ---
