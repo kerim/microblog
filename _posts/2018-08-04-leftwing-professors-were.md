@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-03 16:48:17 -0800
 guid: http://kerim.micro.blog/2018/08/04/leftwing-professors-were.html
 ---
