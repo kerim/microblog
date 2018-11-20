@@ -3,6 +3,7 @@ layout: post
 title: "Renewables Getting Cheaper, But We Still Need (Some) Conventional Sources"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-07 17:21:52 -0800
 guid: http://kerim.micro.blog/2018/05/08/renewables-getting-cheaper.html
 ---
