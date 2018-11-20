@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-23 00:03:02 -0800
 guid: http://kerim.micro.blog/2018/10/23/so-the-latest.html
 ---
