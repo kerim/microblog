@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-02 21:26:13 -0800
 guid: http://kerim.micro.blog/2018/09/03/anyone-speaking-for.html
 ---
