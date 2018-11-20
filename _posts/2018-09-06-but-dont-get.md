@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-05 19:15:26 -0800
 guid: http://kerim.micro.blog/2018/09/06/but-dont-get.html
 ---
