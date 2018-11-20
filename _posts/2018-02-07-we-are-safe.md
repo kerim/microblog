@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-06 19:07:30 -0800
 guid: http://kerim.micro.blog/2018/02/07/we-are-safe.html
 ---
