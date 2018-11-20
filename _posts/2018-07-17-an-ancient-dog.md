@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-17 05:37:39 -0800
 guid: http://kerim.micro.blog/2018/07/17/an-ancient-dog.html
 ---
