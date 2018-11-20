@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-25 02:09:04 -0800
 guid: http://kerim.micro.blog/2018/09/25/but-people-arent.html
 ---
