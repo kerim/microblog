@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-22 01:24:40 -0800
 guid: http://kerim.micro.blog/2018/07/22/question-dont-the.html
 ---
