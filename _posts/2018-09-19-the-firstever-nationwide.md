@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-18 16:35:57 -0800
 guid: http://kerim.micro.blog/2018/09/19/the-firstever-nationwide.html
 ---
