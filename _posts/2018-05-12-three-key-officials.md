@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-12 03:49:22 -0800
 guid: http://kerim.micro.blog/2018/05/12/three-key-officials.html
 ---
