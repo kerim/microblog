@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-20 17:04:49 -0800
 guid: http://kerim.micro.blog/2018/09/21/board-games-for.html
 ---
