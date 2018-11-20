@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-28 19:03:57 -0800
 guid: http://kerim.micro.blog/2018/10/29/just-because-economic.html
 ---
