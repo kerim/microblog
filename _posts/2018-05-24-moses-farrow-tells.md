@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-24 04:24:56 -0800
 guid: http://kerim.micro.blog/2018/05/24/moses-farrow-tells.html
 ---
