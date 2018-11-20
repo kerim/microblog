@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-05 20:23:31 -0800
 guid: http://kerim.micro.blog/2018/02/06/someone-wrote-up.html
 ---
