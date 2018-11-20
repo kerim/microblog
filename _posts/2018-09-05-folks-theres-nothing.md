@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.oxus.net/uploads/2018/0d56ccb98e.jpg
 date: 2018-09-05 14:13:28 -0800
 guid: http://kerim.micro.blog/2018/09/05/folks-theres-nothing.html
 ---
