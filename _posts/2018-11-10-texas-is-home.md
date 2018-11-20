@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-09 20:01:14 -0800
 guid: http://kerim.micro.blog/2018/11/10/texas-is-home.html
 ---
