@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-29 16:52:37 -0800
 guid: http://kerim.micro.blog/2018/05/30/lost-for-words.html
 ---
