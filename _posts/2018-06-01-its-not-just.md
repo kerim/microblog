@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-01 01:42:44 -0800
 guid: http://kerim.micro.blog/2018/06/01/its-not-just.html
 ---
