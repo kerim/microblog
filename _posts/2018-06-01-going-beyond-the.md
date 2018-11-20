@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-01 01:49:42 -0800
 guid: http://kerim.micro.blog/2018/06/01/going-beyond-the.html
 ---
