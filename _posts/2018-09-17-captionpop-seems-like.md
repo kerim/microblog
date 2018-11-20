@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-16 19:24:14 -0800
 guid: http://kerim.micro.blog/2018/09/17/captionpop-seems-like.html
 ---
