@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-16 23:18:07 -0800
 guid: http://kerim.micro.blog/2018/02/17/david-graeber-manufactured.html
 ---
