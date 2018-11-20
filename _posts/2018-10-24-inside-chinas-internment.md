@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-24 04:35:48 -0800
 guid: http://kerim.micro.blog/2018/10/24/inside-chinas-internment.html
 ---
