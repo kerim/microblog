@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-04 15:28:45 -0800
 guid: http://kerim.micro.blog/2018/10/04/thanks-again-to.html
 ---
