@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-28 16:56:23 -0800
 guid: http://kerim.micro.blog/2018/05/29/spend-half-an.html
 ---
