@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-08 14:03:28 -0800
 guid: http://kerim.micro.blog/2018/04/08/george-w-bush.html
 ---
