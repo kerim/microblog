@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-23 04:10:28 -0800
 guid: http://kerim.micro.blog/2018/08/23/call-to-action.html
 ---
