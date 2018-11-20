@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-01 20:20:01 -0800
 guid: http://kerim.micro.blog/2018/06/02/its-only-hair.html
 ---
