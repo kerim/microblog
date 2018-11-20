@@ -3,6 +3,7 @@ layout: post
 title: "Population Density in Shanghai vs. Taipei "
 microblog: false
 audio: 
+photo: 
 date: 2018-04-12 23:51:51 -0800
 guid: http://kerim.micro.blog/2018/04/13/population-density-in.html
 ---
