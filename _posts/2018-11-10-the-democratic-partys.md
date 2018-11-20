@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-09 19:56:43 -0800
 guid: http://kerim.micro.blog/2018/11/10/the-democratic-partys.html
 ---
