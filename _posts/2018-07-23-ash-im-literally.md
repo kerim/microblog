@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-23 00:27:43 -0800
 guid: http://kerim.micro.blog/2018/07/23/ash-im-literally.html
 ---
