@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-22 21:20:43 -0800
 guid: http://kerim.micro.blog/2018/04/23/the-trump-administration.html
 ---
