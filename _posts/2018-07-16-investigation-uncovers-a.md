@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-16 06:44:58 -0800
 guid: http://kerim.micro.blog/2018/07/16/investigation-uncovers-a.html
 ---
