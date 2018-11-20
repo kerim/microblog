@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-07 18:50:50 -0800
 guid: http://kerim.micro.blog/2018/03/08/canadian-doctors-protest.html
 ---
