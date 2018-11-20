@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-16 16:43:55 -0800
 guid: http://kerim.micro.blog/2018/10/17/elizabeth-warrens-native.html
 ---
