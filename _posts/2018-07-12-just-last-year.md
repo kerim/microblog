@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-12 15:47:51 -0800
 guid: http://kerim.micro.blog/2018/07/12/just-last-year.html
 ---
