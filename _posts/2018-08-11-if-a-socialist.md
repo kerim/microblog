@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-10 19:00:18 -0800
 guid: http://kerim.micro.blog/2018/08/11/if-a-socialist.html
 ---
