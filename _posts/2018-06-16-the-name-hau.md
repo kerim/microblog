@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-15 19:22:42 -0800
 guid: http://kerim.micro.blog/2018/06/16/the-name-hau.html
 ---
