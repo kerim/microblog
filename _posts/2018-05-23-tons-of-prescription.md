@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-23 02:30:12 -0800
 guid: http://kerim.micro.blog/2018/05/23/tons-of-prescription.html
 ---
