@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-06 03:56:41 -0800
 guid: http://kerim.micro.blog/2018/07/06/explaining-away-ocasiocortezs.html
 ---
