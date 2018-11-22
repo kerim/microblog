@@ -4,7 +4,7 @@ title: "Some Brief Thoughts on Trump and Russia (with links)"
 microblog: false
 audio: 
 photo: http://micro.oxus.net/uploads/2018/99c30dc6f5.jpg
-date: 2018-07-20 21:00:19 -0800
+date: 2018-07-21 13:00:19 +0800
 guid: http://kerim.micro.blog/2018/07/21/some-brief-thoughts.html
 ---
 <img src="http://micro.oxus.net/uploads/2018/99c30dc6f5.jpg" width="600" height="427" />
