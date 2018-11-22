@@ -3,7 +3,7 @@ layout: post
 microblog: true
 audio: 
 photo: 
-date: 2018-03-25 16:07:19 -0800
+date: 2018-03-26 08:07:19 +0800
 guid: http://kerim.micro.blog/2018/03/26/religious-conservatives-on.html
 ---
 Religious Conservatives on Trump: “God’s will works in mysterious ways.”
