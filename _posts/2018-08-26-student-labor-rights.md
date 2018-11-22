@@ -3,7 +3,7 @@ layout: post
 microblog: true
 audio: 
 photo: 
-date: 2018-08-26 07:51:58 -0800
+date: 2018-08-26 23:51:58 +0800
 guid: http://kerim.micro.blog/2018/08/26/student-labor-rights.html
 ---
 [50 student (labor rights) activists missing in China after police raid](https://www.theguardian.com/world/2018/aug/24/50-student-activists-missing-in-china-after-police-raid)
