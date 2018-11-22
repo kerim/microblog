@@ -3,7 +3,7 @@ layout: post
 microblog: true
 audio: 
 photo: 
-date: 2018-08-24 13:20:48 -0800
+date: 2018-08-25 05:20:48 +0800
 guid: http://kerim.micro.blog/2018/08/24/it-can-take.html
 ---
 ❝[It can take a lot of socialists to get a little liberalism](https://www.nytimes.com/2018/08/24/opinion/sunday/what-socialism-looks-like-in-2018.html)❞
