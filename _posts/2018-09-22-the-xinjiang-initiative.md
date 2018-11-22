@@ -3,7 +3,7 @@ layout: post
 microblog: true
 audio: 
 photo: 
-date: 2018-09-22 02:59:23 -0800
+date: 2018-09-22 18:59:23 +0800
 guid: http://kerim.micro.blog/2018/09/22/the-xinjiang-initiative.html
 ---
 The [Xinjiang Initiative](http://www.jeromecohen.net/jerrys-blog/xinjiang-initiative) "Participants pledge to use every public event in which they appear to remind their audiences that roughly a million people are being held in extra-legal internment camps…"
