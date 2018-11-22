@@ -3,7 +3,7 @@ layout: post
 microblog: true
 audio: 
 photo: 
-date: 2018-07-13 15:48:56 -0800
+date: 2018-07-14 07:48:56 +0800
 guid: http://kerim.micro.blog/2018/07/13/company-claimed-it.html
 ---
 Company claimed it had no obligation to honor 
