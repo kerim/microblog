@@ -1,0 +1,993 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Kerim's Micro Blog",
+	"icon": "https://micro.blog/kerim/avatar.jpg",
+	"home_page_url": "https://micro.oxus.net/",
+	"feed_url": "https://micro.oxus.net/photos/index.json",
+	"items": [
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/23/misty-mountains.html",
+			
+			"content_text": "<p>Misty mountains</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/4f6504eb80.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-23T14:14:57+08:00",
+			"url": "https://micro.oxus.net/2018/11/23/misty-mountains.html",
+			"image": "https://micro.oxus.net/uploads/2018/4f6504eb80.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/4f6504eb80.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/11/22/politician-left-a.html",
+			
+			"content_text": "<p>Politician left a sponge in my mailbox.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/c330c5387f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-22T15:12:18+08:00",
+			"url": "https://micro.oxus.net/2018/11/22/politician-left-a.html",
+			"image": "https://micro.oxus.net/uploads/2018/c330c5387f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/c330c5387f.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/11/19/a-new-day.html",
+			
+			"content_text": "<p>A new day in New Taipei</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/a86a059267.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-20T07:07:31+08:00",
+			"url": "https://micro.oxus.net/2018/11/20/a-new-day.html",
+			"image": "https://micro.oxus.net/uploads/2018/a86a059267.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/a86a059267.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/11/14/my-first-electric.html",
+			
+			"content_text": "<p>My first electric scooter ride in the brisk morning air woke me up better than caffeine!</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/0e88ab5698.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-15T00:16:54+08:00",
+			"url": "https://micro.oxus.net/2018/11/15/my-first-electric.html",
+			"image": "https://micro.oxus.net/uploads/2018/0e88ab5698.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/0e88ab5698.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/11/10/octavia-butler-on.html",
+			
+			"content_text": "<p>Octavia Butler on “company towns” in science fiction (Parable of the Sower):</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/3e84f94b58.jpg\" width=\"600\" height=\"329\" /></p>\n",
+			"date_published": "2018-11-10T12:42:29+08:00",
+			"url": "https://micro.oxus.net/2018/11/10/octavia-butler-on.html",
+			"image": "https://micro.oxus.net/uploads/2018/3e84f94b58.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/3e84f94b58.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/11/08/our-amanth-panel.html",
+			
+			"content_text": "<p>Our #AmAnth2018 panel, “Indexing Indigeneity in Taiwan: Resistance and Adaptation in Taiwanese Visual Culture” (4-0420) 11/16/2018 (10:15 AM - 12:00 PM). With Skaya Siku,  Futuru Tsai, Tzu Tung Lee, Eliana Ritts, Darryl Sterk, and  Marc Moskowitz discussing.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/0053d3eec8.jpg\" width=\"600\" height=\"510\" /></p>\n",
+			"date_published": "2018-11-08T10:53:20+08:00",
+			"url": "https://micro.oxus.net/2018/11/08/our-amanth-panel.html",
+			"image": "https://micro.oxus.net/uploads/2018/0053d3eec8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/0053d3eec8.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/11/05/ferns.html",
+			
+			"content_text": "<p>Ferns</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/fdb6961a60.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-05T22:16:32+08:00",
+			"url": "https://micro.oxus.net/2018/11/05/ferns.html",
+			"image": "https://micro.oxus.net/uploads/2018/fdb6961a60.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/fdb6961a60.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/11/05/a-bend-in.html",
+			
+			"content_text": "<p>A bend in the road</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/5527761294.jpg\" width=\"600\" height=\"478\" /></p>\n",
+			"date_published": "2018-11-05T22:12:35+08:00",
+			"url": "https://micro.oxus.net/2018/11/05/a-bend-in.html",
+			"image": "https://micro.oxus.net/uploads/2018/5527761294.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/5527761294.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/11/05/beach-portrait.html",
+			
+			"content_text": "<p>Beach portrait</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/ffc3ea6392.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-05T22:08:16+08:00",
+			"url": "https://micro.oxus.net/2018/11/05/beach-portrait.html",
+			"image": "https://micro.oxus.net/uploads/2018/ffc3ea6392.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/ffc3ea6392.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/11/02/intense-contact-across.html",
+			
+			"content_text": "<p>“intense contact across the Taiwan Strait in the early period of Austronesian maritime activity, allowed different elements to make up Daic” <a href=\"https://www.academia.edu/37593287/Tai-Kadai_and_Austronesian_are_related_at_multiple_levels_and_their_archaeological_interpretation\">PDF</a></p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/d72cce2661.jpg\" width=\"600\" height=\"318\" /></p>\n",
+			"date_published": "2018-11-02T08:24:38+08:00",
+			"url": "https://micro.oxus.net/2018/11/02/intense-contact-across.html",
+			"image": "https://micro.oxus.net/uploads/2018/d72cce2661.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/d72cce2661.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/29/cornell-halts-china.html",
+			
+			"content_text": "<p><a href=\"https://www.ft.com/content/b07c275c-d832-11e8-a854-33d6f82e62f8\">Cornell halts China university ties over curbs on academic freedom</a></p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/d435726050.jpg\" width=\"600\" height=\"241\" /></p>\n",
+			"date_published": "2018-10-29T11:01:05+08:00",
+			"url": "https://micro.oxus.net/2018/10/29/cornell-halts-china.html",
+			"image": "https://micro.oxus.net/uploads/2018/d435726050.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/d435726050.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/28/at-times-like.html",
+			
+			"content_text": "<p>At times like this, in the face of such hatred, it is especially important to make clear that the ADL does not speak for all Jews. There are many other groups like @jvplive that don’t use hate as an excuse to support apartheid.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/528ff9924c.jpg\" width=\"388\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-28T17:52:56+08:00",
+			"url": "https://micro.oxus.net/2018/10/28/at-times-like.html",
+			"image": "https://micro.oxus.net/uploads/2018/528ff9924c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/528ff9924c.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/26/pinghe-mural.html",
+			
+			"content_text": "<p>Pinghe Mural</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/e6f70b177d.jpg\" width=\"600\" height=\"479\" /></p>\n",
+			"date_published": "2018-10-26T17:25:42+08:00",
+			"url": "https://micro.oxus.net/2018/10/26/pinghe-mural.html",
+			"image": "https://micro.oxus.net/uploads/2018/e6f70b177d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/e6f70b177d.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/26/sticking-out.html",
+			
+			"content_text": "<p>Sticking out</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/07330fb467.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-26T08:47:24+08:00",
+			"url": "https://micro.oxus.net/2018/10/26/sticking-out.html",
+			"image": "https://micro.oxus.net/uploads/2018/07330fb467.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/07330fb467.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/25/residents-of-kashgar.html",
+			
+			"content_text": "<p>Residents of Kashgar going to market. (Fall 1990)</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/17262c4dad.jpg\" width=\"600\" height=\"386\" /></p>\n",
+			"date_published": "2018-10-25T09:47:16+08:00",
+			"url": "https://micro.oxus.net/2018/10/25/residents-of-kashgar.html",
+			"image": "https://micro.oxus.net/uploads/2018/17262c4dad.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/17262c4dad.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/19/xi-jinping-thought.html",
+			
+			"content_text": "<p><a href=\"https://www.smh.com.au/world/asia/consciously-mystifying-xi-jinping-thought-mapped-for-the-masses-20181018-p50aln.html\">Xi Jinping Thought mapped for the masses</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/7c48a03002.jpg\" width=\"375\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-19T19:31:23+08:00",
+			"url": "https://micro.oxus.net/2018/10/19/xi-jinping-thought.html",
+			"image": "http://micro.oxus.net/uploads/2018/7c48a03002.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/7c48a03002.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/18/breakfast-by-the.html",
+			
+			"content_text": "<p>Breakfast by the lake</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/d8c24e3906.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-18T09:34:04+08:00",
+			"url": "https://micro.oxus.net/2018/10/18/breakfast-by-the.html",
+			"image": "http://micro.oxus.net/uploads/2018/d8c24e3906.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/d8c24e3906.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/17/apple-fixes-bagel.html",
+			
+			"content_text": "<p><a href=\"https://blog.emojipedia.org/apple-fixes-bagel-emoji/\">Apple Fixes Bagel Emoji</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/97f8969cf4.jpg\" width=\"600\" height=\"341\" /></p>\n",
+			"date_published": "2018-10-17T10:50:16+08:00",
+			"url": "https://micro.oxus.net/2018/10/17/apple-fixes-bagel.html",
+			"image": "http://micro.oxus.net/uploads/2018/97f8969cf4.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/97f8969cf4.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/14/shuttered-polling-sites.html",
+			
+			"content_text": "<p><a href=\"https://whowhatwhy.org/2018/09/05/shuttered-polling-sites-cast-shadow-over-midterm-elections/\">Shuttered Polling Sites Cast Shadow Over Midterm Elections</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/df6c5a63a7.jpg\" width=\"600\" height=\"402\" /></p>\n",
+			"date_published": "2018-10-14T09:43:13+08:00",
+			"url": "https://micro.oxus.net/2018/10/14/shuttered-polling-sites.html",
+			"image": "http://micro.oxus.net/uploads/2018/df6c5a63a7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/df6c5a63a7.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/09/fest.html",
+			
+			"content_text": "<p>🐌 fest</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/3e8293703b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-09T22:26:24+08:00",
+			"url": "https://micro.oxus.net/2018/10/09/fest.html",
+			"image": "http://micro.oxus.net/uploads/2018/3e8293703b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/3e8293703b.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/08/marion-stanfords-yard.html",
+			
+			"content_text": "<p><a href=\"https://www.washingtonpost.com/politics/2018/10/06/texas-yard-sign-depicted-gop-elephant-with-its-trunk-up-girls-skirt-police-seized-it/?utm_term=.5c03b9b9355f\">Marion Stanford’s yard sign of GOP elephant with trunk up girl’s skirt confiscated</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/ec9e8500aa.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-10-08T09:42:27+08:00",
+			"url": "https://micro.oxus.net/2018/10/08/marion-stanfords-yard.html",
+			"image": "http://micro.oxus.net/uploads/2018/ec9e8500aa.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/ec9e8500aa.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/07/foamy-weather.html",
+			
+			"content_text": "<p>Foamy weather</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/dc3ff9367e.jpg\" width=\"600\" height=\"479\" /></p>\n",
+			"date_published": "2018-10-07T18:21:06+08:00",
+			"url": "https://micro.oxus.net/2018/10/07/foamy-weather.html",
+			"image": "http://micro.oxus.net/uploads/2018/dc3ff9367e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/dc3ff9367e.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/07/101833.html",
+			
+			"content_text": "<p>🦎</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/379db4b492.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-10-07T18:18:33+08:00",
+			"url": "https://micro.oxus.net/2018/10/07/101833.html",
+			"image": "http://micro.oxus.net/uploads/2018/379db4b492.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/379db4b492.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/07/evening-yoga.html",
+			
+			"content_text": "<p>Evening yoga</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/01a98a7cdc.jpg\" width=\"600\" height=\"478\" /></p>\n",
+			"date_published": "2018-10-07T10:04:04+08:00",
+			"url": "https://micro.oxus.net/2018/10/07/evening-yoga.html",
+			"image": "http://micro.oxus.net/uploads/2018/01a98a7cdc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/01a98a7cdc.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/05/autumn-morning-in.html",
+			
+			"content_text": "<p>Autumn morning in Hualien</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/4739d2a825.jpg\" width=\"600\" height=\"478\" /></p>\n",
+			"date_published": "2018-10-05T18:45:57+08:00",
+			"url": "https://micro.oxus.net/2018/10/05/autumn-morning-in.html",
+			"image": "http://micro.oxus.net/uploads/2018/4739d2a825.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/4739d2a825.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/03/presidential-alert.html",
+			
+			"content_text": "<p>Presidential Alert</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/32ae7d5aa8.jpg\" width=\"600\" height=\"479\" /></p>\n",
+			"date_published": "2018-10-04T07:47:00+08:00",
+			"url": "https://micro.oxus.net/2018/10/04/presidential-alert.html",
+			"image": "http://micro.oxus.net/uploads/2018/32ae7d5aa8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/32ae7d5aa8.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/03/infographic-why-all.html",
+			
+			"content_text": "<p><a href=\"https://international.thenewslens.com/article/105272\">INFOGRAPHIC: Why All Typhoons Have Missed Taiwan in 2018</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/f94459d547.jpg\" width=\"500\" height=\"500\" /></p>\n",
+			"date_published": "2018-10-04T06:15:30+08:00",
+			"url": "https://micro.oxus.net/2018/10/04/infographic-why-all.html",
+			"image": "http://micro.oxus.net/uploads/2018/f94459d547.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/f94459d547.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/10/01/watching-together.html",
+			
+			"content_text": "<p>Watching together</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/eb20aec282.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-01T09:21:47+08:00",
+			"url": "https://micro.oxus.net/2018/10/01/watching-together.html",
+			"image": "http://micro.oxus.net/uploads/2018/eb20aec282.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/eb20aec282.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/23/if-you-are.html",
+			
+			"content_text": "<p>If you are an academic, please consider joining the <a href=\"https://xinjianginitiative.wixsite.com/xjinitiative\">Xinjiang Initiative</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/7c5d8d3bae.jpg\" width=\"600\" height=\"433\" /></p>\n",
+			"date_published": "2018-09-23T22:41:08+08:00",
+			"url": "https://micro.oxus.net/2018/09/23/if-you-are.html",
+			"image": "http://micro.oxus.net/uploads/2018/7c5d8d3bae.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/7c5d8d3bae.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/22/my-mom-was.html",
+			
+			"content_text": "<p>My mom was telling me about the Jewish “Dairy Restaurants” of her childhood. Here is the menu of one, and there is a good discussion <a href=\"https://www.chowhound.com/post/jewish-dairy-restaurant-370237?page=2\">here</a> Any good ones left in the NY area I could check out next time I’m home?</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/b1eea87301.jpg\" width=\"388\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-22T10:14:42+08:00",
+			"url": "https://micro.oxus.net/2018/09/22/my-mom-was.html",
+			"image": "http://micro.oxus.net/uploads/2018/b1eea87301.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/b1eea87301.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/19/carpark-view.html",
+			
+			"content_text": "<p>Carpark view</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e1688e5bf8.jpg\" width=\"600\" height=\"478\" /></p>\n",
+			"date_published": "2018-09-19T11:51:29+08:00",
+			"url": "https://micro.oxus.net/2018/09/19/carpark-view.html",
+			"image": "http://micro.oxus.net/uploads/2018/e1688e5bf8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/e1688e5bf8.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/19/pot-of-gold.html",
+			
+			"content_text": "<p>Pot of gold</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/c0ea0c65ce.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-19T08:48:48+08:00",
+			"url": "https://micro.oxus.net/2018/09/19/pot-of-gold.html",
+			"image": "http://micro.oxus.net/uploads/2018/c0ea0c65ce.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/c0ea0c65ce.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/18/siri-suggestions-in.html",
+			
+			"content_text": "<p>Siri Suggestions in iOS 12 are great, but they are also totally opaque. To get an alarm suggestion it wasn’t enough to turn on an existing alarm, I had to delete it and re-create it… Why can’t we just have a list?</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/3b67ea49ac.jpg\" width=\"600\" height=\"179\" /></p>\n",
+			"date_published": "2018-09-18T20:55:01+08:00",
+			"url": "https://micro.oxus.net/2018/09/18/siri-suggestions-in.html",
+			"image": "http://micro.oxus.net/uploads/2018/3b67ea49ac.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/3b67ea49ac.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/18/sheltering-from-the.html",
+			
+			"content_text": "<p>Sheltering from the sun</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/334d20a83a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-18T13:01:37+08:00",
+			"url": "https://micro.oxus.net/2018/09/18/sheltering-from-the.html",
+			"image": "http://micro.oxus.net/uploads/2018/334d20a83a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/334d20a83a.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/13/this-place-seems.html",
+			
+			"content_text": "<p>This place seems popular, it’s packed with customers right now.</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/ef63dd479b.jpg\" width=\"562\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-13T18:44:36+08:00",
+			"url": "https://micro.oxus.net/2018/09/13/this-place-seems.html",
+			"image": "http://micro.oxus.net/uploads/2018/ef63dd479b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/ef63dd479b.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/13/scariest-campaign-poster.html",
+			
+			"content_text": "<p>Scariest campaign poster in Taiwan. 台灣最可怕的選舉海報。</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/dc82542b8c.jpg\" width=\"600\" height=\"598\" /></p>\n",
+			"date_published": "2018-09-13T17:49:01+08:00",
+			"url": "https://micro.oxus.net/2018/09/13/scariest-campaign-poster.html",
+			"image": "http://micro.oxus.net/uploads/2018/dc82542b8c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/dc82542b8c.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/09/god-for-sale.html",
+			
+			"content_text": "<p>God for sale</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/53cc18eadc.jpg\" width=\"600\" height=\"598\" /></p>\n",
+			"date_published": "2018-09-10T06:44:14+08:00",
+			"url": "https://micro.oxus.net/2018/09/10/god-for-sale.html",
+			"image": "http://micro.oxus.net/uploads/2018/53cc18eadc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/53cc18eadc.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/06/to-be-clear.html",
+			
+			"content_text": "<p>“To be clear, ours is not the popular ‘resistance’ of, well you know, The Resistance. We want this administration to succeed and think that many of its policies have already made the galaxy safer and more prosperous.”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/0aa52cf2dc.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-06T14:55:45+08:00",
+			"url": "https://micro.oxus.net/2018/09/06/to-be-clear.html",
+			"image": "http://micro.oxus.net/uploads/2018/0aa52cf2dc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/0aa52cf2dc.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/05/folks-theres-nothing.html",
+			
+			"content_text": "<p>“<a href=\"https://allthingslinguistic.com/post/177712815507/folks-theres-nothing-left-from-the-linguistics\">Folks, there’s nothing left from the Linguistics division</a>.”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/0d56ccb98e.jpg\" width=\"600\" height=\"415\" /></p>\n",
+			"date_published": "2018-09-06T06:13:28+08:00",
+			"url": "https://micro.oxus.net/2018/09/06/folks-theres-nothing.html",
+			"image": "http://micro.oxus.net/uploads/2018/0d56ccb98e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/0d56ccb98e.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/09/01/i-mostly-used.html",
+			
+			"content_text": "<p>I mostly used to pick up the Village Voice for the cartoons. Here’s an evergreen “Life in Hell” from the year that the internet launched, eventually killing the advertising revenue which had kept the paper alive:</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/6e629b253e.jpg\" width=\"500\" height=\"551\" /></p>\n",
+			"date_published": "2018-09-01T11:11:58+08:00",
+			"url": "https://micro.oxus.net/2018/09/01/i-mostly-used.html",
+			"image": "http://micro.oxus.net/uploads/2018/6e629b253e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/6e629b253e.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/30/a-meme-in.html",
+			
+			"content_text": "<p>A meme in honor of United’s “solution” of listing Taiwan by currency instead of as a country so as not to piss off China.</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/cda15e86f8.jpg\" width=\"427\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-30T09:48:31+08:00",
+			"url": "https://micro.oxus.net/2018/08/30/a-meme-in.html",
+			"image": "http://micro.oxus.net/uploads/2018/cda15e86f8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/cda15e86f8.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/28/i-love-taiwan.html",
+			
+			"content_text": "<p>I love Taiwan so much. Look 👀 at everyone waiting behind the yellow line for their luggage! 😮</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/b4684c48eb.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-28T10:21:15+08:00",
+			"url": "https://micro.oxus.net/2018/08/28/i-love-taiwan.html",
+			"image": "http://micro.oxus.net/uploads/2018/b4684c48eb.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/b4684c48eb.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/26/not-the-skyline.html",
+			
+			"content_text": "<p>Not the skyline I remember…</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/bf7ec70215.jpg\" width=\"600\" height=\"479\" /></p>\n",
+			"date_published": "2018-08-26T09:56:28+08:00",
+			"url": "https://micro.oxus.net/2018/08/26/not-the-skyline.html",
+			"image": "http://micro.oxus.net/uploads/2018/bf7ec70215.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/bf7ec70215.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/26/empire-state-building.html",
+			
+			"content_text": "<p>Empire State Building (through binoculars)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/b93096c0ae.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-26T09:54:08+08:00",
+			"url": "https://micro.oxus.net/2018/08/26/empire-state-building.html",
+			"image": "http://micro.oxus.net/uploads/2018/b93096c0ae.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/b93096c0ae.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/24/annual-global-temperatures.html",
+			
+			"content_text": "<p><a href=\"http://www.climate-lab-book.ac.uk/2018/warming-stripes/\">Annual global temperatures from 1850-2017</a> (The colour scale represents the change in global temperatures covering 1.35°C)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/382ec2c36d.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-08-24T21:15:48+08:00",
+			"url": "https://micro.oxus.net/2018/08/24/annual-global-temperatures.html",
+			"image": "http://micro.oxus.net/uploads/2018/382ec2c36d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/382ec2c36d.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/22/why-wait-to.html",
+			
+			"content_text": "<p>Why wait to be a 🦋 when you can strut your stuff as a 🐛?</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/5b17500571.jpg\" width=\"600\" height=\"598\" /></p>\n",
+			"date_published": "2018-08-23T07:16:47+08:00",
+			"url": "https://micro.oxus.net/2018/08/23/why-wait-to.html",
+			"image": "http://micro.oxus.net/uploads/2018/5b17500571.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/5b17500571.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/20/groundhog-day-shot.html",
+			
+			"content_text": "<p>Groundhog Day! (Shot through a pair of binoculars …)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/bfda77d274.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-21T04:33:34+08:00",
+			"url": "https://micro.oxus.net/2018/08/21/groundhog-day-shot.html",
+			"image": "http://micro.oxus.net/uploads/2018/bfda77d274.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/bfda77d274.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/19/gehry-sunset.html",
+			
+			"content_text": "<p>Gehry sunset</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/8087152c4d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-19T19:53:16+08:00",
+			"url": "https://micro.oxus.net/2018/08/19/gehry-sunset.html",
+			"image": "http://micro.oxus.net/uploads/2018/8087152c4d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/8087152c4d.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/18/explorers.html",
+			
+			"content_text": "<p>Explorers</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/74c79329b6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-18T22:59:17+08:00",
+			"url": "https://micro.oxus.net/2018/08/18/explorers.html",
+			"image": "http://micro.oxus.net/uploads/2018/74c79329b6.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/74c79329b6.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/16/the-shareholder-revolution.html",
+			
+			"content_text": "<p><a href=\"https://www.thenation.com/article/the-shareholder-revolution-devours-its-children/\">The Shareholder Revolution Devours Its Children</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/1b1081058d.jpg\" width=\"600\" height=\"377\" /></p>\n",
+			"date_published": "2018-08-17T03:25:03+08:00",
+			"url": "https://micro.oxus.net/2018/08/17/the-shareholder-revolution.html",
+			"image": "http://micro.oxus.net/uploads/2018/1b1081058d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/1b1081058d.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/16/photos-franklin-street.html",
+			
+			"content_text": "<p><a href=\"http://gothamist.com/2018/08/15/aretha_franklin_subway_station.php#photo-1\">Photos: Franklin Street Subway Station Turned Into Makeshift Aretha Franklin Tribute</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/72e2eb1925.jpg\" width=\"600\" height=\"376\" /></p>\n",
+			"date_published": "2018-08-17T02:15:54+08:00",
+			"url": "https://micro.oxus.net/2018/08/17/photos-franklin-street.html",
+			"image": "http://micro.oxus.net/uploads/2018/72e2eb1925.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/72e2eb1925.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/16/on-this-site.html",
+			
+			"content_text": "<p>On this site…</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/282cb2c6e0.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-17T01:50:13+08:00",
+			"url": "https://micro.oxus.net/2018/08/17/on-this-site.html",
+			"image": "http://micro.oxus.net/uploads/2018/282cb2c6e0.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/282cb2c6e0.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/15/much-fungi-many.html",
+			
+			"content_text": "<p>Much fungi, many shrooms…</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/77d8d0e738.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/80bc44b71c.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/2e7e50be97.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/de0b10a7ff.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/6b39f70880.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/c64e1349cb.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.oxus.net/uploads/2018/48f779d2e5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-15T09:25:13+08:00",
+			"url": "https://micro.oxus.net/2018/08/15/much-fungi-many.html",
+			"image": "http://micro.oxus.net/uploads/2018/48f779d2e5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/48f779d2e5.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/14/thorium-uranium.html",
+			
+			"content_text": "<p>Thorium 👍 Uranium 👎</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/879e674bf9.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-15T07:30:21+08:00",
+			"url": "https://micro.oxus.net/2018/08/15/thorium-uranium.html",
+			"image": "http://micro.oxus.net/uploads/2018/879e674bf9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/879e674bf9.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/09/cause-for-hope.html",
+			
+			"content_text": "<p>(Cause for hope?) ❝Democrats have <a href=\"https://www.axios.com/newsletters/axios-pm-c9111384-1e3b-43fb-887e-7b050739a894.html\">outperformed in each special election since President Trump took office</a> by an average of 8.5 points…double the margin required for Democrats to take back the House❞</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/fc7c5a7780.jpg\" width=\"600\" height=\"569\" /></p>\n",
+			"date_published": "2018-08-09T09:50:14+08:00",
+			"url": "https://micro.oxus.net/2018/08/09/cause-for-hope.html",
+			"image": "http://micro.oxus.net/uploads/2018/fc7c5a7780.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/fc7c5a7780.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/07/064543.html",
+			
+			"content_text": "<p>🐌💋</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/394f448f9b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-07T14:45:43+08:00",
+			"url": "https://micro.oxus.net/2018/08/07/064543.html",
+			"image": "http://micro.oxus.net/uploads/2018/394f448f9b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/394f448f9b.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/07/pterodactyl-vs-fish.html",
+			
+			"content_text": "<p>pterodactyl vs fish</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/325bfd0c8c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-07T14:43:21+08:00",
+			"url": "https://micro.oxus.net/2018/08/07/pterodactyl-vs-fish.html",
+			"image": "http://micro.oxus.net/uploads/2018/325bfd0c8c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/325bfd0c8c.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/08/06/100914.html",
+			
+			"content_text": "<p>英雄廣場商業大樓</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e0a0127040.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-06T18:09:14+08:00",
+			"url": "https://micro.oxus.net/2018/08/06/100914.html",
+			"image": "http://micro.oxus.net/uploads/2018/e0a0127040.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/e0a0127040.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/31/the-wing-chun.html",
+			
+			"content_text": "<p>The Wing Chun master’s rooster</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/2c4b064055.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-01T07:21:36+08:00",
+			"url": "https://micro.oxus.net/2018/08/01/the-wing-chun.html",
+			"image": "http://micro.oxus.net/uploads/2018/2c4b064055.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/2c4b064055.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/30/on-my-fb.html",
+			
+			"content_text": "<p>On my FB feed I’m seeing posts by @m4abhi of the lawyer’s strike at the Metropolitan Court in Ahmedabad. Here, is a screen grab of a short piece I wrote for DNA Ahmedabad in 2010 called “A Look at Why Chharanagar is the Land of Lawyers.”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/390241161c.jpg\" width=\"600\" height=\"169\" /></p>\n",
+			"date_published": "2018-07-30T15:35:07+08:00",
+			"url": "https://micro.oxus.net/2018/07/30/on-my-fb.html",
+			"image": "http://micro.oxus.net/uploads/2018/390241161c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/390241161c.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/26/sophie-gave-me.html",
+			
+			"content_text": "<p>Sophie gave me a new yoga prop, but I’m not sure how to use it?</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/1cac0c5606.jpg\" width=\"600\" height=\"478\" /></p>\n",
+			"date_published": "2018-07-26T22:37:42+08:00",
+			"url": "https://micro.oxus.net/2018/07/26/sophie-gave-me.html",
+			"image": "http://micro.oxus.net/uploads/2018/1cac0c5606.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/1cac0c5606.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/22/adiler.html",
+			
+			"content_text": "<p>Adiler</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/7d85df98f5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-22T21:46:47+08:00",
+			"url": "https://micro.oxus.net/2018/07/22/adiler.html",
+			"image": "http://micro.oxus.net/uploads/2018/7d85df98f5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/7d85df98f5.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/21/amanth-panel-indexing.html",
+			
+			"title": "#AmAnth2018 Panel: Indexing Indigeneity in Taiwan",
+			
+			"content_text": "<p><img src=\"http://micro.oxus.net/uploads/2018/0d21b0a840.jpg\" width=\"506\" height=\"381\" /></p>\n\n<h4 id=\"indexing-indigeneity-in-taiwan-resistance-and-adaptation-in-taiwanese-visual-culture\">Indexing Indigeneity in Taiwan: Resistance and Adaptation in Taiwanese Visual Culture</h4>\n<ul>\n  <li>Cosponsored by the Society for Visual Anthropology and the Society for East Asian Anthropology</li>\n  <li>Panelists: Skaya Siku, Futuru C.L. Tsai, P. Kerim Friedman, Tzu Tung Lee, Eliana Ritts, Darryl Sterk</li>\n  <li>Discussant: Marc L. Moskowitz</li>\n</ul>\n\n<h4 id=\"date-and-time\">Date and Time</h4>\n<ul>\n  <li>Friday, November 16, 2018</li>\n  <li>10:15 AM - 12:00 PM</li>\n</ul>\n\n<h4 id=\"session-abstract\">Session Abstract:</h4>\n<blockquote>\n  <p>Taiwanese indigenous cultures have survived settler violence during the Qing, colonial occupation under the Japanese, forced assimilation under Nationalist (KMT) martial law, and the commodification of their cultures in an era of globalization. This amazing resilience is a product of both resistance and adaptation. This panel looks at these strategies through the lens of indigenous visual culture, including papers on fine art, documentary and feature film, television, and livestreaming on social media. Drawing on work in linguistic anthropology, these papers explore the wide variety of ways in which indigenous identities have been indexed (Silverstein 2003) through visual representation as well as the language in which those representations are embedded. Taiwanese indigeneity has played an increasingly iconic role in debates over Taiwanese national identity. Accordingly, these papers explore the shifting chronotopes (Bakhtin 1981) of indigeneity at work focus has shifted from more recent immigration to Taiwan (by Chinese settlers) to ancient migrations out of Taiwan (by Austronesian explorers). Within the larger framework of Taiwan’s shifting chronotopes, the six papers on this panel further tackle issues relating to the production, dissemination, and language of indigenous visual media in Taiwan. Two of the papers (Ritts and Tsai) explore the aesthetic choices made in the production process. Ritts asks what it means to make “slow TV” on Taiwan’s indigenous television station, while Tsai explores his own use of sensory ethnography in documenting ‘Amis spearfishing practices. Two of the papers (Friedman and Siku) explore the dissemination of documentary films by and about indigenous Taiwanese. Friedman explores the shifting chronotopes of ethnographic films over the history of the Taiwan International Ethnographic Film Festival (TIEFF), while Siku looks at how one indigenous filmmaker and activist, Mayaw Biho, has been making use of video livestreaming. The last two papers (Sterk and Lee) both look at the role of language in visual culture. Sterk explores the role of endangered languages in feature films, as well as how those films are interpreted by indigenous audiences, while Lee explores the shifting linguistic framing of indigenous art works for exhibition audiences. Although focused on Taiwan, these papers ask fundamental questions about indigeneity and visual culture while making innovative use of theoretical paradigms drawn from linguistic anthropology.</p>\n</blockquote>\n\n",
+			"date_published": "2018-07-21T13:21:19+08:00",
+			"url": "https://micro.oxus.net/2018/07/21/amanth-panel-indexing.html",
+			"image": "http://micro.oxus.net/uploads/2018/0d21b0a840.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/0d21b0a840.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/21/some-brief-thoughts.html",
+			
+			"title": "Some Brief Thoughts on Trump and Russia (with links)",
+			
+			"content_text": "<p><img src=\"http://micro.oxus.net/uploads/2018/99c30dc6f5.jpg\" width=\"600\" height=\"427\" /></p>\n\n<p>It seems to me that Trump’s love of Russian is <a href=\"https://foreignpolicy.com/2018/07/19/the-manchurian-idiot-helsinki-putin-trump/\">not about policy</a>, but about a <a href=\"https://twitter.com/HeerJeet/status/1019003028265885696\">shared racist, patriarchal, world view</a>. That, and his <a href=\"https://newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate\">financial dependency</a> on the Russian mob. I think that those things, along with <a href=\"https://www.politico.com/magazine/story/2018/07/20/confession-of-a-no-longer-russiagate-skeptic-219022\">Russian meddling in the election</a>, are enough to explain Trump’s actions, <a href=\"https://www.vox.com/conversations/2017/2/22/14697718/trump-putin-helsinki-meeting-hillary-clinton\">without need to invoke the ‘pee tapes’</a>.</p>\n\n<p>What to do about Russian meddling? I agree with Seth Ackerman that rather than freaking out about “treason,” we should be looking at “<a href=\"https://www.jacobinmag.com/2018/07/russia-election-meddling-putin\">practical steps to deal with the problem</a>” which <a href=\"https://www.jacobinmag.com/2018/07/trump-putin-russia-liberals-helsinki\">few people are doing</a>… I suppose some think yelling “treason” enough will win Republicans over to impeaching Trump, but it seems <a href=\"https://www.nytimes.com/aponline/2018/07/19/us/politics/ap-us-trump-democrats-treason.html\">hard to tell</a> if that would work or just backfire? Personally, I would really like to see the US <a href=\"https://www.vox.com/2018/4/3/17189906/russian-election-hacking-paper-ballots\">switch to paper ballots</a>.</p>\n\n<p>As far as the well documented history of the US interfering in foreign elections is concerned, I think Nathan Robinson is right that “<a href=\"https://www.currentaffairs.org/2018/07/liberalism-and-empire\">Trump exceptionalism will kill every one of your brain cells</a>.” And commentators should retain some perspective, but those on the left should equally be wary of descending into the kind of “<a href=\"https://en.wiktionary.org/wiki/whataboutery\">whataboutery</a>” that liberals so often use to undermine those issues the left holds dear.</p>\n\n<h3 id=\"updates\">UPDATES:</h3>\n<ul>\n  <li>NPR <a href=\"https://www.npr.org/2018/07/20/630659379/is-trump-the-toughest-ever-on-russia?utm_source=dlvr.it&amp;utm_medium=twitter\">considers</a> whether “this administration has been much tougher on Russia than any in the post-Cold War era”?</li>\n</ul>\n\n<p><a href=\"http://www.breakingburgh.com/cuba-greatly-concerned-presence-russian-client-state-90-miles-away/\">Image source</a></p>\n\n",
+			"date_published": "2018-07-21T13:00:19+08:00",
+			"url": "https://micro.oxus.net/2018/07/21/some-brief-thoughts.html",
+			"image": "http://micro.oxus.net/uploads/2018/99c30dc6f5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/99c30dc6f5.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/21/less-than-us.html",
+			
+			"content_text": "<p>Less than US$2 for a whole basket of vegetarian dumplings from a street vendor in Taipei! 素食小籠包🥟😋😍</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/02288e8395.jpg\" width=\"600\" height=\"479\" /></p>\n",
+			"date_published": "2018-07-21T10:55:37+08:00",
+			"url": "https://micro.oxus.net/2018/07/21/less-than-us.html",
+			"image": "http://micro.oxus.net/uploads/2018/02288e8395.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/02288e8395.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/18/in-this-heat.html",
+			
+			"content_text": "<p>In this heat, I don’t blame them for waiting for the light to change in the shade…</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/126b9c5fdd.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-18T18:48:24+08:00",
+			"url": "https://micro.oxus.net/2018/07/18/in-this-heat.html",
+			"image": "http://micro.oxus.net/uploads/2018/126b9c5fdd.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/126b9c5fdd.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/16/phd-students-notes.html",
+			
+			"content_text": "<p>PhD student’s notes writing during our wide ranging, three hour long, discussion of indigenous sovereignty, social movements, and political anthro…</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/1d9da71455.jpg\" width=\"600\" height=\"494\" /></p>\n",
+			"date_published": "2018-07-16T11:18:04+08:00",
+			"url": "https://micro.oxus.net/2018/07/16/phd-students-notes.html",
+			"image": "http://micro.oxus.net/uploads/2018/1d9da71455.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/1d9da71455.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/14/doraemon-has-a.html",
+			
+			"content_text": "<p>Doraemon has a toothache</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/c3d005230d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-14T14:46:04+08:00",
+			"url": "https://micro.oxus.net/2018/07/14/doraemon-has-a.html",
+			"image": "http://micro.oxus.net/uploads/2018/c3d005230d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/c3d005230d.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/11/fried-bread-sticks.html",
+			
+			"content_text": "<p>Fried bread sticks (油條) getting made</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/de20ff6d74.jpg\" width=\"600\" height=\"598\" /></p>\n",
+			"date_published": "2018-07-11T15:12:19+08:00",
+			"url": "https://micro.oxus.net/2018/07/11/fried-bread-sticks.html",
+			"image": "http://micro.oxus.net/uploads/2018/de20ff6d74.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/de20ff6d74.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/07/10/classy-hotel-for.html",
+			
+			"content_text": "<p>Classy hotel for classy people</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/ecf1611355.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-10T08:21:56+08:00",
+			"url": "https://micro.oxus.net/2018/07/10/classy-hotel-for.html",
+			"image": "http://micro.oxus.net/uploads/2018/ecf1611355.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/ecf1611355.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/06/18/httpsxkcdcom.html",
+			
+			"content_text": "<p><a href=\"https://xkcd.com/2005/\">xkcd.com/2005/</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/8b2ecaffda.jpg\" width=\"443\" height=\"557\" /></p>\n",
+			"date_published": "2018-06-18T09:02:43+08:00",
+			"url": "https://micro.oxus.net/2018/06/18/httpsxkcdcom.html",
+			"image": "http://micro.oxus.net/uploads/2018/8b2ecaffda.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/8b2ecaffda.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/06/08/petition-letter-to.html",
+			
+			"content_text": "<p><a href=\"https://www.change.org/p/letter-to-the-leadership-of-the-association-for-asian-studies\">Petition · Letter to the Leadership of the Association for Asian Studies</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/4cdb3d377a.jpg\" width=\"479\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-08T11:36:32+08:00",
+			"url": "https://micro.oxus.net/2018/06/08/petition-letter-to.html",
+			"image": "http://micro.oxus.net/uploads/2018/4cdb3d377a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/4cdb3d377a.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/05/24/centrists-are-the.html",
+			
+			"content_text": "<p><a href=\"https://www.nytimes.com/interactive/2018/05/23/opinion/international-world/centrists-democracy.html\">Centrists Are the Most Hostile to Democracy, Not Extremists</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/985bfd9822.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-24T11:35:26+08:00",
+			"url": "https://micro.oxus.net/2018/05/24/centrists-are-the.html",
+			"image": "http://micro.oxus.net/uploads/2018/985bfd9822.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/985bfd9822.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/05/19/so-today-i.html",
+			
+			"content_text": "<p>So today I learned that the Chinese translation of The Big Lebowski is “The Green Toe Murder” 《謀殺綠腳趾》. It makes sense, but sounds like a very different kind of film…</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/97fb2d2470.jpg\" width=\"225\" height=\"225\" /></p>\n",
+			"date_published": "2018-05-19T10:59:22+08:00",
+			"url": "https://micro.oxus.net/2018/05/19/so-today-i.html",
+			"image": "http://micro.oxus.net/uploads/2018/97fb2d2470.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/97fb2d2470.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/05/13/really-excited-for.html",
+			
+			"content_text": "<p>Really excited for this special issue of <em>Boundary 2</em> on Taiwan to finally be coming out!</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/4d6ee1f9b3.jpg\" width=\"367\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-13T11:23:42+08:00",
+			"url": "https://micro.oxus.net/2018/05/13/really-excited-for.html",
+			"image": "http://micro.oxus.net/uploads/2018/4d6ee1f9b3.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/4d6ee1f9b3.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/05/05/taiwans-government-still.html",
+			
+			"content_text": "<p>Taiwan’s government still hasn’t figured out if they are the empire or the rebel alliance … #may4th</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/2014252c7e.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-05-05T13:39:25+08:00",
+			"url": "https://micro.oxus.net/2018/05/05/taiwans-government-still.html",
+			"image": "http://micro.oxus.net/uploads/2018/2014252c7e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/2014252c7e.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/04/27/asian-tigers-leave.html",
+			
+			"content_text": "<p><a href=\"https://www.bloomberg.com/amp/news/articles/2018-04-26/asian-tigers-leave-taiwan-behind-as-economic-fortunes-diverge\">Asian Tigers Leave Taiwan Behind</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e7a55eaa92.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-04-28T06:55:42+08:00",
+			"url": "https://micro.oxus.net/2018/04/28/asian-tigers-leave.html",
+			"image": "http://micro.oxus.net/uploads/2018/e7a55eaa92.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/e7a55eaa92.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/04/20/that-moment-when.html",
+			
+			"content_text": "<p>That moment when Lady Subaru dissolves the Crimson Knights rather than establish a “state of exception”! (From the anime .hack//Sign)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/d7f48a8562.jpg\" width=\"600\" height=\"582\" /><img src=\"http://micro.oxus.net/uploads/2018/53be7d3eaa.jpg\" width=\"600\" height=\"555\" /><img src=\"http://micro.oxus.net/uploads/2018/fa83b606f4.jpg\" width=\"600\" height=\"549\" /><img src=\"http://micro.oxus.net/uploads/2018/5281af26b7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-20T17:04:29+08:00",
+			"url": "https://micro.oxus.net/2018/04/20/that-moment-when.html",
+			"image": "http://micro.oxus.net/uploads/2018/5281af26b7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/5281af26b7.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/04/18/if-you-criticize.html",
+			
+			"content_text": "<p>If you criticize one scholar you are a gadfly, criticize a hundred and you are a philosopher.</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/f60bfff7c9.jpg\" width=\"600\" height=\"198\" /></p>\n",
+			"date_published": "2018-04-18T13:33:53+08:00",
+			"url": "https://micro.oxus.net/2018/04/18/if-you-criticize.html",
+			"image": "http://micro.oxus.net/uploads/2018/f60bfff7c9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/f60bfff7c9.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/03/30/money-lost-each.html",
+			
+			"content_text": "<p><a href=\"https://reddit.com/r/dataisbeautiful/comments/88b0be/first_post_money_lost_each_year_to_theft_oc/\">Money lost each year to theft</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/98f1a476c9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-31T06:21:35+08:00",
+			"url": "https://micro.oxus.net/2018/03/31/money-lost-each.html",
+			"image": "http://micro.oxus.net/uploads/2018/98f1a476c9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/98f1a476c9.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/03/21/132730.html",
+			
+			"content_text": "<p><a href=\"http://news.ltn.com.tw/news/world/breakingnews/2372359\">馬克思200歲冥誕化身故鄉德國古城紅綠燈小人</a> (Marx’s birthplace celebrates his 200th with special traffic lights.)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/61d2b10c7e.jpg\" width=\"540\" height=\"303\" /></p>\n",
+			"date_published": "2018-03-21T21:27:30+08:00",
+			"url": "https://micro.oxus.net/2018/03/21/132730.html",
+			"image": "http://micro.oxus.net/uploads/2018/61d2b10c7e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/61d2b10c7e.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/03/11/the-us-can.html",
+			
+			"content_text": "<p><a href=\"https://mobile.nytimes.com/2018/01/24/opinion/poverty-united-states.html?referer=https://getpocket.com/\">The U.S. Can No Longer Hide From Its Deep Poverty Problem</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/296c029f97.jpg\" width=\"396\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-11T09:11:38+08:00",
+			"url": "https://micro.oxus.net/2018/03/11/the-us-can.html",
+			"image": "http://micro.oxus.net/uploads/2018/296c029f97.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/296c029f97.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/03/04/012507.html",
+			
+			"content_text": "<p><img src=\"http://micro.oxus.net/uploads/2018/9c663d2d6c.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-03-04T09:25:07+08:00",
+			"url": "https://micro.oxus.net/2018/03/04/012507.html",
+			"image": "http://micro.oxus.net/uploads/2018/9c663d2d6c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/9c663d2d6c.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/02/24/i-really-have.html",
+			
+			"content_text": "<p>I really have to see Black Panther soon, my “spoilers” tag in Pocket (of stuff I can’t read until I’ve seen the movie or TV show) is getting a bit too long…</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/c15b699fd4.jpg\" width=\"600\" height=\"418\" /></p>\n",
+			"date_published": "2018-02-24T22:34:52+08:00",
+			"url": "https://micro.oxus.net/2018/02/24/i-really-have.html",
+			"image": "http://micro.oxus.net/uploads/2018/c15b699fd4.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/c15b699fd4.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/02/19/metoo-in-china.html",
+			
+			"content_text": "<p><a href=\"http://elephant-room.com/2018/02/13/metoo/\">#MeToo in China: the Story Beyond Censorship</a></p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/9f60b32ede.jpg\" width=\"600\" height=\"333\" /></p>\n",
+			"date_published": "2018-02-19T16:59:49+08:00",
+			"url": "https://micro.oxus.net/2018/02/19/metoo-in-china.html",
+			"image": "http://micro.oxus.net/uploads/2018/9f60b32ede.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/9f60b32ede.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/02/09/failing-health-of.html",
+			
+			"content_text": "<p><a href=\"http://www.bmj.com/content/360/bmj.k496\">Failing health of the United States</a> “the opioid epidemic is the tip of an iceberg, part of an even larger public health crisis in the US: death rates from alcohol abuse and suicides have also been rising.”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/ad325f0007.jpg\" width=\"600\" height=\"398\" /></p>\n",
+			"date_published": "2018-02-09T11:19:58+08:00",
+			"url": "https://micro.oxus.net/2018/02/09/failing-health-of.html",
+			"image": "http://micro.oxus.net/uploads/2018/ad325f0007.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/ad325f0007.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/02/06/why-asias-tigers.html",
+			
+			"content_text": "<p><a href=\"https://international.thenewslens.com/article/89122\">Why Asia’s Tigers Suffer while the Nordics Thrive (Part 2)</a> “Taiwan’s relative poverty rate is also low at 6.6 percent but this could be due to stagnant wages, which depress the median wage”</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/2b590cda20.jpg\" width=\"235\" height=\"234\" /></p>\n",
+			"date_published": "2018-02-06T21:47:08+08:00",
+			"url": "https://micro.oxus.net/2018/02/06/why-asias-tigers.html",
+			"image": "http://micro.oxus.net/uploads/2018/2b590cda20.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/2b590cda20.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/02/06/the-bitter-truth.html",
+			
+			"content_text": "<p><a href=\"https://international.thenewslens.com/article/88742\">The Bitter Truth: Why Asia’s Tigers Suffer while the Nordics Thrive (Part 1)</a> (It’s the unions…)</p>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/e689c4d560.jpg\" width=\"235\" height=\"234\" /></p>\n",
+			"date_published": "2018-02-06T21:42:47+08:00",
+			"url": "https://micro.oxus.net/2018/02/06/the-bitter-truth.html",
+			"image": "http://micro.oxus.net/uploads/2018/e689c4d560.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/e689c4d560.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/02/06/president-donald-trumpcommunicates.html",
+			
+			"content_text": "<blockquote>\n  <p>President Donald Trump…<a href=\"http://www.newsweek.com/trump-fire-and-fury-smart-genius-obama-774169\">communicates at the lowest grade level of the last 15 presidents</a>, according to a new analysis of the speech patterns of presidents going back to Herbert Hoover.</p>\n</blockquote>\n\n<p><img src=\"http://micro.oxus.net/uploads/2018/91496c9d00.jpg\" width=\"410\" height=\"409\" /></p>\n",
+			"date_published": "2018-02-06T09:50:06+08:00",
+			"url": "https://micro.oxus.net/2018/02/06/president-donald-trumpcommunicates.html",
+			"image": "http://micro.oxus.net/uploads/2018/91496c9d00.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.oxus.net/uploads/2018/91496c9d00.jpg"
+			}
+		}
+	]
+}
