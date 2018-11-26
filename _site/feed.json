@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/26/taylor-swift-makes.html",
+	      	
+			"content_html": "<p><a href=\"https://boingboing.net/2018/11/25/look-what-she-made-them-do.html\">Taylor Swift makes a payout to all Universal artists a clause in her new record deal</a> (This is actually an important story, and worth reading the full thing…)</p>\n",
+			"date_published": "2018-11-26T10:45:50+08:00",
+			"url": "https://micro.oxus.net/2018/11/26/taylor-swift-makes.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/25/over-half-of.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.top10vpn.com/free-vpn-app-investigation/\">over half of the top free VPN apps either had Chinese ownership or were actually based in China</a>”</p>\n",
+			"date_published": "2018-11-25T21:05:27+08:00",
+			"url": "https://micro.oxus.net/2018/11/25/over-half-of.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/25/chinas-sharp-power.html",
 	      	
 			"content_html": "<p><a href=\"https://www.ft.com/content/5c272b90-ec12-11e8-89c8-d36339d835c0?fbclid=IwAR24OAZ6Fi6AJ8gxv_36YXXlKQ75TFY-aVMOzRjaYRL-mjNrVeEBJE3b4X4\">China’s ‘sharp power’ play in Taiwan</a></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Does a dog feel a profound sense of <em>mono no aware</em> (物の哀れ) when it destroys a favorite toy?</p>\n",
 			"date_published": "2018-11-20T15:32:33+08:00",
 			"url": "https://micro.oxus.net/2018/11/20/does-a-dog.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/19/a-new-day.html",
-	      	
-			"content_html": "<p>A new day in New Taipei</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/a86a059267.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-11-20T07:07:31+08:00",
-			"url": "https://micro.oxus.net/2018/11/20/a-new-day.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/18/i-could-never.html",
-	      	
-			"content_html": "<p>I could never understand why airlines discourage you from checking luggage. Turns out <a href=\"https://www.npr.org/2015/01/21/378905601/tired-of-paying-for-checked-baggage-youre-actually-getting-a-good-deal\">that extra space is used for paid cargo</a>.</p>\n",
-			"date_published": "2018-11-19T06:30:01+08:00",
-			"url": "https://micro.oxus.net/2018/11/19/i-could-never.html"
 		}
 		
 	]
