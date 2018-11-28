@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/11/28/solo-a-star.html",
+	      	
+			"content_html": "<p>Solo: A Star Wars Story is “<a href=\"https://www.newyorker.com/culture/richard-brody/wookiee-nights-solo-a-star-wars-story-reviewed\">like watching a live-action dramatization of a download progress bar, with actors carrying bits of information from one side of the screen to the other</a>” 🤣🤣🤣</p>\n",
+			"date_published": "2018-11-28T10:54:06+08:00",
+			"url": "https://micro.oxus.net/2018/11/28/solo-a-star.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/27/the-dawnland-documentary.html",
+	      	
+			"content_html": "<p><a href=\"https://www.teenvogue.com/story/dawnland-documentary-us-government-took-indigenous-children-from-homes-placed-with-white-families\">The “Dawnland” Documentary Shows How the U.S. Government Took Indigenous Children From Their Homes and Placed Them With White Families</a></p>\n",
+			"date_published": "2018-11-27T19:35:23+08:00",
+			"url": "https://micro.oxus.net/2018/11/27/the-dawnland-documentary.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/27/im-at-the.html",
 	      	
 			"content_html": "<p>I’m at the eyeglass store (What?)\nI’m at the coffee shop (What?)\nI’m at the combination eyeglass store and coffee shop</p>\n<ul>\n  <li>h/t <a href=\"https://genius.com/Das-racist-combination-pizza-hut-and-taco-bell-lyrics\">Das Racist</a></li>\n</ul>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p><a href=\"http://www.theguardian.com/world/2018/nov/22/taiwan-gay-marriage-referendum-vote\">Sex, lies and heated debate: Taiwan prepares to vote in gay marriage referendum</a></p>\n",
 			"date_published": "2018-11-23T10:05:19+08:00",
 			"url": "https://micro.oxus.net/2018/11/23/sex-lies-and.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/22/hillary-clinton-europe.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theguardian.com/world/2018/nov/22/hillary-clinton-europe-must-curb-immigration-stop-populists-trump-brexit\">Hillary Clinton: Europe must curb immigration to stop rightwing populists</a> (This is the lesson she learned from 2016?)</p>\n",
-			"date_published": "2018-11-23T07:58:58+08:00",
-			"url": "https://micro.oxus.net/2018/11/23/hillary-clinton-europe.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/22/whiteumenta-experimental-media.html",
-	      	
-			"content_html": "<p><a href=\"http://whiteumenta.org/\">WHITEUMENTA</a> 第九屆台灣國際實驗媒體藝術展 = 白男人文件展 Experimental Media Art Festival in Taiwan 2018</p>\n",
-			"date_published": "2018-11-23T07:28:31+08:00",
-			"url": "https://micro.oxus.net/2018/11/23/whiteumenta-experimental-media.html"
 		}
 		
 	]
