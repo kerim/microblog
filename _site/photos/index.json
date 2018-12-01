@@ -7,6 +7,28 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/12/01/lighting-the-fire.html",
+			
+			"content_text": "<p>Lighting the fire at the opening ceremony for the new indigenous bamboo house built on campus.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/806bf4b3b1.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-12-01T11:02:50+08:00",
+			"url": "https://micro.oxus.net/2018/12/01/lighting-the-fire.html",
+			"image": "https://micro.oxus.net/uploads/2018/806bf4b3b1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/806bf4b3b1.jpg"
+			}
+		},
+		{
+			"id": "http://kerim.micro.blog/2018/12/01/truku-students-perform.html",
+			
+			"content_text": "<p>Truku students perform at opening ceremony for the new indigenous bamboo house built on campus.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/aaf29ab446.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-12-01T11:01:01+08:00",
+			"url": "https://micro.oxus.net/2018/12/01/truku-students-perform.html",
+			"image": "https://micro.oxus.net/uploads/2018/aaf29ab446.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.oxus.net/uploads/2018/aaf29ab446.jpg"
+			}
+		},
+		{
 			"id": "http://kerim.micro.blog/2018/11/23/misty-mountains.html",
 			
 			"content_text": "<p>Misty mountains</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/4f6504eb80.jpg\" width=\"600\" height=\"600\" /></p>\n",
