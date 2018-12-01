@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/12/01/lighting-the-fire.html",
+	      	
+			"content_html": "<p>Lighting the fire at the opening ceremony for the new indigenous bamboo house built on campus.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/806bf4b3b1.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-12-01T11:02:50+08:00",
+			"url": "https://micro.oxus.net/2018/12/01/lighting-the-fire.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/01/truku-students-perform.html",
+	      	
+			"content_html": "<p>Truku students perform at opening ceremony for the new indigenous bamboo house built on campus.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/aaf29ab446.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-12-01T11:01:01+08:00",
+			"url": "https://micro.oxus.net/2018/12/01/truku-students-perform.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/11/28/frankly-if-i.html",
+	      	
+			"content_html": "<p>“<a href=\"https://popula.com/2018/11/27/nyt-fact-check-david-brooks-2/\">Frankly, if I was your employer, I would consider an allusion to a discredited conspiracy theory to be a fireable offense.</a>”</p>\n",
+			"date_published": "2018-11-28T23:36:05+08:00",
+			"url": "https://micro.oxus.net/2018/11/28/frankly-if-i.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/11/28/solo-a-star.html",
 	      	
 			"content_html": "<p>Solo: A Star Wars Story is “<a href=\"https://www.newyorker.com/culture/richard-brody/wookiee-nights-solo-a-star-wars-story-reviewed\">like watching a live-action dramatization of a download progress bar, with actors carrying bits of information from one side of the screen to the other</a>” 🤣🤣🤣</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p><a href=\"https://qz.com/1471411/chat-apps-like-line-spread-anti-lgbt-fake-news-before-taiwan-same-sex-marriage-vote/\">Taiwan’s LGBT groups fight fake news on Line, Facebook before marriage-equality vote</a></p>\n",
 			"date_published": "2018-11-24T18:13:04+08:00",
 			"url": "https://micro.oxus.net/2018/11/24/taiwans-lgbt-groups.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/23/why-the-taiwan.html",
-	      	
-			"content_html": "<p><a href=\"http://www.chinafile.com/reporting-opinion/viewpoint/why-taiwan-midterm-elections-matter\">Why the Taiwan Midterm Elections Matter</a></p>\n",
-			"date_published": "2018-11-24T07:21:09+08:00",
-			"url": "https://micro.oxus.net/2018/11/24/why-the-taiwan.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/23/misty-mountains.html",
-	      	
-			"content_html": "<p>Misty mountains</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/4f6504eb80.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-11-23T14:14:57+08:00",
-			"url": "https://micro.oxus.net/2018/11/23/misty-mountains.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/23/sex-lies-and.html",
-	      	
-			"content_html": "<p><a href=\"http://www.theguardian.com/world/2018/nov/22/taiwan-gay-marriage-referendum-vote\">Sex, lies and heated debate: Taiwan prepares to vote in gay marriage referendum</a></p>\n",
-			"date_published": "2018-11-23T10:05:19+08:00",
-			"url": "https://micro.oxus.net/2018/11/23/sex-lies-and.html"
 		}
 		
 	]
