@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/12/02/which-eastsouthsoutheast-asian.html",
+	      	
+			"content_html": "<p>Which East/South/Southeast Asian countries have shrinking working-age populations and which ones are still growing.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/265a6898bc.jpg\" width=\"600\" height=\"557\" /></p>\n",
+			"date_published": "2018-12-02T20:44:31+08:00",
+			"url": "https://micro.oxus.net/2018/12/02/which-eastsouthsoutheast-asian.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/02/this-article-argues.html",
+	      	
+			"content_html": "<p><a href=\"https://www.worldscientific.com/doi/abs/10.1142/S1013251118400052\">This article</a> argues that NPP Facebook posts are more issue oriented (“political”) than those by either DPP or KMT legislators, who tend to just “share information from their daily lives.”</p>\n",
+			"date_published": "2018-12-02T09:27:03+08:00",
+			"url": "https://micro.oxus.net/2018/12/02/this-article-argues.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/02/millennials-kill-industries.html",
+	      	
+			"content_html": "<p><a href=\"https://www.businessinsider.com/millennials-kill-industries-because-poor-fed-report-2018-11\">Millennials kill industries because they’re poor: Fed report</a></p>\n",
+			"date_published": "2018-12-02T09:13:36+08:00",
+			"url": "https://micro.oxus.net/2018/12/02/millennials-kill-industries.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/12/02/the-view-from.html",
 	      	
 			"content_html": "<p>The view from my window on a sunny December morning</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/9d56881157.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p><a href=\"https://supchina.com/2018/11/24/taiwans-political-landscape-changes-overnight/\">Taiwan’s political landscape changes overnight</a></p>\n",
 			"date_published": "2018-11-25T11:44:32+08:00",
 			"url": "https://micro.oxus.net/2018/11/25/taiwans-political-landscape.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/25/antigay-marriage-groups.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theguardian.com/world/2018/nov/24/anti-gay-marriage-groups-win-taiwan-referendum-battle\">Anti-gay marriage groups win Taiwan referendum battle</a></p>\n",
-			"date_published": "2018-11-25T11:35:09+08:00",
-			"url": "https://micro.oxus.net/2018/11/25/antigay-marriage-groups.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/25/leaving-the-fortresses.html",
-	      	
-			"content_html": "<p><a href=\"https://www.viewpointmag.com/2017/11/30/leaving-fortress-class-internationalism-nativist-social-democracy/\">Leaving the Fortresses: Between Class Internationalism and Nativist Social Democracy</a> (A long piece, but well worth it!)</p>\n",
-			"date_published": "2018-11-25T11:13:35+08:00",
-			"url": "https://micro.oxus.net/2018/11/25/leaving-the-fortresses.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/25/the-blinding-whiteness.html",
-	      	
-			"content_html": "<p><a href=\"https://www.google.com/amp/s/splinternews.com/the-blinding-whiteness-of-the-coen-brothers-wild-west-1830565330/amp\">The Blinding Whiteness of the Coen Brothers’ Wild West</a></p>\n",
-			"date_published": "2018-11-25T08:29:29+08:00",
-			"url": "https://micro.oxus.net/2018/11/25/the-blinding-whiteness.html"
 		}
 		
 	]
