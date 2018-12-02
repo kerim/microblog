@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/12/02/the-view-from.html",
+	      	
+			"content_html": "<p>The view from my window on a sunny December morning</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/9d56881157.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-12-02T08:20:49+08:00",
+			"url": "https://micro.oxus.net/2018/12/02/the-view-from.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/02/sun-setting-over.html",
+	      	
+			"content_html": "<p>Sun setting over the mountains as I drive home from work</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/e8fa2a3a43.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-12-02T08:18:58+08:00",
+			"url": "https://micro.oxus.net/2018/12/02/sun-setting-over.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/12/01/lighting-the-fire.html",
 	      	
 			"content_html": "<p>Lighting the fire at the opening ceremony for the new indigenous bamboo house built on campus.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/806bf4b3b1.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -20,6 +36,14 @@
 			"content_html": "<p>Truku students perform at opening ceremony for the new indigenous bamboo house built on campus.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/aaf29ab446.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-12-01T11:01:01+08:00",
 			"url": "https://micro.oxus.net/2018/12/01/truku-students-perform.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/01/pangcah-students-perform.html",
+	      	
+			"content_html": "<p>Pangcah students perform at opening ceremony for the new indigenous bamboo house built on campus.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/0582a53651.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-12-01T10:57:54+08:00",
+			"url": "https://micro.oxus.net/2018/12/01/pangcah-students-perform.html"
 		},
 		
 		{
@@ -180,30 +204,6 @@
 			"content_html": "<p><a href=\"https://www.google.com/amp/s/splinternews.com/the-blinding-whiteness-of-the-coen-brothers-wild-west-1830565330/amp\">The Blinding Whiteness of the Coen Brothers’ Wild West</a></p>\n",
 			"date_published": "2018-11-25T08:29:29+08:00",
 			"url": "https://micro.oxus.net/2018/11/25/the-blinding-whiteness.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/24/special-journal-issue.html",
-	      	
-			"content_html": "<p><a href=\"https://www.jstor.org/stable/10.5749/vergstudglobasia.4.issue-2?refreqid=excelsior%3Ac34567b0dfdb292c2314e14ade772de2\">Special journal issue on Asian indigeneities</a></p>\n",
-			"date_published": "2018-11-24T19:42:23+08:00",
-			"url": "https://micro.oxus.net/2018/11/24/special-journal-issue.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/24/new-national-id.html",
-	      	
-			"content_html": "<p><a href=\"https://www.gaystarnews.com/article/new-national-id-card-will-recognize-trans-as-a-third-gender-in-taiwan/#gs.f76a738\">New national ID card will recognize trans as a third gender in Taiwan</a></p>\n",
-			"date_published": "2018-11-24T18:14:00+08:00",
-			"url": "https://micro.oxus.net/2018/11/24/new-national-id.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/24/taiwans-lgbt-groups.html",
-	      	
-			"content_html": "<p><a href=\"https://qz.com/1471411/chat-apps-like-line-spread-anti-lgbt-fake-news-before-taiwan-same-sex-marriage-vote/\">Taiwan’s LGBT groups fight fake news on Line, Facebook before marriage-equality vote</a></p>\n",
-			"date_published": "2018-11-24T18:13:04+08:00",
-			"url": "https://micro.oxus.net/2018/11/24/taiwans-lgbt-groups.html"
 		}
 		
 	]
