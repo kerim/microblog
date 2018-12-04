@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/12/04/central-european-university.html",
+	      	
+			"content_html": "<p><a href=\"https://www.insidehighered.com/quicktakes/2018/12/03/central-european-university-forced-out-hungary?utm_content=buffer5fdf4&amp;utm_medium=social&amp;utm_source=facebook&amp;utm_campaign=IHEbuffer\">Central European University Forced Out of Hungary</a></p>\n",
+			"date_published": "2018-12-04T10:28:37+08:00",
+			"url": "https://micro.oxus.net/2018/12/04/central-european-university.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/12/02/which-eastsouthsoutheast-asian.html",
 	      	
 			"content_html": "<p>Which East/South/Southeast Asian countries have shrinking working-age populations and which ones are still growing.</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/265a6898bc.jpg\" width=\"600\" height=\"557\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><a href=\"https://www.taiwannews.com.tw/en/news/3582770\">Taiwan to see first-ever openly lesbian council members</a></p>\n",
 			"date_published": "2018-11-25T11:48:13+08:00",
 			"url": "https://micro.oxus.net/2018/11/25/taiwan-to-see.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/25/taiwans-political-landscape.html",
-	      	
-			"content_html": "<p><a href=\"https://supchina.com/2018/11/24/taiwans-political-landscape-changes-overnight/\">Taiwan’s political landscape changes overnight</a></p>\n",
-			"date_published": "2018-11-25T11:44:32+08:00",
-			"url": "https://micro.oxus.net/2018/11/25/taiwans-political-landscape.html"
 		}
 		
 	]
