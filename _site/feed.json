@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/12/05/how-hbos-my.html",
+	      	
+			"content_html": "<p><a href=\"https://www.vulture.com/2018/12/my-brilliant-friend-hbo-neapolitan-dialect.html\">How HBO’s My Brilliant Friend Uses Neapolitan Dialect</a></p>\n",
+			"date_published": "2018-12-05T10:31:13+08:00",
+			"url": "https://micro.oxus.net/2018/12/05/how-hbos-my.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/04/sarah-shulist-on.html",
+	      	
+			"content_html": "<p><a href=\"https://campanthropology.org/2018/12/03/sarah-shulist-transforming-indigeneity/\">Sarah Shulist on her new book, Transforming Indigeneity</a></p>\n",
+			"date_published": "2018-12-04T15:47:11+08:00",
+			"url": "https://micro.oxus.net/2018/12/04/sarah-shulist-on.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/12/04/central-european-university.html",
 	      	
 			"content_html": "<p><a href=\"https://www.insidehighered.com/quicktakes/2018/12/03/central-european-university-forced-out-hungary?utm_content=buffer5fdf4&amp;utm_medium=social&amp;utm_source=facebook&amp;utm_campaign=IHEbuffer\">Central European University Forced Out of Hungary</a></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p><a href=\"https://thenib.com/what-happened-to-venezuela-isn-t-so-simple\">What Happened to Venezuela Isn’t So Simple</a></p>\n",
 			"date_published": "2018-11-25T13:57:50+08:00",
 			"url": "https://micro.oxus.net/2018/11/25/what-happened-to.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/25/035956.html",
-	      	
-			"content_html": "<p><a href=\"https://www.mcsweeneys.net/articles/board-games-for-adjunct-professors?fbclid=IwAR2i1q5q0HXeZF2cOcrTmUbtsRXO5mhPxsf7AKmTU_-WCyxtf37iZ8vh3I0\">Board Games For Adjunct Professors</a></p>\n",
-			"date_published": "2018-11-25T11:59:56+08:00",
-			"url": "https://micro.oxus.net/2018/11/25/035956.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/25/taiwan-to-see.html",
-	      	
-			"content_html": "<p><a href=\"https://www.taiwannews.com.tw/en/news/3582770\">Taiwan to see first-ever openly lesbian council members</a></p>\n",
-			"date_published": "2018-11-25T11:48:13+08:00",
-			"url": "https://micro.oxus.net/2018/11/25/taiwan-to-see.html"
 		}
 		
 	]
