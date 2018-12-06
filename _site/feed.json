@@ -7,6 +7,46 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/12/06/cf-in-december.html",
+	      	
+			"content_html": "<p>28°C/82°F in December…</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/0a3274042b.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-06T12:09:15+08:00",
+			"url": "https://micro.oxus.net/2018/12/06/cf-in-december.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/05/isnt-filipino-also.html",
+	      	
+			"content_html": "<p>“<a href=\"https://www.esquiremag.ph/politics/opinion/vicente-rafael-solita-monsod-chinese-filipino-a2269-20181203\">Isn’t “Filipino” also inherently and historically a mixed racial and cultural identity?</a>”</p>\n",
+			"date_published": "2018-12-05T17:20:25+08:00",
+			"url": "https://micro.oxus.net/2018/12/05/isnt-filipino-also.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/05/no-news-is.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/12/03/opinion/hungary-orban-media-suppression.html\">No News Is Bad News for Hungary</a></p>\n",
+			"date_published": "2018-12-05T17:16:42+08:00",
+			"url": "https://micro.oxus.net/2018/12/05/no-news-is.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/05/twitters-caste-problem.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/12/03/opinion/twitter-india-caste-trolls.html\">Twitter’s Caste Problem</a></p>\n",
+			"date_published": "2018-12-05T17:10:14+08:00",
+			"url": "https://micro.oxus.net/2018/12/05/twitters-caste-problem.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/05/there-is-no.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theatlantic.com/business/archive/2015/09/higher-education-college-adjunct-professor-salary/404461/\">There Is No Excuse for How Universities Treat Adjuncts</a> (Balanced and well researched article with lots of good data, do read the whole thing.)</p>\n",
+			"date_published": "2018-12-05T11:58:32+08:00",
+			"url": "https://micro.oxus.net/2018/12/05/there-is-no.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/12/05/how-hbos-my.html",
 	      	
 			"content_html": "<p><a href=\"https://www.vulture.com/2018/12/my-brilliant-friend-hbo-neapolitan-dialect.html\">How HBO’s My Brilliant Friend Uses Neapolitan Dialect</a></p>\n",
@@ -164,46 +204,6 @@
 			"content_html": "<p><a href=\"https://www.newscientist.com/article/mg24032052-900-time-to-break-academic-publishings-stranglehold-on-research/\">Time to break academic publishing’s stranglehold on research</a></p>\n",
 			"date_published": "2018-11-26T10:55:59+08:00",
 			"url": "https://micro.oxus.net/2018/11/26/time-to-break.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/26/taylor-swift-makes.html",
-	      	
-			"content_html": "<p><a href=\"https://boingboing.net/2018/11/25/look-what-she-made-them-do.html\">Taylor Swift makes a payout to all Universal artists a clause in her new record deal</a> (This is actually an important story, and worth reading the full thing…)</p>\n",
-			"date_published": "2018-11-26T10:45:50+08:00",
-			"url": "https://micro.oxus.net/2018/11/26/taylor-swift-makes.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/25/over-half-of.html",
-	      	
-			"content_html": "<p>“<a href=\"https://www.top10vpn.com/free-vpn-app-investigation/\">over half of the top free VPN apps either had Chinese ownership or were actually based in China</a>”</p>\n",
-			"date_published": "2018-11-25T21:05:27+08:00",
-			"url": "https://micro.oxus.net/2018/11/25/over-half-of.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/25/chinas-sharp-power.html",
-	      	
-			"content_html": "<p><a href=\"https://www.ft.com/content/5c272b90-ec12-11e8-89c8-d36339d835c0?fbclid=IwAR24OAZ6Fi6AJ8gxv_36YXXlKQ75TFY-aVMOzRjaYRL-mjNrVeEBJE3b4X4\">China’s ‘sharp power’ play in Taiwan</a></p>\n",
-			"date_published": "2018-11-25T16:48:58+08:00",
-			"url": "https://micro.oxus.net/2018/11/25/chinas-sharp-power.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/25/wwwusatodaycom.html",
-	      	
-			"content_html": "<p><a href=\"https://www.usatoday.com/story/sports/ftw/2018/01/30/6-people-who-have-accused-donald-trump-of-cheating-at-golf/109934954/?fbclid=IwAR3kqbdehf0DeAeH2pyMdZvWCFwjg6QehwO94Rw9gqh2uJZ4g6utx4FQ3P0\">Of course he cheats at golf</a>!</p>\n",
-			"date_published": "2018-11-25T13:59:43+08:00",
-			"url": "https://micro.oxus.net/2018/11/25/wwwusatodaycom.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/25/what-happened-to.html",
-	      	
-			"content_html": "<p><a href=\"https://thenib.com/what-happened-to-venezuela-isn-t-so-simple\">What Happened to Venezuela Isn’t So Simple</a></p>\n",
-			"date_published": "2018-11-25T13:57:50+08:00",
-			"url": "https://micro.oxus.net/2018/11/25/what-happened-to.html"
 		}
 		
 	]
