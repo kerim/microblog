@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/12/07/progressive-marriott-union.html",
+	      	
+			"content_html": "<p><a href=\"https://www.bostonglobe.com/business/2018/12/05/progressive-marriott-union-contract-could-have-ripple-effects/VljiCqd8IKev9R7OaFRSGJ/story.html\">Progressive Marriott union contract could have ripple effects</a> #dendum</p>\n",
+			"date_published": "2018-12-07T17:42:55+08:00",
+			"url": "https://micro.oxus.net/2018/12/07/progressive-marriott-union.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/06/elizabeth-warren-stands.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/12/06/us/politics/elizabeth-warren-dna-test-2020.html?fbclid=IwAR0bz8AiN0pdNeqpKGPe0yAqdd8XrD96CkYCMF4YvWoE91X2T2UhgXqWFbY\">Elizabeth Warren Stands by DNA Test. But Around Her, Worries Abound</a></p>\n",
+			"date_published": "2018-12-06T21:03:20+08:00",
+			"url": "https://micro.oxus.net/2018/12/06/elizabeth-warren-stands.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/06/neflixs-is-attributed.html",
+	      	
+			"content_html": "<p>Netflix’s 1983 is attributed to show-runner Joshua Long, but the first show has director Agnieszka Holland’s fingerprints all over it. Reminds me of her series “Burning Bush”…</p>\n",
+			"date_published": "2018-12-06T18:57:38+08:00",
+			"url": "https://micro.oxus.net/2018/12/06/neflixs-is-attributed.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/06/funnel-web-spiders.html",
+	      	
+			"content_html": "<p>Funnel web spiders (probably from North America?)</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/babefcdbea.jpg\" width=\"600\" height=\"598\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-06T17:11:16+08:00",
+			"url": "https://micro.oxus.net/2018/12/06/funnel-web-spiders.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/12/06/cf-in-december.html",
 	      	
 			"content_html": "<p>28°C/82°F in December…</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/0a3274042b.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
@@ -172,38 +204,6 @@
 			"content_html": "<p><a href=\"https://zinc.mondediplo.net/messages/115433\">Israeli academics and artists warn against equating anti-Zionism with anti-Semitism</a></p>\n",
 			"date_published": "2018-11-26T14:53:04+08:00",
 			"url": "https://micro.oxus.net/2018/11/26/israeli-academics-and.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/26/i-havent-seen.html",
-	      	
-			"content_html": "<p>I haven’t seen eye to eye with Katha Pollitt about electoral politics for some time, so I was happy to see her focusing on “<a href=\"https://www.thenation.com/article/white-evangelical-women-trump/\">the nearly 40 percent of eligible voters…who in 2016 did not vote at all</a>.”</p>\n",
-			"date_published": "2018-11-26T14:50:47+08:00",
-			"url": "https://micro.oxus.net/2018/11/26/i-havent-seen.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/26/six-months-before.html",
-	      	
-			"content_html": "<p><a href=\"https://www.wired.com/story/the-science-is-clear-dirty-farm-water-is-making-us-sick/\">Six months before people were sickened by contaminated romaine, Trump’s FDA shelved the water-testing rules</a> that could have prevented this!</p>\n",
-			"date_published": "2018-11-26T14:39:18+08:00",
-			"url": "https://micro.oxus.net/2018/11/26/six-months-before.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/26/more-than-million.html",
-	      	
-			"content_html": "<p><a href=\"https://www.msn.com/en-us/news/poverty/more-than-36-million-college-graduates-are-living-in-poverty%C3%A2%E2%82%AC%E2%80%9Dand-the-rate-keeps-climbing/ar-BBNfjjt\">More than 3.6 million college graduates are living in poverty—and the rate keeps climbing</a></p>\n",
-			"date_published": "2018-11-26T14:32:41+08:00",
-			"url": "https://micro.oxus.net/2018/11/26/more-than-million.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/26/time-to-break.html",
-	      	
-			"content_html": "<p><a href=\"https://www.newscientist.com/article/mg24032052-900-time-to-break-academic-publishings-stranglehold-on-research/\">Time to break academic publishing’s stranglehold on research</a></p>\n",
-			"date_published": "2018-11-26T10:55:59+08:00",
-			"url": "https://micro.oxus.net/2018/11/26/time-to-break.html"
 		}
 		
 	]
