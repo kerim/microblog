@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/12/08/sounds-of-mars.html",
+	      	
+			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=ZK5bOZx2xXs&amp;fbclid=IwAR3ymc4qZDFCQ_BsrQm_AivD-PjGSEPfUKEoVl0HZVIYsSg_bIf3W7PEBRI&amp;app=desktop\">Sounds of Mars: NASA’s InSight Senses Martian Wind</a> 🌬</p>\n",
+			"date_published": "2018-12-08T18:55:38+08:00",
+			"url": "https://micro.oxus.net/2018/12/08/sounds-of-mars.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/08/please-help-this.html",
+	      	
+			"content_html": "<p>Please help this talented Indian 9th grader, from the Chhara community of India, raise money to <a href=\"https://www.impactguru.com/fundraiser/help-kranti-gagdekar?utm_source=facebook&amp;utm_campaign=Trip+to+London&amp;utm_medium=share&amp;fbclid=IwAR0rqR3hhp31dTCMM0M44sELFjD8juVyafDD-9P62KEGUFPlyImrUreKbbw\">travel to London</a> with her dad!</p>\n",
+			"date_published": "2018-12-08T10:47:58+08:00",
+			"url": "https://micro.oxus.net/2018/12/08/please-help-this.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/12/08/this-piece-about.html",
 	      	
 			"content_html": "<p><a href=\"https://www.ft.com/content/affc108e-d20c-11e8-9a3c-5d5eac8f1ab4\">This</a> piece about environmentalist accountants reminds me of a talk I heard about how Canada’s First Nations needed to train their own accountants.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>“<a href=\"https://popula.com/2018/11/27/nyt-fact-check-david-brooks-2/\">Frankly, if I was your employer, I would consider an allusion to a discredited conspiracy theory to be a fireable offense.</a>”</p>\n",
 			"date_published": "2018-11-28T23:36:05+08:00",
 			"url": "https://micro.oxus.net/2018/11/28/frankly-if-i.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/28/solo-a-star.html",
-	      	
-			"content_html": "<p>Solo: A Star Wars Story is “<a href=\"https://www.newyorker.com/culture/richard-brody/wookiee-nights-solo-a-star-wars-story-reviewed\">like watching a live-action dramatization of a download progress bar, with actors carrying bits of information from one side of the screen to the other</a>” 🤣🤣🤣</p>\n",
-			"date_published": "2018-11-28T10:54:06+08:00",
-			"url": "https://micro.oxus.net/2018/11/28/solo-a-star.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/27/the-dawnland-documentary.html",
-	      	
-			"content_html": "<p><a href=\"https://www.teenvogue.com/story/dawnland-documentary-us-government-took-indigenous-children-from-homes-placed-with-white-families\">The “Dawnland” Documentary Shows How the U.S. Government Took Indigenous Children From Their Homes and Placed Them With White Families</a></p>\n",
-			"date_published": "2018-11-27T19:35:23+08:00",
-			"url": "https://micro.oxus.net/2018/11/27/the-dawnland-documentary.html"
 		}
 		
 	]
