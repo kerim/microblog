@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kerim.micro.blog/2018/12/08/this-piece-about.html",
+	      	
+			"content_html": "<p><a href=\"https://www.ft.com/content/affc108e-d20c-11e8-9a3c-5d5eac8f1ab4\">This</a> piece about environmentalist accountants reminds me of a talk I heard about how Canada’s First Nations needed to train their own accountants.</p>\n",
+			"date_published": "2018-12-08T09:42:34+08:00",
+			"url": "https://micro.oxus.net/2018/12/08/this-piece-about.html"
+		},
+		
+		{
+			"id": "http://kerim.micro.blog/2018/12/07/dragons.html",
+	      	
+			"content_html": "<p>Dragons</p>\n\n<p><img src=\"https://micro.oxus.net/uploads/2018/ac9f8b7a15.jpg\" width=\"600\" height=\"479\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-08T00:34:07+08:00",
+			"url": "https://micro.oxus.net/2018/12/08/dragons.html"
+		},
+		
+		{
 			"id": "http://kerim.micro.blog/2018/12/07/progressive-marriott-union.html",
 	      	
 			"content_html": "<p><a href=\"https://www.bostonglobe.com/business/2018/12/05/progressive-marriott-union-contract-could-have-ripple-effects/VljiCqd8IKev9R7OaFRSGJ/story.html\">Progressive Marriott union contract could have ripple effects</a> #dendum</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p><a href=\"https://www.teenvogue.com/story/dawnland-documentary-us-government-took-indigenous-children-from-homes-placed-with-white-families\">The “Dawnland” Documentary Shows How the U.S. Government Took Indigenous Children From Their Homes and Placed Them With White Families</a></p>\n",
 			"date_published": "2018-11-27T19:35:23+08:00",
 			"url": "https://micro.oxus.net/2018/11/27/the-dawnland-documentary.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/27/im-at-the.html",
-	      	
-			"content_html": "<p>I’m at the eyeglass store (What?)\nI’m at the coffee shop (What?)\nI’m at the combination eyeglass store and coffee shop</p>\n<ul>\n  <li>h/t <a href=\"https://genius.com/Das-racist-combination-pizza-hut-and-taco-bell-lyrics\">Das Racist</a></li>\n</ul>\n",
-			"date_published": "2018-11-27T14:51:27+08:00",
-			"url": "https://micro.oxus.net/2018/11/27/im-at-the.html"
-		},
-		
-		{
-			"id": "http://kerim.micro.blog/2018/11/26/israeli-academics-and.html",
-	      	
-			"content_html": "<p><a href=\"https://zinc.mondediplo.net/messages/115433\">Israeli academics and artists warn against equating anti-Zionism with anti-Semitism</a></p>\n",
-			"date_published": "2018-11-26T14:53:04+08:00",
-			"url": "https://micro.oxus.net/2018/11/26/israeli-academics-and.html"
 		}
 		
 	]
